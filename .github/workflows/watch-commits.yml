@@ -27,7 +27,7 @@ jobs:
           repos=(
             "SimplifyJobs/Summer2025-Internships"
             "vanshb03/Summer2026-Internships"
-            "octocat/Hello-World"  # <-- Add more repos here
+            "shoujohnny/test-job-listing-bot"  # <-- Add more repos here
           )
 
           for repo in "${repos[@]}"; do
