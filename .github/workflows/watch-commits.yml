@@ -27,6 +27,7 @@ jobs:
           repos=(
             "SimplifyJobs/Summer2025-Internships"
             "vanshb03/Summer2026-Internships"
+            "shoujohnny/test-job-listing-bot"
             "shoujohnny/test-job-listing-bot"  # <-- Add more repos here
           )
 
