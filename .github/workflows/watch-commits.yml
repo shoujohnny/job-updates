@@ -32,7 +32,7 @@ jobs:
               if [[ "$latest_commit" != "$prev_commit" ]]; then
                 echo "New commit detected for $repo"
                 curl -H "Content-Type: application/json" -X POST \
-                -d "{\"content\": \"📌 New commit to **$repo**: https://github.com/$repo/commit/$latest_commit\"}" \
+                -d "{\"content\": \"📌 New job listing added to **$repo**: https://github.com/$repo/commit/$latest_commit\"}" \
                 ${{ secrets.DISCORD_WEBHOOK_URL }}
               fi
             else
