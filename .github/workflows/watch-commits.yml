@@ -1,8 +1,11 @@
-name: Watch Summer Internship Repos
+name: Watch Internship Repos
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # every 5 minutes
+    - cron: '*/5 * * * *'  # Every 5 minutes
   workflow_dispatch:
 
 jobs:
@@ -11,32 +14,41 @@ jobs:
 
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Check latest commits and notify Discord
+      - name: Set up Git credentials for push
         run: |
-          #!/bin/bash
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
+      - name: Check for new commits and notify Discord
+        run: |
           repos=(
             "SimplifyJobs/Summer2025-Internships"
             "vanshb03/Summer2026-Internships"
+            "octocat/Hello-World"  # <-- Add more repos here
           )
 
           for repo in "${repos[@]}"; do
-            echo "Checking $repo"
+            echo "🔍 Checking $repo"
             latest_commit=$(curl -s https://api.github.com/repos/$repo/commits | jq -r '.[0].sha')
+            commit_msg=$(curl -s https://api.github.com/repos/$repo/commits | jq -r '.[0].commit.message')
+            commit_url=$(curl -s https://api.github.com/repos/$repo/commits | jq -r '.[0].html_url')
             state_file=".${repo//\//_}.txt"
 
             if [[ -f $state_file ]]; then
               prev_commit=$(cat $state_file)
               if [[ "$latest_commit" != "$prev_commit" ]]; then
-                echo "New commit detected for $repo"
+                echo "✅ New commit found for $repo"
                 curl -H "Content-Type: application/json" -X POST \
-                -d "{\"content\": \"📌 New job listing added to **$repo**: https://github.com/$repo/commit/$latest_commit\"}" \
+                -d "{\"content\": \"🔔 **New commit to [$repo]($commit_url)**\n\n\`\`\`\n$commit_msg\n\`\`\`\n🔗 $commit_url\"}" \
                 ${{ secrets.DISCORD_WEBHOOK_URL }}
               fi
             else
-              echo "First time tracking $repo"
+              echo "🆕 First time tracking $repo"
+              echo "$latest_commit" > $state_file
+              continue
             fi
 
             echo "$latest_commit" > $state_file
@@ -44,8 +56,6 @@ jobs:
 
       - name: Commit updated state files
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
           git add .
-          git commit -m "Update latest commit state" || echo "No changes"
+          git commit -m "Update last known commit SHAs" || echo "No changes"
           git push
