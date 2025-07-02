@@ -23,33 +23,38 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
       ###########################
-      # STEP 1: FETCH FILES
+      # FETCH README FILES
       ###########################
 
       - name: Download SimplifyJobs README
         run: curl -s https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md > simplify.md
 
-      - name: Download Vansh & Ouckah README
+      - name: Download Vansh/Ouckah README
         run: curl -s https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md > ouckah.md
 
       ###########################
-      # STEP 2: PARSE TABLE ROWS
+      # EXTRACT INTERNSHIPS
       ###########################
 
-      - name: Extract Simplify SWE Roles
+      - name: Extract Simplify SWE Roles (fixed)
         run: |
           mkdir -p cache
-          awk '/## 💻 Software Engineering Internship Roles/{flag=1; next} /^## /{flag=0} flag' simplify.md | grep -E '^\| ' > cache/latest_simplify_swe.md
+          awk 'BEGIN { flag=0 } 
+               /## 💻 Software Engineering Internship Roles/ { flag=1; next } 
+               /^## / && flag { flag=0 } 
+               flag' simplify.md > cache/_swe_tmp.md || true
+          grep -E '^\| ' cache/_swe_tmp.md > cache/latest_simplify_swe.md || true
 
-      - name: Extract All Roles from Vansh/Ouckah
+      - name: Extract ALL Roles from Vansh/Ouckah
         run: |
-          grep -E '^\| ' ouckah.md > cache/latest_ouckah.md
+          mkdir -p cache
+          grep -E '^\| ' ouckah.md > cache/latest_ouckah.md || true
 
       ###########################
-      # STEP 3: COMPARE + NOTIFY
+      # DIFF + NOTIFY (SIMPLIFY)
       ###########################
 
-      - name: Check Simplify SWE Diff
+      - name: Compare Simplify SWE
         id: simplify_diff
         run: |
           cache_file="cache/prev_simplify_swe.md"
@@ -59,14 +64,13 @@ jobs:
           else
             cp "$new_file" cache/added_simplify.md
           fi
-
           if [ -s cache/added_simplify.md ]; then
             echo "new_simplify=true" >> $GITHUB_OUTPUT
           else
             echo "new_simplify=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Notify Discord for new Simplify SWE
+      - name: Notify Discord - Simplify SWE
         if: steps.simplify_diff.outputs.new_simplify == 'true'
         run: |
           while IFS= read -r line; do
@@ -74,16 +78,18 @@ jobs:
             role=$(echo "$line" | cut -d '|' -f3 | xargs)
             location=$(echo "$line" | cut -d '|' -f4 | xargs)
             link=$(echo "$line" | grep -o 'https[^"]*')
-            message="🚨 **New SWE Internship Role Added (SimplifyJobs)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
+            message="🚨 **New SWE Internship Role (SimplifyJobs)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
             curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$message\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
           done < cache/added_simplify.md
 
-      - name: Save Simplify SWE state
+      - name: Save Simplify SWE cache
         run: cp cache/latest_simplify_swe.md cache/prev_simplify_swe.md
 
       ###########################
+      # DIFF + NOTIFY (OUCKAH)
+      ###########################
 
-      - name: Check Vansh/Ouckah Diff
+      - name: Compare Vansh/Ouckah roles
         id: ouckah_diff
         run: |
           cache_file="cache/prev_ouckah.md"
@@ -93,14 +99,13 @@ jobs:
           else
             cp "$new_file" cache/added_ouckah.md
           fi
-
           if [ -s cache/added_ouckah.md ]; then
             echo "new_ouckah=true" >> $GITHUB_OUTPUT
           else
             echo "new_ouckah=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Notify Discord for new Ouckah role
+      - name: Notify Discord - Ouckah
         if: steps.ouckah_diff.outputs.new_ouckah == 'true'
         run: |
           while IFS= read -r line; do
@@ -108,19 +113,19 @@ jobs:
             role=$(echo "$line" | cut -d '|' -f3 | xargs)
             location=$(echo "$line" | cut -d '|' -f4 | xargs)
             link=$(echo "$line" | grep -o 'https[^"]*')
-            message="📢 **New Internship Role Added (Vansh/Ouckah)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
+            message="📢 **New Internship Role (Vansh/Ouckah)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
             curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$message\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
           done < cache/added_ouckah.md
 
-      - name: Save Ouckah state
+      - name: Save Ouckah role cache
         run: cp cache/latest_ouckah.md cache/prev_ouckah.md
 
       ###########################
-      # STEP 4: COMMIT STATE
+      # COMMIT STATE
       ###########################
 
-      - name: Commit updated state
+      - name: Commit updated state files
         run: |
           git add cache/prev_*.md
-          git commit -m "Update internship state" || echo "No changes"
+          git commit -m "Update internship role cache" || echo "No changes"
           git push
