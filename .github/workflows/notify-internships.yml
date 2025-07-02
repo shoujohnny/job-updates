@@ -22,9 +22,9 @@ jobs:
           git config user.email "action@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
-      ###########################
+      # -------------------------------------
       # FETCH README FILES
-      ###########################
+      # -------------------------------------
 
       - name: Download SimplifyJobs README
         run: curl -s https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md > simplify.md
@@ -32,11 +32,11 @@ jobs:
       - name: Download Vansh/Ouckah README
         run: curl -s https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md > ouckah.md
 
-      ###########################
-      # EXTRACT INTERNSHIPS
-      ###########################
+      # -------------------------------------
+      # EXTRACT JOB ROWS
+      # -------------------------------------
 
-      - name: Extract Simplify SWE Roles (fixed)
+      - name: Extract Simplify SWE Roles
         run: |
           mkdir -p cache
           awk 'BEGIN { flag=0 } 
@@ -45,16 +45,16 @@ jobs:
                flag' simplify.md > cache/_swe_tmp.md || true
           grep -E '^\| ' cache/_swe_tmp.md > cache/latest_simplify_swe.md || true
 
-      - name: Extract ALL Roles from Vansh/Ouckah
+      - name: Extract All Ouckah Roles
         run: |
           mkdir -p cache
           grep -E '^\| ' ouckah.md > cache/latest_ouckah.md || true
 
-      ###########################
-      # DIFF + NOTIFY (SIMPLIFY)
-      ###########################
+      # -------------------------------------
+      # DIFF + NOTIFY — SIMPLIFY
+      # -------------------------------------
 
-      - name: Compare Simplify SWE
+      - name: Compare Simplify SWE Roles
         id: simplify_diff
         run: |
           cache_file="cache/prev_simplify_swe.md"
@@ -70,26 +70,37 @@ jobs:
             echo "new_simplify=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Print New Simplify SWE Roles (Debug)
+        if: steps.simplify_diff.outputs.new_simplify == 'true'
+        run: cat cache/added_simplify.md || echo "None"
+
       - name: Notify Discord - Simplify SWE
         if: steps.simplify_diff.outputs.new_simplify == 'true'
         run: |
           while IFS= read -r line; do
+            # Skip empty or bad rows
+            if [ -z "$line" ]; then continue; fi
+            pipe_count=$(grep -o '|' <<< "$line" | wc -l)
+            if [ "$pipe_count" -lt 4 ]; then echo "⏭️ Bad line: $line"; continue; fi
+
             company=$(echo "$line" | cut -d '|' -f2 | xargs)
             role=$(echo "$line" | cut -d '|' -f3 | xargs)
             location=$(echo "$line" | cut -d '|' -f4 | xargs)
             link=$(echo "$line" | grep -o 'https[^"]*')
+
             message="🚨 **New SWE Internship Role (SimplifyJobs)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
+            echo "📨 $company | $role"
             curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$message\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
           done < cache/added_simplify.md
 
-      - name: Save Simplify SWE cache
+      - name: Save Simplify SWE Role State
         run: cp cache/latest_simplify_swe.md cache/prev_simplify_swe.md
 
-      ###########################
-      # DIFF + NOTIFY (OUCKAH)
-      ###########################
+      # -------------------------------------
+      # DIFF + NOTIFY — OUCKAH
+      # -------------------------------------
 
-      - name: Compare Vansh/Ouckah roles
+      - name: Compare Ouckah Roles
         id: ouckah_diff
         run: |
           cache_file="cache/prev_ouckah.md"
@@ -105,26 +116,36 @@ jobs:
             echo "new_ouckah=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Notify Discord - Ouckah
+      - name: Print New Ouckah Roles (Debug)
+        if: steps.ouckah_diff.outputs.new_ouckah == 'true'
+        run: cat cache/added_ouckah.md || echo "None"
+
+      - name: Notify Discord - Ouckah Roles
         if: steps.ouckah_diff.outputs.new_ouckah == 'true'
         run: |
           while IFS= read -r line; do
+            if [ -z "$line" ]; then continue; fi
+            pipe_count=$(grep -o '|' <<< "$line" | wc -l)
+            if [ "$pipe_count" -lt 4 ]; then echo "⏭️ Bad line: $line"; continue; fi
+
             company=$(echo "$line" | cut -d '|' -f2 | xargs)
             role=$(echo "$line" | cut -d '|' -f3 | xargs)
             location=$(echo "$line" | cut -d '|' -f4 | xargs)
             link=$(echo "$line" | grep -o 'https[^"]*')
+
             message="📢 **New Internship Role (Vansh/Ouckah)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
+            echo "📨 $company | $role"
             curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$message\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
           done < cache/added_ouckah.md
 
-      - name: Save Ouckah role cache
+      - name: Save Ouckah Role State
         run: cp cache/latest_ouckah.md cache/prev_ouckah.md
 
-      ###########################
-      # COMMIT STATE
-      ###########################
+      # -------------------------------------
+      # COMMIT STATE FILES
+      # -------------------------------------
 
-      - name: Commit updated state files
+      - name: Commit updated role caches
         run: |
           git add cache/prev_*.md
           git commit -m "Update internship role cache" || echo "No changes"
