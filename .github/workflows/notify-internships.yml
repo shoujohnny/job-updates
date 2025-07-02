@@ -34,7 +34,7 @@ jobs:
               exit 1
             fi
           fi
-          echo "Downloaded SimplifyJobs README:"
+          echo "Downloaded SimplifyJobs README (preview):"
           head -20 simplify.md
 
       - name: Download Vansh README
@@ -44,41 +44,53 @@ jobs:
             echo "❌ Failed to fetch Vansh README."
             exit 1
           fi
-          echo "Downloaded Vansh README:"
+          echo "Downloaded Vansh README (preview):"
           head -20 ouckah.md
 
       - name: Extract Simplify SWE Roles
         run: |
           mkdir -p cache
-          # Extract the Software Engineering section table from SimplifyJobs README
+          # Extract Software Engineering section, skipping header and separator lines
           awk '
           BEGIN {flag=0; found_table=0}
           /^## [💻🖥️💼].*Software Engineering/ { flag=1; next }
           /^## [💻🖥️💼]/ && flag && !/Software Engineering/ { flag=0 }
-          /^\| / && flag { found_table=1; print }
+          /^\| / && flag {
+            if ($0 ~ /^\| *Company *\| *Role *\| *Location *\|/) next
+            if ($0 ~ /^\|[-| :]*\|?$/) next
+            print
+          }
           /^[^|]/ && found_table && flag { flag=0; found_table=0 }
           ' simplify.md > cache/latest_simplify_swe.md || true
 
-          # If no SWE section found or empty, fallback to extracting all internship table rows
+          # Fallback: if empty, extract all internship rows skipping header/separator
           if [ ! -s cache/latest_simplify_swe.md ]; then
             echo "No SWE section found or empty; extracting all internship table rows..."
-            awk '/^\| Company \| Role \| Location/ { getline; next } /^\| / { print }' simplify.md > cache/latest_simplify_swe.md || true
+            awk '
+            /^\| Company \| Role \| Location/ {getline; next}
+            /^\|[-| :]*\|?$/ {next}
+            /^\| / {print}
+            ' simplify.md > cache/latest_simplify_swe.md || true
           fi
 
-          echo "Extracted Simplify SWE roles (first 10 lines):"
+          echo "Extracted Simplify SWE roles (preview):"
           head -10 cache/latest_simplify_swe.md
 
-      - name: Extract All Vansh Roles
+      - name: Extract Vansh Roles
         run: |
           mkdir -p cache
-          awk '/^\| Company \| Role \| Location/ {
-            getline # skip separator
+          # Extract all roles except closed and separator lines, skipping header and separator
+          awk '
+          /^\| Company \| Role \| Location/ {
+            getline
+            getline
             while (getline && /^\| /) {
               if (!/🔒/ && !/---/) print
             }
-          }' ouckah.md > cache/latest_ouckah.md || true
+          }
+          ' ouckah.md > cache/latest_ouckah.md || true
 
-          echo "Extracted Vansh roles (first 10 lines):"
+          echo "Extracted Vansh roles (preview):"
           head -10 cache/latest_ouckah.md
 
       - name: Diff Simplify SWE Roles
@@ -90,7 +102,7 @@ jobs:
           if [ -f "$cache_file" ] && [ -s "$cache_file" ]; then
             comm -23 <(sort "$new_file") <(sort "$cache_file") > cache/added_simplify.md || true
           else
-            echo "First run or no previous cache, limiting notifications to 3 entries"
+            echo "First run or no previous cache, limiting to 3 entries"
             head -3 "$new_file" > cache/added_simplify.md || true
           fi
 
@@ -110,7 +122,7 @@ jobs:
           if [ -f "$cache_file" ] && [ -s "$cache_file" ]; then
             comm -23 <(sort "$new_file") <(sort "$cache_file") > cache/added_ouckah.md || true
           else
-            echo "First run or no previous cache, limiting notifications to 3 entries"
+            echo "First run or no previous cache, limiting to 3 entries"
             head -3 "$new_file" > cache/added_ouckah.md || true
           fi
 
@@ -124,7 +136,6 @@ jobs:
       - name: Notify Discord - Simplify SWE
         if: steps.simplify_diff.outputs.new_simplify == 'true'
         run: |
-          # Function to escape markdown special chars for Discord
           escape_md() {
             echo "$1" | sed -e 's/\\/\\\\/g' -e 's/\*/\\*/g' -e 's/_/\\_/g' -e 's/`/\\`/g' -e 's/~/\\~/g' -e 's/>/\\>/g' -e 's/|/\\|/g'
           }
@@ -133,6 +144,7 @@ jobs:
           max_notifications=5
           while IFS= read -r line && [ $count -lt $max_notifications ]; do
             [ -z "$line" ] && continue
+
             pipe_count=$(echo "$line" | grep -o '|' | wc -l)
             if [ "$pipe_count" -lt 4 ]; then
               echo "Skipping malformed line: $line"
@@ -175,6 +187,7 @@ jobs:
           max_notifications=5
           while IFS= read -r line && [ $count -lt $max_notifications ]; do
             [ -z "$line" ] && continue
+
             pipe_count=$(echo "$line" | grep -o '|' | wc -l)
             if [ "$pipe_count" -lt 4 ]; then
               echo "Skipping malformed line: $line"
