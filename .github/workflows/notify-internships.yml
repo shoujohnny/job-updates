@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/10 * * * *'  # Every 10 minutes
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Git config
         run: |
@@ -27,10 +27,15 @@ jobs:
       # -------------------------------------
 
       - name: Download SimplifyJobs README
-        run: curl -s https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md > simplify.md
+        run: |
+          curl -s -f https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/dev/README.md > simplify.md || 
+          curl -s -f https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md > simplify.md || 
+          echo "Failed to fetch SimplifyJobs README" && exit 1
 
       - name: Download Vansh/Ouckah README
-        run: curl -s https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md > ouckah.md
+        run: |
+          curl -s -f https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md > ouckah.md ||
+          echo "Failed to fetch Vansh README" && exit 1
 
       # -------------------------------------
       # EXTRACT JOB ROWS
@@ -39,16 +44,45 @@ jobs:
       - name: Extract Simplify SWE Roles
         run: |
           mkdir -p cache
-          awk 'BEGIN { flag=0 } 
-               /## 💻 Software Engineering Internship Roles/ { flag=1; next } 
-               /^## / && flag { flag=0 } 
-               flag' simplify.md > cache/_swe_tmp.md || true
-          grep -E '^\| ' cache/_swe_tmp.md > cache/latest_simplify_swe.md || true
+          # Look for the SWE section in SimplifyJobs README
+          awk '
+          BEGIN { flag=0; found_table=0 } 
+          /## [💻🖥️💼] *Software Engineering/ { flag=1; next }
+          /## [💻🖥️💼]/ && flag && !/Software Engineering/ { flag=0 }
+          /^\| / && flag { found_table=1; print }
+          /^[^|]/ && found_table && flag { flag=0; found_table=0 }
+          ' simplify.md > cache/latest_simplify_swe.md || true
+          
+          # If no SWE section found, extract all internship rows
+          if [ ! -s cache/latest_simplify_swe.md ]; then
+            echo "No SWE section found, extracting all table rows"
+            # Extract all table rows (skip header)
+            awk '/^\| Company \| Role \| Location/ { getline; next } /^\| / { print }' simplify.md > cache/latest_simplify_swe.md || true
+          fi
 
       - name: Extract All Ouckah Roles
         run: |
           mkdir -p cache
-          grep -E '^\| ' ouckah.md > cache/latest_ouckah.md || true
+          # Extract all table rows from Vansh repo (skip header and separator)
+          awk '/^\| Company \| Role \| Location/ { 
+            getline  # skip separator line
+            while (getline && /^\| /) {
+              # Skip closed applications (🔒) and separator lines
+              if (!/🔒/ && !/---/) print
+            }
+          }' ouckah.md > cache/latest_ouckah.md || true
+
+      # Debug: Show what we extracted
+      - name: Debug - Show extracted data
+        run: |
+          echo "=== Simplify SWE Roles Count ==="
+          wc -l cache/latest_simplify_swe.md || true
+          echo "=== First 3 Simplify Roles ==="
+          head -3 cache/latest_simplify_swe.md || true
+          echo "=== Ouckah Roles Count ==="
+          wc -l cache/latest_ouckah.md || true
+          echo "=== First 3 Ouckah Roles ==="
+          head -3 cache/latest_ouckah.md || true
 
       # -------------------------------------
       # DIFF + NOTIFY — SIMPLIFY
@@ -59,38 +93,72 @@ jobs:
         run: |
           cache_file="cache/prev_simplify_swe.md"
           new_file="cache/latest_simplify_swe.md"
-          if [ -f "$cache_file" ]; then
-            comm -13 <(sort "$cache_file") <(sort "$new_file") > cache/added_simplify.md || true
+          
+          if [ -f "$cache_file" ] && [ -s "$cache_file" ]; then
+            # Find new entries (in new file but not in old file)
+            comm -23 <(sort "$new_file") <(sort "$cache_file") > cache/added_simplify.md || true
           else
-            cp "$new_file" cache/added_simplify.md
+            # First run - limit notifications to avoid spam
+            echo "First run detected, limiting to 3 most recent entries"
+            head -3 "$new_file" > cache/added_simplify.md || true
           fi
+          
           if [ -s cache/added_simplify.md ]; then
             echo "new_simplify=true" >> $GITHUB_OUTPUT
+            echo "Found $(wc -l < cache/added_simplify.md) new Simplify roles"
           else
             echo "new_simplify=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Print New Simplify SWE Roles (Debug)
-        if: steps.simplify_diff.outputs.new_simplify == 'true'
-        run: cat cache/added_simplify.md || echo "None"
-
       - name: Notify Discord - Simplify SWE
         if: steps.simplify_diff.outputs.new_simplify == 'true'
         run: |
-          while IFS= read -r line; do
-            # Skip empty or bad rows
+          count=0
+          max_notifications=5  # Limit notifications per run
+          
+          while IFS= read -r line && [ $count -lt $max_notifications ]; do
+            # Skip empty lines
             if [ -z "$line" ]; then continue; fi
-            pipe_count=$(grep -o '|' <<< "$line" | wc -l)
-            if [ "$pipe_count" -lt 4 ]; then echo "⏭️ Bad line: $line"; continue; fi
+            
+            # Check if line has enough pipe characters
+            pipe_count=$(echo "$line" | grep -o '|' | wc -l)
+            if [ "$pipe_count" -lt 4 ]; then 
+              echo "⏭️ Skipping malformed line: $line"
+              continue
+            fi
 
-            company=$(echo "$line" | cut -d '|' -f2 | xargs)
-            role=$(echo "$line" | cut -d '|' -f3 | xargs)
-            location=$(echo "$line" | cut -d '|' -f4 | xargs)
-            link=$(echo "$line" | grep -o 'https[^"]*')
+            # Extract fields (trim whitespace)
+            company=$(echo "$line" | cut -d '|' -f2 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            role=$(echo "$line" | cut -d '|' -f3 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            location=$(echo "$line" | cut -d '|' -f4 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            
+            # Extract URL from the application link column
+            link=$(echo "$line" | grep -o 'https://[^"]*' | head -1)
+            
+            # Skip if any required field is empty
+            if [ -z "$company" ] || [ -z "$role" ] || [ -z "$location" ]; then
+              echo "⏭️ Skipping incomplete entry: $company | $role | $location"
+              continue
+            fi
 
-            message="🚨 **New SWE Internship Role (SimplifyJobs)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
-            echo "📨 $company | $role"
-            curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$message\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
+            # Create Discord message
+            message="🚨 **New SWE Internship (SimplifyJobs)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
+            if [ -n "$link" ]; then
+              message="$message\n**Apply**: $link"
+            fi
+            
+            echo "📨 Notifying: $company | $role"
+            
+            # Send to Discord with error handling
+            if ! curl -s -H "Content-Type: application/json" -X POST \
+                -d "{\"content\": \"$message\"}" \
+                "${{ secrets.DISCORD_WEBHOOK_URL }}"; then
+              echo "❌ Failed to send Discord notification"
+            fi
+            
+            count=$((count + 1))
+            sleep 1  # Rate limiting
+            
           done < cache/added_simplify.md
 
       - name: Save Simplify SWE Role State
@@ -105,37 +173,72 @@ jobs:
         run: |
           cache_file="cache/prev_ouckah.md"
           new_file="cache/latest_ouckah.md"
-          if [ -f "$cache_file" ]; then
-            comm -13 <(sort "$cache_file") <(sort "$new_file") > cache/added_ouckah.md || true
+          
+          if [ -f "$cache_file" ] && [ -s "$cache_file" ]; then
+            # Find new entries
+            comm -23 <(sort "$new_file") <(sort "$cache_file") > cache/added_ouckah.md || true
           else
-            cp "$new_file" cache/added_ouckah.md
+            # First run - limit notifications
+            echo "First run detected, limiting to 3 most recent entries"
+            head -3 "$new_file" > cache/added_ouckah.md || true
           fi
+          
           if [ -s cache/added_ouckah.md ]; then
             echo "new_ouckah=true" >> $GITHUB_OUTPUT
+            echo "Found $(wc -l < cache/added_ouckah.md) new Ouckah roles"
           else
             echo "new_ouckah=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Print New Ouckah Roles (Debug)
-        if: steps.ouckah_diff.outputs.new_ouckah == 'true'
-        run: cat cache/added_ouckah.md || echo "None"
-
       - name: Notify Discord - Ouckah Roles
         if: steps.ouckah_diff.outputs.new_ouckah == 'true'
         run: |
-          while IFS= read -r line; do
+          count=0
+          max_notifications=5  # Limit notifications per run
+          
+          while IFS= read -r line && [ $count -lt $max_notifications ]; do
+            # Skip empty lines
             if [ -z "$line" ]; then continue; fi
-            pipe_count=$(grep -o '|' <<< "$line" | wc -l)
-            if [ "$pipe_count" -lt 4 ]; then echo "⏭️ Bad line: $line"; continue; fi
+            
+            # Check pipe count
+            pipe_count=$(echo "$line" | grep -o '|' | wc -l)
+            if [ "$pipe_count" -lt 4 ]; then 
+              echo "⏭️ Skipping malformed line: $line"
+              continue
+            fi
 
-            company=$(echo "$line" | cut -d '|' -f2 | xargs)
-            role=$(echo "$line" | cut -d '|' -f3 | xargs)
-            location=$(echo "$line" | cut -d '|' -f4 | xargs)
-            link=$(echo "$line" | grep -o 'https[^"]*')
+            # Extract fields
+            company=$(echo "$line" | cut -d '|' -f2 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            role=$(echo "$line" | cut -d '|' -f3 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            location=$(echo "$line" | cut -d '|' -f4 | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            
+            # Extract URL
+            link=$(echo "$line" | grep -o 'https://[^"]*' | head -1)
+            
+            # Skip if essential fields are empty
+            if [ -z "$company" ] || [ -z "$role" ] || [ -z "$location" ]; then
+              echo "⏭️ Skipping incomplete entry: $company | $role | $location"
+              continue
+            fi
 
-            message="📢 **New Internship Role (Vansh/Ouckah)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location\n**Apply**: $link"
-            echo "📨 $company | $role"
-            curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$message\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
+            # Create Discord message
+            message="📢 **New Internship (Vansh/Ouckah)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
+            if [ -n "$link" ]; then
+              message="$message\n**Apply**: $link"
+            fi
+            
+            echo "📨 Notifying: $company | $role"
+            
+            # Send to Discord
+            if ! curl -s -H "Content-Type: application/json" -X POST \
+                -d "{\"content\": \"$message\"}" \
+                "${{ secrets.DISCORD_WEBHOOK_URL }}"; then
+              echo "❌ Failed to send Discord notification"
+            fi
+            
+            count=$((count + 1))
+            sleep 1  # Rate limiting
+            
           done < cache/added_ouckah.md
 
       - name: Save Ouckah Role State
@@ -148,5 +251,9 @@ jobs:
       - name: Commit updated role caches
         run: |
           git add cache/prev_*.md
-          git commit -m "Update internship role cache" || echo "No changes"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update internship role cache [$(date)]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
