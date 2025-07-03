@@ -22,29 +22,70 @@ jobs:
           git config user.email "action@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
+      - name: Validate Discord webhook
+        run: |
+          if [ -z "${{ secrets.DISCORD_WEBHOOK_URL }}" ]; then
+            echo "❌ DISCORD_WEBHOOK_URL secret is not configured"
+            echo "Please add your Discord webhook URL to the repository secrets"
+            exit 1
+          fi
+          echo "✅ Discord webhook URL is configured"
+
       - name: Check for new commits and notify Discord
         run: |
           repos=(
-            "SimplifyJobs/Summer2025-Internships"
+            "SimplifyJobs/Summer2026-Internships"
             "vanshb03/Summer2026-Internships"
-            "shoujohnny/test-job-listing-bot"
-            "shoujohnny/test-job-listing-bot"  # <-- Add more repos here
           )
 
           for repo in "${repos[@]}"; do
             echo "🔍 Checking $repo"
-            latest_commit=$(curl -s https://api.github.com/repos/$repo/commits | jq -r '.[0].sha')
-            commit_msg=$(curl -s https://api.github.com/repos/$repo/commits | jq -r '.[0].commit.message')
-            commit_url=$(curl -s https://api.github.com/repos/$repo/commits | jq -r '.[0].html_url')
+            
+            # Fetch commit data with error handling
+            api_response=$(curl -s https://api.github.com/repos/$repo/commits)
+            
+            # Check if API response is valid JSON
+            if ! echo "$api_response" | jq empty 2>/dev/null; then
+              echo "❌ Failed to fetch data for $repo - API response is not valid JSON"
+              echo "Response: $api_response"
+              continue
+            fi
+            
+            # Check if we got an error response
+            if echo "$api_response" | jq -e '.message' >/dev/null 2>&1; then
+              error_msg=$(echo "$api_response" | jq -r '.message')
+              echo "❌ API error for $repo: $error_msg"
+              continue
+            fi
+            
+            latest_commit=$(echo "$api_response" | jq -r '.[0].sha // empty')
+            commit_msg=$(echo "$api_response" | jq -r '.[0].commit.message // empty')
+            commit_url=$(echo "$api_response" | jq -r '.[0].html_url // empty')
             state_file=".${repo//\//_}.txt"
+            
+            # Validate we got the required data
+            if [[ -z "$latest_commit" || "$latest_commit" == "null" ]]; then
+              echo "❌ Could not extract commit SHA for $repo"
+              continue
+            fi
 
             if [[ -f $state_file ]]; then
               prev_commit=$(cat $state_file)
               if [[ "$latest_commit" != "$prev_commit" ]]; then
                 echo "✅ New commit found for $repo"
-                curl -H "Content-Type: application/json" -X POST \
-                -d "{\"content\": \"🔔 **New commit to [$repo]($commit_url)**\n\n\`\`\`\n$commit_msg\n\`\`\`\n🔗 $commit_url\"}" \
-                ${{ secrets.DISCORD_WEBHOOK_URL }}
+                echo "📨 Sending Discord notification..."
+                
+                # Escape special characters in commit message for JSON
+                escaped_msg=$(echo "$commit_msg" | sed 's/\\/\\\\/g' | sed 's/"/\\"/g' | sed 's/`/\\`/g')
+                
+                # Send Discord notification with error handling
+                if curl -s -H "Content-Type: application/json" -X POST \
+                  -d "{\"content\": \"🔔 **New commit to [$repo]($commit_url)**\n\n\`\`\`\n$escaped_msg\n\`\`\`\n🔗 $commit_url\"}" \
+                  ${{ secrets.DISCORD_WEBHOOK_URL }} > /dev/null; then
+                  echo "✅ Discord notification sent successfully"
+                else
+                  echo "⚠️ Failed to send Discord notification"
+                fi
               fi
             else
               echo "🆕 First time tracking $repo"
@@ -58,5 +99,20 @@ jobs:
       - name: Commit updated state files
         run: |
           git add .
-          git commit -m "Update last known commit SHAs" || echo "No changes"
-          git push
+          
+          if git diff --staged --quiet; then
+            echo "✅ No state changes to commit"
+            exit 0
+          fi
+          
+          echo "📝 Committing state file updates..."
+          if git commit -m "Update last known commit SHAs [$(date)]"; then
+            echo "✅ Successfully committed state changes"
+            if git push; then
+              echo "✅ Successfully pushed to repository"
+            else
+              echo "⚠️ Push failed - state updates committed locally but not pushed"
+            fi
+          else
+            echo "⚠️ Commit failed"
+          fi
