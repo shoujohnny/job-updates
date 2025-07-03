@@ -49,27 +49,31 @@ jobs:
         run: |
           mkdir -p cache
           awk '
-          BEGIN {flag=0}
+          BEGIN {flag=0; prev_company=""}
           /^## 💻 Software Engineering Internship Roles/ {flag=1; next}
           /^## [💻🖥️💼🤖📈🔧]/ && flag && !/Software Engineering/ {flag=0}
           /^\| / && flag {
             if ($0 ~ /^\| *Company *\| *Role *\| *Location *\|/) next
             if ($0 ~ /^\|[-| :]*\|?$/) next
             if ($0 ~ /^\| ↳ \|/) {
-              # Handle continuation rows - replace ↳ with company name from previous line
+              # Handle continuation rows - replace ↳ with previous company name
               if (prev_company != "") {
                 gsub(/^\| ↳ \|/, "| " prev_company " |")
               }
             } else {
-              # Extract company name for next iteration
-              match($0, /^\| \*?\*?\[?([^\]|*]+)/, arr)
-              if (arr[1] != "") prev_company = arr[1]
+              # Extract company name for next iteration (clean up formatting)
+              match($0, /^\| \*?\*?\[?([^\]|*\[]+)/, arr)
+              if (arr[1] != "") {
+                prev_company = arr[1]
+                gsub(/\*|\[|\]/, "", prev_company)  # Remove markdown formatting
+                gsub(/^ *| *$/, "", prev_company)   # Trim whitespace
+              }
             }
             print
           }' simplify.md > cache/latest_simplify_swe.md || true
 
           if [ ! -s cache/latest_simplify_swe.md ]; then
-            echo "Fallback: extracting all internships..."
+            echo "Fallback: extracting all internships from SimplifyJobs..."
             awk '
             /^\| Company \| Role \| Location/ {getline; next}
             /^\|[-| :]*\|?$/ {next}
@@ -81,20 +85,21 @@ jobs:
 
           echo "Extracted $(wc -l < cache/latest_simplify_swe.md) SWE roles from SimplifyJobs"
 
-      - name: Extract Vansh Roles
+      - name: Extract Vansh Roles (All Positions)
         run: |
           mkdir -p cache
           awk '
           /^\| Company \| Role \| Location/ {
-            getline; getline
+            getline; getline  # Skip header and separator
             while (getline && /^\| /) {
-              if (!/🔒/ && !/---/ && !/^\| *Company *\| *Role *\| *Location *\|/) {
+              # Include all roles except closed ones (🔒) and separator lines
+              if (!/🔒/ && !/---/ && !/^\|[-| :]*\|?$/ && !/^\| *Company *\| *Role *\| *Location *\|/) {
                 print
               }
             }
           }' ouckah.md > cache/latest_ouckah.md
           
-          echo "Extracted $(wc -l < cache/latest_ouckah.md) roles from Vansh/Ouckah"
+          echo "Extracted $(wc -l < cache/latest_ouckah.md) total roles from Vansh/Ouckah"
 
       - name: Diff Simplify SWE Roles
         id: simplify_diff
@@ -137,8 +142,14 @@ jobs:
             echo "$1" | sed -e 's/<[^>]*>//g' -e 's/&lt;/</g' -e 's/&gt;/>/g' -e 's/&amp;/\&/g' | xargs
           }
 
+          clean_location() {
+            # Handle multiple locations separated by </br> or line breaks
+            echo "$1" | sed -e 's|</br>|, |g' -e 's|<br/>|, |g' -e 's|<br>|, |g' -e 's/  */ /g' | xargs
+          }
+
           count=0
-          echo "Processing $(wc -l < cache/added_simplify.md) new SimplifyJobs roles..."
+          repo_url="https://github.com/SimplifyJobs/Summer2026-Internships"
+          echo "Processing $(wc -l < cache/added_simplify.md) new SimplifyJobs SWE roles..."
           while IFS= read -r line && [ $count -lt 5 ]; do
             [ -z "$line" ] && continue
             pipe_count=$(echo "$line" | grep -o '|' | wc -l)
@@ -152,23 +163,24 @@ jobs:
             role=$(escape_md "$(clean_html "$role_raw")")
             
             location_raw=$(echo "$line" | cut -d '|' -f4)
-            location=$(escape_md "$(clean_html "$location_raw")")
+            location=$(escape_md "$(clean_location "$(clean_html "$location_raw")")")
             
             # Extract first valid application link
             link=$(echo "$line" | grep -o 'https://[^" )]*' | grep -v "i.imgur.com" | head -1)
 
-            msg="🚨 **New SWE Internship (SimplifyJobs)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
+            msg="🚨 **New SWE Internship** 💻\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
             [ -n "$link" ] && msg="$msg\n**Apply**: $link"
+            msg="$msg\n**Source**: [SimplifyJobs Summer 2026]($repo_url)"
 
-            echo "Sending notification for: $company - $role"
+            echo "Sending notification for: $company - $role - $location"
             curl -s -H "Content-Type: application/json" -X POST -d "{\"content\": \"$msg\"}" "$DISCORD_WEBHOOK_URL"
             count=$((count + 1))
             sleep 2
           done < cache/added_simplify.md
           
-          echo "Sent $count SimplifyJobs notifications"
+          echo "Sent $count SimplifyJobs SWE notifications"
 
-      - name: Notify Discord - Vansh Roles
+      - name: Notify Discord - Vansh Roles (All Positions)
         if: steps.ouckah_diff.outputs.new_ouckah == 'true'
         run: |
           escape_md() {
@@ -179,7 +191,13 @@ jobs:
             echo "$1" | sed -e 's/<[^>]*>//g' -e 's/&lt;/</g' -e 's/&gt;/>/g' -e 's/&amp;/\&/g' | xargs
           }
 
+          clean_location() {
+            # Handle multiple locations separated by </br> or line breaks
+            echo "$1" | sed -e 's|</br>|, |g' -e 's|<br/>|, |g' -e 's|<br>|, |g' -e 's/  */ /g' | xargs
+          }
+
           count=0
+          repo_url="https://github.com/vanshb03/Summer2026-Internships"
           echo "Processing $(wc -l < cache/added_ouckah.md) new Vansh/Ouckah roles..."
           while IFS= read -r line && [ $count -lt 5 ]; do
             [ -z "$line" ] && continue
@@ -194,15 +212,26 @@ jobs:
             role=$(escape_md "$(clean_html "$role_raw")")
             
             location_raw=$(echo "$line" | cut -d '|' -f4)
-            location=$(escape_md "$(clean_html "$location_raw")")
+            location=$(escape_md "$(clean_location "$(clean_html "$location_raw")")")
             
             # Extract first valid application link
             link=$(echo "$line" | grep -o 'https://[^" )]*' | grep -v "i.imgur.com" | head -1)
 
-            msg="📢 **New Internship (Vansh/Ouckah)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
-            [ -n "$link" ] && msg="$msg\n**Apply**: $link"
+            # Determine role type emoji
+            role_emoji="💼"
+            if echo "$role" | grep -qi "software\|engineer\|developer\|swe"; then
+              role_emoji="💻"
+            elif echo "$role" | grep -qi "data\|machine learning\|ai\|ml"; then
+              role_emoji="🤖"
+            elif echo "$role" | grep -qi "quant\|trading\|finance"; then
+              role_emoji="📈"
+            fi
 
-            echo "Sending notification for: $company - $role"
+            msg="🔔 **New Internship** $role_emoji\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
+            [ -n "$link" ] && msg="$msg\n**Apply**: $link"
+            msg="$msg\n**Source**: [Vansh/Ouckah Summer 2026]($repo_url)"
+
+            echo "Sending notification for: $company - $role - $location"
             curl -s -H "Content-Type: application/json" -X POST -d "{\"content\": \"$msg\"}" "$DISCORD_WEBHOOK_URL"
             count=$((count + 1))
             sleep 2
