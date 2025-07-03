@@ -26,12 +26,14 @@ jobs:
 
       - name: Download SimplifyJobs README
         run: |
+          echo "Downloading SimplifyJobs README..."
           if ! curl -sSf https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/dev/README.md -o simplify.md; then
             curl -sSf https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md -o simplify.md
           fi
 
       - name: Download Vansh README
         run: |
+          echo "Downloading Vansh README..."
           curl -sSf https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md -o ouckah.md
 
       - name: Extract Simplify SWE Roles
@@ -48,6 +50,7 @@ jobs:
           }' simplify.md > cache/latest_simplify_swe.md || true
 
           if [ ! -s cache/latest_simplify_swe.md ]; then
+            echo "Fallback: extracting all internships..."
             awk '
             /^\| Company \| Role \| Location/ {getline; next}
             /^\|[-| :]*\|?$/ {next}
@@ -69,12 +72,10 @@ jobs:
       - name: Diff Simplify SWE Roles
         id: simplify_diff
         run: |
-          new_file="cache/latest_simplify_swe.md"
-          old_file="cache/prev_simplify_swe.md"
-          if [ -f "$old_file" ] && [ -s "$old_file" ]; then
-            comm -23 <(sort "$new_file") <(sort "$old_file") > cache/added_simplify.md
+          if [ -f cache/prev_simplify_swe.md ]; then
+            comm -23 <(sort cache/latest_simplify_swe.md) <(sort cache/prev_simplify_swe.md) > cache/added_simplify.md
           else
-            head -3 "$new_file" > cache/added_simplify.md
+            head -3 cache/latest_simplify_swe.md > cache/added_simplify.md
           fi
 
           if [ -s cache/added_simplify.md ]; then
@@ -86,12 +87,10 @@ jobs:
       - name: Diff Vansh Roles
         id: ouckah_diff
         run: |
-          new_file="cache/latest_ouckah.md"
-          old_file="cache/prev_ouckah.md"
-          if [ -f "$old_file" ] && [ -s "$old_file" ]; then
-            comm -23 <(sort "$new_file") <(sort "$old_file") > cache/added_ouckah.md
+          if [ -f cache/prev_ouckah.md ]; then
+            comm -23 <(sort cache/latest_ouckah.md) <(sort cache/prev_ouckah.md) > cache/added_ouckah.md
           else
-            head -3 "$new_file" > cache/added_ouckah.md
+            head -3 cache/latest_ouckah.md > cache/added_ouckah.md
           fi
 
           if [ -s cache/added_ouckah.md ]; then
@@ -152,7 +151,7 @@ jobs:
             sleep 1
           done < cache/added_ouckah.md
 
-      - name: Save State Files
+      - name: Save state files
         run: |
           cp cache/latest_simplify_swe.md cache/prev_simplify_swe.md
           cp cache/latest_ouckah.md cache/prev_ouckah.md
@@ -160,9 +159,12 @@ jobs:
       - name: Commit updated role caches
         run: |
           git add cache/prev_*.md || true
+
           if git diff --staged --quiet; then
             echo "✅ No changes to commit"
-          else
-            git commit -m "Update internship role cache [$(date)]" || echo "⚠️ Commit failed"
-            git push || echo "⚠️ Push failed"
+            exit 0
           fi
+
+          git commit -m "Update internship role cache [$(date)]" || echo "⚠️ Commit failed"
+          git push || echo "⚠️ Push failed"
+          exit 0
