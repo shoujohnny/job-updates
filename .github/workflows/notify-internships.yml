@@ -18,6 +18,15 @@ jobs:
       - name: Checkout this repo
         uses: actions/checkout@v4
 
+      - name: Validate Discord webhook
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "❌ DISCORD_WEBHOOK_URL secret is not configured"
+            echo "Please add your Discord webhook URL to the repository secrets"
+            exit 1
+          fi
+          echo "✅ Discord webhook URL is configured"
+
       - name: Setup Git config
         run: |
           git config user.name "GitHub Action"
@@ -27,8 +36,8 @@ jobs:
       - name: Download SimplifyJobs README
         run: |
           echo "Downloading SimplifyJobs README..."
-          if ! curl -sSf https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/dev/README.md -o simplify.md; then
-            curl -sSf https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/main/README.md -o simplify.md
+          if ! curl -sSf https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md -o simplify.md; then
+            curl -sSf https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/main/README.md -o simplify.md
           fi
 
       - name: Download Vansh README
@@ -41,11 +50,21 @@ jobs:
           mkdir -p cache
           awk '
           BEGIN {flag=0}
-          /^## [💻🖥️💼].*Software Engineering/ {flag=1; next}
-          /^## [💻🖥️💼]/ && flag && !/Software Engineering/ {flag=0}
+          /^## 💻 Software Engineering Internship Roles/ {flag=1; next}
+          /^## [💻🖥️💼🤖📈🔧]/ && flag && !/Software Engineering/ {flag=0}
           /^\| / && flag {
             if ($0 ~ /^\| *Company *\| *Role *\| *Location *\|/) next
             if ($0 ~ /^\|[-| :]*\|?$/) next
+            if ($0 ~ /^\| ↳ \|/) {
+              # Handle continuation rows - replace ↳ with company name from previous line
+              if (prev_company != "") {
+                gsub(/^\| ↳ \|/, "| " prev_company " |")
+              }
+            } else {
+              # Extract company name for next iteration
+              match($0, /^\| \*?\*?\[?([^\]|*]+)/, arr)
+              if (arr[1] != "") prev_company = arr[1]
+            }
             print
           }' simplify.md > cache/latest_simplify_swe.md || true
 
@@ -54,9 +73,13 @@ jobs:
             awk '
             /^\| Company \| Role \| Location/ {getline; next}
             /^\|[-| :]*\|?$/ {next}
-            /^\| / {print}
+            /^\| / {
+              if (!/^\| *Company *\| *Role *\| *Location *\|/) print
+            }
             ' simplify.md > cache/latest_simplify_swe.md
           fi
+
+          echo "Extracted $(wc -l < cache/latest_simplify_swe.md) SWE roles from SimplifyJobs"
 
       - name: Extract Vansh Roles
         run: |
@@ -65,9 +88,13 @@ jobs:
           /^\| Company \| Role \| Location/ {
             getline; getline
             while (getline && /^\| /) {
-              if (!/🔒/ && !/---/) print
+              if (!/🔒/ && !/---/ && !/^\| *Company *\| *Role *\| *Location *\|/) {
+                print
+              }
             }
           }' ouckah.md > cache/latest_ouckah.md
+          
+          echo "Extracted $(wc -l < cache/latest_ouckah.md) roles from Vansh/Ouckah"
 
       - name: Diff Simplify SWE Roles
         id: simplify_diff
@@ -106,24 +133,40 @@ jobs:
             echo "$1" | sed -e 's/\\/\\\\/g' -e 's/\*/\\*/g' -e 's/_/\\_/g' -e 's/`/\\`/g' -e 's/~/\\~/g' -e 's/>/\\>/g' -e 's/|/\\|/g'
           }
 
+          clean_html() {
+            echo "$1" | sed -e 's/<[^>]*>//g' -e 's/&lt;/</g' -e 's/&gt;/>/g' -e 's/&amp;/\&/g' | xargs
+          }
+
           count=0
+          echo "Processing $(wc -l < cache/added_simplify.md) new SimplifyJobs roles..."
           while IFS= read -r line && [ $count -lt 5 ]; do
             [ -z "$line" ] && continue
             pipe_count=$(echo "$line" | grep -o '|' | wc -l)
             [ "$pipe_count" -lt 4 ] && continue
 
-            company=$(escape_md "$(echo "$line" | cut -d '|' -f2 | xargs)")
-            role=$(escape_md "$(echo "$line" | cut -d '|' -f3 | xargs)")
-            location=$(escape_md "$(echo "$line" | cut -d '|' -f4 | xargs)")
-            link=$(echo "$line" | grep -o 'https://[^ )]*' | head -1)
+            # Extract fields and clean them
+            company_raw=$(echo "$line" | cut -d '|' -f2)
+            company=$(escape_md "$(clean_html "$company_raw")")
+            
+            role_raw=$(echo "$line" | cut -d '|' -f3)
+            role=$(escape_md "$(clean_html "$role_raw")")
+            
+            location_raw=$(echo "$line" | cut -d '|' -f4)
+            location=$(escape_md "$(clean_html "$location_raw")")
+            
+            # Extract first valid application link
+            link=$(echo "$line" | grep -o 'https://[^" )]*' | grep -v "i.imgur.com" | head -1)
 
             msg="🚨 **New SWE Internship (SimplifyJobs)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
             [ -n "$link" ] && msg="$msg\n**Apply**: $link"
 
+            echo "Sending notification for: $company - $role"
             curl -s -H "Content-Type: application/json" -X POST -d "{\"content\": \"$msg\"}" "$DISCORD_WEBHOOK_URL"
             count=$((count + 1))
-            sleep 1
+            sleep 2
           done < cache/added_simplify.md
+          
+          echo "Sent $count SimplifyJobs notifications"
 
       - name: Notify Discord - Vansh Roles
         if: steps.ouckah_diff.outputs.new_ouckah == 'true'
@@ -132,24 +175,40 @@ jobs:
             echo "$1" | sed -e 's/\\/\\\\/g' -e 's/\*/\\*/g' -e 's/_/\\_/g' -e 's/`/\\`/g' -e 's/~/\\~/g' -e 's/>/\\>/g' -e 's/|/\\|/g'
           }
 
+          clean_html() {
+            echo "$1" | sed -e 's/<[^>]*>//g' -e 's/&lt;/</g' -e 's/&gt;/>/g' -e 's/&amp;/\&/g' | xargs
+          }
+
           count=0
+          echo "Processing $(wc -l < cache/added_ouckah.md) new Vansh/Ouckah roles..."
           while IFS= read -r line && [ $count -lt 5 ]; do
             [ -z "$line" ] && continue
             pipe_count=$(echo "$line" | grep -o '|' | wc -l)
             [ "$pipe_count" -lt 4 ] && continue
 
-            company=$(escape_md "$(echo "$line" | cut -d '|' -f2 | xargs)")
-            role=$(escape_md "$(echo "$line" | cut -d '|' -f3 | xargs)")
-            location=$(escape_md "$(echo "$line" | cut -d '|' -f4 | xargs)")
-            link=$(echo "$line" | grep -o 'https://[^ )]*' | head -1)
+            # Extract fields and clean them
+            company_raw=$(echo "$line" | cut -d '|' -f2)
+            company=$(escape_md "$(clean_html "$company_raw")")
+            
+            role_raw=$(echo "$line" | cut -d '|' -f3)
+            role=$(escape_md "$(clean_html "$role_raw")")
+            
+            location_raw=$(echo "$line" | cut -d '|' -f4)
+            location=$(escape_md "$(clean_html "$location_raw")")
+            
+            # Extract first valid application link
+            link=$(echo "$line" | grep -o 'https://[^" )]*' | grep -v "i.imgur.com" | head -1)
 
             msg="📢 **New Internship (Vansh/Ouckah)**\n\n**Company**: $company\n**Role**: $role\n**Location**: $location"
             [ -n "$link" ] && msg="$msg\n**Apply**: $link"
 
+            echo "Sending notification for: $company - $role"
             curl -s -H "Content-Type: application/json" -X POST -d "{\"content\": \"$msg\"}" "$DISCORD_WEBHOOK_URL"
             count=$((count + 1))
-            sleep 1
+            sleep 2
           done < cache/added_ouckah.md
+          
+          echo "Sent $count Vansh/Ouckah notifications"
 
       - name: Save state files
         run: |
@@ -165,6 +224,15 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Update internship role cache [$(date)]" || echo "⚠️ Commit failed"
-          git push || echo "⚠️ Push failed"
+          echo "📝 Committing cache updates..."
+          if git commit -m "Update internship role cache [$(date)]"; then
+            echo "✅ Successfully committed changes"
+            if git push; then
+              echo "✅ Successfully pushed to repository"
+            else
+              echo "⚠️ Push failed - cache updates committed locally but not pushed"
+            fi
+          else
+            echo "⚠️ Commit failed"
+          fi
           exit 0
