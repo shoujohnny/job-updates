@@ -61,12 +61,16 @@ jobs:
                 gsub(/^\| ↳ \|/, "| " prev_company " |")
               }
             } else {
-              # Extract company name for next iteration (clean up formatting)
-              match($0, /^\| \*?\*?\[?([^\]|*\[]+)/, arr)
-              if (arr[1] != "") {
-                prev_company = arr[1]
-                gsub(/\*|\[|\]/, "", prev_company)  # Remove markdown formatting
-                gsub(/^ *| *$/, "", prev_company)   # Trim whitespace
+              # Extract company name - simplified approach
+              split($0, fields, "|")
+              if (length(fields) >= 2) {
+                company = fields[2]
+                gsub(/^ */, "", company)
+                gsub(/ *$/, "", company)
+                gsub(/\*|\[|\]/, "", company)
+                if (company != "" && company != "↳") {
+                  prev_company = company
+                }
               }
             }
             print
@@ -75,9 +79,11 @@ jobs:
           if [ ! -s cache/latest_simplify_swe.md ]; then
             echo "Fallback: extracting all internships from SimplifyJobs..."
             awk '
-            /^\| Company \| Role \| Location/ {getline; next}
+            BEGIN {in_table=0}
+            /^\| Company \| Role \| Location/ {in_table=1; next}
+            /^[^|]/ && in_table {in_table=0}
             /^\|[-| :]*\|?$/ {next}
-            /^\| / {
+            /^\| / && in_table {
               if (!/^\| *Company *\| *Role *\| *Location *\|/) print
             }
             ' simplify.md > cache/latest_simplify_swe.md
@@ -89,25 +95,110 @@ jobs:
         run: |
           mkdir -p cache
           awk '
-          /^\| Company \| Role \| Location/ {
-            getline; getline  # Skip header and separator
-            while (getline && /^\| /) {
-              # Include all roles except closed ones (🔒) and separator lines
-              if (!/🔒/ && !/---/ && !/^\|[-| :]*\|?$/ && !/^\| *Company *\| *Role *\| *Location *\|/) {
-                print
+          BEGIN {in_table=0; prev_company=""}
+          /^\| Company \| Role \| Location/ {in_table=1; next}
+          /^[^|]/ && in_table {in_table=0}
+          /^\|[-| :]*\|?$/ {next}
+          /^\| / && in_table {
+            # Skip closed roles and malformed lines
+            if (/🔒/ || !/^\| [^|]+ \| [^|]+ \| [^|]+ \|/) next
+            
+            # Handle continuation rows (↳) by replacing with previous company
+            if (/^\| ↳ \|/) {
+              if (prev_company != "") {
+                gsub(/^\| ↳ \|/, "| " prev_company " |")
               }
+            } else {
+                             # Extract company name - simplified approach
+               split($0, fields, "|")
+               if (length(fields) >= 2) {
+                 company = fields[2]
+                 gsub(/^ */, "", company)
+                 gsub(/ *$/, "", company)
+                 if (company != "" && company != "↳") {
+                   prev_company = company
+                 }
+               }
             }
+            print
           }' ouckah.md > cache/latest_ouckah.md
           
           echo "Extracted $(wc -l < cache/latest_ouckah.md) total roles from Vansh/Ouckah"
 
+      - name: Create normalized role files for better comparison
+        run: |
+          # Create normalized versions for better duplicate detection
+          # Format: company|role|location|link_hash
+          normalize_roles() {
+            local input_file="$1"
+            local output_file="$2"
+            
+            while IFS= read -r line; do
+              [ -z "$line" ] && continue
+              
+              # Extract fields
+              company=$(echo "$line" | cut -d '|' -f2 | sed 's/^ *//; s/ *$//')
+              role=$(echo "$line" | cut -d '|' -f3 | sed 's/^ *//; s/ *$//')
+              location=$(echo "$line" | cut -d '|' -f4 | sed 's/^ *//; s/ *$//')
+              
+                             # Extract and hash the main application link for uniqueness
+               link=$(echo "$line" | grep -o 'https://[^" )]*' | grep -v "i.imgur.com" | head -1)
+               
+               # Use md5sum on Linux (GitHub Actions)
+               if command -v md5sum >/dev/null 2>&1; then
+                 link_hash=$(echo "$link" | md5sum | cut -d' ' -f1)
+               elif command -v md5 >/dev/null 2>&1; then
+                 link_hash=$(echo "$link" | md5)
+               else
+                 # Fallback: use simple checksum based on line content
+                 link_hash=$(echo "$line" | cksum | cut -d' ' -f1)
+               fi
+              
+              # Create normalized entry
+              echo "${company}|${role}|${location}|${link_hash}"
+            done < "$input_file" > "$output_file"
+          }
+          
+          normalize_roles "cache/latest_simplify_swe.md" "cache/latest_simplify_normalized.md"
+          normalize_roles "cache/latest_ouckah.md" "cache/latest_ouckah_normalized.md"
+          
+          # Create normalized versions of previous files if they exist
+          if [ -f "cache/prev_simplify_swe.md" ]; then
+            normalize_roles "cache/prev_simplify_swe.md" "cache/prev_simplify_normalized.md"
+          fi
+          
+          if [ -f "cache/prev_ouckah.md" ]; then
+            normalize_roles "cache/prev_ouckah.md" "cache/prev_ouckah_normalized.md"
+          fi
+
       - name: Diff Simplify SWE Roles
         id: simplify_diff
         run: |
-          if [ -f cache/prev_simplify_swe.md ]; then
-            comm -23 <(sort cache/latest_simplify_swe.md) <(sort cache/prev_simplify_swe.md) > cache/added_simplify.md
+          if [ -f cache/prev_simplify_normalized.md ]; then
+            # Find new roles by comparing normalized entries
+            comm -23 <(sort cache/latest_simplify_normalized.md) <(sort cache/prev_simplify_normalized.md) > cache/new_normalized_simplify.md
+            
+            # Extract original entries that correspond to new normalized entries
+            : > cache/added_simplify.md
+            while IFS= read -r norm_line; do
+              [ -z "$norm_line" ] && continue
+              link_hash=$(echo "$norm_line" | cut -d'|' -f4)
+              
+              # Find matching original line by link hash
+              while IFS= read -r orig_line; do
+                [ -z "$orig_line" ] && continue
+                orig_link=$(echo "$orig_line" | grep -o 'https://[^" )]*' | grep -v "i.imgur.com" | head -1)
+                orig_hash=$(echo "$orig_link" | md5sum | cut -d' ' -f1)
+                
+                if [ "$orig_hash" = "$link_hash" ]; then
+                  echo "$orig_line" >> cache/added_simplify.md
+                  break
+                fi
+              done < cache/latest_simplify_swe.md
+            done < cache/new_normalized_simplify.md
           else
-            head -3 cache/latest_simplify_swe.md > cache/added_simplify.md
+            # First run - take a reasonable sample but not just 3 entries
+            head -10 cache/latest_simplify_swe.md > cache/added_simplify.md
           fi
 
           if [ -s cache/added_simplify.md ]; then
@@ -119,10 +210,31 @@ jobs:
       - name: Diff Vansh Roles
         id: ouckah_diff
         run: |
-          if [ -f cache/prev_ouckah.md ]; then
-            comm -23 <(sort cache/latest_ouckah.md) <(sort cache/prev_ouckah.md) > cache/added_ouckah.md
+          if [ -f cache/prev_ouckah_normalized.md ]; then
+            # Find new roles by comparing normalized entries
+            comm -23 <(sort cache/latest_ouckah_normalized.md) <(sort cache/prev_ouckah_normalized.md) > cache/new_normalized_ouckah.md
+            
+            # Extract original entries that correspond to new normalized entries
+            : > cache/added_ouckah.md
+            while IFS= read -r norm_line; do
+              [ -z "$norm_line" ] && continue
+              link_hash=$(echo "$norm_line" | cut -d'|' -f4)
+              
+              # Find matching original line by link hash
+              while IFS= read -r orig_line; do
+                [ -z "$orig_line" ] && continue
+                orig_link=$(echo "$orig_line" | grep -o 'https://[^" )]*' | grep -v "i.imgur.com" | head -1)
+                orig_hash=$(echo "$orig_link" | md5sum | cut -d' ' -f1)
+                
+                if [ "$orig_hash" = "$link_hash" ]; then
+                  echo "$orig_line" >> cache/added_ouckah.md
+                  break
+                fi
+              done < cache/latest_ouckah.md
+            done < cache/new_normalized_ouckah.md
           else
-            head -3 cache/latest_ouckah.md > cache/added_ouckah.md
+            # First run - take a reasonable sample but not just 3 entries
+            head -10 cache/latest_ouckah.md > cache/added_ouckah.md
           fi
 
           if [ -s cache/added_ouckah.md ]; then
