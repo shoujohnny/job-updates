@@ -14,7 +14,7 @@ D. E. Shaw|Software Developer Intern|New York, NY|1a02f4c1a41be3714a7c51fa5633b1
 Citadel Securities(https://simplify.jobs/c/Citadel-Securities?utm_source=GHList|↳|utm_medium=company)|45c082ad0a7d1757263d934d165a36f8
 Caterpillar|Engineering Intern|<details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details>|84eba87262b0f0cffde46141696b5647
 Blackrock|2026 Summer Intern|<details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details>|8139637398185e4ff7ea251335b84e33
-Bank of America|Cybersecurity Intern|<details><summary>**4 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Denver, CO</br>Washington, DC</details>|9ab4345fb0d25059316da68f1d55ff3e
+**[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)**|Cybersecurity Intern|<details><summary>**4 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Denver, CO</br>Washington, DC</details>|23d394792851758ad7fe4c137adcbc81
 **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)**|Engineering Program Management Intern|United States|71245f281e8b031babcbbf5ff6377595
 Apple(https://simplify.jobs/c/Apple?utm_source=GHList|↳|utm_medium=company)|5bda0cfe4a7b63c78fb21e03e1814eae
 Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
@@ -25,7 +25,7 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
-Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
