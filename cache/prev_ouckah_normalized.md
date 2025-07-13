@@ -1,3 +1,4 @@
+Tower Research Capital|Software Developer Intern|New York|93c773db47864faa7386b026e831ff46
 Bank of America|Analytics, Modeling and Insights (AMI) Analyst Intern 🛂|Charlotte, NC|193310941bf479504a6f6ad076e81784
 Two Sigma|Quantitative Researcher Intern|New York, NY|a06852a9e05159e026fa508d1eabe5a5
 Jane Street|Trading Desk Operations Engineer Intern, Trading Desk Operations|New York, NY|874f4c47735d1a638c5df3820c47fb6d
