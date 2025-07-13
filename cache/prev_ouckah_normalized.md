@@ -59,7 +59,6 @@ Walleye Capital|Quantitative Researcher Intern|Boston, MA|834d85594bad255d9bab02
 Walleye Capital|Risk Quant Research Intern|New York, NY|7d8473e4244ae1ba9958d032bce5a908
 Walleye Capital|Technology Intern|New York, NY|09f28ab83ff55bd0e17a9850a40e0731
 Radix Trading|Quantitative Technologist Intern|Chicago, IL|18f865b80d995af1ae4bdb591f8ed285
-Merck|IT Intern|Rahway, NJ</br>West Point, PA</br>Austin, TX|23d1f6249ad56828a3b557fade60279f
 Morgan Stanley|SWE Intern, Data Analyst Intern|New York, NY|fbb6c9715f2628964b28e5055b108720
 Lockheed Martin|Software Engineer - Intern 🇺🇸|Annapolis Junction, MD|92f419cde52294a6e54fb2fe142067e5
 D. E. Shaw|Software Developer Intern|New York, NY|a57fb1c1f76ed12ee7145d507baa0564
