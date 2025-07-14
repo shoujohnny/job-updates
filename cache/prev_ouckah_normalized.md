@@ -1,3 +1,8 @@
+Susquehanna|Software Engineering Intern|Bala Cynwyd, PA|43e22c91d4fc58677828f2ba8cdbec47
+Caterpillar|Digital and Analytics Intern|Chicago, IL</br>Peoria, IL</br>Irving, TX|4a20b1215664703a7bba5b276ca513aa
+Akuna Capital|Software Engineer Intern, C++|Chicago, IL|f86323642faba4e7275f6d5d915a939e
+Akuna Capital|Software Engineer Intern, Python|Chicago, IL|b7130fae69f774a23d87f6627dde031d
+Akuna Capital|Quantitative Research Intern|Chicago, IL|841bc1bdda7f655adbd06713221724d1
 Tower Research Capital|Quantitative Trader Intern|New York, NY|37713834ab769e898fb64b208fe77cf7
 Tower Research Capital|Software Developer Intern|New York|93c773db47864faa7386b026e831ff46
 Bank of America|Analytics, Modeling and Insights (AMI) Analyst Intern 🛂|Charlotte, NC|193310941bf479504a6f6ad076e81784
