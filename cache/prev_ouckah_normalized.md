@@ -81,7 +81,6 @@ Apple|Machine Learning / AI Intern|United States|d98150bee33a7241a4823690e3946db
 Apple|Engineering Program Management Intern|United States|e97aaa38df83fc0a9c568d8b899c6520
 Apple|Hardware Technology Intern|United States|35ab9d72a4b11aa55d3d42a7f2fe3ecf
 BNP Paribas|Quant Research & Trading Intern|New York, NY|c8be58e32abb4a87b63e7358fc7edbbb
-Voloridge|Research Software Engineer Intern|Jupiter, FL|3467df93e2c73bd99650dc708d039f01
 Tower Research Capital|Machine Learning Intern|New York, NY|f5138ec3da51b1f93390ba69464efdb8
 Susquehanna|Quantitative Research Intern|Bala Cynwyd, PA|b4194e9c6c13aa3ccd9416525d1a41ad
 Susquehanna|Quantitative Systematic Trading Intern|Bala Cynwyd, PA|e8d1c9d8aa1801b0ab33b89c4d33ab6b
