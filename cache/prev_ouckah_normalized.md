@@ -1,3 +1,6 @@
+Optiver|FPGA Engineer Intern|Austin, TX|49400f2cd95e7e2379a89130249d3a11
+Optiver|FPGA Engineer Intern|Chicago, IL|3117e3d4d9d64b5e210abd71019149b1
+Bill|Machine Learning Engineer Intern|San Jose, CA</br>Draper, UT|018151fca962387808740c875549d3a6
 Bill|Software Engineer Intern|San Jose, CA|dd053e9488a86f2948f0a46b06b901bb
 Susquehanna|Software Engineering Intern|Bala Cynwyd, PA|43e22c91d4fc58677828f2ba8cdbec47
 CTC|Quant Trading Intern|Chicago, IL|2fe1f4cc52e59ff8448025b287098dea
