@@ -1,3 +1,4 @@
+Bill|Software Engineer Intern|San Jose, CA|dd053e9488a86f2948f0a46b06b901bb
 Susquehanna|Software Engineering Intern|Bala Cynwyd, PA|43e22c91d4fc58677828f2ba8cdbec47
 CTC|Quant Trading Intern|Chicago, IL|2fe1f4cc52e59ff8448025b287098dea
 CTC|Software Engineer Intern|Chicago, IL</br>New York, NY|0a07e6d84c610bf3cdf2223436931bdf
