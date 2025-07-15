@@ -29,15 +29,15 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
-**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer – Internship - Production Infrastructure|Seattle, WA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
-**[Skydio](https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company)**|Middleware Software Intern|San Mateo, CA|84d26be5a8ad4a30cd28139d20c809e4
 **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)**|Platform Capability Engineering Intern|Reston, VA|9f5f7678d05ca7a6a9b7b88fceb9684b
 **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)**|University – Systems Engineer Intern|Fayetteville, NC|ed9e5d8d20a95db8f45ff1d6228bb474
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Product Development Internship Program 🛂|Plano, TX McLean, VA|77d38e69bf1cf859fe120988418e96a9
+**[Skydio](https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company)**|Middleware Software Intern|San Mateo, CA|84d26be5a8ad4a30cd28139d20c809e4
 **[Konrad Group](https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Toronto, ON, Canada|1d9e7fc9dede8b0b4d0fbb213bfe11d9
