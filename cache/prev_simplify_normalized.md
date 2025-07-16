@@ -1,3 +1,7 @@
+**[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)**|Software Engineer C++|Chicago, IL|7f6dc7bfc9bb08c5e7bd30010c6f6a19
+CTC|Software Engineer|Chicago, IL</br>New York, NY|934b4d9b9b6ff9879a5e99b7d0354b00
+Susquehanna|Software Engineering Intern|Philadelphia, PA|a1d76250bb83b2e7669c90b564ceb077
+Five Rings|Software Developer|New York|12fd7b79e3fa4cefc732742af2b47743
 **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)**|Software Engineer Intern 🛂|Draper, UT</br>San Jose, CA|322753df2a295c3c1547cdcd72a32660
 **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - C++|Chicago, IL|7f6dc7bfc9bb08c5e7bd30010c6f6a19
 Akuna Capital(https://simplify.jobs/c/Akuna-Capital?utm_source=GHList|↳|utm_medium=company)|3e796a307d985ac1a0e13d0d76e951bb
