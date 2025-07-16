@@ -1,3 +1,6 @@
+Five Rings|Quantitative Researcher Intern|New York, NY|0243c6d97fe0b847ba369fdd530e7bfc
+Five Rings|Quantitative Trader Intern 🛂|New York, NY|65243f117584da3198051b2900b456cd
+Five Rings|Software Developer Intern|New York, NY|8adb55384337e6c15bccaab7389e7065
 Optiver|FPGA Engineer Intern|Austin, TX|49400f2cd95e7e2379a89130249d3a11
 Optiver|FPGA Engineer Intern|Chicago, IL|3117e3d4d9d64b5e210abd71019149b1
 Capital One|Data Analyst Intern|McLean, VA</br>Rishmond, VA|2a7b9faa9172d930e1033e43ee57cbd0
