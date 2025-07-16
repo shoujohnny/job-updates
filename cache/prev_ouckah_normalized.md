@@ -1,10 +1,11 @@
 Optiver|FPGA Engineer Intern|Austin, TX|49400f2cd95e7e2379a89130249d3a11
 Optiver|FPGA Engineer Intern|Chicago, IL|3117e3d4d9d64b5e210abd71019149b1
+Capital One|Data Analyst Intern|McLean, VA</br>Rishmond, VA|2a7b9faa9172d930e1033e43ee57cbd0
 Bill|Machine Learning Engineer Intern|San Jose, CA</br>Draper, UT|018151fca962387808740c875549d3a6
 Bill|Software Engineer Intern|San Jose, CA|dd053e9488a86f2948f0a46b06b901bb
 Susquehanna|Software Engineering Intern|Bala Cynwyd, PA|43e22c91d4fc58677828f2ba8cdbec47
-CTC|Quant Trading Intern|Chicago, IL|2fe1f4cc52e59ff8448025b287098dea
-CTC|Software Engineer Intern|Chicago, IL</br>New York, NY|0a07e6d84c610bf3cdf2223436931bdf
+Chicago Trading Company|Quant Trading Intern|Chicago, IL|e830de24d30b1a34c57451b48a5c059a
+Chicago Trading Company|Software Engineer Intern|Chicago, IL</br>New York, NY|6833494adcfe605dba57f1918005aa18
 Caterpillar|Digital and Analytics Intern|Chicago, IL</br>Peoria, IL</br>Irving, TX|4a20b1215664703a7bba5b276ca513aa
 Akuna Capital|Software Engineer Intern, C++|Chicago, IL|f86323642faba4e7275f6d5d915a939e
 Akuna Capital|Software Engineer Intern, Python|Chicago, IL|b7130fae69f774a23d87f6627dde031d
