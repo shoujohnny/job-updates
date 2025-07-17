@@ -1,3 +1,4 @@
+Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Five Rings|Quantitative Researcher Intern|New York, NY|0243c6d97fe0b847ba369fdd530e7bfc
 Five Rings|Quantitative Trader Intern 🛂|New York, NY|65243f117584da3198051b2900b456cd
 Five Rings|Software Developer Intern|New York, NY|8adb55384337e6c15bccaab7389e7065
