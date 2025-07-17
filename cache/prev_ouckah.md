@@ -1,3 +1,4 @@
+| Neuralink | Firmware Engineer Intern | Fremont, CA | <a href="https://job-boards.greenhouse.io/neuralink/jobs/6648992003?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Five Rings | Quantitative Researcher Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Five Rings | Quantitative Trader Intern 🛂 | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
 | Five Rings | Software Developer Intern | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 16 |
