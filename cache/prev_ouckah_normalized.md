@@ -1,10 +1,10 @@
+Kohler|Digital Intern 🛂|Kohler, WI|7e360129bdbeeeff0a638138996ca854
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Five Rings|Quantitative Researcher Intern|New York, NY|0243c6d97fe0b847ba369fdd530e7bfc
 Five Rings|Quantitative Trader Intern 🛂|New York, NY|65243f117584da3198051b2900b456cd
 Five Rings|Software Developer Intern|New York, NY|8adb55384337e6c15bccaab7389e7065
 Optiver|FPGA Engineer Intern|Austin, TX|49400f2cd95e7e2379a89130249d3a11
 Optiver|FPGA Engineer Intern|Chicago, IL|3117e3d4d9d64b5e210abd71019149b1
-Capital One|Data Analyst Intern|McLean, VA</br>Rishmond, VA|2a7b9faa9172d930e1033e43ee57cbd0
 Bill|Machine Learning Engineer Intern|San Jose, CA</br>Draper, UT|018151fca962387808740c875549d3a6
 Bill|Software Engineer Intern|San Jose, CA|dd053e9488a86f2948f0a46b06b901bb
 Susquehanna|Software Engineering Intern|Bala Cynwyd, PA|43e22c91d4fc58677828f2ba8cdbec47
@@ -46,7 +46,6 @@ Citadel Securities|Software Engineer Intern|Miami, FL</br>New York, NY|5a7a2b2b0
 Citadel|Quantitative Research Analyst Intern|Greenwich, CT</br>Miami, FL</br>New York, NY|d607bafb0210d21068f51a34a0316016
 Citadel|Software Engineer Intern|<details><summary>**4 locations**</summary>Chicago, IL</br>Miami, FL</br>New York, NY</br>Houston, TX</details>|ef262b7502fbd9e8b5a4c9e731ad67e3
 Trane Technologies|Engineering Intern|<details><summary>**4 locations**</summary>Minneapolis, MN</br>Bloomington, MN</br>Noblesville, IN</br>St Paul, MN</details>|d5865c0ae59cd4cb62d1f2c57a1d72b9
-Salesforce|Associate Product Manager Intern|San Francisco, CA|20ae2989a24989dbb8b939fab7d52f53
 Palantir|Software Engineer Intern, Infrastructure|New York, NY|8a5faf44bc8300b24d14b1b271e61787
 Palantir|Software Engineer Intern|Palo Alto, CA|fc357ae973aca2fe3795b64b9ec0ee47
 Palantir|Forward Deployed Software Engineer Intern, US Government 🇺🇸|New York, NY|3704858f70fd6e7ef49f4673f004bbb1
