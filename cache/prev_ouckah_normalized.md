@@ -1,3 +1,4 @@
+GE Vernova|Digital Technology Intern 🛂|<details><summary>**7 locations**</summary>Greenville</br>South Carolina</br>Schenectady</br>New York</br>Atlanta</br>Georgia</br>other GE Vernova locations</details>|5567e4a624d615474616f91c17b3ffce
 Kohler|Digital Intern 🛂|Kohler, WI|7e360129bdbeeeff0a638138996ca854
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Five Rings|Quantitative Researcher Intern|New York, NY|0243c6d97fe0b847ba369fdd530e7bfc
