@@ -1,3 +1,4 @@
+Wells Fargo|2026 Technology Summer Internship 🇺🇸|<details><summary>**4 locations**</summary>CHARLOTTE</br>CHANDLER</br>IRVING</br>SAINT LOUIS</details>|cdcb6b75d443afb154dd677032a52a0c
 Kohler|Digital Intern 🛂|Kohler, WI|7e360129bdbeeeff0a638138996ca854
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Five Rings|Quantitative Researcher Intern|New York, NY|0243c6d97fe0b847ba369fdd530e7bfc
