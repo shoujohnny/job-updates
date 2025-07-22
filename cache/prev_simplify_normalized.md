@@ -1,3 +1,5 @@
+**[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|Technology Summer Internship - Early Careers - Software Engineer|<details><summary>**6 locations**</summary>Iselin, Woodbridge Township, NJ</br>Charlotte, NC</br>St. Louis, MO</br>Phoenix, AZ</br>Chandler, AZ</br>Irving, TX</details>|6dc8c4149168de9d44dd9f0de780e09d
+Wells Fargo(https://simplify.jobs/c/Wells-Fargo?utm_source=GHList|↳|utm_medium=company)|86e88922d2f10d63e1c64fc325fd8fa5
 CTC|Software Engineer|Chicago, IL</br>New York, NY|934b4d9b9b6ff9879a5e99b7d0354b00
 Susquehanna|Software Engineering Intern|Philadelphia, PA|a1d76250bb83b2e7669c90b564ceb077
 Five Rings|Software Developer|New York|12fd7b79e3fa4cefc732742af2b47743
