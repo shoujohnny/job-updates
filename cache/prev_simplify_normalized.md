@@ -8,7 +8,6 @@ Five Rings|Software Developer|New York|12fd7b79e3fa4cefc732742af2b47743
 Akuna Capital(https://simplify.jobs/c/Akuna-Capital?utm_source=GHList|↳|utm_medium=company)|3e796a307d985ac1a0e13d0d76e951bb
 Akuna Capital(https://simplify.jobs/c/Akuna-Capital?utm_source=GHList|↳|utm_medium=company)|3e796a307d985ac1a0e13d0d76e951bb
 Akuna Capital(https://simplify.jobs/c/Akuna-Capital?utm_source=GHList|↳|utm_medium=company)|3e796a307d985ac1a0e13d0d76e951bb
-Akuna Capital(https://simplify.jobs/c/Akuna-Capital?utm_source=GHList|↳|utm_medium=company)|3e796a307d985ac1a0e13d0d76e951bb
 **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)**|Software Developer Intern|NYC|7bce6745c28efb377bb63ec370b1a8b3
 **[Konrad Group](https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Toronto, ON, Canada|1d9e7fc9dede8b0b4d0fbb213bfe11d9
 TSMC|Computer Integrated Manufacturing (CIM) Engineer Intern|Phoenix, AZ|a235ce21f37a5869db92d21c96b375fe
@@ -38,7 +37,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
-Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer – Internship - Production Infrastructure|Seattle, WA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)**|University – Systems Engineer Intern|Fayetteville, NC|ed9e5d8d20a95db8f45ff1d6228bb474
