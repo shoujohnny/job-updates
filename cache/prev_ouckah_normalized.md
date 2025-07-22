@@ -1,11 +1,11 @@
 The Trade Desk|Software Engineering Intern|<details><summary>**5 locations**</summary>Boulder, CO</br>Denver, CO</br>Irvine, CA</br>Bellevue, WA</br>New York, NY</details>|f51c87435967bab162f23724c7711b4c
 Tenstorrent|Software Intern - AI Compilers|Austin, TX</br>Santa Clara, CA</br>Toronto, ON|9fbd4a0b570e334efd1f18c6d2b7c549
-M&T Bank|Software Engineering Intern|Buffalo, NY|abb8a8a9f0ac30a02362bbb35c309ab7
+M&T Bank|Software Engineering Intern 🛂|Buffalo, NY|abb8a8a9f0ac30a02362bbb35c309ab7
 M|↳|T Bank|ce1d30ed482466cbd2f1dda8a5da9ca9
 Kearney&Company|Technology Intern|Alexandria, VA|e3d89b01bcd9898c9216290301687f10
 Genworth|IT Intern|Richmond, VA|749ee79d9922b04fad42348c96f89572
 Castleton Commodities International|Front Office Software Engineer Intern|Stamford, CT|d91858ea48ca8d980d4fd171498a5c5a
-Wells Fargo|2026 Technology Summer Internship 🇺🇸|<details><summary>**4 locations**</summary>CHARLOTTE</br>CHANDLER</br>IRVING</br>SAINT LOUIS</details>|cdcb6b75d443afb154dd677032a52a0c
+Wells Fargo|2026 Technology Summer Internship 🇺🇸|<details><summary>**5 locations**</summary>Charlotte, NC</br>Chandler, AZ</br>Irving, TX</br>Iselin, NJ</br>St. Louis, MO</details>|cdcb6b75d443afb154dd677032a52a0c
 Kohler|Digital Intern 🛂|Kohler, WI|7e360129bdbeeeff0a638138996ca854
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Five Rings|Quantitative Researcher Intern|New York, NY|0243c6d97fe0b847ba369fdd530e7bfc
@@ -37,7 +37,7 @@ Jane Street|Machine Learning Researcher Intern|New York, NY|4c0fda9628fda4b45051
 Jane Street|Machine Learning Engineer Intern|New York, NY|e752dfb85f0092b7b713347f758f0c10
 Jane Street|Quantitative Researcher Intern|New York, NY|7f4c326e22a3ce07ab5b57c587cb0e90
 Jane Street|Quantitative Trader Intern|New York, NY|31c2d673117259054e451472d25b1208
-DRW|Software Developer Intern|Chicago, IL|83dc813530194ab409b9c600bb75f7ff
+DRW|Software Developer Intern 🛂|Chicago, IL|83dc813530194ab409b9c600bb75f7ff
 TSMC|Computer Integrated Manufacturing (CIM) Engineer Intern|Phoenix, AZ|70afd24c0e71c4bcd5b27ffaebda542e
 Wabtec|Summer 2026 LEAD Information Technology Intern|Pittsburgh, PA</br>Chicago, IL|9071e840ce315cb70375fa29ef1ec9e2
 Susquehanna|Quantitative Strategy Developer Intern|Bala Cynwyd, PA|2d8e74a75b51aaacbba631e3c1aecc9c
