@@ -1,11 +1,17 @@
 The Trade Desk|Software Engineering Intern|<details><summary>**5 locations**</summary>Boulder, CO</br>Denver, CO</br>Irvine, CA</br>Bellevue, WA</br>New York, NY</details>|f51c87435967bab162f23724c7711b4c
 Tenstorrent|Software Intern - AI Compilers|Austin, TX</br>Santa Clara, CA</br>Toronto, ON|9fbd4a0b570e334efd1f18c6d2b7c549
+Squarepoint|Quant Researcher Intern|New York, NY|cb1cae873375bf6dc1710e62eadc61ea
 M&T Bank|Software Engineering Intern 🛂|Buffalo, NY|abb8a8a9f0ac30a02362bbb35c309ab7
 M|↳|T Bank|ce1d30ed482466cbd2f1dda8a5da9ca9
 Kearney&Company|Technology Intern|Alexandria, VA|e3d89b01bcd9898c9216290301687f10
 Genworth|IT Intern|Richmond, VA|749ee79d9922b04fad42348c96f89572
+CCC Intelligent Solutions Inc.|AI Enablement Intern|Chicago, IL|44fbc6541c25de1bfd49af0717336cd9
 Castleton Commodities International|Front Office Software Engineer Intern|Stamford, CT|d91858ea48ca8d980d4fd171498a5c5a
+Asana|Software Engineer Intern|Vancouver, Canada|2f8fef6c9b7d2ee689dc74b9c9a1a3a8
+Asana|Software Engineer Intern|San Francisco, CA|ca2a10176be239c69b7eb0a661486674
+Asana|Software Engineer Intern|New York, NY|ee67cb8bfeb2bb5d10d2af90b7b8612a
 Wells Fargo|2026 Technology Summer Internship 🇺🇸|<details><summary>**5 locations**</summary>Charlotte, NC</br>Chandler, AZ</br>Irving, TX</br>Iselin, NJ</br>St. Louis, MO</details>|cdcb6b75d443afb154dd677032a52a0c
+LiveRamp|Software Engineer Co-Op|San Francisco, CA</br>New York, NY</br>Little Rock, AR|2dbab09255aa528ec8c2b674ddd7b8fb
 Kohler|Digital Intern 🛂|Kohler, WI|7e360129bdbeeeff0a638138996ca854
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Five Rings|Quantitative Researcher Intern|New York, NY|0243c6d97fe0b847ba369fdd530e7bfc
