@@ -1,3 +1,4 @@
+Castleton Commodities International|Data Engineering Intern|Stamford, CT</br>Houston, TX|f3db7c68b645d5d536de249746bdd533
 The Trade Desk|Software Engineering Intern|<details><summary>**5 locations**</summary>Boulder, CO</br>Denver, CO</br>Irvine, CA</br>Bellevue, WA</br>New York, NY</details>|f51c87435967bab162f23724c7711b4c
 Tenstorrent|Software Intern - AI Compilers|Austin, TX</br>Santa Clara, CA</br>Toronto, ON|9fbd4a0b570e334efd1f18c6d2b7c549
 Squarepoint|Quant Researcher Intern|New York, NY|cb1cae873375bf6dc1710e62eadc61ea
