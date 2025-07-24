@@ -1,3 +1,5 @@
+Virtu|Quantitative Trading Intern|Austin, TX</br>Chicago, IL</br>New York, NY|76ea3af7ebba000c3f78ddde1aa542ba
+Virtu|Software Engineer Intern|Austin, TX</br>New York, NY|e00bef857f43c7cb003909c56cbdbdc8
 Lynk|Telecommunications Intern|Washington DC|704db291c710a594deb31e2b23d1bfe9
 Castleton Commodities International|GenAI Intern|Houston, TX|9588bbfd9f0a2ded1255bb9b072ff6f6
 Castleton Commodities International|Data Science ML Intern|Stamford, CT|7e95162fe3fd39fd34e699a3421e4a9d
