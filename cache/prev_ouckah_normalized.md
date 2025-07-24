@@ -9,7 +9,6 @@ M&T Bank|Software Engineering Intern 🛂|Buffalo, NY|abb8a8a9f0ac30a02362bbb35c
 M|↳|T Bank|ce1d30ed482466cbd2f1dda8a5da9ca9
 Kearney&Company|Technology Intern 🇺🇸|Alexandria, VA|e3d89b01bcd9898c9216290301687f10
 Genworth|IT Intern|Richmond, VA|749ee79d9922b04fad42348c96f89572
-CCC Intelligent Solutions Inc.|AI Enablement Intern|Chicago, IL|44fbc6541c25de1bfd49af0717336cd9
 Castleton Commodities International|Front Office Software Engineer Intern|Stamford, CT|d91858ea48ca8d980d4fd171498a5c5a
 Asana|Software Engineer Intern|Vancouver, Canada|2f8fef6c9b7d2ee689dc74b9c9a1a3a8
 Asana|Software Engineer Intern|San Francisco, CA|ca2a10176be239c69b7eb0a661486674
@@ -83,7 +82,6 @@ Optiver|Software Engineer Intern|Austin, TX|af4623c8b34b3e5fd8ba28664d1a9c23
 IMC|Quantitative Trader Intern|Chicago, IL|06959e8927fcc86f01c67e67ac516db1
 IMC|Quantitative Research Intern, Trading|Chicago, IL|4e851951c6915a4c70881f0c87f7c2f2
 IMC|Software Engineer Intern|Chicago, IL|aa6fbfcabbece13b085cd5fafa64528e
-Geneva Trading|Quantitative Trader Intern|Chicago, IL|cb53542251b6e27ab66ebe129a665e9b
 Epic|Software Development Intern 🇺🇸|Madison, WI|a83ec2c443ca9ead937a2d266c63976b
 Caterpillar|Engineering Intern|<details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details>|85c16cf18373ab830e2ac35298fcc521
 Walleye Capital|Equity Volatility Quant Researcher Intern|Miami, FL|53eba7f552de5b959afc104642bb76e6
