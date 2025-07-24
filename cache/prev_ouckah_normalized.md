@@ -1,3 +1,4 @@
+Lynk|Telecommunications Intern|Washington DC|704db291c710a594deb31e2b23d1bfe9
 Castleton Commodities International|GenAI Intern|Houston, TX|9588bbfd9f0a2ded1255bb9b072ff6f6
 Castleton Commodities International|Data Science ML Intern|Stamford, CT|7e95162fe3fd39fd34e699a3421e4a9d
 Castleton Commodities International|Data Engineering Intern|Stamford, CT</br>Houston, TX|f3db7c68b645d5d536de249746bdd533
@@ -6,7 +7,7 @@ Tenstorrent|Software Intern - AI Compilers|Austin, TX</br>Santa Clara, CA</br>To
 Squarepoint|Quant Researcher Intern|New York, NY|cb1cae873375bf6dc1710e62eadc61ea
 M&T Bank|Software Engineering Intern 🛂|Buffalo, NY|abb8a8a9f0ac30a02362bbb35c309ab7
 M|↳|T Bank|ce1d30ed482466cbd2f1dda8a5da9ca9
-Kearney&Company|Technology Intern|Alexandria, VA|e3d89b01bcd9898c9216290301687f10
+Kearney&Company|Technology Intern 🇺🇸|Alexandria, VA|e3d89b01bcd9898c9216290301687f10
 Genworth|IT Intern|Richmond, VA|749ee79d9922b04fad42348c96f89572
 CCC Intelligent Solutions Inc.|AI Enablement Intern|Chicago, IL|44fbc6541c25de1bfd49af0717336cd9
 Castleton Commodities International|Front Office Software Engineer Intern|Stamford, CT|d91858ea48ca8d980d4fd171498a5c5a
