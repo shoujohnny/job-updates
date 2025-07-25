@@ -1,3 +1,4 @@
+**[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco CA|1ea1e7619a8fd42503bc17d1cf43ee63
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|Software Engineer 🛂|<details><summary>**5 locations**</summary>Charlotte, NC</br>Phoenix, AZ</br>Chandler, AZ</br>Iselin, NJ</br>Irving, TX</details>|6dc8c4149168de9d44dd9f0de780e09d
 Wells Fargo(https://simplify.jobs/c/Wells-Fargo?utm_source=GHList|↳|utm_medium=company)|86e88922d2f10d63e1c64fc325fd8fa5
 CTC|Software Engineer|Chicago, IL</br>New York, NY|934b4d9b9b6ff9879a5e99b7d0354b00
@@ -33,7 +34,7 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
-**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
+Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
