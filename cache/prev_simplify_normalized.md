@@ -1,3 +1,4 @@
+Metropolitan Transportation Authority|Software Development, Emerging Talent Intern|New York City, NY|1616952fc9b1bfcd531febdd38ab05d9
 **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Livonia, MI</br>Cincinnati, OH|66b3bc9aecabc2cecd284e53d494bda5
 **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco CA|1ea1e7619a8fd42503bc17d1cf43ee63
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|Software Engineer 🛂|<details><summary>**5 locations**</summary>Charlotte, NC</br>Phoenix, AZ</br>Chandler, AZ</br>Iselin, NJ</br>Irving, TX</details>|6dc8c4149168de9d44dd9f0de780e09d
@@ -35,7 +36,7 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
-Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1

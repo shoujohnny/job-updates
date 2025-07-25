@@ -65,7 +65,6 @@ Citadel Securities|Quantitative Trading Intern|Miami, FL</br>New York, NY|0d0132
 Citadel Securities|Software Engineer Intern|Miami, FL</br>New York, NY|5a7a2b2b0c03d6d6f89ed458dd977337
 Citadel|Quantitative Research Analyst Intern|Greenwich, CT</br>Miami, FL</br>New York, NY|d607bafb0210d21068f51a34a0316016
 Citadel|Software Engineer Intern|<details><summary>**4 locations**</summary>Chicago, IL</br>Miami, FL</br>New York, NY</br>Houston, TX</details>|ef262b7502fbd9e8b5a4c9e731ad67e3
-Trane Technologies|Engineering Intern|<details><summary>**4 locations**</summary>Minneapolis, MN</br>Bloomington, MN</br>Noblesville, IN</br>St Paul, MN</details>|d5865c0ae59cd4cb62d1f2c57a1d72b9
 Palantir|Software Engineer Intern, Infrastructure|New York, NY|8a5faf44bc8300b24d14b1b271e61787
 Palantir|Software Engineer Intern|Palo Alto, CA|fc357ae973aca2fe3795b64b9ec0ee47
 Palantir|Forward Deployed Software Engineer Intern, US Government 🇺🇸|New York, NY|3704858f70fd6e7ef49f4673f004bbb1
@@ -94,7 +93,6 @@ Walleye Capital|Risk Quant Research Intern|New York, NY|7d8473e4244ae1ba9958d032
 Walleye Capital|Technology Intern|New York, NY|09f28ab83ff55bd0e17a9850a40e0731
 Radix Trading|Quantitative Technologist Intern|Chicago, IL|18f865b80d995af1ae4bdb591f8ed285
 Morgan Stanley|SWE Intern, Data Analyst Intern|New York, NY|fbb6c9715f2628964b28e5055b108720
-Lockheed Martin|Software Engineer - Intern 🇺🇸|Annapolis Junction, MD|92f419cde52294a6e54fb2fe142067e5
 D. E. Shaw|Software Developer Intern|New York, NY|a57fb1c1f76ed12ee7145d507baa0564
 Citadel Securities|Trading Fundamental Analyst Intern|Miami, FL</br>New York, NY|d44abcc21ba1bf14a0d7b0d941e019d2
 BNP Paribas|Technology Analyst Intern|Jersey CIty, NJ|68b329da9893e34099c7d8ad5cb9c940
@@ -118,7 +116,6 @@ BNP Paribas|Quant Research & Trading Intern|New York, NY|c8be58e32abb4a87b63e735
 Tower Research Capital|Machine Learning Intern|New York, NY|f5138ec3da51b1f93390ba69464efdb8
 Susquehanna|Quantitative Research Intern|Bala Cynwyd, PA|b4194e9c6c13aa3ccd9416525d1a41ad
 Susquehanna|Quantitative Systematic Trading Intern|Bala Cynwyd, PA|e8d1c9d8aa1801b0ab33b89c4d33ab6b
-Susquehanna|Growth Equity Investment Analyst Intern|Bala Cynwyd, PA|2152903137683029bf824ec902151d8c
 Susquehanna|Quantitative Research Intern, Masters|Bala Cynwyd, PA|c67d352c48a7f3f952f7ababfd9a22f9
 Susquehanna|Quantitative Systematic Trading Intern, Masters|Bala Cynwyd, PA|a3ec83d7a71d940865ac9e90b6a126b7
 Protiviti|Digital Intern 🛂|New York, NY|d383af1748df223014863c49afba25a9
