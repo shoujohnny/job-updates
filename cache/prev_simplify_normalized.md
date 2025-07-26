@@ -16,8 +16,8 @@ TSMC|Computer Integrated Manufacturing (CIM) Engineer Intern|Phoenix, AZ|a235ce2
 **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group?utm_source=GHList&utm_medium=company)**|Systems Engineer Intern|Chicago, IL|9d1c8838bbd073549f41c3e9928539cf
 TransMarket Group(https://simplify.jobs/c/TransMarket-Group?utm_source=GHList|↳|utm_medium=company)|e7d5e75f72e51b969bc718bb0f8e0eaa
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Denver, CO|c79008864980cdf371f4ff057aac722b
-N1|Software Engineer Intern (Backend, Rust)|New York|fdca6b9189878e45c41d90f6f9c259b3
-N1|Software Engineer Intern (Fullstack)|New York|88c063f816d473f45c769290f8b3d2a2
+**[N1](https://simplify.jobs/c/N1?utm_source=GHList&utm_medium=company)**|Software Engineer Intern (Backend, Rust)|New York|8e044e2297f4e43e55c45cde22be65df
+N1(https://simplify.jobs/c/N1?utm_source=GHList|↳|utm_medium=company)|cec525bab1c86ece54e1832fdbda57ae
 Epic|Software Development Intern 🇺🇸|Madison, WI|f8fa3e4c3b5215fc35cfc97b3d6c0e37
 D. E. Shaw|Software Developer Intern|New York, NY|1a02f4c1a41be3714a7c51fa5633b1fa
 **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Miami, FL</br>New York, NY|0b878511c702f23f263811eefea55a56
