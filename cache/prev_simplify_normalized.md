@@ -1,5 +1,6 @@
 **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Livonia, MI</br>Cincinnati, OH|66b3bc9aecabc2cecd284e53d494bda5
 **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco CA|1ea1e7619a8fd42503bc17d1cf43ee63
+**[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)**|Internship - Software Engineer|Austin, TX</br>NYC|87f6d39b4f7564dcc4ba8cc460176b7b
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|Software Engineer 🛂|<details><summary>**5 locations**</summary>Charlotte, NC</br>Phoenix, AZ</br>Chandler, AZ</br>Iselin, NJ</br>Irving, TX</details>|6dc8c4149168de9d44dd9f0de780e09d
 Wells Fargo(https://simplify.jobs/c/Wells-Fargo?utm_source=GHList|↳|utm_medium=company)|86e88922d2f10d63e1c64fc325fd8fa5
 CTC|Software Engineer|Chicago, IL</br>New York, NY|934b4d9b9b6ff9879a5e99b7d0354b00
