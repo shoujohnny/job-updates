@@ -1,3 +1,4 @@
+**[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|NYC|baa6ebef2ed7c25b4e8e65d6f6a2fb5e
 Arcade|Software Engineering Intern|San Francisco, CA|494ab8c72c30e79b1e1cecc919fc4ded
 Arcade|Research Engineer Intern, Applied AI|San Francisco, CA|ed4f9f3f2a92747e6a151f78eda4f050
 **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Livonia, MI</br>Cincinnati, OH|66b3bc9aecabc2cecd284e53d494bda5
