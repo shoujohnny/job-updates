@@ -1,3 +1,5 @@
+Arcade|Software Engineering Intern|San Francisco, CA|494ab8c72c30e79b1e1cecc919fc4ded
+Arcade|Research Engineer Intern, Applied AI|San Francisco, CA|ed4f9f3f2a92747e6a151f78eda4f050
 **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Livonia, MI</br>Cincinnati, OH|66b3bc9aecabc2cecd284e53d494bda5
 **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco CA|1ea1e7619a8fd42503bc17d1cf43ee63
 **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)**|Internship - Software Engineer|Austin, TX</br>NYC|87f6d39b4f7564dcc4ba8cc460176b7b
