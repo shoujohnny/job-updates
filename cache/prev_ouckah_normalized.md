@@ -1,3 +1,6 @@
+KeyBank|Analytics and Quantitative Modeling Intern|Cleveland, OH|75bb552ac2aef36835bb5d36da048bb4
+Hudson River Trading|Software Engineering Intern|New York, NY|1d3263c32a7e5d101e687d53ebb6efc9
+Hudson River Trading|Algorithm Development Quant Research Intern|New York, NY|8dad579533d73b8d5f232c057bb99ae1
 Virtu|Quantitative Trading Intern|Austin, TX</br>Chicago, IL</br>New York, NY|76ea3af7ebba000c3f78ddde1aa542ba
 Virtu|Software Engineer Intern|Austin, TX</br>New York, NY|e00bef857f43c7cb003909c56cbdbdc8
 Lynk|Telecommunications Intern 🛂|Washington DC|704db291c710a594deb31e2b23d1bfe9
