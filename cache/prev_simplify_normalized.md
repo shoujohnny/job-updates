@@ -1,3 +1,4 @@
+**[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Dallas, TX|18edb9d5d3abd3696a1d6c212e0b8289
 **[AI Fund](https://simplify.jobs/c/AI-Fund?utm_source=GHList&utm_medium=company)**|Full-Stack Engineer Intern 🛂|San Francisco, CA|7556d98cd014efce4d8f620cf5902e08
 Genworth|IT Development Program Intern 🛂|Richmond, VA|c7ef71485cb3a71d21c45c2369ee6c59
 **[Castleton Commodities International](https://simplify.jobs/c/Castleton-Commodities-International?utm_source=GHList&utm_medium=company)**|Front Office Software Engineer Internship|Stamford, CT|4f35ce7fe44ec5679887d88f5aa2fe28
