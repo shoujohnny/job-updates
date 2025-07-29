@@ -1,3 +1,4 @@
+**[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)**|Software Developer Internship|Spring, TX|6f38317e81195c6ed87924be580e9b04
 **[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
 Datavisor|Software Engineer|Mountain View, CA|7c18e7e94f3bf75f609a3036a21d3b70
 **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Dallas, TX|18edb9d5d3abd3696a1d6c212e0b8289
@@ -11,6 +12,7 @@ Arcade|Research Engineer Intern, Applied AI|San Francisco, CA|ed4f9f3f2a92747e6a
 **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Livonia, MI</br>Cincinnati, OH|66b3bc9aecabc2cecd284e53d494bda5
 **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco CA|1ea1e7619a8fd42503bc17d1cf43ee63
 **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)**|Internship - Software Engineer|Austin, TX</br>NYC|87f6d39b4f7564dcc4ba8cc460176b7b
+**[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0?utm_source=GHList&utm_medium=company)**|2026 Software Engineering Internship|<details><summary>**5 locations**</summary>Irvine, CA</br>NYC</br>Bellevue, WA</br>Denver, CO</br>Boulder, CO</details>|17804da9032c156c96406e1928e6c37d
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|Software Engineer 🛂|<details><summary>**5 locations**</summary>Charlotte, NC</br>Phoenix, AZ</br>Chandler, AZ</br>Iselin, NJ</br>Irving, TX</details>|6dc8c4149168de9d44dd9f0de780e09d
 Wells Fargo(https://simplify.jobs/c/Wells-Fargo?utm_source=GHList|↳|utm_medium=company)|86e88922d2f10d63e1c64fc325fd8fa5
 CTC|Software Engineer|Chicago, IL</br>New York, NY|934b4d9b9b6ff9879a5e99b7d0354b00
@@ -46,7 +48,7 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
-**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
+Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
