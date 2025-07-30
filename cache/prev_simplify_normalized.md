@@ -1,3 +1,4 @@
+**[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)**|Engineering Intern - AI 🛂|New York|f00dbdf2eddebb92caebc7b87f7766f5
 Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a9355638205c
 **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)**|Research Internship – AI Agents for Industrial Applications|Santa Clara, CA|5f8299db1c828e9dc672eb0580c6d94a
 Catalent|AI Operations Project|Emeryville, CA|78e61f4f437e7cc0a98a6dec60d71387
@@ -57,7 +58,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
-Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer – Internship - Production Infrastructure|Seattle, WA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|2025 Emerging Talent Apprentice - Lgcc|NYC|6dc8c4149168de9d44dd9f0de780e09d
