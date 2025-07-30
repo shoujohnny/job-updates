@@ -15,6 +15,7 @@ TikTok|Machine Learning Engineer Intern, TikTok-Recommendation|San Jose, CA|c298
 TikTok|Software Development Test Engineer Intern, Trust and Safety - QA|San Jose, CA|0c40ada1f6b8d113617a199b5df21658
 TikTok|Product Manager Intern, TikTok Shop Seller Risk/Performance Score Product|Seattle, WA|2453883c011164cea16f7b0bdaee9be0
 TikTok|Machine Learning Engineer Intern, Trust and Safety - CV/NLP/Multimodal LLM|Seattle, WA|b55f1b1fa0afa086f6923203cc7fc793
+HP|Software Developer Intern 🛂|Spring, TX|839e472ef8c0fefc5915cf2f7ad3f29c
 EControls|IoT Software Developer Intern|San Antonio, TX|6a646df7627580a93c3b22b6920996b1
 Deloitte|Technology Intern 🛂|Hermitage, TN|13abfb6ace766d1bcea487df2c21d606
 KeyBank|Analytics and Quantitative Modeling Intern|Cleveland, OH|75bb552ac2aef36835bb5d36da048bb4
