@@ -1,3 +1,4 @@
+Harmonic|Software Engineer Intern|New York, NY|a2e21cb0f8bff4d23f9f9ecc77d3f101
 TikTok|QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)|San Jose, CA|df85ab167aced293db810630ffe2d83f
 TikTok|Data Scientist Intern, Privacy and Data Protection Office|San Jose, CA|1bd8bc50db231a8b19f520b7d4fc2710
 TikTok|Strategy Intern, TikTok Shop Resource Management|Seattle|b3786ea31b5373e7814c63a8599f0781
