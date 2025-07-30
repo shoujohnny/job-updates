@@ -1,6 +1,8 @@
 Tencent|Cloud Media Services Intern|Palo Alto, CA|c2bfc20a986e08cfa42716bf797b85c9
+PNC|Technology Intern|<details><summary>**4 locations**</summary>Pittsburgh, PA</br>Birmingham, AL</br>Cleveland, OH</br>Dallas, TX</details>|8890dde8752aa5f4881235b6498980e7
 PNC|Quantitative Analytics Intern|Pittsburgh, PA</br>Tysons, VA|b7a11b8b7a81775b56c6da7dbcb1a7cc
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
+Leonardo DRS|Embedded Software Engineer Intern|Bridgeton, MO|c82dee280474e99f44df0feeb0017c4d
 KBR|Software Engineer Intern|Sioux Falls, SD|2351c1b98fb174f6d8f569a97322d31b
 Harmonic|Software Engineer Intern|New York, NY|a2e21cb0f8bff4d23f9f9ecc77d3f101
 GIMLET LABS|AI Researcher Intern|San Francisco, CA|22c2aa524be7c9af4e960c10fad485df
