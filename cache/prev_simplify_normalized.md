@@ -1,3 +1,5 @@
+Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a9355638205c
+**[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)**|Research Internship – AI Agents for Industrial Applications|Santa Clara, CA|5f8299db1c828e9dc672eb0580c6d94a
 Catalent|AI Operations Project|Emeryville, CA|78e61f4f437e7cc0a98a6dec60d71387
 **[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)**|Software Engineer Co-op|Audubon, PA|57e88c3121a2717b007cb36e89310ef2
 **[Neuralink](https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company)**|Firmware Engineer Intern 🛂|Fremont, CA|de94a112f39bfca9e02f769c2a7e74de
