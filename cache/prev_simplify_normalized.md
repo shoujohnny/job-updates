@@ -1,3 +1,6 @@
+Catalent|AI Operations Project|Emeryville, CA|78e61f4f437e7cc0a98a6dec60d71387
+**[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)**|Software Engineer Co-op|Audubon, PA|57e88c3121a2717b007cb36e89310ef2
+**[Neuralink](https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company)**|Firmware Engineer Intern 🛂|Fremont, CA|de94a112f39bfca9e02f769c2a7e74de
 Deloitte|Deloitte Technology - US Intern - Summer 2026 🛂|Hermitage, TN|5ef8793d8f9ac22f3454a9b86e42f8cf
 **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)**|Software Developer Internship|Spring, TX|6f38317e81195c6ed87924be580e9b04
 **[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
