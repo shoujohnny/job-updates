@@ -1,5 +1,17 @@
+Tencent|Cloud Media Services Intern|Palo Alto, CA|c2bfc20a986e08cfa42716bf797b85c9
+PNC|Quantitative Analytics Intern|Pittsburgh, PA</br>Tysons, VA|b7a11b8b7a81775b56c6da7dbcb1a7cc
+Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
+KBR|Software Engineer Intern|Sioux Falls, SD|2351c1b98fb174f6d8f569a97322d31b
 Harmonic|Software Engineer Intern|New York, NY|a2e21cb0f8bff4d23f9f9ecc77d3f101
+GIMLET LABS|AI Researcher Intern|San Francisco, CA|22c2aa524be7c9af4e960c10fad485df
+GIMLET LABS|Software Engineer Intern|San Francisco, CA|81c4e7d122038639a3dafeaaf0a2d98a
+Fable Security|Software Engineering Intern|San Francisco, CA|7592b62b095e001a6e7c98aac37424ce
+Asana|Data Science Intern|Vancouver, Canada|02bc4c90f3f88af30d3240e85f6641ac
+Asana|Data Science Intern|New York, NY|52c61b2f1013459bf2fc386798cea2d7
+Asana|Data Science Intern|San Francisco, CA|66221c38d83fcf0081628e9ac3531913
+Allium|Engineering Intern, Internal Platform|New York, NY|dde5d9438f29ce7fdb977de078fdf7ca
 TikTok|QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)|San Jose, CA|df85ab167aced293db810630ffe2d83f
+TikTok|Software Engineer Intern, Global CRM|San Jose, CA|aeed74604fbf0313b806391622a28296
 TikTok|Data Scientist Intern, Privacy and Data Protection Office|San Jose, CA|1bd8bc50db231a8b19f520b7d4fc2710
 TikTok|Strategy Intern, TikTok Shop Resource Management|Seattle|b3786ea31b5373e7814c63a8599f0781
 TikTok|Frontend Engineer Intern, Trust and Safety-Engineering-Data Product & General Service|San Jose, CA|d2d040fbf9d36f18efdf4dc2c6d66de6
