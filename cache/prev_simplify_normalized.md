@@ -1,3 +1,4 @@
+EControls|IoT Software Developer Intern|San Antonio, TX|3f32e485a962c9f6a4c9554beb8da916
 **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)**|Engineering Intern - AI 🛂|New York|f00dbdf2eddebb92caebc7b87f7766f5
 Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a9355638205c
 **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)**|Research Internship – AI Agents for Industrial Applications|Santa Clara, CA|5f8299db1c828e9dc672eb0580c6d94a
