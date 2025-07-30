@@ -1,3 +1,6 @@
+SEL|Software Application Engineer Intern|Pullman, WA|53a3118b5e7cf5e0433ff6688b4db870
+**[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software Engineer Intern 🛂|Sioux Falls, SD|2dae4920db43b93da0cfe91e51db16f4
+**[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)**|Cloud Media Services Intern|Palo Alto, CA|4ba5359cbe66df6b500dfc9a50ffe3d2
 EControls|IoT Software Developer Intern|San Antonio, TX|3f32e485a962c9f6a4c9554beb8da916
 **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)**|Engineering Intern - AI 🛂|New York|f00dbdf2eddebb92caebc7b87f7766f5
 Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a9355638205c
