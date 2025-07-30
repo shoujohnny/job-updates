@@ -1,3 +1,21 @@
+TikTok|QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)|San Jose, CA|df85ab167aced293db810630ffe2d83f
+TikTok|Data Scientist Intern, Privacy and Data Protection Office|San Jose, CA|1bd8bc50db231a8b19f520b7d4fc2710
+TikTok|Strategy Intern, TikTok Shop Resource Management|Seattle|b3786ea31b5373e7814c63a8599f0781
+TikTok|Frontend Engineer Intern, Trust and Safety-Engineering-Data Product & General Service|San Jose, CA|d2d040fbf9d36f18efdf4dc2c6d66de6
+TikTok|Software Engineer Intern, Trust and Safety -Engineer-AI Safety|San Jose, CA|0fd27b0a87dab530b2f5c20912ba446f
+TikTok|Frontend Engineer Intern, Trust and Safety-Engineering-Risk & Response|Seattle|f2fef39b9a90656641e83cf68aa68b20
+TikTok|Software Engineer Intern, Trust and Safety - Algorithm Engineering|San Jose, CA|591c2fbd02dfdc691dda0dffb5d44005
+TikTok|Product Manager Intern, TikTok Shop IPR Product|Seattle, WA|d85325a066513eac72d2842ba32295ad
+TikTok|Product Manager Intern, TikTok Shop Operation Product, CRM|Seattle, WA|12424f02118f4043979053692b0f3ac9
+TikTok|Machine Learning Engineer Intern, TikTok-Recommendation|Seattle, WA|d4a6a2173733a45c0348f2bc5aa2e3cf
+TikTok|Machine Learning Engineer Intern, Trust and Safety - CV/NLP/Multimodal LLM|San Jose, CA|d9591bed5cb090f3dd7da125cfef9def
+TikTok|Software Engineer Intern, Trust and Safety - Engineering-Core Safety|Seattle, WA|e328dd49b271d2fceb978493e97a2086
+TikTok|Backend Software Engineer Intern, Trust and Safety-Engineering-Risk & Response|Seattle, WA|28372fe22ed2c37f23cc9f368197826e
+TikTok|Machine Learning Engineer Intern, TikTok-Recommendation|San Jose, CA|c29872214417145064bf1eaf3aea7a89
+TikTok|Software Development Test Engineer Intern, Trust and Safety - QA|San Jose, CA|0c40ada1f6b8d113617a199b5df21658
+TikTok|Product Manager Intern, TikTok Shop Seller Risk/Performance Score Product|Seattle, WA|2453883c011164cea16f7b0bdaee9be0
+TikTok|Machine Learning Engineer Intern, Trust and Safety - CV/NLP/Multimodal LLM|Seattle, WA|b55f1b1fa0afa086f6923203cc7fc793
+EControls|IoT Software Developer Intern|San Antonio, TX|6a646df7627580a93c3b22b6920996b1
 Deloitte|Technology Intern 🛂|Hermitage, TN|13abfb6ace766d1bcea487df2c21d606
 KeyBank|Analytics and Quantitative Modeling Intern|Cleveland, OH|75bb552ac2aef36835bb5d36da048bb4
 Hudson River Trading|Software Engineering Intern|New York, NY|1d3263c32a7e5d101e687d53ebb6efc9
@@ -55,7 +73,6 @@ Jane Street|Quantitative Researcher Intern|New York, NY|7f4c326e22a3ce07ab5b57c5
 Jane Street|Quantitative Trader Intern|New York, NY|31c2d673117259054e451472d25b1208
 DRW|Software Developer Intern 🛂|Chicago, IL|83dc813530194ab409b9c600bb75f7ff
 TSMC|Computer Integrated Manufacturing (CIM) Engineer Intern|Phoenix, AZ|70afd24c0e71c4bcd5b27ffaebda542e
-Wabtec|Summer 2026 LEAD Information Technology Intern|Pittsburgh, PA</br>Chicago, IL|9071e840ce315cb70375fa29ef1ec9e2
 Susquehanna|Quantitative Strategy Developer Intern|Bala Cynwyd, PA|2d8e74a75b51aaacbba631e3c1aecc9c
 Optiver|Quantitative Research Intern|Austin, TX|56bd00a9a97ac93004d4caf2ef3ca25e
 Optiver|Quantitative Research Intern|Chicago, IL|206423c40f1e303cd4213e7e97610053
@@ -103,7 +120,7 @@ BNP Paribas|Technology Analyst Intern|Jersey CIty, NJ|68b329da9893e34099c7d8ad5c
 Bank of America|Software Engineer Summer Analyst Intern|Charlotte, NC</br>Chicago, IL</br>Dallas, TX|3ed4408823f4c5ee5cf0b83b6f4f51c6
 Bank of America|Cybersecurity Intern|<details><summary>**4 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Denver, CO</br>Washington, DC</details>|48ac7ff50ad63689b14d0ca41d892ae0
 Bank of America|Quantitative Data Analytics Summer Analyst Intern|<details><summary>**4 locations**</summary>Atlanta, GA</br>Charlotte, NC</br>Chicago, IL</br>New York, NY</details>|92173cf49d2656b3be63ee7694849add
-Abbott|IT Intern|Waukegan, IL|3894d64c744226cfe7ab012a469aa9c1
+Abbott|IT Intern 🛂|Waukegan, IL|3894d64c744226cfe7ab012a469aa9c1
 Susquehanna|Quantitative Trader Intern|Bala Cynwyd, PA|e945b5de132a262be2d55e5ad855a96e
 TransMarket Group|Quantitative Trader Intern|Chicago, IL|861fec4f659f3ac569ca822e0165166f
 TransMarket Group|DevOps/SRE Intern|Chicago, IL|ad0ccc224b5299ff2695db4329009de1
