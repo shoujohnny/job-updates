@@ -1,4 +1,5 @@
 Tencent|Cloud Media Services Intern|Palo Alto, CA|c2bfc20a986e08cfa42716bf797b85c9
+Reality Defender|Computer Vision Intern|New York City, NY|6e97eff8f4386045a8162b570435e2c1
 PNC|Technology Intern|<details><summary>**4 locations**</summary>Pittsburgh, PA</br>Birmingham, AL</br>Cleveland, OH</br>Dallas, TX</details>|8890dde8752aa5f4881235b6498980e7
 PNC|Quantitative Analytics Intern|Pittsburgh, PA</br>Tysons, VA|b7a11b8b7a81775b56c6da7dbcb1a7cc
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
@@ -12,6 +13,7 @@ Asana|Data Science Intern|Vancouver, Canada|02bc4c90f3f88af30d3240e85f6641ac
 Asana|Data Science Intern|New York, NY|52c61b2f1013459bf2fc386798cea2d7
 Asana|Data Science Intern|San Francisco, CA|66221c38d83fcf0081628e9ac3531913
 Allium|Engineering Intern, Internal Platform|New York, NY|dde5d9438f29ce7fdb977de078fdf7ca
+AI Fund|Full-Stack Engineer Intern|San Francisco, CA|8f7b57c1b60470bf6e46c3ddcf3c0a5e
 TikTok|QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)|San Jose, CA|df85ab167aced293db810630ffe2d83f
 TikTok|Software Engineer Intern, Global CRM|San Jose, CA|aeed74604fbf0313b806391622a28296
 TikTok|Data Scientist Intern, Privacy and Data Protection Office|San Jose, CA|1bd8bc50db231a8b19f520b7d4fc2710
