@@ -2,14 +2,11 @@
 SEL|Software Application Engineer Intern|Pullman, WA|53a3118b5e7cf5e0433ff6688b4db870
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software Engineer Intern 🛂|Sioux Falls, SD|2dae4920db43b93da0cfe91e51db16f4
 **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)**|Cloud Media Services Intern|Palo Alto, CA|4ba5359cbe66df6b500dfc9a50ffe3d2
-EControls|IoT Software Developer Intern|San Antonio, TX|3f32e485a962c9f6a4c9554beb8da916
 **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)**|Engineering Intern - AI 🛂|New York|f00dbdf2eddebb92caebc7b87f7766f5
 Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a9355638205c
 **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)**|Research Internship – AI Agents for Industrial Applications|Santa Clara, CA|5f8299db1c828e9dc672eb0580c6d94a
-Catalent|AI Operations Project|Emeryville, CA|78e61f4f437e7cc0a98a6dec60d71387
 **[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)**|Software Engineer Co-op|Audubon, PA|57e88c3121a2717b007cb36e89310ef2
 **[Neuralink](https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company)**|Firmware Engineer Intern 🛂|Fremont, CA|de94a112f39bfca9e02f769c2a7e74de
-Deloitte|Deloitte Technology - US Intern - Summer 2026 🛂|Hermitage, TN|5ef8793d8f9ac22f3454a9b86e42f8cf
 **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)**|Software Developer Internship|Spring, TX|6f38317e81195c6ed87924be580e9b04
 **[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
 Datavisor|Software Engineer|Mountain View, CA|7c18e7e94f3bf75f609a3036a21d3b70
@@ -21,8 +18,6 @@ Castleton Commodities International(https://simplify.jobs/c/Castleton-Commoditie
 **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|NYC|baa6ebef2ed7c25b4e8e65d6f6a2fb5e
 Arcade|Software Engineering Intern|San Francisco, CA|494ab8c72c30e79b1e1cecc919fc4ded
 Arcade|Research Engineer Intern, Applied AI|San Francisco, CA|ed4f9f3f2a92747e6a151f78eda4f050
-**[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Livonia, MI</br>Cincinnati, OH|66b3bc9aecabc2cecd284e53d494bda5
-**[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco CA|1ea1e7619a8fd42503bc17d1cf43ee63
 **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)**|Internship - Software Engineer|Austin, TX</br>NYC|87f6d39b4f7564dcc4ba8cc460176b7b
 **[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0?utm_source=GHList&utm_medium=company)**|2026 Software Engineering Internship|<details><summary>**5 locations**</summary>Irvine, CA</br>NYC</br>Bellevue, WA</br>Denver, CO</br>Boulder, CO</details>|17804da9032c156c96406e1928e6c37d
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|Software Engineer 🛂|<details><summary>**5 locations**</summary>Charlotte, NC</br>Phoenix, AZ</br>Chandler, AZ</br>Iselin, NJ</br>Irving, TX</details>|6dc8c4149168de9d44dd9f0de780e09d
