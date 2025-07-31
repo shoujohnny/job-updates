@@ -1,5 +1,7 @@
 New York Life Insurance|Software Engineer Intern|New York, NY|26f9a48aee02143d8f0cce79dd1160b6
 General Dynamics|Software Engineer Intern 🇺🇸|Orlando, FL|bd800c85edbff69ea908c9e80a87cf80
+Baseten|Software Engineering Intern|New York, NY</br>San Francisco, CA|8edf53213c56e808d86c2fac0b01b16e
+AppLovin|Software Engineer Intern|Remote|ab87aea9c0e0747c6b31378806cbefac
 Tencent|Cloud Media Services Intern|Palo Alto, CA|c2bfc20a986e08cfa42716bf797b85c9
 Reality Defender|Computer Vision Intern|New York City, NY|6e97eff8f4386045a8162b570435e2c1
 PNC|Technology Intern|<details><summary>**4 locations**</summary>Pittsburgh, PA</br>Birmingham, AL</br>Cleveland, OH</br>Dallas, TX</details>|8890dde8752aa5f4881235b6498980e7
