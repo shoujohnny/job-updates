@@ -1,3 +1,4 @@
+New York Life Insurance|Software Engineer Intern|New York, NY|26f9a48aee02143d8f0cce79dd1160b6
 Tencent|Cloud Media Services Intern|Palo Alto, CA|c2bfc20a986e08cfa42716bf797b85c9
 Reality Defender|Computer Vision Intern|New York City, NY|6e97eff8f4386045a8162b570435e2c1
 PNC|Technology Intern|<details><summary>**4 locations**</summary>Pittsburgh, PA</br>Birmingham, AL</br>Cleveland, OH</br>Dallas, TX</details>|8890dde8752aa5f4881235b6498980e7
@@ -70,7 +71,6 @@ Bill|Software Engineer Intern|San Jose, CA|dd053e9488a86f2948f0a46b06b901bb
 Susquehanna|Software Engineering Intern|Bala Cynwyd, PA|43e22c91d4fc58677828f2ba8cdbec47
 Chicago Trading Company|Quant Trading Intern|Chicago, IL|e830de24d30b1a34c57451b48a5c059a
 Chicago Trading Company|Software Engineer Intern|Chicago, IL</br>New York, NY|6833494adcfe605dba57f1918005aa18
-Caterpillar|Digital and Analytics Intern|Chicago, IL</br>Peoria, IL</br>Irving, TX|4a20b1215664703a7bba5b276ca513aa
 Akuna Capital|Software Engineer Intern, C++|Chicago, IL|f86323642faba4e7275f6d5d915a939e
 Akuna Capital|Software Engineer Intern, Python|Chicago, IL|b7130fae69f774a23d87f6627dde031d
 Akuna Capital|Quantitative Research Intern|Chicago, IL|841bc1bdda7f655adbd06713221724d1
