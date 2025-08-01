@@ -1,3 +1,4 @@
+**[Jonas Software](https://simplify.jobs/c/Jonas-Software?utm_source=GHList&utm_medium=company)**|Jonas Summer Internship - Various Departments|Remote in USA</br>Remote in Canada|318a19b1b805a1d71e92cee0efa6c0b9
 **[HPR (Hyannis Port Research)](https://simplify.jobs/c/HyannisPortResearch?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Needham, MA|4f3f0ba5ad2ac2678421433b4d52d346
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Global E-Commerce|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
@@ -61,11 +62,11 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
-**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer – Internship - Production Infrastructure|Seattle, WA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Kimley Horn|Software Developer Intern|Raleigh, NC|68b329da9893e34099c7d8ad5cb9c940
