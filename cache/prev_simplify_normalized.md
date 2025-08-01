@@ -5,7 +5,7 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)**|2026 Software Engineer Program – Summer Internship|Austin, TX|71033041cf874ba64c15921792218f2d
 GDIT|Software Developer Associate (Intern)|Bossier City, LA|0b0731d1e8e138c70ea71d8840f86d91
 **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)**|Software Development Intern|Dulles, VA|e8a1098449fdb669d4deecc7a334a114
-SEL|Software Application Engineer Intern|Pullman, WA|53a3118b5e7cf5e0433ff6688b4db870
+**[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)**|Software Application Engineer Intern|Pullman, WA|d13439dac91ace3019e5e0e59afef2fe
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software Engineer Intern 🛂|Sioux Falls, SD|2dae4920db43b93da0cfe91e51db16f4
 **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)**|Cloud Media Services Intern|Palo Alto, CA|4ba5359cbe66df6b500dfc9a50ffe3d2
 **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)**|Engineering Intern - AI 🛂|New York|f00dbdf2eddebb92caebc7b87f7766f5
