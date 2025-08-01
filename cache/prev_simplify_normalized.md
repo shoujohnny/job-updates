@@ -1,3 +1,5 @@
+**[DV Trading](https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company)**|2026 Summer Internship - Software Development - DV Commodities|London, UK|7f994f394ae1bf78c19741e9aaedb034
+DV Trading(https://simplify.jobs/c/DV-Trading?utm_source=GHList|↳|utm_medium=company)|d793c7b821d16a7f6fa92ff4c550bea3
 **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
 **[Jonas Software](https://simplify.jobs/c/Jonas-Software?utm_source=GHList&utm_medium=company)**|Jonas Summer Internship - Various Departments|Remote in USA</br>Remote in Canada|318a19b1b805a1d71e92cee0efa6c0b9
 **[HPR (Hyannis Port Research)](https://simplify.jobs/c/HyannisPortResearch?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Needham, MA|4f3f0ba5ad2ac2678421433b4d52d346
@@ -9,6 +11,7 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 Otis(https://simplify.jobs/c/Otis?utm_source=GHList|↳|utm_medium=company)|186b3142189601d89ce3a244b59778e8
 **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN|3883194066a3360ead738297390681ca
 **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)**|2026 Software Engineer Program – Summer Internship|Austin, TX|71033041cf874ba64c15921792218f2d
+**[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Alberta, Canada|61d6d77985463ba63ccb89850c4383b7
 GDIT|Software Developer Associate (Intern)|Bossier City, LA|0b0731d1e8e138c70ea71d8840f86d91
 **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)**|Software Development Intern|Dulles, VA|e8a1098449fdb669d4deecc7a334a114
 **[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)**|Software Application Engineer Intern|Pullman, WA|d13439dac91ace3019e5e0e59afef2fe
