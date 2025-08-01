@@ -1,3 +1,4 @@
+JPMorgan Chase|Software Engineer Intern 🛂|<details><summary>**9 locations**</summary>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY, United States  Palo Alto, CA</br>Plano, TX</br>Tampa, FL</br>Wilmington, DE</details>|21260eb3dd90d37b26b3545a029a722a
 Copart|Mobile Developer Intern (AI / ML)|Dallas, TX|8565823682119d72a3b728b034dc7a26
 New York Life Insurance|Software Engineer Intern|New York, NY|26f9a48aee02143d8f0cce79dd1160b6
 General Dynamics|Software Engineer Intern 🇺🇸|Orlando, FL|bd800c85edbff69ea908c9e80a87cf80
