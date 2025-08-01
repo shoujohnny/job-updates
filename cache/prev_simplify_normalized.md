@@ -1,3 +1,4 @@
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Frontend Software Engineer Intern - Global E-Commerce|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
 **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN|3883194066a3360ead738297390681ca
 **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)**|2026 Software Engineer Program – Summer Internship|Austin, TX|71033041cf874ba64c15921792218f2d
 GDIT|Software Developer Associate (Intern)|Bossier City, LA|0b0731d1e8e138c70ea71d8840f86d91
