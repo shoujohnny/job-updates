@@ -1,3 +1,11 @@
+TikTok|Software Engineer Intern, Data Ecosystem|San Jose, CA|0fb0025e156a4825f5023c79e244e357
+Ramp|Software Engineer Intern, Backend|New York, NY|963fac994ec409dcfe9752639264be5e
+Ramp|Software Engineer Intern, Frontend|New York, NY|2f3301ef5e8e7ce12cc42bf69f0ef5b6
+Otis|Software Engineering Intern|Farmington, CT|995dbd6cf1a6526490317333c854cf99
+Medtronic|R&D Engineering Intern 🛂|<details><summary>**5 locations**</summary>Minneapolis, MN</br>Tempe, AZ</br>Santa Rosa, CA</br>Lafayette, CO</br>Boulder, CO</details>|eb544574af45556ca031ae8a2614e2e1
+Medtronic|IT Intern 🛂|Minneapolis, MN|cf449fc4400d10683f83c84f90293c66
+Medtronic|Software Engineering Intern 🛂|North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN|c83fc5fe47eb45bf7d82d8fb11f3a96f
+HPR|Software Engineering Intern|Needham, MA|f82012d8c06a0fa86dd60781204c21cb
 DV Commodities|Software Development Intern|New York|3c928b4c9e3bcc0ce4920087a042a49d
 Altruist|Software Engineering Intern|San Francisco, CA|68b329da9893e34099c7d8ad5cb9c940
 Sentry|Software Engineering Intern 🛂|San Francisco, California|cfdc0e93e2d0ae406e674edcc8b04f68
