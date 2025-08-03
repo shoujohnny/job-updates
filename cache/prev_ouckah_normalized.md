@@ -18,7 +18,6 @@ AppLovin|Software Engineer Intern|Remote|ab87aea9c0e0747c6b31378806cbefac
 Tencent|Cloud Media Services Intern|Palo Alto, CA|c2bfc20a986e08cfa42716bf797b85c9
 Reality Defender|Computer Vision Intern|New York City, NY|6e97eff8f4386045a8162b570435e2c1
 PNC|Technology Intern|<details><summary>**4 locations**</summary>Pittsburgh, PA</br>Birmingham, AL</br>Cleveland, OH</br>Dallas, TX</details>|8890dde8752aa5f4881235b6498980e7
-PNC|Quantitative Analytics Intern|Pittsburgh, PA</br>Tysons, VA|b7a11b8b7a81775b56c6da7dbcb1a7cc
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Leonardo DRS|Embedded Software Engineer Intern|Bridgeton, MO|c82dee280474e99f44df0feeb0017c4d
 KBR|Software Engineer Intern|Sioux Falls, SD|2351c1b98fb174f6d8f569a97322d31b
@@ -63,7 +62,6 @@ Castleton Commodities International|GenAI Intern|Houston, TX|9588bbfd9f0a2ded125
 Castleton Commodities International|Data Science ML Intern|Stamford, CT|7e95162fe3fd39fd34e699a3421e4a9d
 Castleton Commodities International|Data Engineering Intern|Stamford, CT</br>Houston, TX|f3db7c68b645d5d536de249746bdd533
 The Trade Desk|Software Engineering Intern|<details><summary>**5 locations**</summary>Boulder, CO</br>Denver, CO</br>Irvine, CA</br>Bellevue, WA</br>New York, NY</details>|f51c87435967bab162f23724c7711b4c
-Tenstorrent|Software Intern - AI Compilers|Austin, TX</br>Santa Clara, CA</br>Toronto, ON|9fbd4a0b570e334efd1f18c6d2b7c549
 Squarepoint|Quant Researcher Intern|New York, NY|cb1cae873375bf6dc1710e62eadc61ea
 M&T Bank|Software Engineering Intern 🛂|Buffalo, NY|abb8a8a9f0ac30a02362bbb35c309ab7
 M|↳|T Bank|ce1d30ed482466cbd2f1dda8a5da9ca9
@@ -141,11 +139,8 @@ IMC|Quantitative Research Intern, Trading|Chicago, IL|4e851951c6915a4c70881f0c87
 IMC|Software Engineer Intern|Chicago, IL|aa6fbfcabbece13b085cd5fafa64528e
 Epic|Software Development Intern 🇺🇸|Madison, WI|a83ec2c443ca9ead937a2d266c63976b
 Caterpillar|Engineering Intern|<details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details>|85c16cf18373ab830e2ac35298fcc521
-Walleye Capital|Equity Volatility Quant Researcher Intern|Miami, FL|53eba7f552de5b959afc104642bb76e6
 Walleye Capital|Quantitative Developer Intern|Boston, MA|a7f2aca1d49bc82737a79f4f0471f845
 Walleye Capital|Quantitative Researcher Intern|Boston, MA|834d85594bad255d9bab0293ca030472
-Walleye Capital|Risk Quant Research Intern|New York, NY|7d8473e4244ae1ba9958d032bce5a908
-Walleye Capital|Technology Intern|New York, NY|09f28ab83ff55bd0e17a9850a40e0731
 Radix Trading|Quantitative Technologist Intern|Chicago, IL|18f865b80d995af1ae4bdb591f8ed285
 Morgan Stanley|SWE Intern, Data Analyst Intern|New York, NY|fbb6c9715f2628964b28e5055b108720
 D. E. Shaw|Software Developer Intern|New York, NY|a57fb1c1f76ed12ee7145d507baa0564
