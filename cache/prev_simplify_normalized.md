@@ -15,7 +15,6 @@ Otis(https://simplify.jobs/c/Otis?utm_source=GHList|↳|utm_medium=company)|186b
 **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)**|2026 Software Engineer Program – Summer Internship 🛂|Austin, TX|71033041cf874ba64c15921792218f2d
 **[M&T Bank](https://simplify.jobs/c/M-And-T-Bank?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Buffalo, NY|2c80f4d16396b20c57fc702bce9a1f7a
 **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Alberta, Canada|61d6d77985463ba63ccb89850c4383b7
-**[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)**|Software Development Intern|Dulles, VA|e8a1098449fdb669d4deecc7a334a114
 **[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)**|Software Application Engineer Intern|Pullman, WA|d13439dac91ace3019e5e0e59afef2fe
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software Engineer Intern 🛂|Sioux Falls, SD|2dae4920db43b93da0cfe91e51db16f4
 **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)**|Cloud Media Services Intern|Palo Alto, CA|4ba5359cbe66df6b500dfc9a50ffe3d2
@@ -80,6 +79,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Kimley Horn|Software Developer Intern|Raleigh, NC|68b329da9893e34099c7d8ad5cb9c940
+**[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)**|Software Development Intern|Dulles, VA|e8a1098449fdb669d4deecc7a334a114
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|2025 Emerging Talent Apprentice - Lgcc|NYC|6dc8c4149168de9d44dd9f0de780e09d
 **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)**|University – Systems Engineer Intern|Fayetteville, NC|ed9e5d8d20a95db8f45ff1d6228bb474
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Product Development Internship Program 🛂|Plano, TX McLean, VA|77d38e69bf1cf859fe120988418e96a9
