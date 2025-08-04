@@ -20,6 +20,7 @@ Otis(https://simplify.jobs/c/Otis?utm_source=GHList|↳|utm_medium=company)|186b
 **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)**|2026 Software Engineer Program – Summer Internship 🛂|Austin, TX|71033041cf874ba64c15921792218f2d
 **[M&T Bank](https://simplify.jobs/c/M-And-T-Bank?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Buffalo, NY|2c80f4d16396b20c57fc702bce9a1f7a
 **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Alberta, Canada|61d6d77985463ba63ccb89850c4383b7
+**[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|SF</br>NYC|a6c3b48d983e6c0661a2bf82159ecb97
 **[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)**|Software Application Engineer Intern|Pullman, WA|d13439dac91ace3019e5e0e59afef2fe
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software Engineer Intern 🛂|Sioux Falls, SD|2dae4920db43b93da0cfe91e51db16f4
 **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)**|Cloud Media Services Intern|Palo Alto, CA|4ba5359cbe66df6b500dfc9a50ffe3d2
@@ -76,7 +77,7 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
-**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
+Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
