@@ -1,8 +1,12 @@
+Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|c9b20fab631d33294a26155bb3679763
+TikTok|Software Engineer Intern (Data Ecosystem)|San Jose, CA|f067cc79f67710903552e7a6dabca3a6
+TikTok|Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)|San Jose, CA|f1aaf5c78aac7b28dcd6ab4a815fbee3
+**[AppLovin](https://simplify.jobs/c/AppLovin?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Remote|024dbf9d33e001d5245e18f2e63b4d95
 **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|New York, NY</br>San Francisco, CA|a6c3b48d983e6c0661a2bf82159ecb97
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Technology Internship Program - Summer 2026 🛂|McLean, VA</br>Richmond, VA</br>Plano, TX|77d38e69bf1cf859fe120988418e96a9
 **[JP Morgan Chase](https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company)**|2025 Code for Good Hackathon – Summer Internship - Software Engineer Program|<details><summary>**9 locations**</summary>Palo Alto, CA</br>Houston, TX</br>Austin, TX</br>Tampa, FL</br>Plano, TX</br>Chicago, IL</br>Columbus, OH</br>NYC</br>Wilmington, DE</details>|943f9c905a487aaf71ea0ef13948906b
 **[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|SF|1192f7e264b04bfdff13df0c475ee154
-**[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|LA|1192f7e264b04bfdff13df0c475ee154
+Altruist(https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList|↳|utm_medium=company)|ed13574fdd960f4feb55f4311c382b34
 **[Ramp](https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company)**|Software Engineer Internship - Backend|NYC|64c3a896a273e1719503c1df68956a01
 **[DV Trading](https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company)**|2026 Summer Internship - Software Development - DV Commodities|London, UK|7f994f394ae1bf78c19741e9aaedb034
 DV Trading(https://simplify.jobs/c/DV-Trading?utm_source=GHList|↳|utm_medium=company)|d793c7b821d16a7f6fa92ff4c550bea3
