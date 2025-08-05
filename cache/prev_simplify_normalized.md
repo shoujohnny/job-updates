@@ -1,3 +1,5 @@
+**[Peraton](https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company)**|Summer 2026 University Internship Pipeline|Reston, VA|12c30ae7ca47f37a7371db78eedb6f9d
+**[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|Chicago, IL</br>NYC|6d820dfd303aae7b383d497929ca3ca3
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Payment Architecture - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Cyber Security Internship Program 🛂|Mclean, VA</br>Plano, TX|77d38e69bf1cf859fe120988418e96a9
 EPIC|Student Associate - Software Engineer 🛂|Rochester, NY|4ef3676741ef579f7320189e1883a379
