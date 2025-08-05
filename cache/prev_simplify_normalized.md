@@ -1,3 +1,4 @@
+EPIC|Student Associate - Software Engineer 🛂|Rochester, NY|4ef3676741ef579f7320189e1883a379
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|c9b20fab631d33294a26155bb3679763
 TikTok|Software Engineer Intern (Data Ecosystem)|San Jose, CA|f067cc79f67710903552e7a6dabca3a6
 TikTok|Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)|San Jose, CA|f1aaf5c78aac7b28dcd6ab4a815fbee3
