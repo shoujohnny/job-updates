@@ -28,7 +28,6 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Farmington, CT|09659f7f459a99685726c7c6defc25ac
-Otis(https://simplify.jobs/c/Otis?utm_source=GHList|↳|utm_medium=company)|186b3142189601d89ce3a244b59778e8
 **[Medtronic](https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN|3883194066a3360ead738297390681ca
 **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)**|2026 Software Engineer Program – Summer Internship 🛂|Austin, TX|71033041cf874ba64c15921792218f2d
 **[M&T Bank](https://simplify.jobs/c/M-And-T-Bank?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Buffalo, NY|2c80f4d16396b20c57fc702bce9a1f7a
@@ -96,6 +95,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
+**[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Farmington, CT|09659f7f459a99685726c7c6defc25ac
 Kimley Horn|Software Developer Intern|Raleigh, NC|68b329da9893e34099c7d8ad5cb9c940
 **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)**|Software Development Intern|Dulles, VA|e8a1098449fdb669d4deecc7a334a114
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|2025 Emerging Talent Apprentice - Lgcc|NYC|6dc8c4149168de9d44dd9f0de780e09d
