@@ -1,4 +1,5 @@
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|965eb447cdb60ceea7a4b5ffeb40760d
+HD Supply|Information Technology Intern|Atlanta, GA|f8b477478c651c76a9e985f476cee29b
 TikTok|Software Engineer Intern, Intelligent Creation - Generative AI and Graphics|San Jose, CA|0b07901c27ac3d9f11adfde1b912a468
 Talos|Quantitative Analyst Intern|New York, NY|0dbbef4ad4712196c5682869e66bf99d
 Talos|Software Engineer Intern, Backend, Dealer|New York, NY|41d3423697c730dea074fa4724ee9f72
