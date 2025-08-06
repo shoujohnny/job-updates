@@ -1,3 +1,4 @@
+**[Gimlet Labs](https://simplify.jobs/c/Gimlet-Labs?utm_source=GHList&utm_medium=company)**|Software Engineer - Intern|San Francisco, CA|6994f84f498247ce5b806ebac076d0e0
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|New York, NY|c79008864980cdf371f4ff057aac722b
 **[Talos Trading](https://simplify.jobs/c/Talos-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern, Front-End, PMS 🛂|New York, NY|20ca2c6697d8b85166497cd581ed2039
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Global E-Commerce|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
@@ -18,6 +19,7 @@ Altruist(https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source
 **[Ramp](https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company)**|Software Engineering Internship - Frontend|New York, NY|64c3a896a273e1719503c1df68956a01
 Ramp(https://simplify.jobs/c/Ramp?utm_source=GHList|↳|utm_medium=company)|54c9765e7fe2b3b4d719f4ec47368a5c
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus UI Software Engineer – Intern|London, UK|769c4a88b175f2829df37b7ebfd9a070
+Jump Trading(https://simplify.jobs/c/Jump-Trading?utm_source=GHList|↳|utm_medium=company)|3667401446d0a4313844cd589aebb859
 **[DV Trading](https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company)**|2026 Summer Internship - Software Development - DV Commodities|London, UK|7f994f394ae1bf78c19741e9aaedb034
 DV Trading(https://simplify.jobs/c/DV-Trading?utm_source=GHList|↳|utm_medium=company)|d793c7b821d16a7f6fa92ff4c550bea3
 **[Jonas Software](https://simplify.jobs/c/Jonas-Software?utm_source=GHList&utm_medium=company)**|Jonas Summer Internship - Various Departments|Remote in USA</br>Remote in Canada|318a19b1b805a1d71e92cee0efa6c0b9
@@ -46,7 +48,7 @@ Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a93556
 **[Neuralink](https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company)**|Firmware Engineer Intern 🛂|Fremont, CA|de94a112f39bfca9e02f769c2a7e74de
 **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)**|Software Developer Internship|Spring, TX|6f38317e81195c6ed87924be580e9b04
 **[Harmonic](https://simplify.jobs/c/HarmonicAI?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Summer|NYC|09e84f55b1c462d59a675bc02396cedc
-**[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
+**[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, CA</br>New York, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
 Datavisor|Software Engineer|Mountain View, CA|7c18e7e94f3bf75f609a3036a21d3b70
 **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Dallas, TX|18edb9d5d3abd3696a1d6c212e0b8289
 **[AI Fund](https://simplify.jobs/c/AI-Fund?utm_source=GHList&utm_medium=company)**|Full-Stack Engineer Intern 🛂|San Francisco, CA|7556d98cd014efce4d8f620cf5902e08
@@ -56,6 +58,7 @@ Castleton Commodities International(https://simplify.jobs/c/Castleton-Commoditie
 **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|NYC|baa6ebef2ed7c25b4e8e65d6f6a2fb5e
 Arcade|Software Engineering Intern|San Francisco, CA|494ab8c72c30e79b1e1cecc919fc4ded
 Arcade|Research Engineer Intern, Applied AI|San Francisco, CA|ed4f9f3f2a92747e6a151f78eda4f050
+**[PIP Labs](https://simplify.jobs/c/PIP-Labs?utm_source=GHList&utm_medium=company)**|Engineering Intern - App Team|San Francisco, CA|817184b3cb92210a4020fe1a20938592
 **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)**|Internship - Software Engineer|Austin, TX</br>NYC|87f6d39b4f7564dcc4ba8cc460176b7b
 **[The Trade Desk](https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0?utm_source=GHList&utm_medium=company)**|2026 Software Engineering Internship|<details><summary>**5 locations**</summary>Irvine, CA</br>NYC</br>Bellevue, WA</br>Denver, CO</br>Boulder, CO</details>|17804da9032c156c96406e1928e6c37d
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|Software Engineer 🛂|<details><summary>**5 locations**</summary>Charlotte, NC</br>Phoenix, AZ</br>Chandler, AZ</br>Iselin, NJ</br>Irving, TX</details>|6dc8c4149168de9d44dd9f0de780e09d
