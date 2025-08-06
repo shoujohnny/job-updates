@@ -1,3 +1,5 @@
+Roblox|Software Engineer Intern|San Mateo, CA|d07f7a126364c53249ac06e7fe3d69d0
+Confluent|Software Engineering Intern|Austin, TX|d65cc4c7cbf0d8614628f8fe9e4efc0e
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|965eb447cdb60ceea7a4b5ffeb40760d
 HD Supply|Information Technology Intern|Atlanta, GA|f8b477478c651c76a9e985f476cee29b
 TikTok|Software Engineer Intern, Intelligent Creation - Generative AI and Graphics|San Jose, CA|0b07901c27ac3d9f11adfde1b912a468
