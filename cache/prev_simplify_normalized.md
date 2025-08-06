@@ -1,3 +1,4 @@
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Global E-Commerce|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[BNY](https://simplify.jobs/c/BNY?utm_source=GHList&utm_medium=company)**|Summer Internship Program - Engineering - Developer|Pittsburgh, PA</br>Lake Mary, FL</br>NYC|91799ff5e2f93111c945c17d71a34e17
 **[Peraton](https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company)**|Summer 2026 University Internship Pipeline|Reston, VA|12c30ae7ca47f37a7371db78eedb6f9d
 **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|Chicago, IL</br>NYC|6d820dfd303aae7b383d497929ca3ca3
@@ -32,6 +33,7 @@ Otis(https://simplify.jobs/c/Otis?utm_source=GHList|↳|utm_medium=company)|186b
 **[M&T Bank](https://simplify.jobs/c/M-And-T-Bank?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Buffalo, NY|2c80f4d16396b20c57fc702bce9a1f7a
 **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Alberta, Canada|61d6d77985463ba63ccb89850c4383b7
 **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|SF</br>NYC|a6c3b48d983e6c0661a2bf82159ecb97
+**[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)**|Software Application Engineer Intern|Pullman, WA|d13439dac91ace3019e5e0e59afef2fe
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software Engineer Intern 🛂|Sioux Falls, SD|2dae4920db43b93da0cfe91e51db16f4
 **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)**|Cloud Media Services Intern|Palo Alto, CA|4ba5359cbe66df6b500dfc9a50ffe3d2
 **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)**|Engineering Intern - AI 🛂|New York|f00dbdf2eddebb92caebc7b87f7766f5
