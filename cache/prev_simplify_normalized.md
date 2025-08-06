@@ -1,3 +1,4 @@
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|New York, NY|c79008864980cdf371f4ff057aac722b
 **[Talos Trading](https://simplify.jobs/c/Talos-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern, Front-End, PMS 🛂|New York, NY|20ca2c6697d8b85166497cd581ed2039
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Global E-Commerce|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[BNY](https://simplify.jobs/c/BNY?utm_source=GHList&utm_medium=company)**|Summer Internship Program - Engineering - Developer|Pittsburgh, PA</br>Lake Mary, FL</br>NYC|91799ff5e2f93111c945c17d71a34e17
