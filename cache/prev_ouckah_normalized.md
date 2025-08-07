@@ -1,3 +1,12 @@
+Jump Trading|Tech Ops Engineer Intern|Chicago, IL|5eb78822ea924e2c1ce399872b67a906
+Jump Trading|Quantitative Researcher Intern|Chicago, IL</br>New York, NY|ad967ef40481a50d8d1b7d7f50700753
+Jump Trading|Software Engineer Intern|Chicago, IL|6d558cf7e0f3663e3fdb380610e14223
+Jump Trading|UI Software Engineer Intern|Chicago, IL|0d1b83bdb6684c0460ed1eb5abcc53c1
+Jump Trading|FPGA Engineer Intern|Chicago, IL|286f46189894ffb4f9e8089b5b7b1223
+Confluent|Software Engineering Intern|Toronto, Canada|f2c8637ee9ef9ee5b693a11bd67651a7
+Confluent|Software Engineering Intern|Austin, TX|15c209809f5359d3d9acd756547b3c2a
+BNY|Engineering Intern, Data Science 🛂|<details><summary>**4 locations**</summary>Pittsburgh, PA</br>Lake Mary, FL</br>New York, NY</br>Jersey City, NJ</details>|34dd808cea859fa4cfdee407784188cd
+BNY|Engineering (Developer) Intern 🛂|Pittsburgh, PA|4cf6fba0d6bc8ad1e182cc1c180595a8
 Roblox|Software Engineer Intern|San Mateo, CA|d07f7a126364c53249ac06e7fe3d69d0
 Confluent|Software Engineering Intern|Austin, TX|d65cc4c7cbf0d8614628f8fe9e4efc0e
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|965eb447cdb60ceea7a4b5ffeb40760d
