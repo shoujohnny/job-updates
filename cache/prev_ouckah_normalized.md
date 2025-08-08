@@ -1,5 +1,15 @@
+Xantium|Quantitative Researcher Intern|New York, NY|be510b59eb68bfeef9ff24bb1a885839
+Xantium|Quantitative Developer Intern|New York, NY|8224be9b344e16cc65bee091536cc934
+Ramp|Software Engineer Intern, Android|New York, NY</br>San Francisco, CA|2fa68abc3c99b7a54230a9d014d4965e
+Ramp|Software Engineer Intern, iOS|New York, NY</br>San Francisco, CA|79d2aa3e1c050b5af5975e854edc0244
+Nicolet National Bank|Software Developer Intern|Green Bay, WI|86a003be46db99ed929cf363782d9bf1
+Metropolitan Transportation Authority|Software Development Intern, Emerging Talent|New York, NY|3708f511bec008decd29039dfc87c29e
+Dell|Software Engineering Intern, ISG|Austin/Round Rock, TX</br>Hopkinton, MA|5c6da438ec15a4346656c61ba7617450
+Cognitiv|Machine Learning Engineer Intern|San Mateo, CA|0c88081b5f18c597602a1379c191e4da
+ByteDance|Site Reliability Engineer Intern, Data Infrastructure|Seattle|ef828895a96f9353a840448198d1fe18
 Jump Trading|Tech Ops Engineer Intern|Chicago, IL|5eb78822ea924e2c1ce399872b67a906
 Jump Trading|Quantitative Researcher Intern|Chicago, IL</br>New York, NY|ad967ef40481a50d8d1b7d7f50700753
+Jump Trading|Quantitative Trader Intern|New York, NY</br>Chicago, IL|4bd54a7ce1227fffb44d3c5d3e423fd6
 Jump Trading|Software Engineer Intern|Chicago, IL|6d558cf7e0f3663e3fdb380610e14223
 Jump Trading|UI Software Engineer Intern|Chicago, IL|0d1b83bdb6684c0460ed1eb5abcc53c1
 Jump Trading|FPGA Engineer Intern|Chicago, IL|286f46189894ffb4f9e8089b5b7b1223
@@ -31,7 +41,7 @@ Otis|Software Engineering Intern|Farmington, CT|995dbd6cf1a6526490317333c854cf99
 Medtronic|R&D Engineering Intern 🛂|<details><summary>**5 locations**</summary>Minneapolis, MN</br>Tempe, AZ</br>Santa Rosa, CA</br>Lafayette, CO</br>Boulder, CO</details>|eb544574af45556ca031ae8a2614e2e1
 Medtronic|IT Intern 🛂|Minneapolis, MN|cf449fc4400d10683f83c84f90293c66
 Medtronic|Software Engineering Intern 🛂|North Haven, CT</br>Lafayette, CO</br>Minneapolis, MN|c83fc5fe47eb45bf7d82d8fb11f3a96f
-HPR|Software Engineering Intern|Needham, MA|f82012d8c06a0fa86dd60781204c21cb
+HPR|Software Engineering Intern 🛂|Needham, MA|f82012d8c06a0fa86dd60781204c21cb
 DV Commodities|Software Development Intern|New York|3c928b4c9e3bcc0ce4920087a042a49d
 Altruist|Software Engineering Intern|San Francisco, CA|68b329da9893e34099c7d8ad5cb9c940
 Sentry|Software Engineering Intern 🛂|San Francisco, California|cfdc0e93e2d0ae406e674edcc8b04f68
