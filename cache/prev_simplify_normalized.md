@@ -36,8 +36,8 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Recommendation Infrastructure|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Monetization Technology - Ads Creative|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
@@ -75,8 +75,6 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 **[Peraton](https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company)**|Summer 2026 University Internship Pipeline|Reston, VA|12c30ae7ca47f37a7371db78eedb6f9d
 **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|Chicago, IL</br>NYC|6d820dfd303aae7b383d497929ca3ca3
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Payment Architecture - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
-**[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Cyber Security Internship Program 🛂|Mclean, VA</br>Plano, TX|77d38e69bf1cf859fe120988418e96a9
-EPIC|Student Associate - Software Engineer 🛂|Rochester, NY|4ef3676741ef579f7320189e1883a379
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|c9b20fab631d33294a26155bb3679763
 **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern (Data Ecosystem)|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
