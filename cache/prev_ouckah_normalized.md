@@ -23,7 +23,6 @@ DV Group|Software Development Intern, DV Commodities|New York, NY|9065eff34b107b
 Cultivarium|Computer Vision and Machine Learning Intern|Watertown, MA|f4a941e8c8e69867da5dda940236ef18
 Capital One|UMD-College Park & UIUC Incubator Labs Intern 🛂|College Park, MD</br>Urbana Champaign, IL|0e791bc0464ff29ff83a6d6db5b31863
 Capital One|Cyber Security Intern 🛂|McLean, VA</br>Plano, TX|df5186783c07caf251919fac0da87ee3
-Capital One|Technology Internship Program 🛂|McLean, VA</br>Richmond, VA</br>Plano, TX|cb909d8788810e548e9a975879a22cb1
 Amazon|Program Manager Intern 🛂|Seattle, WA|566339d485ad2ce7b73feb2734d3f279
 TikTok|Software Engineer Intern, Data Ecosystem|San Jose, CA|0fb0025e156a4825f5023c79e244e357
 Ramp|Software Engineer Intern, Backend|New York, NY|963fac994ec409dcfe9752639264be5e
