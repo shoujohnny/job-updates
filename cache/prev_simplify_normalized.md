@@ -1,3 +1,5 @@
+**[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus Tech Ops Engineer|Chicago, IL|769c4a88b175f2829df37b7ebfd9a070
+HD Supply|Information Technology|Atlanta, GA|0b4dd1b697a6f70dfa37af9ccb2b8db5
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Remote, London|f8ff488b7c711677bba327160f956bf1
 Confluent(https://simplify.jobs/c/Confluent?utm_source=GHList|↳|utm_medium=company)|7aee454008f60c32f6ad714d4c9ffb6f
 Confluent(https://simplify.jobs/c/Confluent?utm_source=GHList|↳|utm_medium=company)|7aee454008f60c32f6ad714d4c9ffb6f
@@ -35,8 +37,8 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Monetization Technology - Ads Creative|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Tiktok-Intelligent Creation - BS/MS|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
