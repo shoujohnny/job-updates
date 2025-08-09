@@ -1,3 +1,7 @@
+Neuralink|Software Engineer Intern|Austin, TX</br>Fremont, CA|3020d1bd1610316e2f49a8b301fb8c0e
+Microsoft|Data Science Intern|Redmond, WA|0229fbb6db66c256e4606b5c5a71d4cb
+Microsoft|Product Management Intern|Redmond, WA|224ae0c0b5c02259a5343cb568161b3b
+Belvedere Trading|Software Engineering Intern|Chicago, IL</br>Boulder, CO|a4cdfae1123a7020875eba2a330e26dc
 Xantium|Quantitative Researcher Intern|New York, NY|58bb6d972322856f3e3b7f282616a2f7
 Xantium|Quantitative Developer Intern|New York, NY|58bb6d972322856f3e3b7f282616a2f7
 Ramp|Software Engineer Intern, Android|New York, NY</br>San Francisco, CA|2fa68abc3c99b7a54230a9d014d4965e
