@@ -2,9 +2,17 @@ Xantium|Quantitative Researcher Intern|New York, NY|58bb6d972322856f3e3b7f282616
 Xantium|Quantitative Developer Intern|New York, NY|58bb6d972322856f3e3b7f282616a2f7
 Ramp|Software Engineer Intern, Android|New York, NY</br>San Francisco, CA|2fa68abc3c99b7a54230a9d014d4965e
 Ramp|Software Engineer Intern, iOS|New York, NY</br>San Francisco, CA|79d2aa3e1c050b5af5975e854edc0244
+Notion|Software Engineer Intern|San Francisco, CA</br>New York, NY|db0c656031ceda1fb0fdbc3237153dd6
 Nicolet National Bank|Software Developer Intern|Green Bay, WI|86a003be46db99ed929cf363782d9bf1
+Millennium|Project Management Intern|New York, NY|6b17edd19b9775502472605843c79383
+Millennium|AI Engineer Intern, New York|New York, NY|14bc0d9cac2474292ef18e0c2682f78e
+Millennium|Software Engineer Intern, New York|New York, NY|8899176e2416efed0a2e84a8978dbbd1
 Metropolitan Transportation Authority|Software Development Intern, Emerging Talent|New York, NY|3708f511bec008decd29039dfc87c29e
+Hudson River Trading|Algorithm Trader Intern|New York, NY|f244b37d42dcb70312149d7f3141c6b0
 Dell|Software Engineering Intern, ISG|Austin/Round Rock, TX</br>Hopkinton, MA|5c6da438ec15a4346656c61ba7617450
+Databricks|Data Science Intern, Data|Mountain View, CA</br>San Francisco, CA|c7b7520ad1915d8e82a4e7b2761e7a53
+Databricks|Product Management Intern|Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA|2fda847b8b0df82870ac2e83b99c7de8
+Databricks|Software Engineering Intern|Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA|df42648d1305658e83b68c3a4dfc8abc
 ByteDance|Site Reliability Engineer Intern, Data Infrastructure|Seattle|ef828895a96f9353a840448198d1fe18
 Jump Trading|Tech Ops Engineer Intern|Chicago, IL|5eb78822ea924e2c1ce399872b67a906
 Jump Trading|Quantitative Researcher Intern|Chicago, IL</br>New York, NY|ad967ef40481a50d8d1b7d7f50700753
