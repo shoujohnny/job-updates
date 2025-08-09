@@ -1,11 +1,10 @@
-Xantium|Quantitative Researcher Intern|New York, NY|be510b59eb68bfeef9ff24bb1a885839
-Xantium|Quantitative Developer Intern|New York, NY|8224be9b344e16cc65bee091536cc934
+Xantium|Quantitative Researcher Intern|New York, NY|58bb6d972322856f3e3b7f282616a2f7
+Xantium|Quantitative Developer Intern|New York, NY|58bb6d972322856f3e3b7f282616a2f7
 Ramp|Software Engineer Intern, Android|New York, NY</br>San Francisco, CA|2fa68abc3c99b7a54230a9d014d4965e
 Ramp|Software Engineer Intern, iOS|New York, NY</br>San Francisco, CA|79d2aa3e1c050b5af5975e854edc0244
 Nicolet National Bank|Software Developer Intern|Green Bay, WI|86a003be46db99ed929cf363782d9bf1
 Metropolitan Transportation Authority|Software Development Intern, Emerging Talent|New York, NY|3708f511bec008decd29039dfc87c29e
 Dell|Software Engineering Intern, ISG|Austin/Round Rock, TX</br>Hopkinton, MA|5c6da438ec15a4346656c61ba7617450
-Cognitiv|Machine Learning Engineer Intern|San Mateo, CA|0c88081b5f18c597602a1379c191e4da
 ByteDance|Site Reliability Engineer Intern, Data Infrastructure|Seattle|ef828895a96f9353a840448198d1fe18
 Jump Trading|Tech Ops Engineer Intern|Chicago, IL|5eb78822ea924e2c1ce399872b67a906
 Jump Trading|Quantitative Researcher Intern|Chicago, IL</br>New York, NY|ad967ef40481a50d8d1b7d7f50700753
@@ -27,12 +26,10 @@ Talos|Software Engineer Intern, Backend, Dealer|New York, NY|41d3423697c730dea07
 Talos|Software Engineer Intern, Backend, PMS|New York, NY|ff1dedc2442b3722d73708e1808a6a53
 Talos|Software Engineer Intern, Front-End, PMS|New York, NY|8fca754739b40287b1db5d36adac55b7
 IMC|Hardware Engineer Intern|Chicago, IL|d4ed21dd675e7de6dc9ca09c4595093d
-GE Healthcare|Information Technology Development Program 🛂|Remote|e8b14bd3437c10be5369035a72ccaebd
 DV Trading|Trading Intern, DV Commodities|New York, NY|62a919314171bb5389be938878e6ce8e
 DV Group|Software Development Intern, DV Commodities|New York, NY|9065eff34b107b406576e5c30e114f0a
 Cultivarium|Computer Vision and Machine Learning Intern|Watertown, MA|f4a941e8c8e69867da5dda940236ef18
 Capital One|UMD-College Park & UIUC Incubator Labs Intern 🛂|College Park, MD</br>Urbana Champaign, IL|0e791bc0464ff29ff83a6d6db5b31863
-Capital One|Cyber Security Intern 🛂|McLean, VA</br>Plano, TX|df5186783c07caf251919fac0da87ee3
 Amazon|Program Manager Intern 🛂|Seattle, WA|566339d485ad2ce7b73feb2734d3f279
 TikTok|Software Engineer Intern, Data Ecosystem|San Jose, CA|0fb0025e156a4825f5023c79e244e357
 Ramp|Software Engineer Intern, Backend|New York, NY|963fac994ec409dcfe9752639264be5e
@@ -50,13 +47,11 @@ Copart|Mobile Developer Intern (AI / ML)|Dallas, TX|8565823682119d72a3b728b034dc
 New York Life Insurance|Software Engineer Intern|New York, NY|26f9a48aee02143d8f0cce79dd1160b6
 General Dynamics|Software Engineer Intern 🇺🇸|Orlando, FL|bd800c85edbff69ea908c9e80a87cf80
 Baseten|Software Engineering Intern|New York, NY</br>San Francisco, CA|8edf53213c56e808d86c2fac0b01b16e
-AppLovin|Software Engineer Intern|Remote|ab87aea9c0e0747c6b31378806cbefac
 Tencent|Cloud Media Services Intern|Palo Alto, CA|c2bfc20a986e08cfa42716bf797b85c9
 Reality Defender|Computer Vision Intern|New York City, NY|6e97eff8f4386045a8162b570435e2c1
 PNC|Technology Intern|<details><summary>**4 locations**</summary>Pittsburgh, PA</br>Birmingham, AL</br>Cleveland, OH</br>Dallas, TX</details>|8890dde8752aa5f4881235b6498980e7
 Neuralink|Firmware Engineer Intern|Fremont, CA|53325af758c8a089440426a6842ecdcb
 Leonardo DRS|Embedded Software Engineer Intern|Bridgeton, MO|c82dee280474e99f44df0feeb0017c4d
-KBR|Software Engineer Intern|Sioux Falls, SD|2351c1b98fb174f6d8f569a97322d31b
 Harmonic|Software Engineer Intern|New York, NY|a2e21cb0f8bff4d23f9f9ecc77d3f101
 GIMLET LABS|AI Researcher Intern|San Francisco, CA|22c2aa524be7c9af4e960c10fad485df
 GIMLET LABS|Software Engineer Intern|San Francisco, CA|81c4e7d122038639a3dafeaaf0a2d98a
@@ -65,7 +60,6 @@ Asana|Data Science Intern|Vancouver, Canada|02bc4c90f3f88af30d3240e85f6641ac
 Asana|Data Science Intern|New York, NY|52c61b2f1013459bf2fc386798cea2d7
 Asana|Data Science Intern|San Francisco, CA|66221c38d83fcf0081628e9ac3531913
 Allium|Engineering Intern, Internal Platform|New York, NY|dde5d9438f29ce7fdb977de078fdf7ca
-AI Fund|Full-Stack Engineer Intern|San Francisco, CA|8f7b57c1b60470bf6e46c3ddcf3c0a5e
 TikTok|QA Engineer Intern (TikTok-Privacy and Security-Product Privacy)|San Jose, CA|df85ab167aced293db810630ffe2d83f
 TikTok|Software Engineer Intern, Global CRM|San Jose, CA|aeed74604fbf0313b806391622a28296
 TikTok|Data Scientist Intern, Privacy and Data Protection Office|San Jose, CA|1bd8bc50db231a8b19f520b7d4fc2710
@@ -87,7 +81,6 @@ TikTok|Machine Learning Engineer Intern, Trust and Safety - CV/NLP/Multimodal LL
 HP|Software Developer Intern 🛂|Spring, TX|839e472ef8c0fefc5915cf2f7ad3f29c
 EControls|IoT Software Developer Intern|San Antonio, TX|6a646df7627580a93c3b22b6920996b1
 Deloitte|Technology Intern 🛂|Hermitage, TN|13abfb6ace766d1bcea487df2c21d606
-KeyBank|Analytics and Quantitative Modeling Intern|Cleveland, OH|75bb552ac2aef36835bb5d36da048bb4
 Hudson River Trading|Software Engineering Intern|New York, NY|1d3263c32a7e5d101e687d53ebb6efc9
 Hudson River Trading|Algorithm Development Quant Research Intern|New York, NY|8dad579533d73b8d5f232c057bb99ae1
 Virtu|Quantitative Trading Intern|Austin, TX</br>Chicago, IL</br>New York, NY|76ea3af7ebba000c3f78ddde1aa542ba
@@ -204,7 +197,6 @@ Susquehanna|Quantitative Research Intern|Bala Cynwyd, PA|b4194e9c6c13aa3ccd94165
 Susquehanna|Quantitative Systematic Trading Intern|Bala Cynwyd, PA|e8d1c9d8aa1801b0ab33b89c4d33ab6b
 Susquehanna|Quantitative Research Intern, Masters|Bala Cynwyd, PA|c67d352c48a7f3f952f7ababfd9a22f9
 Susquehanna|Quantitative Systematic Trading Intern, Masters|Bala Cynwyd, PA|a3ec83d7a71d940865ac9e90b6a126b7
-Protiviti|Digital Intern 🛂|New York, NY|d383af1748df223014863c49afba25a9
 Point72|Quantitative Developer Intern|New York, NY|9aa657338b4e4d48631872226401794f
 D.E Shaw|Fundamental Research Analyst Intern|New York, NY|49ad0c5d422bd0a5335147bbc0cd7462
 D.E Shaw|Proprietary Trading Intern|New York, NY|a73fdd1f141ac54e8d4175602e72541a
