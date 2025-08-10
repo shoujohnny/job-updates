@@ -1,3 +1,5 @@
+Wurl LLC.|Data Engineer Intern|Remote</br>United States|e16f480c1aea49fb78f9692d04748a5a
+Southwest Research Institute|Software Engineer Intern 🇺🇸|San Antonio, TX|6f01a9e4b891729aaaa3c0b7870905be
 Notion|Software Engineer Intern, Mobile|San Francisco, CA</br>New York, NY|b3aeee7eead6de82351945df06563708
 Notion|Software Engineer Intern, AI|San Francisco, CA</br>New York, NY|7947c1d5618cd10e4bd169ce21b51173
 Notion|Software Engineer Intern|San Francisco, CA</br>New York, NY|db0c656031ceda1fb0fdbc3237153dd6
@@ -5,6 +7,10 @@ Notion|Software Engineer, Mobile Intern|San Francisco, CA</br>New York, NY|b3aee
 Neuralink|Software Engineer Intern|Austin, TX</br>Fremont, CA|3020d1bd1610316e2f49a8b301fb8c0e
 Microsoft|Data Science Intern|Redmond, WA|0229fbb6db66c256e4606b5c5a71d4cb
 Microsoft|Product Management Intern|Redmond, WA|224ae0c0b5c02259a5343cb568161b3b
+EPIC|Software Engineer Intern|Rochester, NY|0bc363874b4acff5ecd2daae01c4d1a5
+Delta Air Lines, Inc.|IT Intern, Software Engineering|Atlanta, GA|a2d6c21d5a651ebed5364b69f1dc7620
+Copart|Data & AI QA Intern|Dallas, TX|2de1ec86e51285765f36c07d3e6affa7
+ByteDance|Site Reliability Engineer Intern, Data Infrastructure|San Jose, CA|01c778bf229c01414278122bd8d77ea5
 Belvedere Trading|Software Engineering Intern|Chicago, IL</br>Boulder, CO|a4cdfae1123a7020875eba2a330e26dc
 Xantium|Quantitative Researcher Intern|New York, NY|58bb6d972322856f3e3b7f282616a2f7
 Xantium|Quantitative Developer Intern|New York, NY|58bb6d972322856f3e3b7f282616a2f7
