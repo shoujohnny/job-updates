@@ -84,7 +84,7 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|New York, NY</br>San Francisco, CA|a6c3b48d983e6c0661a2bf82159ecb97
 **[JP Morgan Chase](https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company)**|2025 Code for Good Hackathon – Summer Internship - Software Engineer Program|<details><summary>**9 locations**</summary>Palo Alto, CA</br>Houston, TX</br>Austin, TX</br>Tampa, FL</br>Plano, TX</br>Chicago, IL</br>Columbus, OH</br>NYC</br>Wilmington, DE</details>|943f9c905a487aaf71ea0ef13948906b
 **[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|SF|1192f7e264b04bfdff13df0c475ee154
-**[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|LA|1192f7e264b04bfdff13df0c475ee154
+Altruist(https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList|↳|utm_medium=company)|ed13574fdd960f4feb55f4311c382b34
 **[Ramp](https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company)**|Software Engineering Internship - Frontend|New York, NY|64c3a896a273e1719503c1df68956a01
 Ramp(https://simplify.jobs/c/Ramp?utm_source=GHList|↳|utm_medium=company)|54c9765e7fe2b3b4d719f4ec47368a5c
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus UI Software Engineer – Intern|London, UK|769c4a88b175f2829df37b7ebfd9a070
@@ -153,7 +153,7 @@ D. E. Shaw|Software Developer Intern|New York, NY|1a02f4c1a41be3714a7c51fa5633b1
 Citadel Securities(https://simplify.jobs/c/Citadel-Securities?utm_source=GHList|↳|utm_medium=company)|45c082ad0a7d1757263d934d165a36f8
 Caterpillar|Engineering Intern|<details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details>|84eba87262b0f0cffde46141696b5647
 Blackrock|2026 Summer Intern|<details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details>|8139637398185e4ff7ea251335b84e33
-**[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)**|Cybersecurity Intern|<details><summary>**4 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Denver, CO</br>Washington, DC</details>|23d394792851758ad7fe4c137adcbc81
+**[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)**|Cybersecurity Intern|<details><summary>**4 locations**</summary>Charlotte, North Carolina</br>Dallas, Texas</br>Denver, Colorado</br>Washington, District of Columbia</details>|23d394792851758ad7fe4c137adcbc81
 **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)**|Engineering Program Management Intern|United States|71245f281e8b031babcbbf5ff6377595
 Apple(https://simplify.jobs/c/Apple?utm_source=GHList|↳|utm_medium=company)|5bda0cfe4a7b63c78fb21e03e1814eae
 Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
