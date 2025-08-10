@@ -40,7 +40,7 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Recommendation Infrastructure|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
@@ -151,7 +151,6 @@ Epic|Software Development Intern 🇺🇸|Madison, WI|f8fa3e4c3b5215fc35cfc97b3d
 D. E. Shaw|Software Developer Intern|New York, NY|1a02f4c1a41be3714a7c51fa5633b1fa
 **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Miami, FL</br>New York, NY|0b878511c702f23f263811eefea55a56
 Citadel Securities(https://simplify.jobs/c/Citadel-Securities?utm_source=GHList|↳|utm_medium=company)|45c082ad0a7d1757263d934d165a36f8
-Caterpillar|Engineering Intern|<details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details>|84eba87262b0f0cffde46141696b5647
 Blackrock|2026 Summer Intern|<details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details>|8139637398185e4ff7ea251335b84e33
 **[Bank of America](https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a?utm_source=GHList&utm_medium=company)**|Cybersecurity Intern|<details><summary>**4 locations**</summary>Charlotte, North Carolina</br>Dallas, Texas</br>Denver, Colorado</br>Washington, District of Columbia</details>|23d394792851758ad7fe4c137adcbc81
 **[Apple](https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company)**|Engineering Program Management Intern|United States|71245f281e8b031babcbbf5ff6377595
