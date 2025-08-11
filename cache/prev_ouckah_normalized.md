@@ -7,7 +7,6 @@ Notion|Software Engineer, Mobile Intern|San Francisco, CA</br>New York, NY|b3aee
 Neuralink|Software Engineer Intern|Austin, TX</br>Fremont, CA|3020d1bd1610316e2f49a8b301fb8c0e
 Microsoft|Data Science Intern|Redmond, WA|0229fbb6db66c256e4606b5c5a71d4cb
 Microsoft|Product Management Intern|Redmond, WA|224ae0c0b5c02259a5343cb568161b3b
-EPIC|Software Engineer Intern|Rochester, NY|0bc363874b4acff5ecd2daae01c4d1a5
 Delta Air Lines, Inc.|IT Intern, Software Engineering|Atlanta, GA|a2d6c21d5a651ebed5364b69f1dc7620
 Copart|Data & AI QA Intern|Dallas, TX|2de1ec86e51285765f36c07d3e6affa7
 ByteDance|Site Reliability Engineer Intern, Data Infrastructure|San Jose, CA|01c778bf229c01414278122bd8d77ea5
