@@ -21,7 +21,6 @@ Nicolet National Bank|Software Developer Intern|Green Bay, WI|86a003be46db99ed92
 Millennium|Project Management Intern|New York, NY|6b17edd19b9775502472605843c79383
 Millennium|AI Engineer Intern, New York|New York, NY|14bc0d9cac2474292ef18e0c2682f78e
 Millennium|Software Engineer Intern, New York|New York, NY|8899176e2416efed0a2e84a8978dbbd1
-Metropolitan Transportation Authority|Software Development Intern, Emerging Talent|New York, NY|3708f511bec008decd29039dfc87c29e
 Hudson River Trading|Algorithm Trader Intern|New York, NY|f244b37d42dcb70312149d7f3141c6b0
 Databricks|Data Science Intern, Data|Mountain View, CA</br>San Francisco, CA|c7b7520ad1915d8e82a4e7b2761e7a53
 Databricks|Product Management Intern|Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA|2fda847b8b0df82870ac2e83b99c7de8
