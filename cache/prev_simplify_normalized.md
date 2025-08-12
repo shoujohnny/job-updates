@@ -1,3 +1,4 @@
+**[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Technology Development Program Associate|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 Anduril Industries|Software Engineer Intern 🛂|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|0d8440df335370db19fed284298b885e
 Notion|Software Engineer, AI|San Francisco, CA</br>New York, NY|493b8cb6213e17846c0cf09eef6f52fa
 Notion|Software Engineer, Mobile|San Francisco, CA</br>New York, NY|282307d0ac35b2c57761a4b47ce0a5ce
