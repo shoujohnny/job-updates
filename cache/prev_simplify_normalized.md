@@ -1,4 +1,4 @@
-Cofluent|Software Engineering Intern|Austin, Texas</br>Remote|1d5076176a3bc3519ee9c7036cb8033d
+**[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Austin, Texas</br>Remote|f8ff488b7c711677bba327160f956bf1
 **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|e68c26bdc57202dc4e5f194843212ccf
 **[Bank of New York Mellon](https://simplify.jobs/c/Bank-Of-New-York-Mellon?utm_source=GHList&utm_medium=company)**|2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs|Pittsburgh, PA</br>Lake Mary, FL</br>NYC|5b94fbc53f024720e9c127036045f62e
 **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)**|Systems Engineer, Collision Avoidance, Autonomy & Robotics 🛂|Palo Alto, CA|f90c7b117e1e439e3339d8137f4c3a63
