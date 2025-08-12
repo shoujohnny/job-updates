@@ -1,3 +1,6 @@
+Radiant|Software Engineering Intern 🛂|El Segundo, CA|f5395b07a32011d362585cd47967324a
+Oklahoma City Thunder|Software Engineer Intern, Basketball Operations|Remote|9f72b640a218e5286c2e33ed9311fb1b
+Activision Blizzard|Graphics Engineering Intern, Overwatch|Irvine, CA|f242f226a042e5b471c70f05fed2b596
 Anduril|Software Engineer Intern|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|d8ee701fd53b6635dd8eb9b341a696ae
 Southwest Research Institute|Software Engineer Intern 🇺🇸|San Antonio, TX|6f01a9e4b891729aaaa3c0b7870905be
 Notion|Software Engineer Intern, Mobile|San Francisco, CA</br>New York, NY|b3aeee7eead6de82351945df06563708
