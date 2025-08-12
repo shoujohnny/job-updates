@@ -71,7 +71,8 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Payment Risk - Global Payment - BS/MS|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
-ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+**[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus Software Engineer – Intern|Chicago, IL|769c4a88b175f2829df37b7ebfd9a070
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Payment Network - Global Payment|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
 **[Roblox](https://simplify.jobs/c/Roblox?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Mateo, CA|a5e766337d82c1b20e597bdc95b81c3d
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Austin, TX|f8ff488b7c711677bba327160f956bf1
 **[Talos Trading](https://simplify.jobs/c/Talos-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern, Backend, Dealer 🛂|New York, NY|20ca2c6697d8b85166497cd581ed2039
@@ -123,7 +124,6 @@ Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a93556
 **[Harmonic](https://simplify.jobs/c/HarmonicAI?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Summer|NYC|09e84f55b1c462d59a675bc02396cedc
 **[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, CA</br>New York, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
 Datavisor|Software Engineer|Mountain View, CA|7c18e7e94f3bf75f609a3036a21d3b70
-**[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Dallas, TX|18edb9d5d3abd3696a1d6c212e0b8289
 **[AI Fund](https://simplify.jobs/c/AI-Fund?utm_source=GHList&utm_medium=company)**|Full-Stack Engineer Intern 🛂|San Francisco, CA|7556d98cd014efce4d8f620cf5902e08
 Genworth|IT Development Program Intern 🛂|Richmond, VA|c7ef71485cb3a71d21c45c2369ee6c59
 **[Castleton Commodities International](https://simplify.jobs/c/Castleton-Commodities-International?utm_source=GHList&utm_medium=company)**|Front Office Software Engineer Internship|Stamford, CT|4f35ce7fe44ec5679887d88f5aa2fe28
