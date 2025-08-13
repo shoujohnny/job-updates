@@ -2,6 +2,7 @@ TetraMem|Software Intern, Embedded|San Jose, CA|44fc6a69c28aa0904e6f23b85e2223d0
 TetraMem|Software Intern, Machine Learning|San Jose, CA|d63311f4d281367b6e2366d02d42f995
 Sonic Healthcare USA, Inc|Software Development Intern, Cache|Dallas, TX|a397668ab9bd6f912709ec3d2dd3f286
 Shopify|USA Engineering Internships 🛂|Remote|3161a4bf8f1f5277e969853a6ba05de6
+New York Life|Investments AI & Data Intern, AI & DS Team|New York, NY|564be5a1482645319e28f3840aead561
 GlobalFoundries|Software Engineering Intern|Malta, NY|904c9946ac343ce83266c970c249a9dd
 Oklahoma City Thunder|Software Engineer Intern, Basketball Operations|Remote|9f72b640a218e5286c2e33ed9311fb1b
 Activision Blizzard|Graphics Engineering Intern, Overwatch|Irvine, CA|f242f226a042e5b471c70f05fed2b596
