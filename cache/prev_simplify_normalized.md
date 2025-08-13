@@ -1,11 +1,16 @@
+Nicolet National Bank|Software Developer Intern|Green Bay, WI|043b2240b917bb2d7d83e69d3c33fcef
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Technology Development Program Associate|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 Anduril Industries|Software Engineer Intern 🛂|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|0d8440df335370db19fed284298b885e
+**[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)**|Software Engineer – Intern|London, UK|0b878511c702f23f263811eefea55a56
 Notion|Software Engineer, AI|San Francisco, CA</br>New York, NY|493b8cb6213e17846c0cf09eef6f52fa
 Notion|Software Engineer, Mobile|San Francisco, CA</br>New York, NY|282307d0ac35b2c57761a4b47ce0a5ce
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Technology Development Program Associate|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Austin, Texas</br>Remote|f8ff488b7c711677bba327160f956bf1
 **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|e68c26bdc57202dc4e5f194843212ccf
 **[Bank of New York Mellon](https://simplify.jobs/c/Bank-Of-New-York-Mellon?utm_source=GHList&utm_medium=company)**|2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs|Pittsburgh, PA</br>Lake Mary, FL</br>NYC|5b94fbc53f024720e9c127036045f62e
+**[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)**|ISM Co-op|Parsippany-Troy Hills, NJ|96099fc133bd8d975043d9f8440bfc23
+**[Perseus Group](https://simplify.jobs/c/86425b9a-a364-4749-8067-5d119318dae7?utm_source=GHList&utm_medium=company)**|Front End Intern|Markham, ON, Canada</br>Remote in Canada|b149c52bdd11f7f7e8b13b6e1c733a6d
+**[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Software Engineer 1 – Intern Conversion - Front End|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)**|Systems Engineer, Collision Avoidance, Autonomy & Robotics 🛂|Palo Alto, CA|f90c7b117e1e439e3339d8137f4c3a63
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus Tech Ops Engineer|Chicago, IL|769c4a88b175f2829df37b7ebfd9a070
 HD Supply|Information Technology|Atlanta, GA|0b4dd1b697a6f70dfa37af9ccb2b8db5
@@ -30,8 +35,12 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[Holman](https://simplify.jobs/c/Holman?utm_source=GHList&utm_medium=company)**|Developer Co-Op|Mississauga, ON, Canada|140bb8048d1b069af1186ac3d7aaecf7
+**[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)**|Mobile Software Developer Co-op|Toronto, ON, Canada|ae720d9b4b1f5a2165099cb3ca6edea8
 **[Ramp](https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company)**|Software Engineer Internship - IOS|SF</br>NYC|64c3a896a273e1719503c1df68956a01
 Ramp(https://simplify.jobs/c/Ramp?utm_source=GHList|↳|utm_medium=company)|54c9765e7fe2b3b4d719f4ec47368a5c
+**[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|2026 Confluent Software Engineering Intern Opportunity|Austin, TX|f8ff488b7c711677bba327160f956bf1
+Confluent(https://simplify.jobs/c/Confluent?utm_source=GHList|↳|utm_medium=company)|7aee454008f60c32f6ad714d4c9ffb6f
 **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Frontend Engineer Intern - Tiktok-Growth-Innovative Growth|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
