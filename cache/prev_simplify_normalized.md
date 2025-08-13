@@ -15,7 +15,6 @@ Notion|Software Engineer, Mobile|San Francisco, CA</br>New York, NY|282307d0ac35
 **[Bank of New York Mellon](https://simplify.jobs/c/Bank-Of-New-York-Mellon?utm_source=GHList&utm_medium=company)**|2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs|Pittsburgh, PA</br>Lake Mary, FL</br>NYC|5b94fbc53f024720e9c127036045f62e
 **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)**|ISM Co-op|Parsippany-Troy Hills, NJ|96099fc133bd8d975043d9f8440bfc23
 **[Perseus Group](https://simplify.jobs/c/86425b9a-a364-4749-8067-5d119318dae7?utm_source=GHList&utm_medium=company)**|Front End Intern|Markham, ON, Canada</br>Remote in Canada|b149c52bdd11f7f7e8b13b6e1c733a6d
-**[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Software Engineer 1 – Intern Conversion - Front End|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)**|Systems Engineer, Collision Avoidance, Autonomy & Robotics 🛂|Palo Alto, CA|f90c7b117e1e439e3339d8137f4c3a63
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus Tech Ops Engineer|Chicago, IL|769c4a88b175f2829df37b7ebfd9a070
 HD Supply|Information Technology|Atlanta, GA|0b4dd1b697a6f70dfa37af9ccb2b8db5
@@ -188,6 +187,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
+**[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Software Engineer 1 – Intern Conversion - Front End|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
 Truist(https://simplify.jobs/c/Truist?utm_source=GHList|↳|utm_medium=company)|e034b0bc033daf17743fc581b212e16c
