@@ -1,3 +1,4 @@
+TetraMem|Software Intern, Embedded|San Jose, CA|44fc6a69c28aa0904e6f23b85e2223d0
 TetraMem|Software Intern, Machine Learning|San Jose, CA|d63311f4d281367b6e2366d02d42f995
 Sonic Healthcare USA, Inc|Software Development Intern, Cache|Dallas, TX|a397668ab9bd6f912709ec3d2dd3f286
 Shopify|USA Engineering Internships 🛂|Remote|3161a4bf8f1f5277e969853a6ba05de6
@@ -124,6 +125,9 @@ Castleton Commodities International|Front Office Software Engineer Intern|Stamfo
 Asana|Software Engineer Intern|Vancouver, Canada|2f8fef6c9b7d2ee689dc74b9c9a1a3a8
 Asana|Software Engineer Intern|San Francisco, CA|ca2a10176be239c69b7eb0a661486674
 Asana|Software Engineer Intern|New York, NY|ee67cb8bfeb2bb5d10d2af90b7b8612a
+AQR Capital Management|Summer Analyst, Portfolio Implementation, Trading and Portfolio Finance|Greenwich, CT|f334f5a033f5a10b4888edbc69dbbb97
+AQR Capital Management|Summer Analyst, Portfolio Solutions Group|Greenwich, CT|d95657521190f68afe4fd69e24c0c7eb
+AQR Capital Management|Research Summer Analyst|Greenwich, CT|88d280f74584d5fc1e1c43e912120ee8
 Wells Fargo|2026 Technology Summer Internship 🇺🇸|<details><summary>**5 locations**</summary>Charlotte, NC</br>Chandler, AZ</br>Irving, TX</br>Iselin, NJ</br>St. Louis, MO</details>|cdcb6b75d443afb154dd677032a52a0c
 LiveRamp|Software Engineer Co-Op|San Francisco, CA</br>New York, NY</br>Little Rock, AR|2dbab09255aa528ec8c2b674ddd7b8fb
 Kohler|Digital Intern 🛂|Kohler, WI|7e360129bdbeeeff0a638138996ca854
