@@ -2,6 +2,7 @@
 Shopify|USA Engineering Internships 🛂|Remote in USA|4088aacbb1a0df547dbd8e31809d8382
 **[Anduril](https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|<details><summary>**6 locations**</summary>Boston, MA</br>Seattle, WA</br>Newport Beach, CA</br>Irvine, CA</br>Reston, VA</br>Atlanta, GA</details>|b94851231da3cb4eaecb3e5627cd6147
 Nicolet National Bank|Software Developer Intern|Green Bay, WI|043b2240b917bb2d7d83e69d3c33fcef
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Capital Platform|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Technology Development Program Associate|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 Anduril Industries|Software Engineer Intern 🛂|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|0d8440df335370db19fed284298b885e
 **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)**|Software Engineer – Intern|London, UK|0b878511c702f23f263811eefea55a56
