@@ -1,3 +1,6 @@
+RTX|Software Engineering Intern|Cedar Rapids, IA|6243c21069b494dee14f6cca81617b92
+Northrop Grumman|2025 Software Engineer Intern|Rome, NY|50629b0b549752c6bc59ba887de10ee3
+Morgan Stanley|Firmwide AI Strategy & Solutions Analyst Intern|New York, NY|a1cadea48b1835fbac0c985f3b6e5429
 Microsoft|Software Engineer Intern, Systems|Redmond, WA|40ca360c209775bb801a2ba7dd957771
 Microsoft|Software Engineer Intern, Fullstack|Redmond, WA|d8681c290913908360d68e12eaefdf2b
 Microsoft|Software Engineer Intern, Frontend|Redmond, WA|510b62c0bdf2ca097c48ed83b36695af
