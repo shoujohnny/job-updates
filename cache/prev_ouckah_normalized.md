@@ -1,3 +1,13 @@
+Microsoft|Software Engineer Intern, Systems|Redmond, WA|40ca360c209775bb801a2ba7dd957771
+Microsoft|Software Engineer Intern, Fullstack|Redmond, WA|d8681c290913908360d68e12eaefdf2b
+Microsoft|Software Engineer Intern, Frontend|Redmond, WA|510b62c0bdf2ca097c48ed83b36695af
+Microsoft|Software Engineer Intern, AI/ML|Redmond, WA|c13a6c5628be9be3b87d03223b9dd249
+Microsoft|Software Engineer Intern, Security|Redmond, WA|2425cfae8199367d83741c8644ef6610
+Microsoft|Software Engineer Intern, Fullstack|Redmond, WA|ba3bee01b7d92be7bac90005f34bde36
+Microsoft|Software Engineer Intern, Fullstack|Atlanta, GA|ee0ecc9c8b493ac2f205f8bb3a051366
+Microsoft|Applied Scientist Intern, Microsoft AI – PhD|Redmond, WA|12a5acc806f3333c3e990134f7306bc0
+Detroit Pistons|Software Development Intern|Detroit, MI|c14f34ef20e72ddc586b702f9070415d
+Cisco|Software Engineer Intern|San Jose, CA|b047f8a3468790ee5aaf17b60ad9a52d
 TetraMem|Software Intern, Embedded|San Jose, CA|44fc6a69c28aa0904e6f23b85e2223d0
 TetraMem|Software Intern, Machine Learning|San Jose, CA|d63311f4d281367b6e2366d02d42f995
 Sonic Healthcare USA, Inc|Software Development Intern, Cache|Dallas, TX|a397668ab9bd6f912709ec3d2dd3f286
