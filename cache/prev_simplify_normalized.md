@@ -1,4 +1,7 @@
+**[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Malta, NY|2fa67518f7648248095c8f566a357890
+Sonic Healthcare USA|Cache Software Development Intern|Dallas, TX|ea724e6809657a90439a3ac019f9fdad
 **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Redmond, WA|9e22e2a77f74e3efca3726f03d3062a4
+**[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)**|Software Engineer – Intern|London, UK|9afdee0c75f989ae8ff994c117f0c5aa
 **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)**|Stagiaire en développement de logiciels – / Software Developer Intern|Montreal, QC, Canada|7bce6745c28efb377bb63ec370b1a8b3
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software/Firmware Development Intern|Moffett Field, CA|2dae4920db43b93da0cfe91e51db16f4
 Shopify|USA Engineering Internships 🛂|Remote in USA|4088aacbb1a0df547dbd8e31809d8382
@@ -60,8 +63,8 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Monetization Technology - Ads Creative|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Tiktok-Intelligent Creation - BS/MS|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
