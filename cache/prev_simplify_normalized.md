@@ -1,3 +1,4 @@
+**[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus AI Researcher (Intern)|Chicago, IL</br>New York, NY|769c4a88b175f2829df37b7ebfd9a070
 NiCE|AI Solutions Intern|Atlanta, GA|ed0ae153e899fd667a3a3ef988713137
 General Dynamics|Intern Engineer|Fort Wayne, IN|f5598b876cab64b4cfb71e18a85c1f13
 **[PDT Partners](https://simplify.jobs/c/PDT-Partners?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|New York, NY|cfa23fc86220b77d90d254eabbb17b09
