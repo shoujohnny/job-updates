@@ -1,3 +1,4 @@
+**[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Redmond, WA|9e22e2a77f74e3efca3726f03d3062a4
 **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)**|Stagiaire en développement de logiciels – / Software Developer Intern|Montreal, QC, Canada|7bce6745c28efb377bb63ec370b1a8b3
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software/Firmware Development Intern|Moffett Field, CA|2dae4920db43b93da0cfe91e51db16f4
 Shopify|USA Engineering Internships 🛂|Remote in USA|4088aacbb1a0df547dbd8e31809d8382
