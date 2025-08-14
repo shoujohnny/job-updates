@@ -1,3 +1,6 @@
+**[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|SF</br>NYC|110184a3664920d5c3bb038a9600e8d4
+Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
+Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus AI Researcher (Intern)|Chicago, IL</br>New York, NY|769c4a88b175f2829df37b7ebfd9a070
 NiCE|AI Solutions Intern|Atlanta, GA|ed0ae153e899fd667a3a3ef988713137
 General Dynamics|Intern Engineer|Fort Wayne, IN|f5598b876cab64b4cfb71e18a85c1f13
@@ -16,8 +19,8 @@ Nicolet National Bank|Software Developer Intern|Green Bay, WI|043b2240b917bb2d7d
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Technology Development Program Associate|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 Anduril Industries|Software Engineer Intern 🛂|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|0d8440df335370db19fed284298b885e
 **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)**|Software Engineer – Intern|London, UK|0b878511c702f23f263811eefea55a56
-Notion|Software Engineer, AI|San Francisco, CA</br>New York, NY|493b8cb6213e17846c0cf09eef6f52fa
-Notion|Software Engineer, Mobile|San Francisco, CA</br>New York, NY|282307d0ac35b2c57761a4b47ce0a5ce
+**[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer, AI|San Francisco, CA</br>New York, NY|110184a3664920d5c3bb038a9600e8d4
+Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Technology Development Program Associate|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Austin, Texas</br>Remote|f8ff488b7c711677bba327160f956bf1
 **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|e68c26bdc57202dc4e5f194843212ccf

@@ -9,6 +9,7 @@ Microsoft|Software Engineer Intern, Security|Redmond, WA|2425cfae8199367d83741c8
 Microsoft|Software Engineer Intern, Fullstack|Redmond, WA|ba3bee01b7d92be7bac90005f34bde36
 Microsoft|Software Engineer Intern, Fullstack|Atlanta, GA|ee0ecc9c8b493ac2f205f8bb3a051366
 Microsoft|Applied Scientist Intern, Microsoft AI – PhD|Redmond, WA|12a5acc806f3333c3e990134f7306bc0
+Epic Games|Gameplay Programmer Intern|Cary, NC|1b853b551618ee88cbd38bf88a06ba0f
 Detroit Pistons|Software Development Intern|Detroit, MI|c14f34ef20e72ddc586b702f9070415d
 Cisco|Software Engineer Intern|San Jose, CA|b047f8a3468790ee5aaf17b60ad9a52d
 TetraMem|Software Intern, Embedded|San Jose, CA|44fc6a69c28aa0904e6f23b85e2223d0
@@ -57,7 +58,6 @@ BNY|Engineering Intern, Data Science 🛂|<details><summary>**4 locations**</sum
 BNY|Engineering (Developer) Intern 🛂|Pittsburgh, PA|4cf6fba0d6bc8ad1e182cc1c180595a8
 Roblox|Software Engineer Intern|San Mateo, CA|d07f7a126364c53249ac06e7fe3d69d0
 Confluent|Software Engineering Intern|Austin, TX|d65cc4c7cbf0d8614628f8fe9e4efc0e
-Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|965eb447cdb60ceea7a4b5ffeb40760d
 HD Supply|Information Technology Intern|Atlanta, GA|f8b477478c651c76a9e985f476cee29b
 TikTok|Software Engineer Intern, Intelligent Creation - Generative AI and Graphics|San Jose, CA|0b07901c27ac3d9f11adfde1b912a468
 Talos|Quantitative Analyst Intern|New York, NY|0dbbef4ad4712196c5682869e66bf99d
