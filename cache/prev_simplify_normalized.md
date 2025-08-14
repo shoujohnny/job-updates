@@ -3,7 +3,6 @@ NiCE|AI Solutions Intern|Atlanta, GA|ed0ae153e899fd667a3a3ef988713137
 General Dynamics|Intern Engineer|Fort Wayne, IN|f5598b876cab64b4cfb71e18a85c1f13
 **[PDT Partners](https://simplify.jobs/c/PDT-Partners?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|New York, NY|cfa23fc86220b77d90d254eabbb17b09
 **[Domo](https://simplify.jobs/c/Domo?utm_source=GHList&utm_medium=company)**|Software Engineer|American Fork, UT|6c5f5e06cf71dcf6ebb3a82f8b11ae43
-Oklahoma City Thunder|Software Engineer Intern / Basketball Operations|Oklahoma City, OK|53aafa136cda2ad4e0df218fce9521f3
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Malta, NY|2fa67518f7648248095c8f566a357890
 Sonic Healthcare USA|Cache Software Development Intern|Dallas, TX|ea724e6809657a90439a3ac019f9fdad
 **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Redmond, WA|9e22e2a77f74e3efca3726f03d3062a4
@@ -59,12 +58,12 @@ Confluent(https://simplify.jobs/c/Confluent?utm_source=GHList|↳|utm_medium=com
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
