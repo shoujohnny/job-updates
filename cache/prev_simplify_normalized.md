@@ -4,11 +4,13 @@ Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus AI Researcher (Intern)|Chicago, IL</br>New York, NY|769c4a88b175f2829df37b7ebfd9a070
 NiCE|AI Solutions Intern|Atlanta, GA|ed0ae153e899fd667a3a3ef988713137
 General Dynamics|Intern Engineer|Fort Wayne, IN|f5598b876cab64b4cfb71e18a85c1f13
+nCino|Part-time Software Engineer Intern|Lehi, UT|b463769e6d425468f7f1983ffbe1da53
 **[PDT Partners](https://simplify.jobs/c/PDT-Partners?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|New York, NY|cfa23fc86220b77d90d254eabbb17b09
 **[Domo](https://simplify.jobs/c/Domo?utm_source=GHList&utm_medium=company)**|Software Engineer|American Fork, UT|6c5f5e06cf71dcf6ebb3a82f8b11ae43
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Malta, NY|2fa67518f7648248095c8f566a357890
 Sonic Healthcare USA|Cache Software Development Intern|Dallas, TX|ea724e6809657a90439a3ac019f9fdad
 **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Redmond, WA|9e22e2a77f74e3efca3726f03d3062a4
+**[Nelnet](https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30?utm_source=GHList&utm_medium=company)**|Intern – Software Engineer|Lincoln, NE|1f550732633f501cbc5f8c973c2d2ea1
 **[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)**|Software Engineer – Intern|London, UK|9afdee0c75f989ae8ff994c117f0c5aa
 **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)**|Stagiaire en développement de logiciels – / Software Developer Intern|Montreal, QC, Canada|7bce6745c28efb377bb63ec370b1a8b3
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software/Firmware Development Intern|Moffett Field, CA|2dae4920db43b93da0cfe91e51db16f4
@@ -142,7 +144,6 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)**|Engineering Intern - AI 🛂|New York|f00dbdf2eddebb92caebc7b87f7766f5
 Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a9355638205c
 **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)**|Research Internship – AI Agents for Industrial Applications|Santa Clara, CA|5f8299db1c828e9dc672eb0580c6d94a
-**[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)**|Software Engineer Co-op|Audubon, PA|57e88c3121a2717b007cb36e89310ef2
 **[Neuralink](https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company)**|Firmware Engineer Intern 🛂|Fremont, CA|de94a112f39bfca9e02f769c2a7e74de
 **[Harmonic](https://simplify.jobs/c/HarmonicAI?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Summer|NYC|09e84f55b1c462d59a675bc02396cedc
 **[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, CA</br>New York, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
