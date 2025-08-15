@@ -1,6 +1,13 @@
+TikTok|Backend Software Engineer Intern, Media Platform|San Jose, CA|49ce1e5677d53723f838b5f87095e041
+TikTok|Software Engineer Intern, Live Service|San Jose, CA|7dccd2f26cf815caef7eca787d548839
+TikTok|Backend Software Engineer Intern, Foundation Platform|San Jose, CA|9b990374fc3d385d53c37cec66a92713
+TikTok|Software Engineer Intern, Media Engine|San Jose, CA|2cf5fe255d4d139e8234591aff130794
+TikTok|Software Engineer Intern, Video-on-Demand Algorithm|San Jose, CA|596a77b8f7833060f081b6ccbc72c19f
+Skyworks|Applications Engineer Intern, Power Access|Austin, TX|ef2becd2fab46885647e93cfb6178886
 HPE|Cloud Engineer Intern|Spring, TX|f73d7449d55ff3a5a400d1f775b484de
 Hewlett Packard Enterprise|Firmware Engineer Intern|Spring, TX|086bb861478b9cbba4c0f038089a8614
 Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|e0632dcf28bbbc58465175134ecc335f
+Goldman Sachs|Analyst Intern|New York, NY|dae57782f1d2b3eb021838fe7114e249
 CCC Intelligent Solutions Inc.|Software Engineer Intern|Chicago, IL|1c7b19a28d115566b1a8e2880730a72e
 Brunswick|Front-End Development Intern 🛂|Champaign, IL|53f4072bfa6a680b55cc59dce2337363
 Brunswick|Software Development Intern 🛂|Champaign, IL|140af0ddae80779d47089e8f20ee3249
