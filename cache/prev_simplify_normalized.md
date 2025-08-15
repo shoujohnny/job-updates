@@ -206,7 +206,7 @@ nCino|Part-time Software Engineer Intern|Lehi, UT|68b329da9893e34099c7d8ad5cb9c9
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|68b329da9893e34099c7d8ad5cb9c940
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
-**[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship 🛂|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
+Truist(https://simplify.jobs/c/Truist?utm_source=GHList|↳|utm_medium=company)|e034b0bc033daf17743fc581b212e16c
 **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Farmington, CT|09659f7f459a99685726c7c6defc25ac
 **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Alberta, Canada|61d6d77985463ba63ccb89850c4383b7
 Kimley Horn|Software Developer Intern|Raleigh, NC|68b329da9893e34099c7d8ad5cb9c940
