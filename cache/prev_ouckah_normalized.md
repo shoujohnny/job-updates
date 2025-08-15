@@ -11,6 +11,7 @@ Goldman Sachs|Analyst Intern|New York, NY|dae57782f1d2b3eb021838fe7114e249
 CCC Intelligent Solutions Inc.|Software Engineer Intern|Chicago, IL|1c7b19a28d115566b1a8e2880730a72e
 Brunswick|Front-End Development Intern 🛂|Champaign, IL|53f4072bfa6a680b55cc59dce2337363
 Brunswick|Software Development Intern 🛂|Champaign, IL|140af0ddae80779d47089e8f20ee3249
+Adobe|Software Engineer Intern|<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>|9be92fab1fab10353f47b7ae6155d80e
 RTX|Software Engineering Intern|Cedar Rapids, IA|6243c21069b494dee14f6cca81617b92
 Northrop Grumman|2025 Software Engineer Intern|Rome, NY|50629b0b549752c6bc59ba887de10ee3
 Morgan Stanley|Firmwide AI Strategy & Solutions Analyst Intern|New York, NY|a1cadea48b1835fbac0c985f3b6e5429
@@ -32,7 +33,6 @@ Shopify|USA Engineering Internships 🛂|Remote|3161a4bf8f1f5277e969853a6ba05de6
 New York Life|Investments AI & Data Intern, AI & DS Team|New York, NY|564be5a1482645319e28f3840aead561
 GlobalFoundries|Software Engineering Intern|Malta, NY|904c9946ac343ce83266c970c249a9dd
 Oklahoma City Thunder|Software Engineer Intern, Basketball Operations|Remote|9f72b640a218e5286c2e33ed9311fb1b
-Activision Blizzard|Graphics Engineering Intern, Overwatch|Irvine, CA|f242f226a042e5b471c70f05fed2b596
 Anduril|Software Engineer Intern 🛂|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|d8ee701fd53b6635dd8eb9b341a696ae
 Southwest Research Institute|Software Engineer Intern 🇺🇸|San Antonio, TX|6f01a9e4b891729aaaa3c0b7870905be
 Notion|Software Engineer Intern, Mobile|San Francisco, CA</br>New York, NY|b3aeee7eead6de82351945df06563708

@@ -1,4 +1,6 @@
-**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Nosql Databases|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
+ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)**|2026 Intern - Software Engineer|<details><summary>**6 locations**</summary>Seattle, WA</br>SF</br>Austin, TX</br>San Jose, CA</br>NYC</br>Lehi, UT</details>|3a7edc5c63a3a4bca0c4372408b9f825
 Automated Systems of Tacoma|Software Engineering Intern 🛂|Tacoma, WA|e56f75eebeadd7933ba0b2ba6ad35112
