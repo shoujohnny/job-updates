@@ -1,3 +1,4 @@
+TransPerfect|Software Engineer Intern|New York, NY|6d7b774bfc864368f9a83e0911cc15c6
 TikTok|Backend Software Engineer Intern, Media Platform|San Jose, CA|49ce1e5677d53723f838b5f87095e041
 TikTok|Software Engineer Intern, Live Service|San Jose, CA|7dccd2f26cf815caef7eca787d548839
 TikTok|Backend Software Engineer Intern, Foundation Platform|San Jose, CA|9b990374fc3d385d53c37cec66a92713
@@ -11,6 +12,7 @@ Goldman Sachs|Analyst Intern|New York, NY|dae57782f1d2b3eb021838fe7114e249
 CCC Intelligent Solutions Inc.|Software Engineer Intern|Chicago, IL|1c7b19a28d115566b1a8e2880730a72e
 Brunswick|Front-End Development Intern 🛂|Champaign, IL|53f4072bfa6a680b55cc59dce2337363
 Brunswick|Software Development Intern 🛂|Champaign, IL|140af0ddae80779d47089e8f20ee3249
+BlackEdge Capital|Quantitative Trader Intern|Chicago, IL|3dde78cf80bb002d4f2bf63301d2a18b
 Adobe|Software Engineer Intern|<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>|9be92fab1fab10353f47b7ae6155d80e
 RTX|Software Engineering Intern|Cedar Rapids, IA|6243c21069b494dee14f6cca81617b92
 Northrop Grumman|2025 Software Engineer Intern|Rome, NY|50629b0b549752c6bc59ba887de10ee3

@@ -1,4 +1,6 @@
-**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Traffic Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
+ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|NYC|2fa67518f7648248095c8f566a357890
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Network Software Development Engineer Intern - Network Observation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
@@ -8,7 +10,7 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)**|2026 Intern - Software Engineer|<details><summary>**6 locations**</summary>Seattle, WA</br>SF</br>Austin, TX</br>San Jose, CA</br>NYC</br>Lehi, UT</details>|3a7edc5c63a3a4bca0c4372408b9f825
 Automated Systems of Tacoma|Software Engineering Intern 🛂|Tacoma, WA|e56f75eebeadd7933ba0b2ba6ad35112
-TransPerfect|Software Engineer Intern|New York, NY|653df5afa3cf100f62897bacadaea739
+**[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|New York, NY|6ba1731d66be7ee79b931fb911f9f923
 **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)**|Software Engineering Intern 🛂|Cedar Rapids, IA|abcd84d104ff90ce36af359e758e7f7c
 Cisco|Software Engineer I (Intern) 🛂|<details><summary>**14 locations**</summary>San Jose, CA</br>Remote, USA</br>Milpitas, CA</br>New York, NY</br>RTP, NC</br>Atlanta, GA</br>Alpharetta, GA</br>Austin, TX</br>Dallas, TX</br>Knoxville, TN</br>Fulton, MD</br>Maynard, MA</br>Boston, MA</br>Hillsboro, OR</details>|ce111a949ce942261df40c472b76fcaa
 **[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco, CA</br>New York, NY|110184a3664920d5c3bb038a9600e8d4
@@ -20,7 +22,7 @@ General Dynamics|Intern Engineer|Fort Wayne, IN|f5598b876cab64b4cfb71e18a85c1f13
 **[PDT Partners](https://simplify.jobs/c/PDT-Partners?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|New York, NY|cfa23fc86220b77d90d254eabbb17b09
 **[Domo](https://simplify.jobs/c/Domo?utm_source=GHList&utm_medium=company)**|Software Engineer|American Fork, UT|6c5f5e06cf71dcf6ebb3a82f8b11ae43
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Malta, NY|2fa67518f7648248095c8f566a357890
-Sonic Healthcare USA|Cache Software Development Intern|Dallas, TX|ea724e6809657a90439a3ac019f9fdad
+**[Sonic Healthcare USA](https://simplify.jobs/c/Sonic-Healthcare-USA?utm_source=GHList&utm_medium=company)**|Cache Software Development Intern|Dallas, TX|e93f55a461d50ed1dfdcb56ef5515595
 **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Redmond, WA|9e22e2a77f74e3efca3726f03d3062a4
 **[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)**|Software Engineer – Intern|London, UK|9afdee0c75f989ae8ff994c117f0c5aa
 **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)**|Stagiaire en développement de logiciels – / Software Developer Intern|Montreal, QC, Canada|7bce6745c28efb377bb63ec370b1a8b3
