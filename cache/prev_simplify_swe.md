@@ -205,8 +205,8 @@
 | **[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)** | Mobile Software Developer Co-op | Toronto, ON, Canada | 🔒 | 7d |
 | Marquee Insurance Group | Software Engineer Intern 🛂 | Charleston, SC | 🔒 | 10d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Technology Internship Program | Plano, TX</br>McLean, VA</br>Richmond, VA | 🔒 | 11d |
-| **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | 13d |
-| **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship 🛂 | Charlotte, NC</br>Atlanta, GA | 🔒 | 14d |
+| **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)** | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | 14d |
+| Truist(https://simplify.jobs/c/Truist?utm_source=GHList| ↳ |utm_medium=company) | Technology and Innovation Internship 🛂 | Charlotte, NC</br>Atlanta, GA | 🔒 | 14d |
 | **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Farmington, CT | 🔒 | 14d |
 | **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Alberta, Canada | 🔒 | 15d |
 | Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 15d |
