@@ -2,7 +2,7 @@ Automated Systems of Tacoma|Software Engineering Intern 🛂|Tacoma, WA|e56f75ee
 TransPerfect|Software Engineer Intern|New York, NY|653df5afa3cf100f62897bacadaea739
 **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)**|Software Engineering Intern 🛂|Cedar Rapids, IA|abcd84d104ff90ce36af359e758e7f7c
 Cisco|Software Engineer I (Intern) 🛂|<details><summary>**14 locations**</summary>San Jose, CA</br>Remote, USA</br>Milpitas, CA</br>New York, NY</br>RTP, NC</br>Atlanta, GA</br>Alpharetta, GA</br>Austin, TX</br>Dallas, TX</br>Knoxville, TN</br>Fulton, MD</br>Maynard, MA</br>Boston, MA</br>Hillsboro, OR</details>|ce111a949ce942261df40c472b76fcaa
-**[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|SF</br>NYC|110184a3664920d5c3bb038a9600e8d4
+**[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco, CA</br>New York, NY|110184a3664920d5c3bb038a9600e8d4
 Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
 Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus AI Researcher (Intern)|Chicago, IL</br>New York, NY|769c4a88b175f2829df37b7ebfd9a070
@@ -74,9 +74,9 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Tiktok-Privacy and Security-Business Risk Integrated Control - 2026 Summer - BS/MS|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Monetization Technology - Ads Creative|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
@@ -133,7 +133,7 @@ Sentry(https://simplify.jobs/c/Sentry?utm_source=GHList|↳|utm_medium=company)|
 **[HPR (Hyannis Port Research)](https://simplify.jobs/c/HyannisPortResearch?utm_source=GHList&utm_medium=company)**|Software Engineering Intern 🛂|Needham, MA|4f3f0ba5ad2ac2678421433b4d52d346
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Global E-Commerce|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
-ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Backend Software Engineer Intern - Global E-Commerce|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[Otis](https://simplify.jobs/c/Otis?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Farmington, CT|09659f7f459a99685726c7c6defc25ac
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer – Internship - Infrastructure|London, UK|c79008864980cdf371f4ff057aac722b
