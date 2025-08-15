@@ -13,7 +13,6 @@ General Dynamics|Intern Engineer|Fort Wayne, IN|f5598b876cab64b4cfb71e18a85c1f13
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Malta, NY|2fa67518f7648248095c8f566a357890
 Sonic Healthcare USA|Cache Software Development Intern|Dallas, TX|ea724e6809657a90439a3ac019f9fdad
 **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Redmond, WA|9e22e2a77f74e3efca3726f03d3062a4
-**[Nelnet](https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30?utm_source=GHList&utm_medium=company)**|Intern – Software Engineer|Lincoln, NE|1f550732633f501cbc5f8c973c2d2ea1
 **[Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company)**|Software Engineer – Intern|London, UK|9afdee0c75f989ae8ff994c117f0c5aa
 **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital?utm_source=GHList&utm_medium=company)**|Stagiaire en développement de logiciels – / Software Developer Intern|Montreal, QC, Canada|7bce6745c28efb377bb63ec370b1a8b3
 **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)**|Software/Firmware Development Intern|Moffett Field, CA|2dae4920db43b93da0cfe91e51db16f4
@@ -62,10 +61,10 @@ Ramp(https://simplify.jobs/c/Ramp?utm_source=GHList|↳|utm_medium=company)|54c9
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|2026 Confluent Software Engineering Intern Opportunity|Austin, TX|f8ff488b7c711677bba327160f956bf1
 Confluent(https://simplify.jobs/c/Confluent?utm_source=GHList|↳|utm_medium=company)|7aee454008f60c32f6ad714d4c9ffb6f
 **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Frontend Engineer Intern - Tiktok-Growth-Innovative Growth|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Recommendation Infrastructure|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
@@ -193,14 +192,15 @@ Abbott|IT Intern|Waukegan, IL|ea619526f7be6493c0e4d1d9057b54b0
 Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company)|1d9c84495bd359875ab9cbabd0d412b7
 **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|add1c16303a9ad248ec36ffdc234e68e
 **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|New York, NY|c79008864980cdf371f4ff057aac722b
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Palo Alto, CA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
-**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Seattle, WA|c79008864980cdf371f4ff057aac722b
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 nCino|Part-time Software Engineer Intern|Lehi, UT|68b329da9893e34099c7d8ad5cb9c940
+**[Nelnet](https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30?utm_source=GHList&utm_medium=company)**|Intern – Software Engineer|Lincoln, NE|1f550732633f501cbc5f8c973c2d2ea1
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Software Engineer 1 – Intern Conversion - Front End|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)**|Mobile Software Developer Co-op|Toronto, ON, Canada|ae720d9b4b1f5a2165099cb3ca6edea8
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|68b329da9893e34099c7d8ad5cb9c940
