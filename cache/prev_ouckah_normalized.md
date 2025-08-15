@@ -1,3 +1,4 @@
+Uline|Software Developer Intern|Pleasant Prairie, WI|4f8e9ec5fc62289925683750a4f1b926
 TransPerfect|Software Engineer Intern|New York, NY|6d7b774bfc864368f9a83e0911cc15c6
 TikTok|Backend Software Engineer Intern, Media Platform|San Jose, CA|49ce1e5677d53723f838b5f87095e041
 TikTok|Software Engineer Intern, Live Service|San Jose, CA|7dccd2f26cf815caef7eca787d548839
@@ -5,6 +6,8 @@ TikTok|Backend Software Engineer Intern, Foundation Platform|San Jose, CA|9b9903
 TikTok|Software Engineer Intern, Media Engine|San Jose, CA|2cf5fe255d4d139e8234591aff130794
 TikTok|Software Engineer Intern, Video-on-Demand Algorithm|San Jose, CA|596a77b8f7833060f081b6ccbc72c19f
 Skyworks|Applications Engineer Intern, Power Access|Austin, TX|ef2becd2fab46885647e93cfb6178886
+Motorola Solutions|Supply Chain AI Intern|Chicago, IL</br>Schaumburg, IL|4026b63d5d918d209ddfcbe8fe551886
+Mitsubishi UFJ Financial Group (MUFG)|Summer Analyst Intern, Information Technology 🛂|Tampa, FL|8ef43732b6c519cb4d736793992e7fec
 HPE|Cloud Engineer Intern|Spring, TX|f73d7449d55ff3a5a400d1f775b484de
 Hewlett Packard Enterprise|Firmware Engineer Intern|Spring, TX|086bb861478b9cbba4c0f038089a8614
 Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|e0632dcf28bbbc58465175134ecc335f
@@ -13,6 +16,9 @@ CCC Intelligent Solutions Inc.|Software Engineer Intern|Chicago, IL|1c7b19a28d11
 Brunswick|Front-End Development Intern 🛂|Champaign, IL|53f4072bfa6a680b55cc59dce2337363
 Brunswick|Software Development Intern 🛂|Champaign, IL|140af0ddae80779d47089e8f20ee3249
 BlackEdge Capital|Quantitative Trader Intern|Chicago, IL|3dde78cf80bb002d4f2bf63301d2a18b
+Beckman Coulter Life Sciences|AI-Powered Marketing Operations & Project Management Intern|Indianapolis, IN|61ccf2143d7aaa1cdb2543375c259bd0
+Amentum|AI and Robotics Intern 🇺🇸|Huntsville, AL|1c927ba856681ab73ed0b898af138fb3
+Adobe|Machine Learning Engineer Intern, AI/ML|<details><summary>**7 locations**</summary>San Jose, CA</br>Waltham, MA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>|ad831f143dba3f7431cc6d5b63f787db
 Adobe|Software Engineer Intern|<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>|9be92fab1fab10353f47b7ae6155d80e
 RTX|Software Engineering Intern|Cedar Rapids, IA|6243c21069b494dee14f6cca81617b92
 Northrop Grumman|2025 Software Engineer Intern|Rome, NY|50629b0b549752c6bc59ba887de10ee3
