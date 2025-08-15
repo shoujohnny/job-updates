@@ -109,7 +109,6 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 **[Peraton](https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company)**|Summer 2026 University Internship Pipeline|Reston, VA|12c30ae7ca47f37a7371db78eedb6f9d
 **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|Chicago, IL</br>NYC|6d820dfd303aae7b383d497929ca3ca3
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Payment Architecture - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
-Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|c9b20fab631d33294a26155bb3679763
 **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern (Data Ecosystem)|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|New York, NY</br>San Francisco, CA|a6c3b48d983e6c0661a2bf82159ecb97
@@ -145,7 +144,6 @@ Reality Defender|Computer Vision Intern|Global Remote|b0a055aa3a59c2383a74a93556
 **[Hitachi](https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company)**|Research Internship – AI Agents for Industrial Applications|Santa Clara, CA|5f8299db1c828e9dc672eb0580c6d94a
 **[Globus Medical](https://simplify.jobs/c/Globus-Medical?utm_source=GHList&utm_medium=company)**|Software Engineer Co-op|Audubon, PA|57e88c3121a2717b007cb36e89310ef2
 **[Neuralink](https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company)**|Firmware Engineer Intern 🛂|Fremont, CA|de94a112f39bfca9e02f769c2a7e74de
-**[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)**|Software Developer Internship|Spring, TX|6f38317e81195c6ed87924be580e9b04
 **[Harmonic](https://simplify.jobs/c/HarmonicAI?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Summer|NYC|09e84f55b1c462d59a675bc02396cedc
 **[Unify](https://simplify.jobs/c/Unify-Gtm?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, CA</br>New York, NY|fa2bd0c2d06402cdd8b879af29bc5d5c
 Datavisor|Software Engineer|Mountain View, CA|7c18e7e94f3bf75f609a3036a21d3b70
@@ -200,6 +198,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Software Engineer 1 – Intern Conversion - Front End|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
+Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|68b329da9893e34099c7d8ad5cb9c940
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
 Truist(https://simplify.jobs/c/Truist?utm_source=GHList|↳|utm_medium=company)|e034b0bc033daf17743fc581b212e16c
@@ -207,6 +206,7 @@ Truist(https://simplify.jobs/c/Truist?utm_source=GHList|↳|utm_medium=company)|
 **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Alberta, Canada|61d6d77985463ba63ccb89850c4383b7
 Kimley Horn|Software Developer Intern|Raleigh, NC|68b329da9893e34099c7d8ad5cb9c940
 **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)**|Software Development Intern|Dulles, VA|e8a1098449fdb669d4deecc7a334a114
+**[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company)**|Software Developer Internship|Spring, TX|6f38317e81195c6ed87924be580e9b04
 **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)**|2025 Emerging Talent Apprentice - Lgcc|NYC|6dc8c4149168de9d44dd9f0de780e09d
 **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)**|University – Systems Engineer Intern|Fayetteville, NC|ed9e5d8d20a95db8f45ff1d6228bb474
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Product Development Internship Program 🛂|Plano, TX McLean, VA|77d38e69bf1cf859fe120988418e96a9
