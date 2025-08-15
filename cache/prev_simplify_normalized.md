@@ -1,3 +1,4 @@
+Cisco|Software Engineer I (Intern) 🛂|<details><summary>**14 locations**</summary>San Jose, CA</br>Remote, USA</br>Milpitas, CA</br>New York, NY</br>RTP, NC</br>Atlanta, GA</br>Alpharetta, GA</br>Austin, TX</br>Dallas, TX</br>Knoxville, TN</br>Fulton, MD</br>Maynard, MA</br>Boston, MA</br>Hillsboro, OR</details>|ce111a949ce942261df40c472b76fcaa
 **[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|SF</br>NYC|110184a3664920d5c3bb038a9600e8d4
 Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
 Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
@@ -54,7 +55,6 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 **[Holman](https://simplify.jobs/c/Holman?utm_source=GHList&utm_medium=company)**|Developer Co-Op|Mississauga, ON, Canada|140bb8048d1b069af1186ac3d7aaecf7
-**[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)**|Mobile Software Developer Co-op|Toronto, ON, Canada|ae720d9b4b1f5a2165099cb3ca6edea8
 **[Ramp](https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company)**|Software Engineer Internship - IOS|SF</br>NYC|64c3a896a273e1719503c1df68956a01
 Ramp(https://simplify.jobs/c/Ramp?utm_source=GHList|↳|utm_medium=company)|54c9765e7fe2b3b4d719f4ec47368a5c
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|2026 Confluent Software Engineering Intern Opportunity|Austin, TX|f8ff488b7c711677bba327160f956bf1
@@ -199,6 +199,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Software Engineer 1 – Intern Conversion - Front End|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
+**[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)**|Mobile Software Developer Co-op|Toronto, ON, Canada|ae720d9b4b1f5a2165099cb3ca6edea8
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|68b329da9893e34099c7d8ad5cb9c940
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
