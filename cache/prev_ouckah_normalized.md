@@ -1,3 +1,9 @@
+HPE|Cloud Engineer Intern|Spring, TX|f73d7449d55ff3a5a400d1f775b484de
+Hewlett Packard Enterprise|Firmware Engineer Intern|Spring, TX|086bb861478b9cbba4c0f038089a8614
+Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|e0632dcf28bbbc58465175134ecc335f
+CCC Intelligent Solutions Inc.|Software Engineer Intern|Chicago, IL|1c7b19a28d115566b1a8e2880730a72e
+Brunswick|Front-End Development Intern 🛂|Champaign, IL|53f4072bfa6a680b55cc59dce2337363
+Brunswick|Software Development Intern 🛂|Champaign, IL|140af0ddae80779d47089e8f20ee3249
 RTX|Software Engineering Intern|Cedar Rapids, IA|6243c21069b494dee14f6cca81617b92
 Northrop Grumman|2025 Software Engineer Intern|Rome, NY|50629b0b549752c6bc59ba887de10ee3
 Morgan Stanley|Firmwide AI Strategy & Solutions Analyst Intern|New York, NY|a1cadea48b1835fbac0c985f3b6e5429
