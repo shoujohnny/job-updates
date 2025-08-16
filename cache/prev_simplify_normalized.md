@@ -9,7 +9,7 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Edge Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
-**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Traffic Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
+ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[Uline](https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103?utm_source=GHList&utm_medium=company)**|Software Developer Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|41dee4cd77fe0387425cd3fcaaef3a58
