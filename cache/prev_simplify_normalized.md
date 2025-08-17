@@ -1,3 +1,6 @@
+**[Uline](https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103?utm_source=GHList&utm_medium=company)**|Software Developer Internship|Pleasant Prairie, WI|41dee4cd77fe0387425cd3fcaaef3a58
+Skyworks|Applications Engineer Intern|Austin, TX|cd4a1815336729bd9f15fe997c12bcf7
+Motorola Solutions|Supply Chain AI Intern|Chicago, IL</br>Schaumburg, IL|22b45cdcc0198f9d668f39c6f768b2c8
 MUFG|Information Technology 🛂|Tampa, Fl|a61729c3ad79e58a825111f80c5ce98e
 **[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company)**|Cloud Engineer Intern|Spring, TX|dd9400b3664bce09d04075a163c6eebd
 Hewlett Packard Enterprise(https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList|↳|utm_medium=company)|ebb15aebddaa356b7020bc18ff332374
