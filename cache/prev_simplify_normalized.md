@@ -10,8 +10,10 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Edge Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
-ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
-ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+**[Sonic Healthcare USA](https://simplify.jobs/c/Sonic-Healthcare-USA?utm_source=GHList&utm_medium=company)**|Cache Software Development Intern|Dallas, TX|e93f55a461d50ed1dfdcb56ef5515595
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - AI Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
+**[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|NYC|6ba1731d66be7ee79b931fb911f9f923
+**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[Uline](https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103?utm_source=GHList&utm_medium=company)**|Software Developer Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|41dee4cd77fe0387425cd3fcaaef3a58
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Financial Product - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|NYC|2fa67518f7648248095c8f566a357890
@@ -21,10 +23,12 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company)**|2026 Intern - Software Engineer|<details><summary>**6 locations**</summary>Seattle, WA</br>SF</br>Austin, TX</br>San Jose, CA</br>NYC</br>Lehi, UT</details>|3a7edc5c63a3a4bca0c4372408b9f825
-Automated Systems of Tacoma|Software Engineering Intern 🛂|Tacoma, WA|e56f75eebeadd7933ba0b2ba6ad35112
+**[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)**|Ism Co-Op|Parsippany-Troy Hills, NJ|96099fc133bd8d975043d9f8440bfc23
+**[ CCC Intelligent Solutions](https://simplify.jobs/c/CCC-Intelligent-Solutions?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|0285f259fa7e3f506e4540b662643b2b
 **[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|New York, NY|6ba1731d66be7ee79b931fb911f9f923
 **[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)**|Software Engineering Intern 🛂|Cedar Rapids, IA|abcd84d104ff90ce36af359e758e7f7c
 Cisco|Software Engineer I (Intern) 🛂|<details><summary>**14 locations**</summary>San Jose, CA</br>Remote, USA</br>Milpitas, CA</br>New York, NY</br>RTP, NC</br>Atlanta, GA</br>Alpharetta, GA</br>Austin, TX</br>Dallas, TX</br>Knoxville, TN</br>Fulton, MD</br>Maynard, MA</br>Boston, MA</br>Hillsboro, OR</details>|ce111a949ce942261df40c472b76fcaa
+**[ABB](https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company)**|Intern – IT Programming and Projects|Pointe-Claire, QC, Canada|7fa8344ab1cdb2a0c6af82360109f81e
 **[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco, CA</br>New York, NY|110184a3664920d5c3bb038a9600e8d4
 Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
 Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
@@ -98,7 +102,7 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
-TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Development Engineer in Test Intern - Tiktok-Intelligent Creation - BS/MS|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
