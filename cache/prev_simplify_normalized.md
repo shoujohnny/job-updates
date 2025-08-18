@@ -1,5 +1,6 @@
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Myq Middleware|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 Chamberlain Group(https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList|↳|utm_medium=company)|0c226fa8e1453a89b6470d38b852d11e
+**[Freddie Mac](https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company)**|Technology Intern|McLean, VA|c1bdcbb44aad1bfc5de2f631e4210b98
 **[GE Appliances](https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company)**|Software Engineering Co-op|Louisville, KY|1c41cbac6e919d2570252a77db75e022
 **[Ecolab](https://simplify.jobs/c/Ecolab?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Naperville, IL</br>Eagan, MN</br>St Paul, MN|4f77d97b605b058d24b0128ac9b8911b
 **[Skyworks](https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company)**|Applications Engineer Intern|Austin, TX|fe10b5cbff2fa8f72ed5fac757621831
@@ -27,8 +28,7 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[Uline](https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103?utm_source=GHList&utm_medium=company)**|Software Developer Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|41dee4cd77fe0387425cd3fcaaef3a58
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Financial Product - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
-**[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|NYC|2fa67518f7648248095c8f566a357890
-**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
+ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
@@ -236,6 +236,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
+**[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|NYC|2fa67518f7648248095c8f566a357890
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Network Software Development Engineer Intern - Network Observation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 nCino|Part-time Software Engineer Intern|Lehi, UT|68b329da9893e34099c7d8ad5cb9c940
 **[Nelnet](https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30?utm_source=GHList&utm_medium=company)**|Intern – Software Engineer|Lincoln, NE|1f550732633f501cbc5f8c973c2d2ea1
