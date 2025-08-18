@@ -22,8 +22,7 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Edge Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
-**[Sonic Healthcare USA](https://simplify.jobs/c/Sonic-Healthcare-USA?utm_source=GHList&utm_medium=company)**|Cache Software Development Intern|Dallas, TX|e93f55a461d50ed1dfdcb56ef5515595
-**[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - AI Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
+ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|NYC|6ba1731d66be7ee79b931fb911f9f923
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[Uline](https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103?utm_source=GHList&utm_medium=company)**|Software Developer Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|41dee4cd77fe0387425cd3fcaaef3a58
@@ -236,6 +235,7 @@ Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=compa
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
+**[Sonic Healthcare USA](https://simplify.jobs/c/Sonic-Healthcare-USA?utm_source=GHList&utm_medium=company)**|Cache Software Development Intern|Dallas, TX|e93f55a461d50ed1dfdcb56ef5515595
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|NYC|2fa67518f7648248095c8f566a357890
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Network Software Development Engineer Intern - Network Observation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 nCino|Part-time Software Engineer Intern|Lehi, UT|68b329da9893e34099c7d8ad5cb9c940
