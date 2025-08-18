@@ -1,5 +1,6 @@
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Myq Middleware|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 Chamberlain Group(https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList|↳|utm_medium=company)|0c226fa8e1453a89b6470d38b852d11e
+**[GE Appliances](https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company)**|Software Engineering Co-op|Louisville, KY|1c41cbac6e919d2570252a77db75e022
 **[Ecolab](https://simplify.jobs/c/Ecolab?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Naperville, IL</br>Eagan, MN</br>St Paul, MN|4f77d97b605b058d24b0128ac9b8911b
 **[Skyworks](https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company)**|Applications Engineer Intern|Austin, TX|fe10b5cbff2fa8f72ed5fac757621831
 Motorola Solutions|Supply Chain AI Intern|Chicago, IL</br>Schaumburg, IL|22b45cdcc0198f9d668f39c6f768b2c8
