@@ -10,7 +10,6 @@ Motorola Solutions|Supply Chain AI Intern|Chicago, IL</br>Schaumburg, IL|22b45cd
 MUFG|Information Technology 🛂|Tampa, Fl|a61729c3ad79e58a825111f80c5ce98e
 **[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company)**|Cloud Engineer Intern|Spring, TX|dd9400b3664bce09d04075a163c6eebd
 Hewlett Packard Enterprise(https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList|↳|utm_medium=company)|ebb15aebddaa356b7020bc18ff332374
-CCC Intelligent Solutions|Software Engineer Intern|Chicago, IL|a5063798c62c793e69c182eaa652b693
 **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)**|AI and Robotics Intern 🇺🇸|Huntsville, AL|e959cbc3df20fb50a4e78dace5d445b7
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Multi-Cloud CDN Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Live Service|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
@@ -38,7 +37,6 @@ ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=com
 **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)**|Ism Co-Op|Parsippany-Troy Hills, NJ|96099fc133bd8d975043d9f8440bfc23
 **[ CCC Intelligent Solutions](https://simplify.jobs/c/CCC-Intelligent-Solutions?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Chicago, IL|0285f259fa7e3f506e4540b662643b2b
 **[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|New York, NY|6ba1731d66be7ee79b931fb911f9f923
-**[RTX](https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company)**|Software Engineering Intern 🛂|Cedar Rapids, IA|abcd84d104ff90ce36af359e758e7f7c
 **[ABB](https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company)**|Intern – IT Programming and Projects|Pointe-Claire, QC, Canada|7fa8344ab1cdb2a0c6af82360109f81e
 **[Notion](https://simplify.jobs/c/Notion?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|San Francisco, CA</br>New York, NY|110184a3664920d5c3bb038a9600e8d4
 Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|ef61e42eafd52dfd4323f0489cfc97df
