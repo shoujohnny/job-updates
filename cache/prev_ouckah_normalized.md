@@ -1,3 +1,5 @@
+Seagate|Software Engineer Intern|Shakopee, MN|72536d1393f4f343b2296890678e19e2
+Qorvo|Software Characterization Engineering Intern 🛂|Greensboro, NC|aee6b300dffe7779a2ce64a55423c388
 Figma|Product Research Intern|San Francisco, CA|f654332bb4ba9f0194d0386db18cbf27
 Figma|Product Design Intern|San Francisco, CA</br>New York, NY|59fe1e1c968182f40e3601fa9b903692
 Figma|Data Science Intern|San Francisco, CA</br>New York, NY|c26f85cb8753322f8e7e925ce698afd2
