@@ -1,3 +1,8 @@
+Figma|Product Research Intern|San Francisco, CA|f654332bb4ba9f0194d0386db18cbf27
+Figma|Product Design Intern|San Francisco, CA</br>New York, NY|59fe1e1c968182f40e3601fa9b903692
+Figma|Data Science Intern|San Francisco, CA</br>New York, NY|c26f85cb8753322f8e7e925ce698afd2
+Figma|Software Engineer Intern|San Francisco, CA</br>New York, NY|f198a1b2fd1cc28a284f87da02aae7c2
+Figma|Data Engineer Intern|San Francisco, CA</br>New York, NY|633f51b3a499bd6410722aba04eaab72
 Cargill|Software Engineer Intern|Atlanta, GA|0df4d347f41d97a8da0d07d44b1cf125
 ByteDance|Machine Learning Engineer Intern, Global E-commerce Risk Control|Seattle, WA|88e8879188e6aa22f26a6f60af49d2a4
 ByteDance|Software Engineer Intern, Multi-Cloud CDN Platform|San Jose, CA|05c6cfe10929345399bf2cbe886a7c42
