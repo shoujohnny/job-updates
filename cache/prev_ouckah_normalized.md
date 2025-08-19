@@ -38,7 +38,6 @@ Microsoft|Software Engineer Intern, Fullstack|Atlanta, GA|c4eb74081b7577d3b053b0
 Microsoft|Applied Scientist Intern, Microsoft AI – PhD|Redmond, WA|9d300e6a29800bd2ded5ab5bc4da7964
 Epic Games|Gameplay Programmer Intern|Cary, NC|878f87cab9299620c7ae2e8e42f68d80
 Detroit Pistons|Software Development Intern|Detroit, MI|d853bc0834f3bd02bd9dc49cdfd48661
-Cisco|Software Engineer Intern|San Jose, CA|68720d7ec54164f2e2debd6840092982
 TetraMem|Software Intern, Embedded|San Jose, CA|120aa8877f9cffe467847aec648bd82a
 TetraMem|Software Intern, Machine Learning|San Jose, CA|f998512ab5009ab084d432378a900a5e
 Sonic Healthcare USA, Inc|Software Development Intern, Cache|Dallas, TX|a2ef5f3142d93f62a503df8ad7319955
