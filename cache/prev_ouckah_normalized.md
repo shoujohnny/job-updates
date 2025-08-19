@@ -1,3 +1,10 @@
+Cargill|Software Engineer Intern|Atlanta, GA|0df4d347f41d97a8da0d07d44b1cf125
+ByteDance|Machine Learning Engineer Intern, Global E-commerce Risk Control|Seattle, WA|88e8879188e6aa22f26a6f60af49d2a4
+ByteDance|Software Engineer Intern, Multi-Cloud CDN Platform|San Jose, CA|05c6cfe10929345399bf2cbe886a7c42
+American Express|Software Engineer Intern 🛂|Sunrise, FL|1d128e008e15cdd5ed0b089c00757cdc
+American Express|Software Engineer Intern 🛂|Phoenix, AZ|2bed8aab9759dee7ce5d832fad7fb14d
+American Express|Software Engineer Intern 🛂|New York, NY|b1a7356cdca78c7d6e440d4465080fa0
+Activision Blizzard|Graphics Engineering Intern, Overwatch|Irvine, CA|4e44325964224d0bf86fb3659e12e663
 Freddie Mac|Technology Intern|McLean, VA|b2539f75ebe18be0829e92041b24bc44
 Datadog|Product Management Intern|New York, NY|54f0a72cc280ea56cc303ec757f9e650
 Uline|DevOps Engineer Intern|Pleasant Prairie, WI|43a2faaed328ef52c45c36ffe86df020
