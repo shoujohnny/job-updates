@@ -25,7 +25,7 @@ Freddie Mac(https://simplify.jobs/c/Freddie-Mac?utm_source=GHList|↳|utm_medium
 **[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Edge Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
-🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+**[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - AI Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|NYC|6ba1731d66be7ee79b931fb911f9f923
 **[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[Uline](https://simplify.jobs/c/Uline?utm_source=GHList&utm_medium=company)**|Software Developer Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|2415ed05a99af043aa2f621cedd86b70
