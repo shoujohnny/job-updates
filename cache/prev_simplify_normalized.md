@@ -5,6 +5,7 @@ American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
+**[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)**|AI Software Intern|San Jose, CA|50a30f3af19eb1e35df1c9a39422a3e9
 **[Walmart](https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company)**|2025 Intern Conversion: 2026 FT Software Engineer II|Sunnyvale, CA|1f2b778fcb71dbc2d9518c0faa847c27
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Myq Middleware|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 Chamberlain Group(https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList|↳|utm_medium=company)|0c226fa8e1453a89b6470d38b852d11e
@@ -24,7 +25,7 @@ Freddie Mac(https://simplify.jobs/c/Freddie-Mac?utm_source=GHList|↳|utm_medium
 🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 **[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Edge Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
-**[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Traffic Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
+🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|NYC|6ba1731d66be7ee79b931fb911f9f923
 **[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
@@ -214,7 +215,6 @@ Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company
 🔥 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 🔥 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
 🔥 Palantir(https://simplify.jobs/c/Palantir?utm_source=GHList|↳|utm_medium=company)|dd62f79ac588917f5d42fb797586baa1
-**[Altera Corporation](https://simplify.jobs/c/Altera-Corporation?utm_source=GHList&utm_medium=company)**|AI Software Intern|San Jose, CA|50a30f3af19eb1e35df1c9a39422a3e9
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Myq Middleware|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[Sonic Healthcare USA](https://simplify.jobs/c/Sonic-Healthcare-USA?utm_source=GHList&utm_medium=company)**|Cache Software Development Intern|Dallas, TX|e93f55a461d50ed1dfdcb56ef5515595
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|NYC|2fa67518f7648248095c8f566a357890
