@@ -1,4 +1,8 @@
-**[American Express](https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company)**|Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology|NYC|06d3aa5e81c9cf08aaaaea96ba1064fe
+**[🔥 Figma](https://simplify.jobs/c/Figma?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, CA</br>New York, NY|0445c4d5ca96f9364ffecac98e78f2d4
+**[American Express](https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company)**|Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology 🎓|NYC|06d3aa5e81c9cf08aaaaea96ba1064fe
+American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
+American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
+American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
 **[Walmart](https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company)**|2025 Intern Conversion: 2026 FT Software Engineer II|Sunnyvale, CA|1f2b778fcb71dbc2d9518c0faa847c27
@@ -24,9 +28,11 @@ Freddie Mac(https://simplify.jobs/c/Freddie-Mac?utm_source=GHList|↳|utm_medium
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 **[TransPerfect](https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|NYC|6ba1731d66be7ee79b931fb911f9f923
 **[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
-**[Uline](https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103?utm_source=GHList&utm_medium=company)**|Software Developer Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|41dee4cd77fe0387425cd3fcaaef3a58
+**[Uline](https://simplify.jobs/c/Uline?utm_source=GHList&utm_medium=company)**|Software Developer Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|2415ed05a99af043aa2f621cedd86b70
 **[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Financial Product - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
-**[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Development Engineer Intern - Network Automation|Seattle, WA|bcc29c94d77fbf08dc79bda75db4403d
+🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
+🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
 🔥 ByteDance(https://simplify.jobs/c/ByteDance?utm_source=GHList|↳|utm_medium=company)|754f1cd7bfe1173fa848c8fca7b54704
@@ -77,7 +83,9 @@ Confluent(https://simplify.jobs/c/Confluent?utm_source=GHList|↳|utm_medium=com
 🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 **[Holman](https://simplify.jobs/c/Holman?utm_source=GHList&utm_medium=company)**|Developer Co-Op|Mississauga, ON, Canada|140bb8048d1b069af1186ac3d7aaecf7
+**[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - AI-Native Databases - PhD 🎓|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[🔥 Ramp](https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company)**|Software Engineer Internship - IOS|SF</br>NYC|64c3a896a273e1719503c1df68956a01
 🔥 Ramp(https://simplify.jobs/c/Ramp?utm_source=GHList|↳|utm_medium=company)|54c9765e7fe2b3b4d719f4ec47368a5c
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|2026 Confluent Software Engineering Intern Opportunity|Austin, TX|f8ff488b7c711677bba327160f956bf1
@@ -209,7 +217,6 @@ Optiver(https://simplify.jobs/c/Optiver?utm_source=GHList|↳|utm_medium=company
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Myq Middleware|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[Sonic Healthcare USA](https://simplify.jobs/c/Sonic-Healthcare-USA?utm_source=GHList&utm_medium=company)**|Cache Software Development Intern|Dallas, TX|e93f55a461d50ed1dfdcb56ef5515595
 **[GlobalFoundries](https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|NYC|2fa67518f7648248095c8f566a357890
-**[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Network Software Development Engineer Intern - Network Observation|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **nCino**|Part-time Software Engineer Intern|Lehi, UT|68b329da9893e34099c7d8ad5cb9c940
 **[Nelnet](https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30?utm_source=GHList&utm_medium=company)**|Intern – Software Engineer|Lincoln, NE|1f550732633f501cbc5f8c973c2d2ea1
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Technology Development Program Associate|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
@@ -232,3 +239,30 @@ Truist(https://simplify.jobs/c/Truist?utm_source=GHList|↳|utm_medium=company)|
 **[Konrad Group](https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Toronto, ON, Canada|1d9e7fc9dede8b0b4d0fbb213bfe11d9
 **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)**|Platform Capability Engineering Intern|Reston, VA|9f5f7678d05ca7a6a9b7b88fceb9684b
 **[🔥 Datadog](https://simplify.jobs/c/Datadog?utm_source=GHList&utm_medium=company)**|Product Management Intern 🛂|New York, NY|5eabb84282bf19c10fab5bcedcf87f8f
+**[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Product Management|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
+**[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Product Manager Intern - Tiktok-Product-Social and Creation|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
+**[Procter & Gamble (P&G)](https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company)**|Project & Product Manager Internships|Cincinnati, OH|4bd95cc4407f42cd93e72b2d83af328e
+**[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Product Manager – Ads Attribution and Measurement Intern - Measurement Signal and Privacy Product|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
+**[Uline](https://simplify.jobs/c/Uline?utm_source=GHList&utm_medium=company)**|Product Marketing Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|2415ed05a99af043aa2f621cedd86b70
+**[American Express](https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company)**|Campus Undergraduate Summer Internship Program - 2026 Product - Global Commercial Services|NYC|06d3aa5e81c9cf08aaaaea96ba1064fe
+**[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|User Product Operations Intern - Tiktok Local Services - BS/MS|LA|99dd9f8742f740461485b0fbea73bfe6
+🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[GE Vernova](https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company)**|GE Vernova Grid Automation Product Management Intern|Rochester, NY|25fd9044fb31a5519817b89c02de39ba
+**[Uline](https://simplify.jobs/c/Uline?utm_source=GHList&utm_medium=company)**|Product Management Internship|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|2415ed05a99af043aa2f621cedd86b70
+**[Goldman Sachs](https://simplify.jobs/c/1e8c5083-a2a3-4cb5-b517-47da9c7a9da2?utm_source=GHList&utm_medium=company)**|2026 – Summer Analyst - Wealth Management - Product Management|London, UK|692b6f890d4c9b28eb0ac082524c55de
+**[Pentair](https://simplify.jobs/c/a02f5a45-8b2b-4dd2-82af-d41f4f51a371?utm_source=GHList&utm_medium=company)**|Product Management Leadership Development Internship Program|<details><summary>**7 locations**</summary>Apex, NC</br>Madison, WI</br>Chicago, IL</br>Charlotte, NC</br>Milwaukee, WI</br>Minneapolis, MN</br>Golden Valley, MN</details>|d7270d28e3777873dfcd062e6df41cc0
+**[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Former Discover Intern - Product Development Program Associate|<details><summary>**5 locations**</summary>Plano, TX</br>McLean, VA</br>Richmond, VA</br>Chicago, IL</br>NYC</details>|77d38e69bf1cf859fe120988418e96a9
+**[🔥 Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company)**|Summer 2026 Intern - Product Growth|SF|b1a9421a36954bfba46a04989bd0bf04
+**[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Product Manager Intern - Tiktok LIVE-Ecosystem Governance|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
+**[🔥 Databricks](https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company)**|Product Management Intern|SF</br>Bellevue, WA</br>Mountain View, CA|d0075e0b32abfc7fa419658e1a18776d
+**[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Product Manager Intern - Tiktok-Business Risk Integrated Control|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
+🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Product Manager Intern - Tiktok-Product Infrastructure|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
+🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+🔥 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
+**[Sensata](https://simplify.jobs/c/sensata-tech?utm_source=GHList&utm_medium=company)**|Product Marketing Intern|Attleboro, MA|35d0a17bf394541070a8b1cc0112c6e7
+**[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company)**|Product Management Intern|LA|1192f7e264b04bfdff13df0c475ee154
+Altruist(https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList|↳|utm_medium=company)|ed13574fdd960f4feb55f4311c382b34
+**[🔥 Rippling](https://simplify.jobs/c/Rippling?utm_source=GHList&utm_medium=company)**|Product Lead Internship 🎓|SF</br>NYC|242b02d1b3063f789a5909d89e2d30fc
