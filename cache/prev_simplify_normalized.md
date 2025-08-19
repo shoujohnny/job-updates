@@ -1,3 +1,6 @@
+**[American Express](https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company)**|Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology|NYC|06d3aa5e81c9cf08aaaaea96ba1064fe
+American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
+American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
 **[Walmart](https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company)**|2025 Intern Conversion: 2026 FT Software Engineer II|Sunnyvale, CA|1f2b778fcb71dbc2d9518c0faa847c27
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Myq Middleware|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 Chamberlain Group(https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList|↳|utm_medium=company)|0c226fa8e1453a89b6470d38b852d11e
@@ -5,6 +8,7 @@ Chamberlain Group(https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList|�
 **[GE Appliances](https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company)**|Software Engineering Co-op|Louisville, KY|1c41cbac6e919d2570252a77db75e022
 **[Ecolab](https://simplify.jobs/c/Ecolab?utm_source=GHList&utm_medium=company)**|Digital Technology Intern|Naperville, IL</br>Eagan, MN</br>St Paul, MN|4f77d97b605b058d24b0128ac9b8911b
 **[Freddie Mac](https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company)**|Single-Family Software Intern-Summer 2026|McLean, VA|c1bdcbb44aad1bfc5de2f631e4210b98
+Freddie Mac(https://simplify.jobs/c/Freddie-Mac?utm_source=GHList|↳|utm_medium=company)|173a91503279b93e7db98bda40ce8352
 **[Skyworks](https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company)**|Applications Engineer Intern|Austin, TX|fe10b5cbff2fa8f72ed5fac757621831
 Motorola Solutions|Supply Chain AI Intern|Chicago, IL</br>Schaumburg, IL|22b45cdcc0198f9d668f39c6f768b2c8
 MUFG|Information Technology 🛂|Tampa, Fl|a61729c3ad79e58a825111f80c5ce98e
@@ -150,7 +154,7 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
 **[JP Morgan Chase](https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company)**|2025 Code for Good Hackathon – Summer Internship - Software Engineer Program|<details><summary>**9 locations**</summary>Palo Alto, CA</br>Houston, TX</br>Austin, TX</br>Tampa, FL</br>Plano, TX</br>Chicago, IL</br>Columbus, OH</br>NYC</br>Wilmington, DE</details>|943f9c905a487aaf71ea0ef13948906b
 **[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|SF|1192f7e264b04bfdff13df0c475ee154
-**[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|LA|1192f7e264b04bfdff13df0c475ee154
+Altruist(https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d?utm_source=GHList|↳|utm_medium=company)|ed13574fdd960f4feb55f4311c382b34
 **[Ramp](https://simplify.jobs/c/Ramp?utm_source=GHList&utm_medium=company)**|Software Engineering Internship - Frontend|New York, NY|64c3a896a273e1719503c1df68956a01
 Ramp(https://simplify.jobs/c/Ramp?utm_source=GHList|↳|utm_medium=company)|54c9765e7fe2b3b4d719f4ec47368a5c
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus UI Software Engineer – Intern|London, UK|769c4a88b175f2829df37b7ebfd9a070
