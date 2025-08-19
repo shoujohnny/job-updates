@@ -1,3 +1,4 @@
+**[Datadog](https://simplify.jobs/c/Datadog?utm_source=GHList&utm_medium=company)**|Product Management Intern 🛂|New York, NY|5eabb84282bf19c10fab5bcedcf87f8f
 **[American Express](https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company)**|Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology|NYC|06d3aa5e81c9cf08aaaaea96ba1064fe
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
@@ -13,7 +14,7 @@ Freddie Mac(https://simplify.jobs/c/Freddie-Mac?utm_source=GHList|↳|utm_medium
 Motorola Solutions|Supply Chain AI Intern|Chicago, IL</br>Schaumburg, IL|22b45cdcc0198f9d668f39c6f768b2c8
 MUFG|Information Technology 🛂|Tampa, Fl|a61729c3ad79e58a825111f80c5ce98e
 **[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company)**|Cloud Engineer Intern|Spring, TX|dd9400b3664bce09d04075a163c6eebd
-**[Hewlett Packard Enterprise](https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company)**|Firmware Engineer Intern|Spring, TX|dd9400b3664bce09d04075a163c6eebd
+Hewlett Packard Enterprise(https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList|↳|utm_medium=company)|ebb15aebddaa356b7020bc18ff332374
 **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d?utm_source=GHList&utm_medium=company)**|AI and Robotics Intern 🇺🇸|Huntsville, AL|e959cbc3df20fb50a4e78dace5d445b7
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Multi-Cloud CDN Platform|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Live Service|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
@@ -69,7 +70,7 @@ Notion(https://simplify.jobs/c/Notion?utm_source=GHList|↳|utm_medium=company)|
 **[Bank of New York Mellon](https://simplify.jobs/c/Bank-Of-New-York-Mellon?utm_source=GHList&utm_medium=company)**|2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs|Pittsburgh, PA</br>Lake Mary, FL</br>NYC|5b94fbc53f024720e9c127036045f62e
 **[United Parcel Service (UPS)](https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company)**|ISM Co-op|Parsippany-Troy Hills, NJ|96099fc133bd8d975043d9f8440bfc23
 **[Perseus Group](https://simplify.jobs/c/86425b9a-a364-4749-8067-5d119318dae7?utm_source=GHList&utm_medium=company)**|Front End Intern|Markham, ON, Canada</br>Remote in Canada|b149c52bdd11f7f7e8b13b6e1c733a6d
-**[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)**|Systems Engineer, Collision Avoidance, Autonomy & Robotics 🛂|Palo Alto, CA|f90c7b117e1e439e3339d8137f4c3a63
+**[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)**|Systems Engineer, Collision Avoidance, Autonomy & Robotics|Palo Alto, CA|f90c7b117e1e439e3339d8137f4c3a63
 **[Jump Trading](https://simplify.jobs/c/Jump-Trading?utm_source=GHList&utm_medium=company)**|Campus Tech Ops Engineer|Chicago, IL|769c4a88b175f2829df37b7ebfd9a070
 HD Supply|Information Technology|Atlanta, GA|0b4dd1b697a6f70dfa37af9ccb2b8db5
 **[Confluent](https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|Remote, London|f8ff488b7c711677bba327160f956bf1
@@ -149,6 +150,7 @@ TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|
 **[BNY](https://simplify.jobs/c/BNY?utm_source=GHList&utm_medium=company)**|Summer Internship Program - Engineering - Developer|Pittsburgh, PA</br>Lake Mary, FL</br>NYC|91799ff5e2f93111c945c17d71a34e17
 **[Peraton](https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company)**|Summer 2026 University Internship Pipeline|Reston, VA|12c30ae7ca47f37a7371db78eedb6f9d
 **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company)**|Software Engineering Internship|Chicago, IL</br>NYC|6d820dfd303aae7b383d497929ca3ca3
+**[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)**|Forward Deployed Software Engineer – Internship - Commercial|London, UK|c79008864980cdf371f4ff057aac722b
 **[ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Payment Architecture - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Software Engineer Intern (Data Ecosystem)|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 TikTok(https://simplify.jobs/c/TikTok?utm_source=GHList|↳|utm_medium=company)|06e91ef7bfe0722147e6a9c6eedad4e7
@@ -243,6 +245,7 @@ nCino|Part-time Software Engineer Intern|Lehi, UT|68b329da9893e34099c7d8ad5cb9c9
 **[Nelnet](https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30?utm_source=GHList&utm_medium=company)**|Intern – Software Engineer|Lincoln, NE|1f550732633f501cbc5f8c973c2d2ea1
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Software Engineer 1 – Intern Conversion - Front End|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company)**|Mobile Software Developer Co-op|Toronto, ON, Canada|ae720d9b4b1f5a2165099cb3ca6edea8
+**[Wurl](https://simplify.jobs/c/Wurl?utm_source=GHList&utm_medium=company)**|Software Engineer Intern|Remote in USA|e2db1c236795038ce9ac28f4012ff5a7
 Marquee Insurance Group|Software Engineer Intern 🛂|Charleston, SC|68b329da9893e34099c7d8ad5cb9c940
 **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)**|Technology Internship Program|Plano, TX</br>McLean, VA</br>Richmond, VA|77d38e69bf1cf859fe120988418e96a9
 **[Truist](https://simplify.jobs/c/Truist?utm_source=GHList&utm_medium=company)**|Technology and Innovation Internship|Charlotte, NC</br>Atlanta, GA|f9c0b2aa3ba6cd4ecff3ad2cedbb8d7a
