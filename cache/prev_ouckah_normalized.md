@@ -39,7 +39,6 @@ Beckman Coulter Life Sciences|AI-Powered Marketing Operations & Project Manageme
 Amentum|AI and Robotics Intern 🇺🇸|Huntsville, AL|537ef51bac93660e8737f09c69d08d88
 Adobe|Machine Learning Engineer Intern, AI/ML|<details><summary>**7 locations**</summary>San Jose, CA</br>Waltham, MA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>|7186be019e43af813e2db54cd0620f7f
 Adobe|Software Engineer Intern|<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>|1363ca8fd6861b9a9fc4b072ac53d4f7
-RTX|Software Engineering Intern|Cedar Rapids, IA|9a6fa090803718aad50e3a46e8c9d367
 Northrop Grumman|2025 Software Engineer Intern|Rome, NY|45cd09267539c57698f183128853f7c2
 Morgan Stanley|Firmwide AI Strategy & Solutions Analyst Intern|New York, NY|18dbf310a93d69934133a5bc5c7ecd70
 Microsoft|Software Engineer Intern, Systems|Redmond, WA|8a97ed8084d0af6d3525c3314cf05277
@@ -54,10 +53,8 @@ Epic Games|Gameplay Programmer Intern|Cary, NC|878f87cab9299620c7ae2e8e42f68d80
 Detroit Pistons|Software Development Intern|Detroit, MI|d853bc0834f3bd02bd9dc49cdfd48661
 TetraMem|Software Intern, Embedded|San Jose, CA|120aa8877f9cffe467847aec648bd82a
 TetraMem|Software Intern, Machine Learning|San Jose, CA|f998512ab5009ab084d432378a900a5e
-Sonic Healthcare USA, Inc|Software Development Intern, Cache|Dallas, TX|a2ef5f3142d93f62a503df8ad7319955
 Shopify|USA Engineering Internships 🛂|Remote|c123e175d7219f1fbd569bfaed1f3f06
 New York Life|Investments AI & Data Intern, AI & DS Team|New York, NY|25cdeb28de1615560f76e7c385dcb08c
-GlobalFoundries|Software Engineering Intern|Malta, NY|38beb23d32af5522a24fd9b72a7f003b
 Oklahoma City Thunder|Software Engineer Intern, Basketball Operations|Remote|b394f81fcf4b4ec65d491bc2250ef9fb
 Anduril|Software Engineer Intern 🛂|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|bdc435bd00749161f48c26a65611fd12
 Southwest Research Institute|Software Engineer Intern 🇺🇸|San Antonio, TX|43ac68a31340e81b729d79ddb4b7c8c6
