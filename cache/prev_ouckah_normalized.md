@@ -1,3 +1,6 @@
+L'Oreal|Information Technology Intern|Berkeley Heights, NJ|69c99cbfe5686c24e6ce98d9810775a6
+Amazon|Security Engineer Intern|Seattle, WA|bd84b31d194c83eafd367b0d1db9a4ab
+Amazon|Systems Development Engineer Intern|Seattle, WA|bb3a4520550e09defdf7c19c4023ff89
 Seagate|Software Engineer Intern|Shakopee, MN|72536d1393f4f343b2296890678e19e2
 Qorvo|Software Characterization Engineering Intern 🛂|Greensboro, NC|aee6b300dffe7779a2ce64a55423c388
 Figma|Product Research Intern|San Francisco, CA|f654332bb4ba9f0194d0386db18cbf27
