@@ -249,7 +249,6 @@ IMC|Quantitative Research Intern, Trading|Chicago, IL|f72b0f6e57b4f4e33dbd2f8457
 IMC|Software Engineer Intern|Chicago, IL|fe1186f8cbb59bc4e5ae038d1fa27f62
 Epic|Software Development Intern 🇺🇸|Madison, WI|b11278d05925a1c8460c8e24a7bf7df3
 Caterpillar|Engineering Intern|<details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details>|017f6a5bdadbcc47bc2bdd3b30f6bdcc
-Walleye Capital|Quantitative Developer Intern|Boston, MA|23c7ad057c781d27700ea13d82cf6fdb
 Walleye Capital|Quantitative Researcher Intern|Boston, MA|5d4838f388c11ed2fed75203319eed73
 Radix Trading|Quantitative Technologist Intern|Chicago, IL|d3ff424cc7874e0fa9a1e3f386ef7f14
 Morgan Stanley|SWE Intern, Data Analyst Intern|New York, NY|3966aa34127bfb2d6b44c2433c7dc441
