@@ -1,3 +1,4 @@
+**[🔥 ByteDance](https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company)**|Software Engineer Intern - Platform Product - Global Payment|San Jose, CA|bcc29c94d77fbf08dc79bda75db4403d
 **[🔥 Figma](https://simplify.jobs/c/Figma?utm_source=GHList&utm_medium=company)**|Software Engineering Intern|San Francisco, CA</br>New York, NY|0445c4d5ca96f9364ffecac98e78f2d4
 **[American Express](https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company)**|Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology 🎓|NYC|06d3aa5e81c9cf08aaaaea96ba1064fe
 American Express(https://simplify.jobs/c/American-Express?utm_source=GHList|↳|utm_medium=company)|a5f88dadb5e5b07b1a957da2bee257ae
@@ -238,6 +239,7 @@ Truist(https://simplify.jobs/c/Truist?utm_source=GHList|↳|utm_medium=company)|
 **[Skydio](https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company)**|Middleware Software Intern|San Mateo, CA|84d26be5a8ad4a30cd28139d20c809e4
 **[Konrad Group](https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company)**|Software Developer Intern|Toronto, ON, Canada|1d9e7fc9dede8b0b4d0fbb213bfe11d9
 **[ATPCO](https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f?utm_source=GHList&utm_medium=company)**|Platform Capability Engineering Intern|Reston, VA|9f5f7678d05ca7a6a9b7b88fceb9684b
+**[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Product Manager Intern - Tiktok LIVE-Recommend Product|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
 **[🔥 Datadog](https://simplify.jobs/c/Datadog?utm_source=GHList&utm_medium=company)**|Product Management Intern 🛂|New York, NY|5eabb84282bf19c10fab5bcedcf87f8f
 **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company)**|Intern – Product Management|Western Springs, IL|776d7ec4511ee2d1539a16f84d88665d
 **[🔥 TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)**|Product Manager Intern - Tiktok-Product-Social and Creation|San Jose, CA|99dd9f8742f740461485b0fbea73bfe6
