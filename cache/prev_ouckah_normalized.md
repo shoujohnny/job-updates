@@ -6,6 +6,7 @@ Arch Capital Group Ltd.|Database Engineering Intern|Greensboro, NC|4142713646ecf
 Arch Capital Group Ltd.|Platform Experience & Operations Intern, PXO|Greensboro, NC|e1c3a47debf0f512ad1d5614f66eb2a5
 Arch Capital Group Ltd.|Site Reliability Engineering Intern|Greensboro, NC|38ae018946626b5ac9a20e550bd58794
 Arch Capital Group|Online Portals & Next Gen Platforms (OPNG) Intern|Greensboro, NC|4c4744daa30a44210319e6f04a16c469
+Adobe|Enterprise Architecture Analyst Intern|New York, NY|43885a2b928947c3425c29011a71e49a
 L'Oreal|Information Technology Intern|Berkeley Heights, NJ|69c99cbfe5686c24e6ce98d9810775a6
 Amazon|Security Engineer Intern|Seattle, WA|bd84b31d194c83eafd367b0d1db9a4ab
 Amazon|Systems Development Engineer Intern|Seattle, WA|bb3a4520550e09defdf7c19c4023ff89
