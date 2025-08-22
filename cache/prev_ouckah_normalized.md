@@ -1,3 +1,10 @@
+Raytheon|Software Engineering Co-Op 🇺🇸|Cedar Rapids, IA|6287438510eb81f2fb120230c78b9ea4
+QTS|Technology Services Intern 🇺🇸|Suwanee, GA|01c9fef59d12b0ec549e5f544e6aab0b
+QTS|IT Platform Engineering Intern 🇺🇸|Suwanee, GA|1c181a2674e91e18b73af00413c13b4f
+QTS|Technology Project Management Intern 🇺🇸|Suwanee, GA|1be24bef284077bd4cd8ac9cda8a07df
+QTS|Enterprise Applications Intern 🇺🇸|Suwanee, GA|50c0798751d2b44ee97acad09d1970d6
+Paypal|Software Engineering Intern|<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Omaha, NE</br>Austin, TX</details>|d834b6a4428d81b13ad7c4cbf09fc88e
+Motorola Solutions|Supply Chain Data Analyst Intern|Chicago, IL|77fe6745bd938d9fce8c50588d6d2779
 SAIC|Software Engineer Intern 🇺🇸|El Paso, TX|d07b677d036e6cd1135836302c9df7a3
 IXL Learning|Software Engineer Intern|San Mateo, CA|707872092073bffeae4da9c665995d3c
 Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|99f3835c021a95eadd5f7577cac797e3
@@ -5,7 +12,6 @@ empirical|Software Engineering Intern|Dakota Dunes, SD|b684f760d55eb34cba856cbcc
 Arch Capital Group Ltd.|Database Engineering Intern|Greensboro, NC|4142713646ecfc0748620ac5e5955f39
 Arch Capital Group Ltd.|Platform Experience & Operations Intern, PXO|Greensboro, NC|e1c3a47debf0f512ad1d5614f66eb2a5
 Arch Capital Group Ltd.|Site Reliability Engineering Intern|Greensboro, NC|38ae018946626b5ac9a20e550bd58794
-Arch Capital Group|Online Portals & Next Gen Platforms (OPNG) Intern|Greensboro, NC|4c4744daa30a44210319e6f04a16c469
 Adobe|Enterprise Architecture Analyst Intern|New York, NY|43885a2b928947c3425c29011a71e49a
 L'Oreal|Information Technology Intern|Berkeley Heights, NJ|69c99cbfe5686c24e6ce98d9810775a6
 Amazon|Security Engineer Intern|Seattle, WA|bd84b31d194c83eafd367b0d1db9a4ab
