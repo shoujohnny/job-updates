@@ -5,6 +5,7 @@ QTS|Technology Project Management Intern 🇺🇸|Suwanee, GA|1be24bef284077bd4c
 QTS|Enterprise Applications Intern 🇺🇸|Suwanee, GA|50c0798751d2b44ee97acad09d1970d6
 Paypal|Software Engineering Intern|<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Omaha, NE</br>Austin, TX</details>|d834b6a4428d81b13ad7c4cbf09fc88e
 Motorola Solutions|Supply Chain Data Analyst Intern|Chicago, IL|77fe6745bd938d9fce8c50588d6d2779
+Intel|Silicon Hardware Engineering Intern, Bachelors 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|2419a2c1beb369429dc327ebe81ec198
 SAIC|Software Engineer Intern 🇺🇸|El Paso, TX|d07b677d036e6cd1135836302c9df7a3
 IXL Learning|Software Engineer Intern|San Mateo, CA|707872092073bffeae4da9c665995d3c
 Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|99f3835c021a95eadd5f7577cac797e3
