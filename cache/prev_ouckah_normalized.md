@@ -9,7 +9,6 @@ SAIC|Software Engineer Intern 🇺🇸|El Paso, TX|d07b677d036e6cd1135836302c9df
 IXL Learning|Software Engineer Intern|San Mateo, CA|707872092073bffeae4da9c665995d3c
 Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|99f3835c021a95eadd5f7577cac797e3
 empirical|Software Engineering Intern|Dakota Dunes, SD|b684f760d55eb34cba856cbccbf815ec
-Arch Capital Group Ltd.|Database Engineering Intern|Greensboro, NC|4142713646ecfc0748620ac5e5955f39
 Arch Capital Group Ltd.|Platform Experience & Operations Intern, PXO|Greensboro, NC|e1c3a47debf0f512ad1d5614f66eb2a5
 Arch Capital Group Ltd.|Site Reliability Engineering Intern|Greensboro, NC|38ae018946626b5ac9a20e550bd58794
 Adobe|Enterprise Architecture Analyst Intern|New York, NY|43885a2b928947c3425c29011a71e49a
