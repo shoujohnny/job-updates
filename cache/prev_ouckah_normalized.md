@@ -6,8 +6,11 @@ QTS|Technology Project Management Intern 🇺🇸|Suwanee, GA|1be24bef284077bd4c
 QTS|Enterprise Applications Intern 🇺🇸|Suwanee, GA|50c0798751d2b44ee97acad09d1970d6
 Paypal|Software Engineering Intern|<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Omaha, NE</br>Austin, TX</details>|d834b6a4428d81b13ad7c4cbf09fc88e
 Motorola Solutions|Supply Chain Data Analyst Intern|Chicago, IL|77fe6745bd938d9fce8c50588d6d2779
+Metronome|Software Engineering Intern 🛂|San Francisco, CA|160bb498a8f27cb1c5c9765834b821d6
 Intel|Silicon Hardware Engineering Intern, Bachelors 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|2419a2c1beb369429dc327ebe81ec198
 IBM|Software Engineer Intern 🛂|<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, NY</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>|2a4090677ea03068366a2f5009ffd0ef
+Devon|Data Engineering Intern|Oklahoma City, OK|0c3323cc2346d09df491e411c0b0d21a
+Caterpillar Inc.|Information Technology Intern 🛂|Nashville, TN|b6ff4261fbfc83cbd187795170e7775e
 Balyasny Asset Management|Software Engineering Intern|New York, NY|1038ac1efec04d8144ae044f4437e279
 Balyasny Asset Management|Data Engineer Intern, Data Science & AI Academy|Austin, TX|159b8ed0de8ac341817d3057957784df
 Balyasny Asset Management|Quantitative Analyst Intern, Macro Investment Team|Miami</br>New York, NY|2eb4213740077bf6dc37bf903c0f1923
