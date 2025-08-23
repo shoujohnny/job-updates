@@ -1,4 +1,5 @@
 Raytheon|Software Engineering Co-Op 🇺🇸|Cedar Rapids, IA|6287438510eb81f2fb120230c78b9ea4
+QTS|IT Service Now Intern 🇺🇸|Suwanee, GA|d2191330b7776b1298edac91e44b208e
 QTS|Technology Services Intern 🇺🇸|Suwanee, GA|01c9fef59d12b0ec549e5f544e6aab0b
 QTS|IT Platform Engineering Intern 🇺🇸|Suwanee, GA|1c181a2674e91e18b73af00413c13b4f
 QTS|Technology Project Management Intern 🇺🇸|Suwanee, GA|1be24bef284077bd4cd8ac9cda8a07df
@@ -6,6 +7,11 @@ QTS|Enterprise Applications Intern 🇺🇸|Suwanee, GA|50c0798751d2b44ee97acad0
 Paypal|Software Engineering Intern|<details><summary>**5 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Omaha, NE</br>Austin, TX</details>|d834b6a4428d81b13ad7c4cbf09fc88e
 Motorola Solutions|Supply Chain Data Analyst Intern|Chicago, IL|77fe6745bd938d9fce8c50588d6d2779
 Intel|Silicon Hardware Engineering Intern, Bachelors 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|2419a2c1beb369429dc327ebe81ec198
+IBM|Software Engineer Intern 🛂|<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, NY</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>|2a4090677ea03068366a2f5009ffd0ef
+Balyasny Asset Management|Software Engineering Intern|New York, NY|1038ac1efec04d8144ae044f4437e279
+Balyasny Asset Management|Data Engineer Intern, Data Science & AI Academy|Austin, TX|159b8ed0de8ac341817d3057957784df
+Balyasny Asset Management|Quantitative Analyst Intern, Macro Investment Team|Miami</br>New York, NY|2eb4213740077bf6dc37bf903c0f1923
+Balyasny Asset Management|Quantitative Analyst Intern, Commodities Investment Team|Boston, MA</br>Houston, TX|736964d63b8a5e4adcecbade0972b209
 SAIC|Software Engineer Intern 🇺🇸|El Paso, TX|d07b677d036e6cd1135836302c9df7a3
 IXL Learning|Software Engineer Intern|San Mateo, CA|707872092073bffeae4da9c665995d3c
 Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|99f3835c021a95eadd5f7577cac797e3
