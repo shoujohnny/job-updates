@@ -1,3 +1,4 @@
+OCC|Enterprise Quality Management Summer Intern 🛂|Chicago, IL|085539f8ee6a2c270de7fd85462ffa80
 OCC|Platform Engineering Intern|Chicago, IL|ec9719f698c6c0eee68c9a5557c295fc
 MITRE|Computer Science or Software Engineering Intern|<details><summary>**25 locations**</summary>McLean, VA</br>Bellevue, NE</br>Huntsville, AL</br>Austin, TX</br>Quantico, VA</br>Tampa, FL</br>Bedford, MA</br>Fairborn, OH</br>Bridgeport, WV</br>San Antonio, TX</br>Domestic Teleworker, MA</br>Colorado Springs, CO</br>Offutt AFB, NE</br>Annapolis Junction, MD</br>Gaithersburg, MD</br>San Diego, CA</br>Charlottesville, VA</br>El Segundo, CA</br>Lexington Park, MD</br>Windsor, MD</br>Shaw AFB, SC</br>Honolulu, HI</br>Shrewsbury, NJ</br>Aberdeen, MD</br>Fort Walton Beach, FL</details>|f1434d6ac60b0b295c44adec6f087c47
 Raytheon|Software Engineering Co-Op 🇺🇸|Cedar Rapids, IA|6287438510eb81f2fb120230c78b9ea4
@@ -19,7 +20,6 @@ Balyasny Asset Management|Quantitative Analyst Intern, Macro Investment Team|Mia
 Balyasny Asset Management|Quantitative Analyst Intern, Commodities Investment Team|Boston, MA</br>Houston, TX|736964d63b8a5e4adcecbade0972b209
 SAIC|Software Engineer Intern 🇺🇸|El Paso, TX|d07b677d036e6cd1135836302c9df7a3
 IXL Learning|Software Engineer Intern|San Mateo, CA|707872092073bffeae4da9c665995d3c
-Hewlett Packard Enterprise|Software Engineering Intern|Spring, TX|99f3835c021a95eadd5f7577cac797e3
 empirical|Software Engineering Intern|Dakota Dunes, SD|b684f760d55eb34cba856cbccbf815ec
 Arch Capital Group Ltd.|Platform Experience & Operations Intern, PXO|Greensboro, NC|e1c3a47debf0f512ad1d5614f66eb2a5
 Arch Capital Group Ltd.|Site Reliability Engineering Intern|Greensboro, NC|38ae018946626b5ac9a20e550bd58794
