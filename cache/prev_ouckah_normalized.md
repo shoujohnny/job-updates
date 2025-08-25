@@ -1,6 +1,8 @@
 Trane Technologies|Systems Engineer Intern|St Paul, MN|2b71771529588c69b72fe8b804f4b1b7
 PwC|Software Engineering Intern, Commercial Technology & Innovation Office 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|ba890f80a084bab390aee98e3ab41815
 PwC|Software Engineering Intern, Cloud Engineering, Data & Analytics 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|81150681050ffa49a77b18571a98d62e
+Prudential Financial|Global Technology & Operations, Internship Program 🛂|Newark, NJ|3ea204d9287f0a8df4affcc2a29b1c70
+Prudential Financial|Technology Internship Program 🛂|Newark, NJ</br>Tampa, FL|ad0700bd993f4e1153681d728d0872a4
 Northrup Grumman|2026 Intern Software Engineer 🇺🇸|Melbourne, FL|2c011b23c127154b3889edac92ffb3d6
 Johnson and Johnson|Technology Intern 🛂|<details><summary>**11 locations**</summary>New Brunswick, NJ</br>Santa Clara, CA</br>Irvine, CA</br>Jacksonville, FL</br>Palm Beach Gardens, FL</br>Raritan, NJ</br>Titusville, NJ</br>Horsham, PA</br>Fort Washington, PA</br>Spring House, PA</br>West Chester, PA</details>|a927afdb86847ca947e051cc6b2c4136
 IBM|AI Engineer Intern|<details><summary>**7 locations**</summary>Research Triangle Park, NC</br>Dallas, TX</br>Austin, TX</br>San Francisco, CA</br>WASHINGTON, DC</br>Chicago, IL</br>New York, NY</details>|df9c39cd38a85e8cdd76e455025f2854
