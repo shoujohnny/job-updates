@@ -1,11 +1,15 @@
 Zebra|AVS Mobile Software Engineer Intern|Lincolnshire, IL|69dee20f70d98b6de832a1b71d48baff
 Zebra|Software Engineering Intern, Handheld Mobile Computer|Holtsville, NY|82b978846d9a8538d993d9c0280a98e8
+Vertiv|Design Engineering Intern 🛂|Delaware, OH</br>Fort Lauderdale, FL</br>Huntsville, AL|17d56ef8e11d510fbb70c32e11dfc663
 Vertiv|Software Engineering Intern 🛂|Delaware, OH|fcbf85516038bb7b7d08772a99e3ed41
 Vertiv|Firmware Engineering Intern 🛂|Delaware, OH|3926481a97d876fa6e5c2fb74134ec95
 The Hanover|Associate Solutions Developer Intern 🛂|Worcester, MA|612c95a4b2ac4b5485d9cdfa9f7eb18a
 The Hanover|Cloud Engineer Intern|Worcester, MA|917b0eacc2f73038a115908913d6ead1
 SciPlay|Software Engineering Intern|Cedar Falls, IA|85ea088ece9a8762623b02f57ec5f11e
 PepsiCo|Technology Software Development & Engineering Intern|Plano, TX</br>Purchase, NY|726b408b048fff48aa7b94880422e36b
+Nuro|Systems Engineering Intern, Scenario Taxonomy|Mountain View, CA|0d03bcb8d459777462cb26b79faeaca6
+Nuro|Software Engineering Intern, Mapping & Localization|Mountain View, CA|76727c8bd715ff9341ae2e217df036ed
+Nuro|Software Engineer Intern, Performance|Mountain View, CA|d9fadf4717f0d70444890a04c17e856d
 ArcBest Technologies|Software Engineer Intern, ArcBest Technologies 🛂|Fort Smith, AR|8a5429c85f48db4eee8423a19e168292
 Trane Technologies|Systems Engineer Intern|St Paul, MN|2b71771529588c69b72fe8b804f4b1b7
 PwC|Software Engineering Intern, Commercial Technology & Innovation Office 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|ba890f80a084bab390aee98e3ab41815
