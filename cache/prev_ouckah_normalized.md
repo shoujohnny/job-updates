@@ -4,13 +4,19 @@ Vertiv|Design Engineering Intern 🛂|Delaware, OH</br>Fort Lauderdale, FL</br>H
 Vertiv|Software Engineering Intern 🛂|Delaware, OH|fcbf85516038bb7b7d08772a99e3ed41
 Vertiv|Firmware Engineering Intern 🛂|Delaware, OH|3926481a97d876fa6e5c2fb74134ec95
 The Hanover|Associate Solutions Developer Intern 🛂|Worcester, MA|612c95a4b2ac4b5485d9cdfa9f7eb18a
-The Hanover|Cloud Engineer Intern|Worcester, MA|917b0eacc2f73038a115908913d6ead1
+Spectrum|Associate Software Developer Intern|Maryland Heights, MO|d8781edb7e352480b6035d849a24c163
+Spectrum|Associate Dev Ops Engineer Intern 🛂|Charlotte, NC|261ae4e71fe3de5a2eaa077839ab4f95
+Spectrum|Associate Dev Ops Engineer Intern 🛂|Maryland Heights, MO|9173ed38edb49836da5c12feccb1d64d
 SciPlay|Software Engineering Intern|Cedar Falls, IA|85ea088ece9a8762623b02f57ec5f11e
 PepsiCo|Technology Software Development & Engineering Intern 🛂|Plano, TX</br>Purchase, NY|726b408b048fff48aa7b94880422e36b
 Nuro|Systems Engineering Intern, Scenario Taxonomy|Mountain View, CA|0d03bcb8d459777462cb26b79faeaca6
 Nuro|Software Engineering Intern, Mapping & Localization|Mountain View, CA|76727c8bd715ff9341ae2e217df036ed
 Nuro|Software Engineer Intern, Performance|Mountain View, CA|d9fadf4717f0d70444890a04c17e856d
+Microsoft|Cloud Network Engineer Intern|Redmond, WA|172196b9ba952bb0d2011c6a5555b2a0
+Hilton|Technology Intern|McLean, VA</br>Memphis, TN</br>Dallas, TX|da8432528f5b2f2554512360c40bc381
+Fidelity|Undergraduate Intern, Technology 🛂|United States|2cd58d510f706f27beb2105194b00dc8
 ArcBest Technologies|Software Engineer Intern, ArcBest Technologies 🛂|Fort Smith, AR|8a5429c85f48db4eee8423a19e168292
+Abridge|Full Stack Engineering Intern|San Francisco, CA|093ce3c59ba586d0e33d7c20dc1511e7
 Trane Technologies|Systems Engineer Intern|St Paul, MN|2b71771529588c69b72fe8b804f4b1b7
 PwC|Software Engineering Intern, Commercial Technology & Innovation Office 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|ba890f80a084bab390aee98e3ab41815
 PwC|Software Engineering Intern, Cloud Engineering, Data & Analytics 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|81150681050ffa49a77b18571a98d62e
