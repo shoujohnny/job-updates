@@ -1,12 +1,12 @@
 Zebra|AVS Mobile Software Engineer Intern|Lincolnshire, IL|69dee20f70d98b6de832a1b71d48baff
-Zebra|Software Engineering Intern, Handheld Mobile Computer|Holtsville, NY|82b978846d9a8538d993d9c0280a98e8
+Zebra|Software Engineering Intern, Handheld Mobile Computer 🛂|Holtsville, NY|82b978846d9a8538d993d9c0280a98e8
 Vertiv|Design Engineering Intern 🛂|Delaware, OH</br>Fort Lauderdale, FL</br>Huntsville, AL|17d56ef8e11d510fbb70c32e11dfc663
 Vertiv|Software Engineering Intern 🛂|Delaware, OH|fcbf85516038bb7b7d08772a99e3ed41
 Vertiv|Firmware Engineering Intern 🛂|Delaware, OH|3926481a97d876fa6e5c2fb74134ec95
 The Hanover|Associate Solutions Developer Intern 🛂|Worcester, MA|612c95a4b2ac4b5485d9cdfa9f7eb18a
 The Hanover|Cloud Engineer Intern|Worcester, MA|917b0eacc2f73038a115908913d6ead1
 SciPlay|Software Engineering Intern|Cedar Falls, IA|85ea088ece9a8762623b02f57ec5f11e
-PepsiCo|Technology Software Development & Engineering Intern|Plano, TX</br>Purchase, NY|726b408b048fff48aa7b94880422e36b
+PepsiCo|Technology Software Development & Engineering Intern 🛂|Plano, TX</br>Purchase, NY|726b408b048fff48aa7b94880422e36b
 Nuro|Systems Engineering Intern, Scenario Taxonomy|Mountain View, CA|0d03bcb8d459777462cb26b79faeaca6
 Nuro|Software Engineering Intern, Mapping & Localization|Mountain View, CA|76727c8bd715ff9341ae2e217df036ed
 Nuro|Software Engineer Intern, Performance|Mountain View, CA|d9fadf4717f0d70444890a04c17e856d
@@ -18,7 +18,7 @@ Prudential Financial|Global Technology & Operations, Internship Program 🛂|New
 Prudential Financial|Technology Internship Program 🛂|Newark, NJ</br>Tampa, FL|ad0700bd993f4e1153681d728d0872a4
 Northrup Grumman|2026 Intern Software Engineer 🇺🇸|Melbourne, FL|2c011b23c127154b3889edac92ffb3d6
 Johnson and Johnson|Technology Intern 🛂|<details><summary>**11 locations**</summary>New Brunswick, NJ</br>Santa Clara, CA</br>Irvine, CA</br>Jacksonville, FL</br>Palm Beach Gardens, FL</br>Raritan, NJ</br>Titusville, NJ</br>Horsham, PA</br>Fort Washington, PA</br>Spring House, PA</br>West Chester, PA</details>|a927afdb86847ca947e051cc6b2c4136
-IBM|AI Engineer Intern|<details><summary>**7 locations**</summary>Research Triangle Park, NC</br>Dallas, TX</br>Austin, TX</br>San Francisco, CA</br>WASHINGTON, DC</br>Chicago, IL</br>New York, NY</details>|df9c39cd38a85e8cdd76e455025f2854
+IBM|AI Engineer Intern 🛂|<details><summary>**7 locations**</summary>Research Triangle Park, NC</br>Dallas, TX</br>Austin, TX</br>San Francisco, CA</br>WASHINGTON, DC</br>Chicago, IL</br>New York, NY</details>|df9c39cd38a85e8cdd76e455025f2854
 Google|Software Engineering Intern, BS|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|a788974964926c286295e27b0ad988be
 Google|Software Engineering Intern, MS|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|74af929013e2a3368e03228696f030fe
 Google|Research Intern, PhD|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|36fc9c131914cd03eeeeea3e01fba076
@@ -28,7 +28,7 @@ Google|Research Intern, PhD|Waterloo, Canada</br>Montreal, Canada</br>Toronto, C
 Google|Software Developer Intern, PhD|Waterloo, Canada</br>Montreal, Canada</br>Toronto, Canada|a065686106e29855e534575d77bc96cf
 Google|Software Engineering Intern, PhD|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|340a3d225a0b6278706d646cd391f07e
 Fannie Mae|Chief Security Office Program Intern 🛂|Reston, VA|fc14a5c6cd247d955f5bf0fb5b91fa68
-Fannie Mae|Technology Program Intern |Plano, TX</br>Reston, VA|2b804f15996e37becfdd7a81efcf775d
+Fannie Mae|Technology Program Intern  🛂|Plano, TX</br>Reston, VA|2b804f15996e37becfdd7a81efcf775d
 Dropbox|Software Engineering Intern|Remote|165419a6baa3a11ae6dfb94927202fa4
 Crowe|GRC Technology Intern|Chicago, IL|bea211ab36fe8ae30f2618e96eb6240b
 Crowe|Cybersecurity Intern|<details><summary>**4 locations**</summary>Chicago, IL</br>Dallas, TX</br>New York, NY</br>Indianapolis, IN</details>|8c5214ac27fac29f5caafd11d756663a
