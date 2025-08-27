@@ -1,3 +1,6 @@
+Dell|Software Engineer Intern|Round Rock, TX|a2ec4f0238c33eedbf31bc9ba3b92dad
+Cisco|Security Consulting Engineer Intern 🛂|RTP, NC|c9db8056178da3ce3475719f3c97ec32
+Capital One|Analyst Early Internship Program 🛂|McLean, VA|5fe43754eeeb924a84d0017ae6b9e9e6
 Zebra|AVS Mobile Software Engineer Intern|Lincolnshire, IL|69dee20f70d98b6de832a1b71d48baff
 Zebra|Software Engineering Intern, Handheld Mobile Computer 🛂|Holtsville, NY|82b978846d9a8538d993d9c0280a98e8
 Vertiv|Design Engineering Intern 🛂|Delaware, OH</br>Fort Lauderdale, FL</br>Huntsville, AL|17d56ef8e11d510fbb70c32e11dfc663
