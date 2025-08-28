@@ -25,6 +25,8 @@ Fresco (F24)|AI SWE Intern, Fleet Health Instrumentation|San Francisco, CA|30af5
 FleetWorks|Software Engineering Intern|San Francisco, CA|c4ab556b3a3565ca6ffa7fbd89122df1
 Ember|Full Stack Engineering Intern|San Francisco, CA|6de1b5de0bffa2402b3990fcf20df92b
 Elanco|IT Junior Engineer Intern, Technical Deliver|US Territory Field based|7614edbe8ef4bb70f3251ebfd47dcaa9
+Deutsche Bank|Technology, Data and Innovation Intern 🛂|New York, NY|c99ca6dc3ed8b2f98cf131da21be145c
+Deutsche Bank|Technology, Data and Innovation Intern 🛂|Cary, NC|e92100adee114460833c4679f78d7e4b
 Cuckoo Labs|Full Stack Engineering Intern|San Francisco, CA|15ca43798fa62fd218e4d794cab44434
 Cua (X25)|Research Intern|San Francisco, CA</br>Remote|65a43257880bf7e75be43f4cc627194a
 Cua (X25)|Software Engineer Intern, Infra & Agent Systems|San Francisco, CA|c4702f17692e54b2d308fda37b36ff61
