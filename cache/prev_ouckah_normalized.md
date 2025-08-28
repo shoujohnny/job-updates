@@ -1,6 +1,9 @@
 Verkada|Backend Software Engineering Intern|San Mateo, CA|136e3aeb547e057fb0942756e38fcfa2
 Verkada|Frontend Software Engineering Intern|San Mateo, CA|54b45dee6b9e81cdde4dadb8c4dd6bb5
 Qorvo|Software Developer Intern 🛂|Greensboro, NC|d44559c428c73c497bce3fc4f4540ec3
+Oracle|Advanced Degree Software Engineer Intern, Database Technologies|Redwood Shores, CA|ccd99581277c4a2eaa0c1d2218a73795
+Oracle|Advanced Degree Software Engineer Intern, Fusion|Redwood City, CA</br>Pleasanton, CA</br>Santa Clara, CA|c7f760c1d9fa1268d35b340bca7616ae
+Oracle|Advanced Degree Software Engineer Intern, Oracle Health & Analytics|<details><summary>**4 locations**</summary>Seattle, WA</br>Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA</details>|ef1c75a852542879f9f6ae78f5b2e14a
 Oracle|Software Engineer Intern, Oracle Cloud Infrastructure (OCI) 🛂|Seattle, WA|56ec4912c181e786fa2e9571d3755ae9
 Oracle|Software Engineer Intern, Oracle Health and Analytics 🛂|<details><summary>**5 locations**</summary>Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA</br>Seattle, WA</br>Kansas City, MO</details>|2bb8f0a631b0b9a26159b6bf3abd1782
 Oracle|Technical Program Manager Intern, Oracle Cloud Infrastructure 🛂|<details><summary>**4 locations**</summary>Austin, TX</br>Nashville, TN</br>Santa Clara, CA</br>Seattle, WA</details>|e427b45d248a10961e3ef2486988e019
@@ -15,6 +18,7 @@ Jane Street|Cybersecurity Analyst Intern|New York, NY|1e85740f9c24eabecb339ad34e
 IBM|Back End Developer Intern|<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, MN</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>|ff505efe1cd5df9052b8021c13f3915c
 Hormel Foods|IT Application Development Analyst Intern 🛂|Austin, MN|31a25f307e10699fecec02b0f91bb9e3
 Hewlett Packard Enterprise|Software Engineering Intern|Roseville, CA|d63f2874b8e082d734f87c39498f4eb1
+Grant Thornton|Technology Modernization Intern 🛂|Chicago, IL|20cb04aa2b95f1caaa19eeb4da53ae50
 Geico|TDP Software Intern|<details><summary>**19 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Getzville, NY</br>Poway, CA</br>Richardson, TX</br>Renton, WA</br>North Liberty, IA</br>Katy, TX</br>Marlton, NJ</br>Lakeland, FL</br>Fredericksburg, VA</br>Lenexa, KS</br>Anchorage, AK</br>Woodbury, NY</br>Jacksonville, FL</br>Indianapolis, IN</br>Tucson, AZ</br>Macon, GA</br>Springfield, VA</details>|ebed3f2165ee74a582b7d508f9809fe0
 Epic Games|Software Engineer Intern|Cary, NC|79e0161e89cff7a2dbbe8a561bcb05a2
 Commure|Software Engineering Intern|Mountain View, CA|4b85865cc830e3c2673cc2a4e805492f
