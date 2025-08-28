@@ -1,6 +1,10 @@
 Verkada|Backend Software Engineering Intern|San Mateo, CA|136e3aeb547e057fb0942756e38fcfa2
 Verkada|Frontend Software Engineering Intern|San Mateo, CA|54b45dee6b9e81cdde4dadb8c4dd6bb5
 Qorvo|Software Developer Intern 🛂|Greensboro, NC|d44559c428c73c497bce3fc4f4540ec3
+Oracle|Software Engineer Intern, Oracle Cloud Infrastructure (OCI) 🛂|Seattle, WA|56ec4912c181e786fa2e9571d3755ae9
+Oracle|Software Engineer Intern, Oracle Health and Analytics 🛂|<details><summary>**5 locations**</summary>Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA</br>Seattle, WA</br>Kansas City, MO</details>|2bb8f0a631b0b9a26159b6bf3abd1782
+Oracle|Technical Program Manager Intern, Oracle Cloud Infrastructure 🛂|<details><summary>**4 locations**</summary>Austin, TX</br>Nashville, TN</br>Santa Clara, CA</br>Seattle, WA</details>|e427b45d248a10961e3ef2486988e019
+Oracle|Software Engineer Intern, Database Technologies 🛂|Redwood Shores, CA|048aea9620ca2324f842f9505724855f
 Oracle|Software Engineer Intern 🛂|Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA|ef102213ce42da630ef42ad6ffb4bb47
 Newrez LLC|Software Engineering Intern|Coppell, TX|951171b328b44046183c2af1ca65cfa6
 Microsoft|Software Quality Engineer Intern|Redmond, WA|6bd1324dc56e5c711717d2a5b3a44337
