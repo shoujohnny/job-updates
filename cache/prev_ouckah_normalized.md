@@ -1,15 +1,27 @@
 Verkada|Backend Software Engineering Intern|San Mateo, CA|136e3aeb547e057fb0942756e38fcfa2
 Verkada|Frontend Software Engineering Intern|San Mateo, CA|54b45dee6b9e81cdde4dadb8c4dd6bb5
+Qorvo|Software Developer Intern 🛂|Greensboro, NC|d44559c428c73c497bce3fc4f4540ec3
 Oracle|Software Engineer Intern 🛂|Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA|ef102213ce42da630ef42ad6ffb4bb47
+Newrez LLC|Software Engineering Intern|Coppell, TX|951171b328b44046183c2af1ca65cfa6
 Microsoft|Software Quality Engineer Intern|Redmond, WA|6bd1324dc56e5c711717d2a5b3a44337
 Microsoft|Data Engineer Intern|Redmond, WA|be93968583d897f812cdec3d20ef6c6b
+Kodak|Web Developer Intern|United States|24e6d7e17afbab7510bc7ebc16f0ee6f
+Kingland|Advanced Software Engineering Intern|Ames, IA</br>Clear Lake, IA</br>Fort Myers, FL|3c8f39e0051e811d93202388471de016
 Jane Street|Cybersecurity Analyst Intern|New York, NY|1e85740f9c24eabecb339ad34e713a86
 IBM|Back End Developer Intern|<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, MN</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>|ff505efe1cd5df9052b8021c13f3915c
+Hormel Foods|IT Application Development Analyst Intern 🛂|Austin, MN|31a25f307e10699fecec02b0f91bb9e3
 Hewlett Packard Enterprise|Software Engineering Intern|Roseville, CA|d63f2874b8e082d734f87c39498f4eb1
 Geico|TDP Software Intern|<details><summary>**19 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Getzville, NY</br>Poway, CA</br>Richardson, TX</br>Renton, WA</br>North Liberty, IA</br>Katy, TX</br>Marlton, NJ</br>Lakeland, FL</br>Fredericksburg, VA</br>Lenexa, KS</br>Anchorage, AK</br>Woodbury, NY</br>Jacksonville, FL</br>Indianapolis, IN</br>Tucson, AZ</br>Macon, GA</br>Springfield, VA</details>|ebed3f2165ee74a582b7d508f9809fe0
+Epic Games|Software Engineer Intern|Cary, NC|79e0161e89cff7a2dbbe8a561bcb05a2
+Commure|Software Engineering Intern|Mountain View, CA|4b85865cc830e3c2673cc2a4e805492f
+Cognex|Software Engineering Intern|Wauwatosa, WI|1f92445ef6eb3125bc326cd435764654
 Cisco|Consulting Engineer Intern 🛂|Research Triangle Park, NC|9b47c71f064ccebb21dc20cc696b3dac
 Cisco|Security Consulting Engineer Intern 🛂|Research Triangle Park, NC|3f265d12eb3477c3e53898e4e1177d33
+CGI|Software Developer Intern|St. Louis, MO|2566a00195218bd8ad5db54e06c34bd1
 Capital One|Analyst Early Internship Program 🛂|McLean, VA|5fe43754eeeb924a84d0017ae6b9e9e6
+Burns & McDonnell|Software Developer Intern, Kansas City 🛂|Kansas City, MO|0bf691a3c609442d2eaa32fba403910d
+Bessemer Trust|Software Engineering Intern|Woodbridge, NJ|3076f7c03469b1ab5d47f183c2c59e8c
+Analog Devices|Embedded Software Intern, Analog Garage PST|Boston, MA|0cd86c3faa44cbf3c061e24ab5a89857
 Amazon|Front-End Engineer Intern|Seattle, WA|d5408c5e7b6ef3c11c248056ba9d23a6
 Amazon|Data Engineer Co-op Intern|Seattle, WA|cf937668bcf3a805c923c244aa6da616
 Amazon|Business Intelligence Engineer Intern|Seattle, WA|9681f2daecd7eb89b3dbc43d60fd9137
