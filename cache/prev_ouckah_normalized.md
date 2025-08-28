@@ -1,6 +1,18 @@
-Dell|Software Engineer Intern|Round Rock, TX|a2ec4f0238c33eedbf31bc9ba3b92dad
-Cisco|Security Consulting Engineer Intern 🛂|RTP, NC|c9db8056178da3ce3475719f3c97ec32
+Verkada|Backend Software Engineering Intern|San Mateo, CA|136e3aeb547e057fb0942756e38fcfa2
+Verkada|Frontend Software Engineering Intern|San Mateo, CA|54b45dee6b9e81cdde4dadb8c4dd6bb5
+Oracle|Software Engineer Intern 🛂|Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA|ef102213ce42da630ef42ad6ffb4bb47
+Microsoft|Software Quality Engineer Intern|Redmond, WA|6bd1324dc56e5c711717d2a5b3a44337
+Microsoft|Data Engineer Intern|Redmond, WA|be93968583d897f812cdec3d20ef6c6b
+Jane Street|Cybersecurity Analyst Intern|New York, NY|1e85740f9c24eabecb339ad34e713a86
+IBM|Back End Developer Intern|<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, MN</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>|ff505efe1cd5df9052b8021c13f3915c
+Hewlett Packard Enterprise|Software Engineering Intern|Roseville, CA|d63f2874b8e082d734f87c39498f4eb1
+Geico|TDP Software Intern|<details><summary>**19 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Getzville, NY</br>Poway, CA</br>Richardson, TX</br>Renton, WA</br>North Liberty, IA</br>Katy, TX</br>Marlton, NJ</br>Lakeland, FL</br>Fredericksburg, VA</br>Lenexa, KS</br>Anchorage, AK</br>Woodbury, NY</br>Jacksonville, FL</br>Indianapolis, IN</br>Tucson, AZ</br>Macon, GA</br>Springfield, VA</details>|ebed3f2165ee74a582b7d508f9809fe0
+Cisco|Consulting Engineer Intern 🛂|Research Triangle Park, NC|9b47c71f064ccebb21dc20cc696b3dac
+Cisco|Security Consulting Engineer Intern 🛂|Research Triangle Park, NC|3f265d12eb3477c3e53898e4e1177d33
 Capital One|Analyst Early Internship Program 🛂|McLean, VA|5fe43754eeeb924a84d0017ae6b9e9e6
+Amazon|Front-End Engineer Intern|Seattle, WA|d5408c5e7b6ef3c11c248056ba9d23a6
+Amazon|Data Engineer Co-op Intern|Seattle, WA|cf937668bcf3a805c923c244aa6da616
+Amazon|Business Intelligence Engineer Intern|Seattle, WA|9681f2daecd7eb89b3dbc43d60fd9137
 Zebra|AVS Mobile Software Engineer Intern|Lincolnshire, IL|69dee20f70d98b6de832a1b71d48baff
 Zebra|Software Engineering Intern, Handheld Mobile Computer 🛂|Holtsville, NY|82b978846d9a8538d993d9c0280a98e8
 Vertiv|Design Engineering Intern 🛂|Delaware, OH</br>Fort Lauderdale, FL</br>Huntsville, AL|17d56ef8e11d510fbb70c32e11dfc663
@@ -17,7 +29,6 @@ Nuro|Software Engineering Intern, Mapping & Localization|Mountain View, CA|76727
 Nuro|Software Engineer Intern, Performance|Mountain View, CA|d9fadf4717f0d70444890a04c17e856d
 Microsoft|Cloud Network Engineer Intern|Redmond, WA|172196b9ba952bb0d2011c6a5555b2a0
 Hilton|Technology Intern|McLean, VA</br>Memphis, TN</br>Dallas, TX|da8432528f5b2f2554512360c40bc381
-Fidelity|Undergraduate Intern, Technology 🛂|United States|2cd58d510f706f27beb2105194b00dc8
 ArcBest Technologies|Software Engineer Intern, ArcBest Technologies 🛂|Fort Smith, AR|8a5429c85f48db4eee8423a19e168292
 Abridge|Full Stack Engineering Intern|San Francisco, CA|093ce3c59ba586d0e33d7c20dc1511e7
 Trane Technologies|Systems Engineer Intern|St Paul, MN|2b71771529588c69b72fe8b804f4b1b7
@@ -25,7 +36,6 @@ PwC|Software Engineering Intern, Commercial Technology & Innovation Office 🛂|
 PwC|Software Engineering Intern, Cloud Engineering, Data & Analytics 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|81150681050ffa49a77b18571a98d62e
 Prudential Financial|Global Technology & Operations, Internship Program 🛂|Newark, NJ|3ea204d9287f0a8df4affcc2a29b1c70
 Prudential Financial|Technology Internship Program 🛂|Newark, NJ</br>Tampa, FL|ad0700bd993f4e1153681d728d0872a4
-Northrup Grumman|2026 Intern Software Engineer 🇺🇸|Melbourne, FL|2c011b23c127154b3889edac92ffb3d6
 Johnson and Johnson|Technology Intern 🛂|<details><summary>**11 locations**</summary>New Brunswick, NJ</br>Santa Clara, CA</br>Irvine, CA</br>Jacksonville, FL</br>Palm Beach Gardens, FL</br>Raritan, NJ</br>Titusville, NJ</br>Horsham, PA</br>Fort Washington, PA</br>Spring House, PA</br>West Chester, PA</details>|a927afdb86847ca947e051cc6b2c4136
 IBM|AI Engineer Intern 🛂|<details><summary>**7 locations**</summary>Research Triangle Park, NC</br>Dallas, TX</br>Austin, TX</br>San Francisco, CA</br>WASHINGTON, DC</br>Chicago, IL</br>New York, NY</details>|df9c39cd38a85e8cdd76e455025f2854
 Google|Software Engineering Intern, BS|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|a788974964926c286295e27b0ad988be
