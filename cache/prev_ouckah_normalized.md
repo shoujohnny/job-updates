@@ -1,3 +1,47 @@
+Waypoint Transit|Software Engineering Intern 🇺🇸|San Francisco, CA|c21881e3f53f45f15fc8305b5a8b3280
+Vendra|Software Engineering Intern 🇺🇸|San Francisco, CA|c3d95fb44ba90ce83fc39609ee4b8a40
+Vendra|Full Stack ML Engineering Intern 🇺🇸|San Francisco, CA|40366a9cf96cb716f5b98ea6139b98f0
+Upsolve|Software Engineering Intern|Remote|687256a834a1ec86b1cc7f137a866845
+ThirdLayer|Full-Stack Engineer Intern|San Francisco, CA|524a0e05141f95afd78dad0e9379655e
+Tandem (S24)|Eng Intern 🇺🇸|San Francisco, CA|11ee580ff8065784aae2e6a753097c7a
+Stack Auth|SWE Intern|San Francisco, CA|eb80618641a1ebf2282f4eaf58a283a5
+Sonauto|ML Engineer Intern, Research 🇺🇸|San Francisco, CA|170ef157b669d0765a74121430400174
+Silimate|EDA QA/Testing Intern 🇺🇸|Mountain View, CA|3fba122614e4e5cea3aa3c317fcf6336
+Relixir (X25)|Software Engineer Intern, Backend & AI|San Francisco, CA</br>Remote|a62c3c7d89e18530d4b467cdf9e6be31
+Relixir|Forward Deployed Software Engineering Intern|San Francisco, CA</br>Remote|e6ff78fb6d0e2da43bd254338055260f
+Readily (S23)|Full-Stack Engineering Intern|San Francisco, CA|8f972f6ddb1d31af005e3ee88fc5ec98
+Reacher|Software Engineer Intern|San Francisco, CA</br>Los Angeles, CA|dc8e07d57bef616c6ea0853510ca13d1
+Promptless|Software Engineering Intern|San Francisco, CA|ec5175741251c950d4d46c521e2b8a7a
+Promptless|AI Engineering Intern 🇺🇸|San Francisco, CA|5977c9b589ab667025a5e15b861de33a
+Orchids|Full Stack Engineer Intern 🇺🇸|San Francisco, CA</br>Remote|ebead66513d8e441663be4dec2028124
+Mosaic|Full Stack Engineering Intern 🇺🇸|San Francisco, CA|5763a184509af1406b0187acefcca47a
+Morph|Machine Learning Intern|San Francisco, CA</br>Remote|c90680fdc358cf2925742c683422b489
+Mesh|AI Engineer Intern|San Francisco, CA|b716c546f683de20900ecfc87ca62093
+Mantech|CNO Developer Intern 🇺🇸|San Antonio, TX|050bb751e29a15a6ba8e1363553a533e
+Garmin|Software Engineer Intern, Embedded|Olathe, KS|354f7517e37113ed837057e62242ec76
+Garmin|Software Engineer Intern, Web/DevOps|Olathe, KS|54da0a2edd75663aac7fba874edaa2ac
+Garage (W24)|Software Engineering Intern|New York, NY|e4a827c51099541ab1afe6420e7f8578
+Fresco (F24)|AI SWE Intern, Fleet Health Instrumentation|San Francisco, CA|30af5719c61189ba93bb358c803dc8b6
+FleetWorks|Software Engineering Intern|San Francisco, CA|c4ab556b3a3565ca6ffa7fbd89122df1
+Ember|Full Stack Engineering Intern|San Francisco, CA|6de1b5de0bffa2402b3990fcf20df92b
+Elanco|IT Junior Engineer Intern, Technical Deliver|US Territory Field based|7614edbe8ef4bb70f3251ebfd47dcaa9
+Cuckoo Labs|Full Stack Engineering Intern|San Francisco, CA|15ca43798fa62fd218e4d794cab44434
+Cua (X25)|Research Intern|San Francisco, CA</br>Remote|65a43257880bf7e75be43f4cc627194a
+Cua (X25)|Software Engineer Intern, Infra & Agent Systems|San Francisco, CA|c4702f17692e54b2d308fda37b36ff61
+CTGT|Software Engineering Intern|San Francisco, CA|5f55b414bdc7fc43f7401379cd052be8
+CreativeMode|SWE Intern 🇺🇸|San Francisco, CA|e1035dd8a996afbd652ba1ba3f7349c5
+Corgi|Technical Builder Intern 🇺🇸|San Francisco, CA|165f87f9d0954a36ea98c20b238b004e
+Conductor Quantum|Intern 🇺🇸|San Francisco, CA|e739ea40083d537a97d4781d85e26d86
+Circleback|Software Engineering Intern|San Francisco, CA|608a6bcea6bc89764359f5915d0ffa77
+Cekura|AI Engineer Intern, Voice AI and Chat AI agents: Testing and Observability 🇺🇸|San Francisco, CA|e174562bfbe79d02d6b03612a4a1c6a1
+Candle|Software Engineering Intern|San Francisco, CA|586401fdedbc8f1a215772133179ea57
+BrowserOS|ML Research Engineer Intern|San Francisco, CA|bf058ea16b6c36346c78adbf82d03055
+Bluejay|Software Engineer Intern 🇺🇸|San Francisco, CA|6880fd4acd3c49f5cb0f8f7c4ff72488
+Bindwell (W25)|Machine Learning Intern 🇺🇸|San Francisco, CA|a80b2e53169339dcabdf3b3a85e0a696
+Bild AI|AI/SWE Intern 🇺🇸|San Francisco, CA|a624f6050f713b823d032b137c2487ce
+Athelas|Software Engineering Intern|San Francisco, CA</br>Mountain View, CA|5235febee87ca3a3d9d40be86793f789
+Aluminum Dynamics|Software Engineer Intern|Columbus, MS|c41428d8f45995daa6df6ca4dd9e0899
+14.ai|Full Stack Engineering Intern 🇺🇸|San Francisco, CA|6b205670b20186a52b465901b2db5e3a
 Verkada|Backend Software Engineering Intern|San Mateo, CA|136e3aeb547e057fb0942756e38fcfa2
 Verkada|Frontend Software Engineering Intern|San Mateo, CA|54b45dee6b9e81cdde4dadb8c4dd6bb5
 Qorvo|Software Developer Intern 🛂|Greensboro, NC|d44559c428c73c497bce3fc4f4540ec3
@@ -19,7 +63,6 @@ IBM|Back End Developer Intern|<details><summary>**14 locations**</summary>Sandy 
 Hormel Foods|IT Application Development Analyst Intern 🛂|Austin, MN|31a25f307e10699fecec02b0f91bb9e3
 Hewlett Packard Enterprise|Software Engineering Intern|Roseville, CA|d63f2874b8e082d734f87c39498f4eb1
 Grant Thornton|Technology Modernization Intern 🛂|Chicago, IL|20cb04aa2b95f1caaa19eeb4da53ae50
-Geico|TDP Software Intern|<details><summary>**19 locations**</summary>Chevy Chase, MD</br>Virginia Beach, VA</br>Getzville, NY</br>Poway, CA</br>Richardson, TX</br>Renton, WA</br>North Liberty, IA</br>Katy, TX</br>Marlton, NJ</br>Lakeland, FL</br>Fredericksburg, VA</br>Lenexa, KS</br>Anchorage, AK</br>Woodbury, NY</br>Jacksonville, FL</br>Indianapolis, IN</br>Tucson, AZ</br>Macon, GA</br>Springfield, VA</details>|ebed3f2165ee74a582b7d508f9809fe0
 Epic Games|Software Engineer Intern|Cary, NC|79e0161e89cff7a2dbbe8a561bcb05a2
 Commure|Software Engineering Intern|Mountain View, CA|4b85865cc830e3c2673cc2a4e805492f
 Cognex|Software Engineering Intern|Wauwatosa, WI|1f92445ef6eb3125bc326cd435764654
