@@ -22,7 +22,6 @@ Orchids|Full Stack Engineer Intern 🇺🇸|San Francisco, CA</br>Remote|ebead66
 Mosaic|Full Stack Engineering Intern 🇺🇸|San Francisco, CA|5763a184509af1406b0187acefcca47a
 Morph|Machine Learning Intern|San Francisco, CA</br>Remote|c90680fdc358cf2925742c683422b489
 Mesh|AI Engineer Intern|San Francisco, CA|b716c546f683de20900ecfc87ca62093
-Mantech|CNO Developer Intern 🇺🇸|San Antonio, TX|050bb751e29a15a6ba8e1363553a533e
 Garmin|Software Engineer Intern, Embedded|Olathe, KS|354f7517e37113ed837057e62242ec76
 Garmin|Software Engineer Intern, Web/DevOps|Olathe, KS|54da0a2edd75663aac7fba874edaa2ac
 Garage (W24)|Software Engineering Intern|New York, NY|e4a827c51099541ab1afe6420e7f8578
