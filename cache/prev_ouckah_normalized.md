@@ -1,3 +1,15 @@
+YouLearn - YC|Software Engineering Intern|San Francisco, CA|a97345219ed462f4ae68067c39126acf
+Transcard|Software Engineer Intern 🛂|Chattanooga, TN|1c4ec6a91e42befe294b75bc7fc99c72
+ThirdLayer- YC(W25)|Full-Stack Engineer Intern|San Francisco, CA|eeede616c60fc59deb6105769c6c3774
+Susquehanna|Trading System Engineering Intern|Bala Cynwyd, PA|ced6495b79c616bdd56eb3e219b44de8
+SubImage - YC(W25)|Full Stack Software Engineer Intern 🇺🇸|San Francisco, CA|6e1fccabc558d8079ed4a2903b915247
+Honeywell|Software Engineer & Computer Science Intern 🇺🇸|United States|b134586d40127cf87bfc82a9332f9234
+Dow Jones|Software Development Intern, OPIS|Gaithersburg, MD|1e332661d67b5de2a3b6e537a4fdfb1e
+Computershare|Junior Developer Intern|Saint Paul, MN|79e8f8e46d69add7375369ae1c741aa8
+Charles Schwab|Software Engineering Intern|<details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details>|6f10dc0dd0f069e4567da7dbe33a5fcb
+CACI|Software Engineer Intern 🛂|Austin, TX|69eb7adbce55717e372cef700a61d5e0
+CACI|Software Quality Engineer Intern|Austin, TX|f440db4c8adee6d8d4a0915b16143f45
+Altruist Financial LLC|Quantitative Engineer Intern|San Francisco, CA|bdc02023f221095ca66cf69c40e4f4e4
 Santander|IT Project Management Intern|Dallas, TX|5f3b0254ee6ae3a4c5c0af91b7ba9b34
 Santander|Information Security Intern|Dallas, TX</br>Boston, MA</br>New York, NY|a4dc48e45dc062afc785244d4bdafa97
 Red Hat|Software Engineer Intern|Raleigh, NC</br>Boston, MA</br>Lowell, MA|ab3c7565777c808892da10ff9baee3c9
@@ -9,7 +21,7 @@ Appian|Software Engineering Intern|McLean, VA|1a11ea12abb69baa940f10321c24a7f4
 Appian|Quality Engineer Intern|McLean, VA|306ed561a3268e711e10c2976e1f1de5
 Appian|Information Security Intern|McLean, VA|a5e20928b278c93cc1168b380806025b
 Appian|Product Manager Intern|McLean, VA|efdf1588862aca24a8f616d4ac132e5c
-AMD|Software Engineer Intern|<details><summary>**5 locations**</summary>Austin ,TX</br>Fort Collins, CO</br>Longmont, CO</br>Boxborough , MA</br></details>|486139389b057b1069e057ee2146a0ba
+AMD|Software Engineer Intern|<details><summary>**4 locations**</summary>Austin ,TX</br>Fort Collins, CO</br>Longmont, CO</br>Boxborough , MA</details>|486139389b057b1069e057ee2146a0ba
 Waypoint Transit|Software Engineering Intern 🇺🇸|San Francisco, CA|c21881e3f53f45f15fc8305b5a8b3280
 Vendra|Software Engineering Intern 🇺🇸|San Francisco, CA|c3d95fb44ba90ce83fc39609ee4b8a40
 Vendra|Full Stack ML Engineering Intern 🇺🇸|San Francisco, CA|40366a9cf96cb716f5b98ea6139b98f0
