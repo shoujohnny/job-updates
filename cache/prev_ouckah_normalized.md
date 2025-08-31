@@ -3,12 +3,18 @@ Transcard|Software Engineer Intern 🛂|Chattanooga, TN|1c4ec6a91e42befe294b75bc
 ThirdLayer- YC(W25)|Full-Stack Engineer Intern|San Francisco, CA|eeede616c60fc59deb6105769c6c3774
 Susquehanna|Trading System Engineering Intern|Bala Cynwyd, PA|ced6495b79c616bdd56eb3e219b44de8
 SubImage - YC(W25)|Full Stack Software Engineer Intern 🇺🇸|San Francisco, CA|6e1fccabc558d8079ed4a2903b915247
+Santander|Application Development Intern, Auto|Dallas, TX|cb5bfa000d71f69a053db945ed9c5d30
+Santander|IT Application Development Intern|Dallas, TX</br>Irvine, CA|a7c364e8b9754dbe3a8b643ffd9ae6ab
+Keysight|DevOps Intern|Colorado Springs, CO|c681f93c41792d534c153089a7886bac
+Inspire|Infrastructure and DevOps Intern|Atlanta, GA|58a84ccba7c99d304377966003369684
 Honeywell|Software Engineer & Computer Science Intern 🇺🇸|United States|b134586d40127cf87bfc82a9332f9234
 Dow Jones|Software Development Intern, OPIS|Gaithersburg, MD|1e332661d67b5de2a3b6e537a4fdfb1e
 Computershare|Junior Developer Intern|Saint Paul, MN|79e8f8e46d69add7375369ae1c741aa8
+Charles Schwab|Software Engineering Intern|<details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details>|c9b6f6524de0a640e1b6245c99410e65
 Charles Schwab|Software Engineering Intern|<details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details>|6f10dc0dd0f069e4567da7dbe33a5fcb
 CACI|Software Engineer Intern 🛂|Austin, TX|69eb7adbce55717e372cef700a61d5e0
 CACI|Software Quality Engineer Intern|Austin, TX|f440db4c8adee6d8d4a0915b16143f45
+AMD|Software Engineering Intern|<details><summary>**4 locations**</summary>Austin, TX</br>Fort Collins, CO</br>Boxborough, MA</br>Longmont, CO</details>|173408f3b783f0f331f9f0b735b248dd
 Altruist Financial LLC|Quantitative Engineer Intern|San Francisco, CA|bdc02023f221095ca66cf69c40e4f4e4
 Santander|IT Project Management Intern|Dallas, TX|5f3b0254ee6ae3a4c5c0af91b7ba9b34
 Santander|Information Security Intern|Dallas, TX</br>Boston, MA</br>New York, NY|a4dc48e45dc062afc785244d4bdafa97
@@ -123,7 +129,6 @@ Trane Technologies|Systems Engineer Intern|St Paul, MN|2b71771529588c69b72fe8b80
 PwC|Software Engineering Intern, Commercial Technology & Innovation Office 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|ba890f80a084bab390aee98e3ab41815
 PwC|Software Engineering Intern, Cloud Engineering, Data & Analytics 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|81150681050ffa49a77b18571a98d62e
 Prudential Financial|Global Technology & Operations, Internship Program 🛂|Newark, NJ|3ea204d9287f0a8df4affcc2a29b1c70
-Prudential Financial|Technology Internship Program 🛂|Newark, NJ</br>Tampa, FL|ad0700bd993f4e1153681d728d0872a4
 Johnson and Johnson|Technology Intern 🛂|<details><summary>**11 locations**</summary>New Brunswick, NJ</br>Santa Clara, CA</br>Irvine, CA</br>Jacksonville, FL</br>Palm Beach Gardens, FL</br>Raritan, NJ</br>Titusville, NJ</br>Horsham, PA</br>Fort Washington, PA</br>Spring House, PA</br>West Chester, PA</details>|a927afdb86847ca947e051cc6b2c4136
 IBM|AI Engineer Intern 🛂|<details><summary>**7 locations**</summary>Research Triangle Park, NC</br>Dallas, TX</br>Austin, TX</br>San Francisco, CA</br>WASHINGTON, DC</br>Chicago, IL</br>New York, NY</details>|df9c39cd38a85e8cdd76e455025f2854
 Google|Software Engineering Intern, BS|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|a788974964926c286295e27b0ad988be
@@ -142,8 +147,6 @@ Crowe|Cybersecurity Intern|<details><summary>**4 locations**</summary>Chicago, I
 Crowe|AI Functional Intern|Chicago, IL|921391b43b8dc47b6485512d1b524c8e
 CGI|Software Developer Intern 🛂|Fairfax, VA|06dab83fcbdc227f785dcdce8972d81c
 Boeing|Information Digital Technology & Security Intern 🇺🇸|<details><summary>**30 locations**</summary>Everett, WA</br>Saint Charles, MO</br>Huntsville, AL</br>Charleston, SC</br>Oklahoma City, OK</br>Berkeley, MO</br>Huntington Beach, CA</br>Hazelwood, MO</br>El Segundo, CA</br>Herndon, VA</br>Plano, TX</br>Arlington, VA</br>Ridley Park, PA</br>Tukwila, WA</br>North Charleston, SC</br>Fairfax, VA</br>Colorado Springs, CO</br>Chicago, IL</br>Seal Beach, CA</br>Mukilteo, WA</br>Atlanta, GA</br>Long Beach, CA</br>Renton, WA</br>Dallas, TX</br>Seattle, WA</br>Auburn, WA</br>Bellevue, WA</br>San Antonio, TX</br>Kent, WA</br>Mesa, AZ</details>|539d5cc8f26a1395e52b210c5242f417
-OCC|Enterprise Quality Management Summer Intern 🛂|Chicago, IL|085539f8ee6a2c270de7fd85462ffa80
-OCC|Platform Engineering Intern|Chicago, IL|ec9719f698c6c0eee68c9a5557c295fc
 MITRE|Computer Science or Software Engineering Intern|<details><summary>**25 locations**</summary>McLean, VA</br>Bellevue, NE</br>Huntsville, AL</br>Austin, TX</br>Quantico, VA</br>Tampa, FL</br>Bedford, MA</br>Fairborn, OH</br>Bridgeport, WV</br>San Antonio, TX</br>Domestic Teleworker, MA</br>Colorado Springs, CO</br>Offutt AFB, NE</br>Annapolis Junction, MD</br>Gaithersburg, MD</br>San Diego, CA</br>Charlottesville, VA</br>El Segundo, CA</br>Lexington Park, MD</br>Windsor, MD</br>Shaw AFB, SC</br>Honolulu, HI</br>Shrewsbury, NJ</br>Aberdeen, MD</br>Fort Walton Beach, FL</details>|f1434d6ac60b0b295c44adec6f087c47
 Raytheon|Software Engineering Co-Op 🇺🇸|Cedar Rapids, IA|6287438510eb81f2fb120230c78b9ea4
 QTS|IT Service Now Intern 🇺🇸|Suwanee, GA|d2191330b7776b1298edac91e44b208e
