@@ -1,3 +1,6 @@
+UBS|Technology Inter|Weekhawken, NJ|096ef2cbd8919b14f8d4b092ac3447b2
+Salesforce|Software Engineer Intern|San Francisco, CA</br>Seattle, WA</br>Bellevue, WA|89635a8c48e7e78e01897485c4c7859a
+Intel|Software Engineer Intern 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|d89995ff608fa58767fdb4a21c6698f9
 YouLearn - YC|Software Engineering Intern|San Francisco, CA|a97345219ed462f4ae68067c39126acf
 Transcard|Software Engineer Intern 🛂|Chattanooga, TN|1c4ec6a91e42befe294b75bc7fc99c72
 ThirdLayer- YC(W25)|Full-Stack Engineer Intern|San Francisco, CA|eeede616c60fc59deb6105769c6c3774
