@@ -1,6 +1,13 @@
+Vanguard|College to Corporate Intern, Technology Operations 🛂|Malvern, PA</br>Charlotte, NC|0ba1584ef29ed586fb93742af5620651
+United Launch Alliance|Software Engineering Intern 🇺🇸|Centennial, CO|4222bdbbc7334b0d2e110a0bedc9c591
 UBS|Technology Inter|Weekhawken, NJ|096ef2cbd8919b14f8d4b092ac3447b2
+U.S. Bank|Engineering Intern|Hopkins, MN|88456fed51fa0b6d4c1a4435f0428bfa
 Stripe|Software Engineer Intern|South San Francisco, CA</br>Seattle, WA</br>New York, NY|5278017dddfe59f9d2df14fe14ee00e5
+SpaceX|Software Engineering Intern/Co-op 🇺🇸|<details><summary>**8 locations**</summary>Bastrop, TX</br>Brownsville, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</br>Sunnyvale, CA</details>|e721cda0e78404b1f5eee847bfeb1998
+SpaceX|Engineering Intern/Co-op 🇺🇸|<details><summary>**8 locations**</summary>Bastrop, TX</br>Brownsville, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</br>Vandenberg, CA</details>|9ca793f845f458581beb1b369286b04d
 Salesforce|Software Engineer Intern|San Francisco, CA</br>Seattle, WA</br>Bellevue, WA|89635a8c48e7e78e01897485c4c7859a
+Roblox|Product Management Intern|San Mateo, CA|06a4c459fa3bf4fd4b2aff8f912264f6
+Roblox|Product Design Intern 🛂|San Mateo, CA|7d02cfbad879e00f3df4e7d093c0ea5b
 Plexus|Engineering Productivity Intern, Software|Neenah, WI|46f0b32d5acb1285d814bf1637f3412b
 Plexus|Automation Controls Engineer Intern|Neenah, WI|94850e3fd2c11db639e555804feff292
 Pierce Manufacturing|Software Engineer Intern|Greenville, WI</br>Oshkosh, WI|5d7fd23162a3b3358de0b084d4eb7835
@@ -25,10 +32,16 @@ NVIDIA|PhD Large Language Models Research Intern|Santa Clara, CA|2f90dcbcd262e5a
 NVIDIA|PhD Robotics Research Intern|Santa Clara, CA|2a519c055f76a22254b33a36c12d7625
 Northern Trust|Technology Intern, Software Development|Chicago, IL|b95c8f2d851162d7a6f4b0efdaceab88
 McNeilus|Software Engineer Intern|Dodge Center, MN|a55bd43d99fba1f25b29138929dc0cbf
+MathWorks|Engineering Development Group Intern|Natick, MA|cd3a8f4f0ce5c9e510e843e47efd1376
+MathWorks|Technical Documentation Intern, Undergraduate 🛂|Natick, MA|c2844639a2795ce2510523b5b5e7c60c
 Mastercard|Software Engineer Intern 🛂|O'Fallon, MO</br>Atlanta, GA</br>Arlington, VA|0a030a60d7620b891f90ea5f35578cd8
 Intel|Software Engineer Intern 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|d89995ff608fa58767fdb4a21c6698f9
+DICK'S Sporting Goods|Software Engineer Intern, Corporate|Pittsburgh, PA|8a8744590576584dcda3fa3eecd338d0
 CAI|Software Developer Intern 🛂|Remote|bf333dc53569395c1b798292f4762fcd
 BAE Systems|Software Engineering Intern|San Diego, CA|de0e9f7b045d62f6813fbb4a417d075e
+Atlassian|Data Science Intern 🛂|Seattle, WA</br>Remote|6ec18869428a5d5595361c03aafdad3a
+Atlassian|Data Engineer Intern 🛂|Seattle, WA</br>Remote|055827a06af7ca26638119606875f4ff
+Atlassian|Software Engineer Intern 🛂|San Francisco, CA</br>Remote</br>Seattle, WA|32eea42f5ac8c947a6ed919845f3c76c
 Aptiv|Software Test Engineering Intern, ASUX|Troy, MI|f29aa4e97c95552db398fd6d65f597ed
 Aptiv|DevOps Intern|Troy, MI|3eac8d78c256db67772b4ce1509836f0
 YouLearn - YC|Software Engineering Intern|San Francisco, CA|a97345219ed462f4ae68067c39126acf
