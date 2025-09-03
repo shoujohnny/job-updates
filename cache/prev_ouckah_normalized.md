@@ -1,6 +1,36 @@
 UBS|Technology Inter|Weekhawken, NJ|096ef2cbd8919b14f8d4b092ac3447b2
+Stripe|Software Engineer Intern|South San Francisco, CA</br>Seattle, WA</br>New York, NY|5278017dddfe59f9d2df14fe14ee00e5
 Salesforce|Software Engineer Intern|San Francisco, CA</br>Seattle, WA</br>Bellevue, WA|89635a8c48e7e78e01897485c4c7859a
+Plexus|Engineering Productivity Intern, Software|Neenah, WI|46f0b32d5acb1285d814bf1637f3412b
+Plexus|Automation Controls Engineer Intern|Neenah, WI|94850e3fd2c11db639e555804feff292
+Pierce Manufacturing|Software Engineer Intern|Greenville, WI</br>Oshkosh, WI|5d7fd23162a3b3358de0b084d4eb7835
+NVIDIA|Software Engineering Intern|Santa Clara, CA|68f9dbbbd15824d5baaf832e9493dfa1
+NVIDIA|Computer Architecture Intern|Santa Clara, CA|44f5cd37947daac7eeda884318c03a90
+NVIDIA|Autonomous Vehicles and Robotics Intern|Santa Clara, CA|280a62d8460c32ca039e1b08b3e1ada8
+NVIDIA|Deep Learning Intern|Santa Clara, CA|f5b25d4e0acd16349b0b65b38fd35270
+NVIDIA|Systems Software Engineering Intern|Santa Clara, CA|51d1ccf519380e5320a24017141efe72
+NVIDIA|Deep Learning Computer Architecture Intern|Santa Clara, CA|d30e18fe2172cc004036aae7de80b2be
+NVIDIA|Hardware ASIC Design Intern|Santa Clara, CA|566e67f5f39bc37091a3dc43437125b0
+NVIDIA|Hardware Engineering Intern|Santa Clara, CA|c2f81af7b6d63ff30dcc530effa56651
+NVIDIA|Hardware Verification Intern|Santa Clara, CA|9d0520d5bd42d3942b9dddc342e1dc65
+NVIDIA|Mixed Signal Design and Digital Circuit Design Intern|Santa Clara, CA|b40eb2fe03477cc9d35532c7129b344c
+NVIDIA|Hardware Physical Design Intern, VLSI|Santa Clara, CA|7a3bc30dc2ba1f8f9bf78907cf45448e
+NVIDIA|PhD Autonomous Vehicles Research Intern|Santa Clara, CA|8614b93c3abb9e7fd461820b48935a73
+NVIDIA|PhD Computer Architecture and Systems Research Intern|Santa Clara, CA|af2259cc8ead1aa14132ce1e9e7f95df
+NVIDIA|PhD Computer Vision and Deep Learning Research Intern|Santa Clara, CA|b8d22b7938402c4f8ad9ef2e71a47280
+NVIDIA|PhD Generative AI Research Intern|Santa Clara, CA|b2bae48a32c9abc574d304a133b9f378
+NVIDIA|PhD Graphics and Simulation Research Intern|Santa Clara, CA|c7a752cea875ce13722ab6565fbcce98
+NVIDIA|PhD Hardware Research Intern|Santa Clara, CA|0f01f5c6a48f359752683cdff5333332
+NVIDIA|PhD Large Language Models Research Intern|Santa Clara, CA|2f90dcbcd262e5ae33b87f7d5fc5c6bc
+NVIDIA|PhD Robotics Research Intern|Santa Clara, CA|2a519c055f76a22254b33a36c12d7625
+Northern Trust|Technology Intern, Software Development|Chicago, IL|b95c8f2d851162d7a6f4b0efdaceab88
+McNeilus|Software Engineer Intern|Dodge Center, MN|a55bd43d99fba1f25b29138929dc0cbf
+Mastercard|Software Engineer Intern 🛂|O'Fallon, MO</br>Atlanta, GA</br>Arlington, VA|0a030a60d7620b891f90ea5f35578cd8
 Intel|Software Engineer Intern 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|d89995ff608fa58767fdb4a21c6698f9
+CAI|Software Developer Intern 🛂|Remote|bf333dc53569395c1b798292f4762fcd
+BAE Systems|Software Engineering Intern|San Diego, CA|de0e9f7b045d62f6813fbb4a417d075e
+Aptiv|Software Test Engineering Intern, ASUX|Troy, MI|f29aa4e97c95552db398fd6d65f597ed
+Aptiv|DevOps Intern|Troy, MI|3eac8d78c256db67772b4ce1509836f0
 YouLearn - YC|Software Engineering Intern|San Francisco, CA|a97345219ed462f4ae68067c39126acf
 Transcard|Software Engineer Intern 🛂|Chattanooga, TN|1c4ec6a91e42befe294b75bc7fc99c72
 ThirdLayer- YC(W25)|Full-Stack Engineer Intern|San Francisco, CA|eeede616c60fc59deb6105769c6c3774
@@ -131,7 +161,6 @@ Abridge|Full Stack Engineering Intern|San Francisco, CA|093ce3c59ba586d0e33d7c20
 Trane Technologies|Systems Engineer Intern|St Paul, MN|2b71771529588c69b72fe8b804f4b1b7
 PwC|Software Engineering Intern, Commercial Technology & Innovation Office 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|ba890f80a084bab390aee98e3ab41815
 PwC|Software Engineering Intern, Cloud Engineering, Data & Analytics 🛂|<details><summary>**11 locations**</summary>Rosemont, IL</br>Atlanta, GA</br>Minneapolis, MN</br>Chicago, IL</br>Washington, DC</br>Boston, MA</br>New York, NY</br>Dallas, TX</br>Philadelphia, PA</br>Seattle, WA</br>Houston, TX</details>|81150681050ffa49a77b18571a98d62e
-Prudential Financial|Global Technology & Operations, Internship Program 🛂|Newark, NJ|3ea204d9287f0a8df4affcc2a29b1c70
 Johnson and Johnson|Technology Intern 🛂|<details><summary>**11 locations**</summary>New Brunswick, NJ</br>Santa Clara, CA</br>Irvine, CA</br>Jacksonville, FL</br>Palm Beach Gardens, FL</br>Raritan, NJ</br>Titusville, NJ</br>Horsham, PA</br>Fort Washington, PA</br>Spring House, PA</br>West Chester, PA</details>|a927afdb86847ca947e051cc6b2c4136
 IBM|AI Engineer Intern 🛂|<details><summary>**7 locations**</summary>Research Triangle Park, NC</br>Dallas, TX</br>Austin, TX</br>San Francisco, CA</br>WASHINGTON, DC</br>Chicago, IL</br>New York, NY</details>|df9c39cd38a85e8cdd76e455025f2854
 Google|Software Engineering Intern, BS|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|a788974964926c286295e27b0ad988be
