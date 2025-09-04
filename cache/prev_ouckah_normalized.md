@@ -35,7 +35,6 @@ Northern Trust|Technology Intern, Software Development|Chicago, IL|b95c8f2d85116
 McNeilus|Software Engineer Intern|Dodge Center, MN|a55bd43d99fba1f25b29138929dc0cbf
 MathWorks|Engineering Development Group Intern|Natick, MA|cd3a8f4f0ce5c9e510e843e47efd1376
 MathWorks|Technical Documentation Intern, Undergraduate 🛂|Natick, MA|c2844639a2795ce2510523b5b5e7c60c
-Mastercard|Software Engineer Intern 🛂|O'Fallon, MO</br>Atlanta, GA</br>Arlington, VA|0a030a60d7620b891f90ea5f35578cd8
 Intel|Software Engineer Intern 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|d89995ff608fa58767fdb4a21c6698f9
 DICK'S Sporting Goods|Software Engineer Intern, Corporate|Pittsburgh, PA|8a8744590576584dcda3fa3eecd338d0
 CAI|Software Developer Intern 🛂|Remote|bf333dc53569395c1b798292f4762fcd
