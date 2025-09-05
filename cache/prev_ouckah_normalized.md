@@ -1,3 +1,4 @@
+Plaid|Software Engineer Intern|San Francisco, CA</br>New York, NY|393679333e37f7925c17662fb9c8d882
 Cloudglue - YC|Full-Stack AI Engineer Intern|San Francisco, CA</br>Remote|5479c2c3d4aa5d05d3eae97d6323adf3
 Vanguard|College to Corporate Intern, Technology Operations 🛂|Malvern, PA</br>Charlotte, NC|0ba1584ef29ed586fb93742af5620651
 United Launch Alliance|Software Engineering Intern 🇺🇸|Centennial, CO|4222bdbbc7334b0d2e110a0bedc9c591
