@@ -1,3 +1,5 @@
+Eventual|Software Engineering Intern|San Francisco, CA|41463b7f3fbe706690743735de3e6e1f
+The Toro Company|Software Engineering Intern|Bloomington, MN|2aa8217a687ea42ce9af8e1f77d6333c
 Plaid|Software Engineer Intern|San Francisco, CA</br>New York, NY|393679333e37f7925c17662fb9c8d882
 Cloudglue - YC|Full-Stack AI Engineer Intern|San Francisco, CA</br>Remote|5479c2c3d4aa5d05d3eae97d6323adf3
 Vanguard|College to Corporate Intern, Technology Operations 🛂|Malvern, PA</br>Charlotte, NC|0ba1584ef29ed586fb93742af5620651
@@ -227,6 +229,7 @@ Figma|Data Engineer Intern|San Francisco, CA</br>New York, NY|633f51b3a499bd6410
 Cargill|Software Engineer Intern|Atlanta, GA|0df4d347f41d97a8da0d07d44b1cf125
 ByteDance|Machine Learning Engineer Intern, Global E-commerce Risk Control|Seattle, WA|88e8879188e6aa22f26a6f60af49d2a4
 ByteDance|Software Engineer Intern, Multi-Cloud CDN Platform|San Jose, CA|05c6cfe10929345399bf2cbe886a7c42
+ByteDance|Software Engineer Intern, Multi-Cloud CDN Platform|San Jose, CA|13cd1f60631a130d2900489f17ac899e
 American Express|Software Engineer Intern 🛂|Sunrise, FL|1d128e008e15cdd5ed0b089c00757cdc
 American Express|Software Engineer Intern 🛂|Phoenix, AZ|2bed8aab9759dee7ce5d832fad7fb14d
 American Express|Software Engineer Intern 🛂|New York, NY|b1a7356cdca78c7d6e440d4465080fa0
