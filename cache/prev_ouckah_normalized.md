@@ -6,6 +6,7 @@ Tradeweb|Software Engineer Intern, R8fin|Jersey City, NJ|0c2c3c6f0785c61bfdb19dc
 Tradeweb|Full Stack Java Developer Intern|Jersey City, NJ|595dc58d7ca477be3cff4b6c3aa82ed2
 Tradeweb|Distributed Systems Developer Intern|Jersey City, NJ|f6040e226b272c791228283fec90f2d4
 Target|Software Engineering Intern|Minneapolis, MN|cc7451e696c5ae613544afebddbe19aa
+ServiceNow|Software Engineer Intern|San Diego, CA|44b1c349d790aadda5d58300d3b9eb1d
 Metron|Intern 🇺🇸|Reston, VA|720a43c5ff4ef6634552c61ad9337fe8
 JP Morgan Chase|Risk Modeling Associate Intern, Consumer & Community Banking|<details><summary>**4 locations**</summary>Palo Alto, CA</br>Plano, TX</br>Columbus, OH</br>Wilmington, DE</details>|12f1339b740ec5aab609ed57c4325032
 ICD|Software Engineering Intern, ICD|Jersey City, NJ|93c491000806bd000a6ccb75be90799c
@@ -81,9 +82,7 @@ Keysight|DevOps Intern|Colorado Springs, CO|c681f93c41792d534c153089a7886bac
 Inspire|Infrastructure and DevOps Intern|Atlanta, GA|58a84ccba7c99d304377966003369684
 Honeywell|Software Engineer & Computer Science Intern 🇺🇸|United States|b134586d40127cf87bfc82a9332f9234
 Dow Jones|Software Development Intern, OPIS|Gaithersburg, MD|1e332661d67b5de2a3b6e537a4fdfb1e
-Computershare|Junior Developer Intern|Saint Paul, MN|79e8f8e46d69add7375369ae1c741aa8
 Charles Schwab|Software Engineering Intern|<details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details>|c9b6f6524de0a640e1b6245c99410e65
-Charles Schwab|Software Engineering Intern|<details><summary>**5 locations**</summary>Southlake, TX</br>Austin, TX</br>Westlake, TX</br>Ann Arbor, MI</br>Indianapolis, IN</details>|6f10dc0dd0f069e4567da7dbe33a5fcb
 CACI|Software Engineer Intern 🛂|Austin, TX|69eb7adbce55717e372cef700a61d5e0
 CACI|Software Quality Engineer Intern|Austin, TX|f440db4c8adee6d8d4a0915b16143f45
 AMD|Software Engineering Intern|<details><summary>**4 locations**</summary>Austin, TX</br>Fort Collins, CO</br>Boxborough, MA</br>Longmont, CO</details>|173408f3b783f0f331f9f0b735b248dd
