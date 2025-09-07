@@ -1,3 +1,13 @@
+JP Morgan Chase|Risk Modeling Associate Intern, Consumer & Community Banking|<details><summary>**4 locations**</summary>Palo Alto, CA</br>Plano, TX</br>Columbus, OH</br>Wilmington, DE</details>|12f1339b740ec5aab609ed57c4325032
+Cox|Product Management Intern|Atlanta, GA|4c1457ed69e9e7bee72559792850fadb
+Cox|Product Management Intern|Austin, TX|5ae3940bde1932570589e24533dd38f1
+Cox|Product Management Intern|Irvine, CA|bf69cdee7ef031e5f38c004b706153b4
+Cox|Product Management Intern|Long Island, NY|41de39c4d96d1f4c9f78d3ec5b2a55fc
+Cox|Product Management Intern|Overland Park, KS|a9c7a8d5f7d1009f796f1c9ae538cfd4
+Collins Aerospace|Software Engineering Co-Op 🇺🇸|Richardson, TX|9caab843deda2ca92c4da0ed8f4c6e35
+Charles River Associates (CRA)|Cyber and Forensic Technology Consulting Analyst Intern|Dallas, TX</br>Chicago, IL</br>New York, NY|2ddc9b9c7e3df731d9d3623e6b28e34c
+Activision Blizzard|Production Intern|Sherman Oaks, CA</br>Middleton, WI|63e031b2b2f7edb326c33b054efeebac
+Activision Blizzard|Animation Engineering Intern|Woodland Hills, CA|3a5dd9c270645830a9e8488b51cdd735
 Eventual|Software Engineering Intern|San Francisco, CA|41463b7f3fbe706690743735de3e6e1f
 The Toro Company|Software Engineering Intern|Bloomington, MN|2aa8217a687ea42ce9af8e1f77d6333c
 Plaid|Software Engineer Intern|San Francisco, CA</br>New York, NY|393679333e37f7925c17662fb9c8d882
