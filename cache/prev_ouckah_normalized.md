@@ -1,4 +1,7 @@
+Vast|Software Engineering Intern|Long Beach, CA|7bca218247c8ff05a52c7e2fedf85700
 Texas Instruments|Information Technology Intern, Software 🛂|Dallas, TX|45189772acaa96a6d7cdf9414505ff97
+Lyft|Data Science Intern, Algorithms|San Francisco, CA|75f44028c732b0e379107f7e3c823365
+Lyft|Data Science Intern, Decisions - Product|San Francisco, CA|7a44609494988eb527fb0b60f698f998
 Google|Security Engineering Intern, BS/MS|Mountain View, CA</br>Ann Arbor, MI|dea5ef21f8038ead080125dcef6578f7
 Google|User Experience Engineer Intern, BS/MS|<details><summary>**25 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Bellevue, WA</br>Cambridge, MA</br>Chicago, IL</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Reston, VA</br>Redmond, WA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>Santa Cruz, CA</br>Sunnyvale, CA</br>Washington D.C., DC</details>|ad20ab2a519cb7e4d831aeffdc57d105
 Google|Product Design Engineering Intern, BS/MS|Mountain View, CA</br>Ann Arbor, MI|5501d4394d993f904b5771ecf4fb894a
