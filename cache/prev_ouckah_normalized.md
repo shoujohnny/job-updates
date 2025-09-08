@@ -1,3 +1,4 @@
+Vercel|Engineering Intern 🛂|San Francisco, CA</br>New York, NY|776e2a8a1d6ce20d4c8e40a0bf84fdf2
 Tradeweb|Full Stack Java Developer Intern|Jersey City, NJ|cf8ded9f1ae42bd1c9f1111153f77038
 Tradeweb|Java Developer Intern|Jersey City, NJ|2f9c50ff33652e2631a0669b137a13aa
 Tradeweb|Java Developer Intern|Jersey City, NJ|5a1034edb0f4ee45e421ca1e04a616fa
@@ -7,7 +8,12 @@ Tradeweb|Full Stack Java Developer Intern|Jersey City, NJ|595dc58d7ca477be3cff4b
 Tradeweb|Distributed Systems Developer Intern|Jersey City, NJ|f6040e226b272c791228283fec90f2d4
 Target|Software Engineering Intern|Minneapolis, MN|cc7451e696c5ae613544afebddbe19aa
 ServiceNow|Software Engineer Intern|San Diego, CA|44b1c349d790aadda5d58300d3b9eb1d
+Samsung Austin Semiconductor|Engineer Intern|Austin, TX|ae2352d6f95521c280c8e4e5834d6500
+Peraton|Software Engineer Intern 🇺🇸|Herndon, VA|6cdcd50fce85ee9765db3e53e5bba84e
+Peraton|Data Science Intern 🇺🇸|Herndon, VA</br>West Lafayette, IN</br>Blacksburg, VA|ba366a972fe69710b1fd052db1525bfa
+Pella Corporation|Software Engineer Intern|Pella, IA|e9edf49213ed48b47b6124060a416e01
 Metron|Intern 🇺🇸|Reston, VA|720a43c5ff4ef6634552c61ad9337fe8
+Lennar|Software Engineering Intern 🛂|Miami, FL</br>Dallas, TX</br>Bentonville, AR|9c9c6fe779232950299c58523d9b4396
 JP Morgan Chase|Risk Modeling Associate Intern, Consumer & Community Banking|<details><summary>**4 locations**</summary>Palo Alto, CA</br>Plano, TX</br>Columbus, OH</br>Wilmington, DE</details>|12f1339b740ec5aab609ed57c4325032
 ICD|Software Engineering Intern, ICD|Jersey City, NJ|93c491000806bd000a6ccb75be90799c
 Hitachi Rail|Software Analyst Intern, Product Team|Toronto, Canada|3e883861de76cccfd98c7100b71b4a62
@@ -20,6 +26,10 @@ Cox|Product Management Intern|Long Island, NY|41de39c4d96d1f4c9f78d3ec5b2a55fc
 Cox|Product Management Intern|Overland Park, KS|a9c7a8d5f7d1009f796f1c9ae538cfd4
 Collins Aerospace|Software Engineering Co-Op 🇺🇸|Richardson, TX|9caab843deda2ca92c4da0ed8f4c6e35
 Charles River Associates (CRA)|Cyber and Forensic Technology Consulting Analyst Intern|Dallas, TX</br>Chicago, IL</br>New York, NY|2ddc9b9c7e3df731d9d3623e6b28e34c
+Bumble Inc.|Software Engineering Intern|Austin, TX|92e92c476604944e3b8b863e80191596
+AVEVA|Software Developer Intern|<details><summary>**4 locations**</summary>Lake Forest, CA</br>Philadelphia, PA</br>San Leandro, CA</br>Scottsdale, AZ</details>|4a717fb752f2c7a95fe7937bc90ed2e3
+Arm|Software Engineer Intern|<details><summary>**4 locations**</summary>Austin, TX</br>Boston, MA</br>San Diego, CA</br>San Jose, CA</details>|416d48c9c8ac791c7f58a751584be92a
+Ameritas Life Insurance Corp|Software Developer Intern, Packaged Systems|Remote|93fd9033a64f9a985c8372f3bfe5b939
 Activision Blizzard|Production Intern|Sherman Oaks, CA</br>Middleton, WI|63e031b2b2f7edb326c33b054efeebac
 Activision Blizzard|Animation Engineering Intern|Woodland Hills, CA|3a5dd9c270645830a9e8488b51cdd735
 Eventual|Software Engineering Intern|San Francisco, CA|41463b7f3fbe706690743735de3e6e1f
