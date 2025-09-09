@@ -21,7 +21,6 @@ Tradeweb|STP Developer Intern|Jersey City, NJ|296e6f1a6df77bbb4c256202797a9723
 Tradeweb|Software Engineer Intern, R8fin|Jersey City, NJ|0c2c3c6f0785c61bfdb19dccbdbdc856
 Tradeweb|Full Stack Java Developer Intern|Jersey City, NJ|595dc58d7ca477be3cff4b6c3aa82ed2
 Tradeweb|Distributed Systems Developer Intern|Jersey City, NJ|f6040e226b272c791228283fec90f2d4
-Target|Software Engineering Intern|Minneapolis, MN|cc7451e696c5ae613544afebddbe19aa
 ServiceNow|Software Engineer Intern|San Diego, CA|44b1c349d790aadda5d58300d3b9eb1d
 Samsung Austin Semiconductor|Engineer Intern|Austin, TX|ae2352d6f95521c280c8e4e5834d6500
 Peraton|Software Engineer Intern 🇺🇸|Herndon, VA|6cdcd50fce85ee9765db3e53e5bba84e
