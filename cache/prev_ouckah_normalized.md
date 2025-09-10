@@ -1,3 +1,4 @@
+Duolingo|Software Engineer Intern|Pittsburgh, PA|d316df30cf93edf547092b1aee5b8e36
 Texas Instruments|Information Technology Intern, Data Analysis & Engineering 🛂|Dallas, TX|d5e0d354565530c2672972e224bdee57
 Shure|Embedded Software Development Intern|Niles, IL|6cccf1f5ea131e31957caac5d4b907d3
 Shure|Mobile Applications (Android) Intern|Niles, IL|8d77ecfb005b27b07c148bff96f5300c
