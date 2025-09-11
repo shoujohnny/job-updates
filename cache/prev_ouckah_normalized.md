@@ -1,3 +1,32 @@
+Walmart|Cybersecurity Intern|Bentonville, AR|78b121240945532a290c539974bd2e67
+Viavi Solutions|Hardware/Electrical/Optical Engineering Intern|Indianapolis, IN|d15f1cc343dde3814ad627de9ca7dc71
+U.S. Venture|Information Security Intern|Appleton, WI|ec80fbda85f0d02ff5fde0959aad94d3
+U.S. Venture|Software Development Intern, U.S. Autoforce|Appleton, WI|7e4fa5cbb808545fe381b1b4415fa7ef
+Susquehanna International Group (SIG)|Quantitative Trader Internship|NYC|eba93ab87e666c78a18e20d1dcb0844c
+Skyworks|Product Engineer Intern|Austin, TX|cfeeaaf45114b94bb7a5fe9c15850fd7
+Reframe Systems|Software Engineer and Full Stack Robotics Intern|Andover, MA|7f3af7ab677f34d034ade2c8b05a1ed4
+Ramp|Applied Scientist Intern|New York, NY|a7ee48dc24c2b1c104041082104bf3ac
+Oshkosh|Aftermarket Product Management Intern|Hagerstown, MD|8846276b70693e7243bea4ee257f74f4
+Motorola|Software Engineer Intern|Hoffman Estates, IL|97685876204a11d572cded87ccfef3f2
+Medpace, Inc.|Informatics Internship/Co-Op|Cincinnati, OH|71768332968f74779eb03344146a4870
+Marvell|Application Engineering Intern|Santa Clara, CA|8a8ae3d503a0aab0be9bb56eab69e4b1
+Marvell|Application Engineer Intern|Santa Clara, CA|2c23c0c0b345497aee01cb88a452c02d
+Marvell|Hardware Design Engineer Intern|Irvine, CA|1dd8abee1a28e1775cfc203d1e953d1e
+Keysight Technologies|IT Engineer Intern|Santa Rosa, CA|e8178661405fdf64b3fd6a8ffb4003e0
+Huntsman|IT Infrastructure Intern|The Woodlands, TX|d28122b71db47499c9e6dcd284fdfaa1
+Hewlett Packard Enterprise|Data Science Intern|Fort Collins, CO|bd548c37e4ed59f1b2c996899910e2d9
+Grant Thornton|Audit IT Assurance Intern|Houston, TX|e59d91b626646e3f695e4a7d66442f5c
+General Dynamics Mission Systems|Cyber Security Intern|Colorado Springs, CO|d458f2b3d3cab2bc3ec075abdc44c7f5
+General Dynamics Mission Systems|Software Engineering Intern|Dedham, MA|9b7a62ad7922c1b5879be20638e8560c
+Fidelity Investments|Quantitative Research Intern, Systematic Fixed Income Strategies Team|Boston, MA|15be6a93a065aafb7fe971498cc253f4
+Emerson Electric|Hardware Design Intern|Austin, TX|6e6565c7a03030a9fbc899c5ab82ffff
+Emerson Electric|Cybersecurity Engineering Intern|Shakopee, MN|893f198d0bc3b2922f167cc72daf15b3
+Emerson Electric|Software Engineering Intern|Shakopee, MN</br>Eden Prairie, MN|9a63de73d2ac3f8724848043a5be3d0a
+Emerson Electric|Firmware Engineering Intern|Shakopee, MN</br>Eden Prairie, MN|d6ad8f735fca380608b4c84e7d393db7
+Citizens Financial Group|Data Engineer Intern|Providence, RI</br>Norwood, MA</br>Phoenix, AZ|c2c3a8875e499591d12d5a1604528c96
+Citizens Financial Group|Data Analytics Intern|<details><summary>**4 locations**</summary>Coralville, IA</br>Providence, RI</br>Columbus, OH</br>Norwood, MA</details>|ed5ffe1c2f2b42811bcc1e607b565ba9
+Citizens Financial Group|Data Science Intern|<details><summary>**4 locations**</summary>Coralville, IA</br>Providence, RI</br>Columbus, OH</br>Norwood, MA</details>|7d4da0a11ddb31bc92cab1212ec0b5eb
+3M|Research & Development Intern|Austin, TX</br>Woodbury, MN|5bef5906328f7641cde1f1f3b055e1f0
 Texas Instruments|Information Technology Intern, Data Analysis & Engineering 🛂|Dallas, TX|d5e0d354565530c2672972e224bdee57
 Shure|Embedded Software Development Intern|Niles, IL|6cccf1f5ea131e31957caac5d4b907d3
 Shure|Mobile Applications (Android) Intern|Niles, IL|8d77ecfb005b27b07c148bff96f5300c
