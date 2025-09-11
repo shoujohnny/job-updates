@@ -1,4 +1,3 @@
-Duolingo|Software Engineer Intern|Pittsburgh, PA|d316df30cf93edf547092b1aee5b8e36
 Texas Instruments|Information Technology Intern, Data Analysis & Engineering 🛂|Dallas, TX|d5e0d354565530c2672972e224bdee57
 Shure|Embedded Software Development Intern|Niles, IL|6cccf1f5ea131e31957caac5d4b907d3
 Shure|Mobile Applications (Android) Intern|Niles, IL|8d77ecfb005b27b07c148bff96f5300c
@@ -24,7 +23,6 @@ Cboe Global Markets|Machine Learning Intern, Regulatory|Chicago, IL</br>Kansas C
 Cboe Global Markets|Software Engineer Intern, Data Vantage|Chicago, IL</br>Kansas City, MO</br>New York, NY|36b8d3e1a79ba45026b2e449ced6c65f
 Cboe Global Markets|Software Engineer in Test Intern, Data Vantage Engineering|Chicago, IL</br>Kansas City, MO</br>New York, NY|5418eea9dee83b92d078bc176626c665
 Cboe Global Markets|Site Reliability Engineering Intern|Chicago, IL</br>Kansas City, MO</br>New York, NY|faa830e43cd4f4dcf26b58a5a002174a
-Bose|DevOps and Infrastructure Intern|Framingham, MA|81667f23b60ac54accb3eda41447d392
 Bose|Embedded Software Engineer Intern|Framingham, MA|f4289dd7620a662b3b16c87661ad4ee4
 Vercel|Engineering Intern 🛂|San Francisco, CA</br>New York, NY|776e2a8a1d6ce20d4c8e40a0bf84fdf2
 Tradeweb|Full Stack Java Developer Intern|Jersey City, NJ|cf8ded9f1ae42bd1c9f1111153f77038
@@ -256,7 +254,6 @@ QTS|Technology Services Intern 🇺🇸|Suwanee, GA|01c9fef59d12b0ec549e5f544e6a
 QTS|IT Platform Engineering Intern 🇺🇸|Suwanee, GA|1c181a2674e91e18b73af00413c13b4f
 QTS|Technology Project Management Intern 🇺🇸|Suwanee, GA|1be24bef284077bd4cd8ac9cda8a07df
 QTS|Enterprise Applications Intern 🇺🇸|Suwanee, GA|50c0798751d2b44ee97acad09d1970d6
-Metronome|Software Engineering Intern 🛂|San Francisco, CA|160bb498a8f27cb1c5c9765834b821d6
 Intel|Silicon Hardware Engineering Intern, Bachelors 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|2419a2c1beb369429dc327ebe81ec198
 IBM|Software Engineer Intern 🛂|<details><summary>**14 locations**</summary>Sandy Springs, GA</br>Poughkeepsie, NY</br>Lowell, MA</br>Rochester, NY</br>Tucson, AZ</br>Research Triangle Park, NC</br>Durham, NC</br>Hopewell Junction, NY</br>San Jose, CA</br>Dallas, TX</br>Houston, TX</br>Austin, TX</br>Herndon, VA</br>New York, NY</details>|2a4090677ea03068366a2f5009ffd0ef
 Devon|Data Engineering Intern|Oklahoma City, OK|0c3323cc2346d09df491e411c0b0d21a
@@ -447,7 +444,6 @@ AQR Capital Management|Summer Analyst, Portfolio Implementation, Trading and Por
 AQR Capital Management|Summer Analyst, Portfolio Solutions Group|Greenwich, CT|4ca0e7ae82c5def19dbeea1c19af16e7
 AQR Capital Management|Research Summer Analyst|Greenwich, CT|87d6c1e511102ef97c74dc9d26eb3a69
 Wells Fargo|2026 Technology Summer Internship 🇺🇸|<details><summary>**5 locations**</summary>Charlotte, NC</br>Chandler, AZ</br>Irving, TX</br>Iselin, NJ</br>St. Louis, MO</details>|349f1580710641834d9126369a0e3527
-LiveRamp|Software Engineer Co-Op|San Francisco, CA</br>New York, NY</br>Little Rock, AR|7b6878d7521205e19d5730afaf7a02e1
 Kohler|Digital Intern 🛂|Kohler, WI|f155c3007724a00d0ae3637be8fcaa12
 Neuralink|Firmware Engineer Intern|Fremont, CA|c6c29351d4351cf6dfc312cd6fa1573f
 Five Rings|Quantitative Researcher Intern|New York, NY|f7b9d59fa518843382546c0002045a01
