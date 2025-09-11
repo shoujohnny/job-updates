@@ -1,3 +1,6 @@
+Wind River|Embedded Software Engineer Intern|Walnut Creek, CA</br>San Diego, CA</br>Cupertino, CA|c5645528067fbb8d048458ed4d83523f
+SID|Research Intern 🇺🇸|San Francisco, CA|7d0b11355829435a7bee8417d1b0ec38
+Block, Inc.|Software Engineer Intern|Remote</br>Bay Area, CA|23913e0616ccfd4167bb524417191b1d
 Walmart|Cybersecurity Intern|Bentonville, AR|78b121240945532a290c539974bd2e67
 Viavi Solutions|Hardware/Electrical/Optical Engineering Intern|Indianapolis, IN|d15f1cc343dde3814ad627de9ca7dc71
 U.S. Venture|Information Security Intern|Appleton, WI|ec80fbda85f0d02ff5fde0959aad94d3
