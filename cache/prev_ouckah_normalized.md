@@ -1,9 +1,22 @@
+Workiva|Machine Learning Engineer Intern 🛂|Remote|e55279a442346db24a3f363ca3b3c86d
+Workiva|Security Operations Intern 🛂|Remote|b8c1cfd4b9abe47589b72fff575014bc
+Workiva|Security Engineering Intern 🛂|Remote|3588b5792c44ecd1b145ae00f7b77658
+Workiva|Site Reliability Intern 🛂|Remote|80dc0fa4b327dbd590402cb555ea56a5
+Workiva|Software Engineer Intern 🛂|Remote|122f4f49bcce467ed51c3225a0fad49c
 Trane Technologies|Software Test Engineer Intern|St Paul, MN|fad1104148dc58f4843dda1f5037e656
 Trane Technologies|Software Development Engineering Intern|St Paul, MN|5b0cea6654ab6a2a9f8900927ae96272
 Trane Technologies|Embedded Software Developer Intern 🛂|La Crosse, WI|e7662ad449c9f32091ad3bf9e654a88b
 RoviSys|Software Engineer Co-op  🛂|Holly Springs, NC|f8632eee34b1684a6ae3e45401983693
+Rilla|Software Engineer Intern|New York, NY|96fd508b27c0b9021b465b8887bd8db4
+Red Hat|Software Engineer Intern|Boston, MA</br>Lowell, MA|e43bf39102ed495ce18035b50d3ad085
 Oshkosh|Software Engineer Intern|Greencastle, PA</br>Frederick, MD|9ed9dd8e756474677499bf34713c9a13
 Origami Risk|Software Engineer Intern|Chicago, IL|c64678573a24b9972b66994a52e4a045
+MillerKnoll|Information Security Intern|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
+MillerKnoll|ML/AI Engineer Intern 🛂|Zeeland, MI|d84b495616cee4ef85a538703e1b1d25
+Hudl|Product Management Intern 🛂|Lincoln, NE|b11fd2b79edbc053e14ad18e841d5e31
+Hudl|Software Engineering Intern|Lincoln, NE|d7fece4d9f556816bc9cd0670f946965
+Dell Technologies|AI Solutions Intern|Round Rock, TX|11b6702473906f7a5aef816dff31612e
+Ava Labs|Engineering Intern|Brooklyn, NY|90bef7a5cf9e972f33ef241c160528f2
 Zebra|Web Application Engineer Intern|Holtsville, NY|e5b57762b3d2d7716bb267aeeddf982e
 Zebra|Firmware Engineer Intern|Holtsville, NY|96d65d47684349d3f219f2cd1f8b75c3
 Wind River|Embedded Software Engineer Intern|Walnut Creek, CA</br>San Diego, CA</br>Cupertino, CA|c5645528067fbb8d048458ed4d83523f
