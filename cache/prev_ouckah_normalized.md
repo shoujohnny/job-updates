@@ -1,5 +1,10 @@
 Wind River|Embedded Software Engineer Intern|Walnut Creek, CA</br>San Diego, CA</br>Cupertino, CA|c5645528067fbb8d048458ed4d83523f
+Suno|Software Engineering Intern|Cambridge, MA|525d43bb31fbbc69d8ce2e1601bc8d98
 SID|Research Intern 🇺🇸|San Francisco, CA|7d0b11355829435a7bee8417d1b0ec38
+Qorvo|Database Administrator Intern|Greensboro, NC|f7b6706400dbfd95ea731f7c14be1b80
+Oshkosh|Product Management Intern|Frederick, MD</br>Hagerstown, MD|37e1bc9f3115445d450a2d87ca6ef787
+MillerKnoll|ML/AI Engineer Intern|Holland, MI|3ca5f5e5c3252685132c3138063cebc1
+Hudl|Software Engineering Intern|Lincoln, NE|d7fece4d9f556816bc9cd0670f946965
 Block, Inc.|Software Engineer Intern|Remote</br>Bay Area, CA|23913e0616ccfd4167bb524417191b1d
 Walmart|Cybersecurity Intern|Bentonville, AR|78b121240945532a290c539974bd2e67
 Viavi Solutions|Hardware/Electrical/Optical Engineering Intern|Indianapolis, IN|d15f1cc343dde3814ad627de9ca7dc71
