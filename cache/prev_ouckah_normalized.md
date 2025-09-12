@@ -1,11 +1,22 @@
+Zebra|Web Application Engineer Intern|Holtsville, NY|e5b57762b3d2d7716bb267aeeddf982e
+Zebra|Firmware Engineer Intern|Holtsville, NY|96d65d47684349d3f219f2cd1f8b75c3
 Wind River|Embedded Software Engineer Intern|Walnut Creek, CA</br>San Diego, CA</br>Cupertino, CA|c5645528067fbb8d048458ed4d83523f
+Voloridge Investment Management|Software Engineer Intern|Jupiter, FL|34733805dd11b02090a5dedbfb5cf2b0
 Suno|Software Engineering Intern|Cambridge, MA|525d43bb31fbbc69d8ce2e1601bc8d98
 SID|Research Intern 🇺🇸|San Francisco, CA|7d0b11355829435a7bee8417d1b0ec38
 Qorvo|Database Administrator Intern|Greensboro, NC|f7b6706400dbfd95ea731f7c14be1b80
 Oshkosh|Product Management Intern|Frederick, MD</br>Hagerstown, MD|37e1bc9f3115445d450a2d87ca6ef787
 MillerKnoll|ML/AI Engineer Intern|Holland, MI|3ca5f5e5c3252685132c3138063cebc1
+Martin's Famous Pastry Shoppe, Inc.|Software Engineering Intern|Chambersburg, PA|508f42b595de3cf6c989a004ccb1a799
+Lockheed Martin|Software Engineering Intern 🇺🇸|Bellevue, NE|8e2ed6b16f12d7695f817b985e1f4b72
 Hudl|Software Engineering Intern|Lincoln, NE|d7fece4d9f556816bc9cd0670f946965
+CME Group|Software Engineering Intern 🛂|Chicago, IL|4857dcbc79b63e5fdac90bc1881fc733
+Citizens Financial Group|Software Engineer Intern 🛂|<details><summary>**4 locations**</summary>Johnston, RI</br>Westwood, MA</br>Iselin, NJ</br>Phoenix, AZ</details>|31b4588435911d1dca6f813820c19f78
+Citizens Financial Group|Cloud Engineer Intern 🛂|<details><summary>**4 locations**</summary>Johnston, RI</br>Westwood, MA</br>Iselin, NJ</br>Phoenix, AZ</details>|407cfbd00ae1b5c60174c0f738eb3127
+Citizens Financial Group|Network Engineer Intern 🛂|<details><summary>**4 locations**</summary>Johnston, RI</br>Westwood, MA</br>Iselin, NJ</br>Phoenix, AZ</details>|58fd0c709698622a999a37801f496285
+Boston Scientific|R&D Software Engineer Intern 🛂|Arden Hills, MN|2549af46f44dd838928dfff423e0fed7
 Block, Inc.|Software Engineer Intern|Remote</br>Bay Area, CA|23913e0616ccfd4167bb524417191b1d
+Atlassian|Site Reliability Engineer Intern 🛂|Seattle, WA|4c5809335631c6801550723e1ba99620
 Walmart|Cybersecurity Intern|Bentonville, AR|78b121240945532a290c539974bd2e67
 Viavi Solutions|Hardware/Electrical/Optical Engineering Intern|Indianapolis, IN|d15f1cc343dde3814ad627de9ca7dc71
 U.S. Venture|Information Security Intern|Appleton, WI|ec80fbda85f0d02ff5fde0959aad94d3
