@@ -1,3 +1,9 @@
+Trane Technologies|Software Test Engineer Intern|St Paul, MN|fad1104148dc58f4843dda1f5037e656
+Trane Technologies|Software Development Engineering Intern|St Paul, MN|5b0cea6654ab6a2a9f8900927ae96272
+Trane Technologies|Embedded Software Developer Intern 🛂|La Crosse, WI|e7662ad449c9f32091ad3bf9e654a88b
+RoviSys|Software Engineer Co-op  🛂|Holly Springs, NC|f8632eee34b1684a6ae3e45401983693
+Oshkosh|Software Engineer Intern|Greencastle, PA</br>Frederick, MD|9ed9dd8e756474677499bf34713c9a13
+Origami Risk|Software Engineer Intern|Chicago, IL|c64678573a24b9972b66994a52e4a045
 Zebra|Web Application Engineer Intern|Holtsville, NY|e5b57762b3d2d7716bb267aeeddf982e
 Zebra|Firmware Engineer Intern|Holtsville, NY|96d65d47684349d3f219f2cd1f8b75c3
 Wind River|Embedded Software Engineer Intern|Walnut Creek, CA</br>San Diego, CA</br>Cupertino, CA|c5645528067fbb8d048458ed4d83523f
