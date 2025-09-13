@@ -3,23 +3,49 @@ Workiva|Security Operations Intern 🛂|Remote|b8c1cfd4b9abe47589b72fff575014bc
 Workiva|Security Engineering Intern 🛂|Remote|3588b5792c44ecd1b145ae00f7b77658
 Workiva|Site Reliability Intern 🛂|Remote|80dc0fa4b327dbd590402cb555ea56a5
 Workiva|Software Engineer Intern 🛂|Remote|122f4f49bcce467ed51c3225a0fad49c
+Tyler Technologies|Software Development Intern|Lubbock, TX|7d5f313a4e4b992c31a59b909c805f28
 Trane Technologies|Software Test Engineer Intern|St Paul, MN|fad1104148dc58f4843dda1f5037e656
 Trane Technologies|Software Development Engineering Intern|St Paul, MN|5b0cea6654ab6a2a9f8900927ae96272
 Trane Technologies|Embedded Software Developer Intern 🛂|La Crosse, WI|e7662ad449c9f32091ad3bf9e654a88b
+TikTok|Site Reliability Engineer Intern, USDS|San Jose, CA|7b9faf1b7d56d38ccdea42f0027a2fcc
+Texas Instruments|Software Engineering Intern 🛂|Dallas, TX|770435157f7cafaec714b480b13d2247
+Staples|Software Engineering Intern, SDS e-Commerce|Framingham, MA|de8ae8a9024430d8370dcf5169cd01b1
+Spectrum|Software Engineer Intern|Austin, TX|0149aecb782bf06583f8ca7f8dae073e
+Solarity|Software Engineer Intern|Sioux Falls, SD|37ad529b895c56517baa0cbbf18bc0c5
+Schonfeld|Business Analytics Intern 🛂|New York, NY|f1e161f1dcb9bbd405f823612a5e3520
+Schonfeld|DMFI Summer Analyst Intern|New York, NY|18af339551ee8c5a94b9586115d83cac
+Schonfeld|Reference Data Operations Intern|Miami, FL</br>New York, NY|e2ccaf1ef97f590be6d021be433db02a
+Schonfeld|Market Risk Intern 🛂|New York, NY|f222acf055083304e8e863618d03ba55
+Schonfeld|Cybersecurity Operations Intern|New York, NY|4d9007c5a1c35e2b7148c096455e7662
+Schonfeld|Software Engineering Intern 🛂|New York, NY|3f3de2aa1953b6df098f954679afec53
 RoviSys|Software Engineer Co-op  🛂|Holly Springs, NC|f8632eee34b1684a6ae3e45401983693
 Rilla|Software Engineer Intern|New York, NY|96fd508b27c0b9021b465b8887bd8db4
 Red Hat|Software Engineer Intern|Boston, MA</br>Lowell, MA|e43bf39102ed495ce18035b50d3ad085
 Oshkosh|Software Engineer Intern|Greencastle, PA</br>Frederick, MD|9ed9dd8e756474677499bf34713c9a13
 Origami Risk|Software Engineer Intern|Chicago, IL|c64678573a24b9972b66994a52e4a045
+Moody's|Data Engineering Intern|New York, NY|f5e34b410c14f46383ea908950c71781
+Moody's|Ratings Technology Intern, Application Development|Charlotte, NC|9644761530d452f28ccf481e5136feac
 MongoDB|Software Engineering Intern|Austin, TX</br>New York, NY</br>San Francisco, CA|c15568e7ba0d59c3699136b0216ba1e5
 MillerKnoll|Information Security Intern 🛂|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
 MillerKnoll|Information Security Intern|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
 MillerKnoll|ML/AI Engineer Intern 🛂|Zeeland, MI|d84b495616cee4ef85a538703e1b1d25
+Meta|Offensive Security Engineer Intern|Bellevue, WA|75458f752d755526d31237a3f45bc155
+Medline|IT Software Engineering Intern, Sales Technology|Northbrook, IL|fcd8cc4750f9eae07e12d374a0b20834
 Lockheed Martin|Software Engineering Intern 🇺🇸|Dallas, TX|3221a54c88b6c0bf60d1a9af0b47dfbf
+Lennox|Embedded Software Intern|Carrollton, TX|f6afc90e14398b5560bfe5f9a62b9ed7
+Itron|Firmware / Hardware Security Engineer Intern|Raleigh, NC|c5a82810bb3c8d6d33c2a1144b4b56d4
 Hudl|Product Management Intern 🛂|Lincoln, NE|b11fd2b79edbc053e14ad18e841d5e31
 Hudl|Software Engineering Intern|Lincoln, NE|d7fece4d9f556816bc9cd0670f946965
+Garmin|Software Engineer Intern, Aviation Web Development|Middlebury, CT|0d1943e192dec56508d1e31bbfdec080
+Fintech|Software Engineering Intern|Tampa, FL|92f8efcc95615f9638d84f8349a6547e
+EagleView|Software Engineer Intern|Remote</br>US|f7bb7c57b31a485456e0bcec0c250fc2
 Dell Technologies|AI Solutions Intern|Round Rock, TX|11b6702473906f7a5aef816dff31612e
+CNA|Technology Intern, Software Engineering|Chicago, IL|d97879bc2a2e9564f1bcc11f79ba0692
 Ava Labs|Engineering Intern|Brooklyn, NY|90bef7a5cf9e972f33ef241c160528f2
+Altamira Technologies Corp.|Software Development Intern 🇺🇸|Fairborn, OH|5746e68f556407b3c103c123378d9cbe
+Align Technology|Cloud Guardrails Intern|Raleigh, NC|85d5a087674b2f4e2d613f64caa91f98
+Align Technology|C++ Intern|San Jose, CA|d0fd3398771b4fa8284426eca3c9a028
+Align Technology|Software Engineering Intern, 3D Product Research and Development|Raleigh, NC|f2c9b84caf0fefcc6067f714e67137b1
 Activision Blizzard|Computer Graphics Intern|Playa Vista, CA</br>Redmond, WA</br>Portland, OR|4667d527fa6e5e2b31aa2fb4ca7620c8
 Activision Blizzard|Cyber Security Intern|Sherman Oaks, CA</br>Irvine, CA|472ec5cbcadaefac5bfced81e6aca278
 AB|Infrastructure Engineering Intern 🇺🇸|Nashville, TN|f2ad3f9552559c14a1c1bf27a1a94dcc
