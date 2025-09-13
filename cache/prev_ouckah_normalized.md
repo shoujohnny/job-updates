@@ -13,6 +13,7 @@ Oshkosh|Software Engineer Intern|Greencastle, PA</br>Frederick, MD|9ed9dd8e75647
 Origami Risk|Software Engineer Intern|Chicago, IL|c64678573a24b9972b66994a52e4a045
 MillerKnoll|Information Security Intern|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
 MillerKnoll|ML/AI Engineer Intern 🛂|Zeeland, MI|d84b495616cee4ef85a538703e1b1d25
+Lockheed Martin|Software Engineering Intern 🇺🇸|Dallas, TX|3221a54c88b6c0bf60d1a9af0b47dfbf
 Hudl|Product Management Intern 🛂|Lincoln, NE|b11fd2b79edbc053e14ad18e841d5e31
 Hudl|Software Engineering Intern|Lincoln, NE|d7fece4d9f556816bc9cd0670f946965
 Dell Technologies|AI Solutions Intern|Round Rock, TX|11b6702473906f7a5aef816dff31612e
@@ -163,7 +164,6 @@ MathWorks|Engineering Development Group Intern|Natick, MA|cd3a8f4f0ce5c9e510e843
 MathWorks|Technical Documentation Intern, Undergraduate 🛂|Natick, MA|c2844639a2795ce2510523b5b5e7c60c
 Intel|Software Engineer Intern 🛂|<details><summary>**5 locations**</summary>Hillsboro, OR</br>Folsom, CA</br>Santa Clara, CA</br>Austin, TX</br>Phoenix, AZ</details>|d89995ff608fa58767fdb4a21c6698f9
 DICK'S Sporting Goods|Software Engineer Intern, Corporate|Pittsburgh, PA|8a8744590576584dcda3fa3eecd338d0
-CAI|Software Developer Intern 🛂|Remote|bf333dc53569395c1b798292f4762fcd
 BAE Systems|Software Engineering Intern|San Diego, CA|de0e9f7b045d62f6813fbb4a417d075e
 Atlassian|Data Science Intern 🛂|Seattle, WA</br>Remote|6ec18869428a5d5595361c03aafdad3a
 Atlassian|Data Engineer Intern 🛂|Seattle, WA</br>Remote|055827a06af7ca26638119606875f4ff
