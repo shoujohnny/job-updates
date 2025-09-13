@@ -11,6 +11,8 @@ Rilla|Software Engineer Intern|New York, NY|96fd508b27c0b9021b465b8887bd8db4
 Red Hat|Software Engineer Intern|Boston, MA</br>Lowell, MA|e43bf39102ed495ce18035b50d3ad085
 Oshkosh|Software Engineer Intern|Greencastle, PA</br>Frederick, MD|9ed9dd8e756474677499bf34713c9a13
 Origami Risk|Software Engineer Intern|Chicago, IL|c64678573a24b9972b66994a52e4a045
+MongoDB|Software Engineering Intern|Austin, TX</br>New York, NY</br>San Francisco, CA|c15568e7ba0d59c3699136b0216ba1e5
+MillerKnoll|Information Security Intern 🛂|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
 MillerKnoll|Information Security Intern|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
 MillerKnoll|ML/AI Engineer Intern 🛂|Zeeland, MI|d84b495616cee4ef85a538703e1b1d25
 Lockheed Martin|Software Engineering Intern 🇺🇸|Dallas, TX|3221a54c88b6c0bf60d1a9af0b47dfbf
@@ -18,6 +20,10 @@ Hudl|Product Management Intern 🛂|Lincoln, NE|b11fd2b79edbc053e14ad18e841d5e31
 Hudl|Software Engineering Intern|Lincoln, NE|d7fece4d9f556816bc9cd0670f946965
 Dell Technologies|AI Solutions Intern|Round Rock, TX|11b6702473906f7a5aef816dff31612e
 Ava Labs|Engineering Intern|Brooklyn, NY|90bef7a5cf9e972f33ef241c160528f2
+Activision Blizzard|Computer Graphics Intern|Playa Vista, CA</br>Redmond, WA</br>Portland, OR|4667d527fa6e5e2b31aa2fb4ca7620c8
+Activision Blizzard|Cyber Security Intern|Sherman Oaks, CA</br>Irvine, CA|472ec5cbcadaefac5bfced81e6aca278
+AB|Infrastructure Engineering Intern 🇺🇸|Nashville, TN|f2ad3f9552559c14a1c1bf27a1a94dcc
+AB|Software Development Intern|Nashville, TN|732cc829a93a4881e688e82327da9852
 Zebra|Web Application Engineer Intern|Holtsville, NY|e5b57762b3d2d7716bb267aeeddf982e
 Zebra|Firmware Engineer Intern|Holtsville, NY|96d65d47684349d3f219f2cd1f8b75c3
 Wind River|Embedded Software Engineer Intern|Walnut Creek, CA</br>San Diego, CA</br>Cupertino, CA|c5645528067fbb8d048458ed4d83523f
