@@ -1,3 +1,4 @@
+Allium Labs|Engineering Intern 🛂|New York, NY|4ebc7979aa500b8c653d231788638027
 Workiva|Machine Learning Engineer Intern 🛂|Remote|e55279a442346db24a3f363ca3b3c86d
 Workiva|Security Operations Intern 🛂|Remote|b8c1cfd4b9abe47589b72fff575014bc
 Workiva|Security Engineering Intern 🛂|Remote|3588b5792c44ecd1b145ae00f7b77658
