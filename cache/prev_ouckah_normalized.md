@@ -287,8 +287,6 @@ Oracle|Technical Program Manager Intern, Oracle Cloud Infrastructure 🛂|<detai
 Oracle|Software Engineer Intern, Database Technologies 🛂|Redwood Shores, CA|048aea9620ca2324f842f9505724855f
 Oracle|Software Engineer Intern 🛂|Redwood City, CA</br>Santa Clara, CA</br>Pleasanton, CA|ef102213ce42da630ef42ad6ffb4bb47
 Newrez LLC|Software Engineering Intern|Coppell, TX|951171b328b44046183c2af1ca65cfa6
-Microsoft|Software Quality Engineer Intern|Redmond, WA|6bd1324dc56e5c711717d2a5b3a44337
-Microsoft|Data Engineer Intern|Redmond, WA|be93968583d897f812cdec3d20ef6c6b
 Kodak|Web Developer Intern|United States|24e6d7e17afbab7510bc7ebc16f0ee6f
 Kingland|Advanced Software Engineering Intern|Ames, IA</br>Clear Lake, IA</br>Fort Myers, FL|3c8f39e0051e811d93202388471de016
 Jane Street|Cybersecurity Analyst Intern|New York, NY|1e85740f9c24eabecb339ad34e713a86
@@ -321,7 +319,6 @@ SciPlay|Software Engineering Intern|Cedar Falls, IA|85ea088ece9a8762623b02f57ec5
 PepsiCo|Technology Software Development & Engineering Intern 🛂|Plano, TX</br>Purchase, NY|726b408b048fff48aa7b94880422e36b
 Nuro|Systems Engineering Intern, Scenario Taxonomy|Mountain View, CA|0d03bcb8d459777462cb26b79faeaca6
 Nuro|Software Engineering Intern, Mapping & Localization|Mountain View, CA|76727c8bd715ff9341ae2e217df036ed
-Microsoft|Cloud Network Engineer Intern|Redmond, WA|172196b9ba952bb0d2011c6a5555b2a0
 Hilton|Technology Intern|McLean, VA</br>Memphis, TN</br>Dallas, TX|da8432528f5b2f2554512360c40bc381
 ArcBest Technologies|Software Engineer Intern, ArcBest Technologies 🛂|Fort Smith, AR|8a5429c85f48db4eee8423a19e168292
 Abridge|Full Stack Engineering Intern|San Francisco, CA|093ce3c59ba586d0e33d7c20dc1511e7
@@ -410,7 +407,6 @@ Adobe|Machine Learning Engineer Intern, AI/ML|<details><summary>**7 locations**<
 Adobe|Software Engineer Intern|<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>|1363ca8fd6861b9a9fc4b072ac53d4f7
 Morgan Stanley|Firmwide AI Strategy & Solutions Analyst Intern|New York, NY|18dbf310a93d69934133a5bc5c7ecd70
 Microsoft|Software Engineer Intern, Systems|Redmond, WA|8a97ed8084d0af6d3525c3314cf05277
-Microsoft|Software Engineer Intern, Fullstack|Redmond, WA|e686ab9ff40f598701ec155ade0407e1
 Microsoft|Software Engineer Intern, Frontend|Redmond, WA|39a92a7db77574f67046436cea3b3572
 Microsoft|Software Engineer Intern, AI/ML|Redmond, WA|fbc6939e4f4041f849a32fdd49fd0cbf
 Microsoft|Software Engineer Intern, Security|Redmond, WA|461339f44e5aab7ff26410b2e26e4c27
@@ -430,7 +426,6 @@ Notion|Software Engineer Intern, AI|San Francisco, CA</br>New York, NY|9070de296
 Notion|Software Engineer Intern|San Francisco, CA</br>New York, NY|53137b719df2c12ea4f6bc24623f93c9
 Neuralink|Software Engineer Intern|Austin, TX</br>Fremont, CA|dec20d7aa68111b9320e3963749b6dbc
 Microsoft|Data Science Intern|Redmond, WA|ed99bf399345548d96cc08883044dd71
-Microsoft|Product Management Intern|Redmond, WA|b303b181d9fe582406fce3abaac2f79e
 Delta Air Lines, Inc.|IT Intern, Software Engineering|Atlanta, GA|992da08c95d3f520a1b564d5be45737e
 Copart|Data & AI QA Intern|Dallas, TX|c9d39e7ade3d9400298e8df2891d7d2f
 ByteDance|Site Reliability Engineer Intern, Data Infrastructure|San Jose, CA|a7f96878d3949d2e1af0ff3da29e50e7
