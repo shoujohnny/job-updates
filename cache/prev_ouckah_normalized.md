@@ -29,6 +29,14 @@ MongoDB|Software Engineering Intern|Austin, TX</br>New York, NY</br>San Francisc
 MillerKnoll|Information Security Intern 🛂|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
 MillerKnoll|Information Security Intern|Zeeland, MI|4520a14e47c7a75cedd15d991e27f3e5
 MillerKnoll|ML/AI Engineer Intern 🛂|Zeeland, MI|d84b495616cee4ef85a538703e1b1d25
+Microsoft|Software Engineer Intern, Applied AI/ML|Mountain View, CA|80229c60f802f4d8976749feb2eb1152
+Microsoft|Software Engineer Intern, Fullstack|Redmond, WA|4133e567cafed0b32a29d5accbbaac93
+Microsoft|Software Engineer Intern, Applied AI/ML|Redmond, WA|a5f283bfc4035d62bf00f52054f00619
+Microsoft|Software Engineer Intern, Frontend|Redmond, WA|d817612e95ffbf33f01a4e23d724d555
+Microsoft|Software Engineer Intern, Fullstack|Atlanta, GA|c4eb74081b7577d3b053b0ab0ed45b0b
+Microsoft|Software Engineer Intern, Fullstack|Mountain View, CA|fe78879281c36e7b0735197baed91083
+Microsoft|Software Engineer Intern, Security|Redmond, WA|461339f44e5aab7ff26410b2e26e4c27
+Microsoft|Software Engineer Intern, Systems|Redmond, WA|4ef02ec3ed85810740f57de646825008
 Meta|Offensive Security Engineer Intern|Bellevue, WA|75458f752d755526d31237a3f45bc155
 Medline|IT Software Engineering Intern, Sales Technology|Northbrook, IL|fcd8cc4750f9eae07e12d374a0b20834
 Lockheed Martin|Software Engineering Intern 🇺🇸|Dallas, TX|3221a54c88b6c0bf60d1a9af0b47dfbf
