@@ -1,3 +1,9 @@
+Intuit|Backend Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|3abf357bc6903576fe53eeaca99da2be
+Intuit|AI Science Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|343a1eccb012480f0577ef8251693b38
+Intuit|Full Stack Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|87a71ad2a519e602c692f6bcd2c2095e
+Intuit|Software Engineer Intern, Mobile(iOS/Android)|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|7257b044cd7169852d956c99e487b177
+Intuit|Front End Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|206bce094b3c0e732049af572c281402
+Intuit|Cyber Security Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|5c41a101861c19006f87464f5a122039
 Allium Labs|Engineering Intern 🛂|New York, NY|4ebc7979aa500b8c653d231788638027
 Workiva|Machine Learning Engineer Intern 🛂|Remote|e55279a442346db24a3f363ca3b3c86d
 Workiva|Security Operations Intern 🛂|Remote|b8c1cfd4b9abe47589b72fff575014bc
