@@ -1,3 +1,4 @@
+Microsoft|Undergraduate Research Intern, Computing|Redmond, WA</br>New York City, NY|58dcc4dcf27c0269508e063ca903d1ff
 Intuit|Backend Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|3abf357bc6903576fe53eeaca99da2be
 Intuit|AI Science Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|343a1eccb012480f0577ef8251693b38
 Intuit|Full Stack Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|87a71ad2a519e602c692f6bcd2c2095e
