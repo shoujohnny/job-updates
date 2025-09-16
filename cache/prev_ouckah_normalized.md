@@ -1,3 +1,5 @@
+OpenAI|Software Engineer Intern/Co-op|San Francisco, CA</br>Seattle, WA|156717049da712b164f5540a9a58d5d6
+Lockheed Martin|Software Engineering Internship 🇺🇸|Oklahoma City, OK|0b0e01fa948bda79c04cdb55bd73be94
 Unisys|Software Engineer Intern|Eagan, MN|2f04f45ac1527af7de8139542e0679c4
 State Farm|Engineer Intern, Enterprise Technology 🛂|<details><summary>**5 locations**</summary>Bloomington, IL</br>Dunwoody, GA</br>Richardson, TX</br>Tempe, AZ</br>Remote</details>|5a6e885c78122decdf76812be8c70050
 Seagate|Software Engineering Intern|Longmont, CO|2eddc34524cdd13a2a005dd7ff3393a8
