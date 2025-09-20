@@ -1,3 +1,6 @@
+Partcl (X25)|ML Systems Intern|San Francisco, CA|452e92e2ac5b0d2c3c97414956522432
+Elayne|Software Engineer Intern|New York, NY|fc2ef42ca52b23d918cf5cde4f50b860
+Channel3|Software Engineering Intern 🛂|New York, NY|cd9785ab0c0c7d5fe351db6c6f8940ba
 Zurn Elkay Water Solutions Corporation|Embedded Firmware Intern, Milwaukee Headquarters|Milwaukee, WI|81949473654c9a249c37aa894a1553e1
 Zurn Elkay Water Solutions Corporation|Embedded Firmware Intern,|Milwaukee, WI|a1012b558b6bcbb479dfaac61ba52a22
 Waymo|Systems Engineering Intern, Behaviors|San Francisco, CA|f3d0cc4b1c1c5ae36bf170eaf35f513d
