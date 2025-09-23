@@ -1,3 +1,4 @@
+NorthMark Strategies|Software Engineering Intern 🛂|Dallas, TX|59c3fa38d96a0fe2cbbb6552217e7cef
 Partcl (X25)|ML Systems Intern|San Francisco, CA|452e92e2ac5b0d2c3c97414956522432
 Elayne|Software Engineer Intern|New York, NY|fc2ef42ca52b23d918cf5cde4f50b860
 Channel3|Software Engineering Intern 🛂|New York, NY|cd9785ab0c0c7d5fe351db6c6f8940ba
