@@ -1,3 +1,4 @@
+TransPerfect|Operations Intern, Data Analytics|NYC|a98bf1e3567f64bf071cd354c7bfa4a2
 T. Rowe Price|Quantitative Investing Intern 🛂|Baltimore, MD|de71d300d005ed3987d83d3614300ca0
 Sift|Software Engineering Intern 🇺🇸|El Segundo, CA|83de74c3ddab213ff83cbca7556003ef
 ServiceNow|AI for Security Operations Engineering Intern|San Diego, CA|ec1bc2e2e64b273625b4fb5307b50db7
@@ -15,8 +16,17 @@ Robinhood|Software Developer Intern, Backend|Toronto, Canada|6377aaae33918c17e36
 Robinhood|Crypto AML Intern|Menlo Park, CA</br>New York, NY|18eb6fcb1f65c3bf19bd58ba0bb5eca3
 Robinhood|Machine Learning Engineer Intern, Applied ML 🛂|Menlo Park, CA|232feff9afadeec321e80d7982e6b160
 Relativity Space|Data Science Intern|Long Beach, CA|ad4e173e5a70c457e2dc70b5b1779dfb
+Oshkosh|Autonomy Engineer Intern|Pittsburgh, PA|89af40550fba758890e0310a748c02fd
 Micron Technology|SSD Firmware Intern|San Jose, CA|c279466a1c38c739471cb72fb0d396a8
+Marvell|Software Engineer Intern, Master's|Santa Clara, CA|1c73d2b6b41c18021c2d4e5fa648d3fa
+Marvell|IC Application Engineer Intern, Masters|Santa Clara, CA|d3660fa36a7ad7ec76a8f44fce382672
 Mackenzie Investments|Fixed Income Software Developer Platform Intern|Toronto, ON, CA|76aea4783d4c082b22952ba3caa609b2
+Kinaxis|Software Developer Intern/Coop|Ottawa, Canada|94c23afe995dc428a4614dafb4a56abf
+Keysight Technologies|Application Development Intern|Santa Rosa, CA|f7446a8e1d702b01ca98a638ae51cffd
+Keysight Technologies|R&D Software Engineer Intern|Santa Rosa, CA|c16ef51e73d69a8cc9dca834e8719f4b
+Keysight Technologies|R&D Software Engineering Intern|Loveland, CO|f6bd7a64adb178c927e1d9ba398320d2
+Keysight Technologies|Engineering Intern|Santa Rosa, CA|4af0d59e9463088b7cdf649b32b0a16b
+Keysight Technologies|Software Developer Intern|Santa Rosa, CA|bb8e985f9c55d8484479acd5953d1f4f
 Johnson & Johnson|Software Test Engineering Co-Op|Peabody, MA|93cee81b744bf2d5e3eacc1baa53358c
 Gusto|Software Engineering Intern 🛂|San Francisco, CA</br>New York, NY</br>Denver, CO|95f2313df0d6457182afff378753f569
 GDIT|Data Scientist Associate Intern 🛂|Remote|8227c007dcd9e1a1df0353846fa65ff4
@@ -27,6 +37,8 @@ CoBank|Software Engineer Intern 🛂|Denver, CO|31c449ef4d5109c644b4ce7aa6bc78a7
 CIBC|Data Scientist Co-op|Toronto, ON, Canada|dda437f941c5abe4f9931f446a528994
 CIBC|AI Scientist Co-op|Toronto, ON, Canada|63191d0934b4b66194972c29032f4b99
 CAI|Business Analyst AI Intern 🛂|Remote|a476d3cdacb5efa7a863719760ff6c36
+Boston Scientific|AIS R&D Research Data Science Intern|Roseville, MN|8d67cd3b894f49178459df5f85c10d70
+Boston Scientific|AIS R&D Systems Engineer Intern|Roseville, MN|b60c6138ff2ab112aaa91bce4db362cd
 BorgWarner|Electronics Hardware Design Intern|Kokomo, IN|e62041c9ed5f71f37e08e1a2a9061e73
 BAE Systems|Software or Computer Engineering Co-op 🇺🇸|Sterling Heights, MI|29bbb2ccaa7072bdfae72189d803f942
 Allegion|Software Engineer Intern|Golden, CO|70ff3d0ec8fd2a3f08642b92809cfeb9
