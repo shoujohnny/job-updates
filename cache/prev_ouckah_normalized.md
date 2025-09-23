@@ -18,6 +18,7 @@ Relativity Space|Data Science Intern|Long Beach, CA|ad4e173e5a70c457e2dc70b5b177
 Micron Technology|SSD Firmware Intern|San Jose, CA|c279466a1c38c739471cb72fb0d396a8
 Mackenzie Investments|Fixed Income Software Developer Platform Intern|Toronto, ON, CA|76aea4783d4c082b22952ba3caa609b2
 Johnson & Johnson|Software Test Engineering Co-Op|Peabody, MA|93cee81b744bf2d5e3eacc1baa53358c
+Gusto|Software Engineering Intern 🛂|San Francisco, CA</br>New York, NY</br>Denver, CO|95f2313df0d6457182afff378753f569
 GDIT|Data Scientist Associate Intern 🛂|Remote|8227c007dcd9e1a1df0353846fa65ff4
 First Quality|Analytics Engineer Intern|Anderson, SC|c0bb9a42158d8b8c9b7e66bec03c8aff
 Darkhiv|Software Engineer Intern 🇺🇸|San Antonio, TX|5c1721b6e5b0ff75f7f88ee2cc9604f2
