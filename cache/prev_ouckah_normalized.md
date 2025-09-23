@@ -1,6 +1,19 @@
 T. Rowe Price|Quantitative Investing Intern 🛂|Baltimore, MD|de71d300d005ed3987d83d3614300ca0
 Sift|Software Engineering Intern 🇺🇸|El Segundo, CA|83de74c3ddab213ff83cbca7556003ef
 ServiceNow|AI for Security Operations Engineering Intern|San Diego, CA|ec1bc2e2e64b273625b4fb5307b50db7
+Robinhood|Offensive Security Intern|Toronto, Canada|72f31b67e8cd492211ef46b5f39dcd65
+Robinhood|Offensive Security Intern|Bellevue, WA</br>Menlo Park, CA</br>New York, NY|aaecabdc002a9327814083309c841ede
+Robinhood|Security Risk Management Intern|Menlo Park, CA|44064747620acbd4fc83691f989c4462
+Robinhood|Vulnerability Management Intern|Bellevue, WA</br>Menlo Park, CA</br>New York, NY|e2aaccac9b1875ad411a72cd5f1cf9b3
+Robinhood|Vulnerability Management Intern|Toronto, Canada|9c5fbd264d38ab15d299f0bd26e04a7e
+Robinhood|Software Engineering Intern, Web 🛂|Menlo Park, CA|d1d130a180dc08271016aad9d2e8d12c
+Robinhood|Software Engineering Intern, iOS 🛂|Menlo Park, CA|8850142db721581a44c315ba95c312c2
+Robinhood|Software Engineering Intern, Backend 🛂|Menlo Park, CA|672786a1673444a91d464c081bfaf8c5
+Robinhood|Software Engineering Intern, Android|Menlo Park, CA|b5a3a265bf1bb11e45638be16e35ab08
+Robinhood|Software Developer Intern, Web|Toronto, Canada|0cbbeaa7d7d89921c72f04f0ba32cc6a
+Robinhood|Software Developer Intern, Backend|Toronto, Canada|6377aaae33918c17e36b5784fec0cb0a
+Robinhood|Crypto AML Intern|Menlo Park, CA</br>New York, NY|18eb6fcb1f65c3bf19bd58ba0bb5eca3
+Robinhood|Machine Learning Engineer Intern, Applied ML 🛂|Menlo Park, CA|232feff9afadeec321e80d7982e6b160
 Relativity Space|Data Science Intern|Long Beach, CA|ad4e173e5a70c457e2dc70b5b1779dfb
 Micron Technology|SSD Firmware Intern|San Jose, CA|c279466a1c38c739471cb72fb0d396a8
 Mackenzie Investments|Fixed Income Software Developer Platform Intern|Toronto, ON, CA|76aea4783d4c082b22952ba3caa609b2
