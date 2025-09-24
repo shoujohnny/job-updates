@@ -1,3 +1,17 @@
+Tanium|Cloud Cybersecurity Intern|Durham, NC|4dcb30a0577530c79781b805b8d41926
+Rockwell Automation|Firmware Engineering Intern 🛂|Milwaukee, WI|a940eeb47b7a64db03e801bb6e349f1b
+Raine|Analyst Intern, Summer 2027|New York, NY|eaef2ec1be30af9bac52c4ddef8b8c26
+Persona|Software Engineer Intern|San Francisco, CA|b586f7ca667813807f9468f847a5f037
+PayPal|Machine Learning Intern 🛂|<details><summary>**4 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Austin, TX</details>|25291010a35c1d5fe83fea5b38ccdf73
+PayPal|Data Science Intern 🛂|San Jose, CA|cc05d67d7ecd622c3b34db698188959c
+Oshkosh|Data Science Intern|Frederick, MD|10b9b3066e6428f19f77afd307f881e7
+Northrop Grumman|Software Engineering Intern|Huntsville, AL|2936c44ab984b0f458c10bad66c87b58
+Klaviyo|AI Engineer Intern|Boston, MA|e1116ab7cf720a286c1429c1863f4a2e
+Google|Associate Product Manager Intern|Mountain View, CA</br>New York, NY|e73a66be041030bfb5af47b52a6049cc
+Expedition Technology|Software Engineering Intern|Reston, VA|93b1bd77e782408a2fb3fc55a512899d
+Bracebridge Capital|Software Engineer Co-op|Boston, MA|c324cd7b690a107df091286a62113149
+Boston Scientific|Software Development Engineer Intern|Waltham, MA|2ac032d6db6928f6042d9b8e7c9339ae
+Berkshire Hathaway Energy|Data Science Intern|Des Moines, IA</br>Council Bluffs, IA|4dedf6a7695034a52bcbba072b82dfa1
 Waymo|Software Engineering Intern, Commercialization|Mountain View, CA</br>San Francisco, CA|7e6314e750bd1409403fc05209542a6c
 Vulcan Materials|Information Technology Intern|United States|7b7909dee88cd6eb16b0032a429e90e6
 Verizon Communications|Global Solutions Intern|<details><summary>**6 locations**</summary>Tampa, FL</br>Irvine, CA</br>Berkeley Heights, NJ</br>Ashburn, VA</br>Alpharetta, GA</br>Irving, TX</details>|80c1f6bb9a3c2f0b355b3b925e0af0ee
