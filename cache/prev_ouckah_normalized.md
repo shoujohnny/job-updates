@@ -1,5 +1,6 @@
+Waymo|Software Engineering Intern, Commercialization|Mountain View, CA</br>San Francisco, CA|7e6314e750bd1409403fc05209542a6c
+Truveta|Software Engineering Intern 🛂|Seattle, WA|1c9252362913c43ae303a8c9ead4898f
 TransPerfect|Operations Intern, Data Analytics|NYC|a98bf1e3567f64bf071cd354c7bfa4a2
-T. Rowe Price|Quantitative Investing Intern 🛂|Baltimore, MD|de71d300d005ed3987d83d3614300ca0
 Sift|Software Engineering Intern 🇺🇸|El Segundo, CA|83de74c3ddab213ff83cbca7556003ef
 ServiceNow|AI for Security Operations Engineering Intern|San Diego, CA|ec1bc2e2e64b273625b4fb5307b50db7
 Robinhood|Offensive Security Intern|Toronto, Canada|72f31b67e8cd492211ef46b5f39dcd65
@@ -16,7 +17,7 @@ Robinhood|Software Developer Intern, Backend|Toronto, Canada|6377aaae33918c17e36
 Robinhood|Crypto AML Intern|Menlo Park, CA</br>New York, NY|18eb6fcb1f65c3bf19bd58ba0bb5eca3
 Robinhood|Machine Learning Engineer Intern, Applied ML 🛂|Menlo Park, CA|232feff9afadeec321e80d7982e6b160
 Relativity Space|Data Science Intern|Long Beach, CA|ad4e173e5a70c457e2dc70b5b1779dfb
-Oshkosh|Autonomy Engineer Intern|Pittsburgh, PA|89af40550fba758890e0310a748c02fd
+Nordson Electronics Solutions|Software Intern|Minneapolis, MN|2462c40affe9aa5099009f2e9d954c87
 Micron Technology|SSD Firmware Intern|San Jose, CA|c279466a1c38c739471cb72fb0d396a8
 Marvell|Software Engineer Intern, Master's|Santa Clara, CA|1c73d2b6b41c18021c2d4e5fa648d3fa
 Marvell|IC Application Engineer Intern, Masters|Santa Clara, CA|d3660fa36a7ad7ec76a8f44fce382672
@@ -28,9 +29,11 @@ Keysight Technologies|R&D Software Engineering Intern|Loveland, CO|f6bd7a64adb17
 Keysight Technologies|Engineering Intern|Santa Rosa, CA|4af0d59e9463088b7cdf649b32b0a16b
 Keysight Technologies|Software Developer Intern|Santa Rosa, CA|bb8e985f9c55d8484479acd5953d1f4f
 Johnson & Johnson|Software Test Engineering Co-Op|Peabody, MA|93cee81b744bf2d5e3eacc1baa53358c
+Inmar Intelligence|Backend Platform Intern, Digital Promotions Network Team 🛂|Winston Salem, NC|80919a30d0ea3ea96be0afef16d652fa
 Gusto|Software Engineering Intern 🛂|San Francisco, CA</br>New York, NY</br>Denver, CO|95f2313df0d6457182afff378753f569
-GDIT|Data Scientist Associate Intern 🛂|Remote|8227c007dcd9e1a1df0353846fa65ff4
 First Quality|Analytics Engineer Intern|Anderson, SC|c0bb9a42158d8b8c9b7e66bec03c8aff
+Emerson|Software Engineering Intern 🛂|Austin, TX|09076963a8c67dae28e51abe7095309c
+Electronic Arts|Security Automation Engineer Intern|Austin, TX|77d4bbbba248d7cfe2edd867996196cb
 Darkhiv|Software Engineer Intern 🇺🇸|San Antonio, TX|5c1721b6e5b0ff75f7f88ee2cc9604f2
 Confluent|Software Engineering Intern|Toronto, CAN|68a97758dab5726f44cc1df2af6c5aad
 CoBank|Software Engineer Intern 🛂|Denver, CO|31c449ef4d5109c644b4ce7aa6bc78a7
