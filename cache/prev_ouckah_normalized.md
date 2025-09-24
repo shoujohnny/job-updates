@@ -1,8 +1,12 @@
 Waymo|Software Engineering Intern, Commercialization|Mountain View, CA</br>San Francisco, CA|7e6314e750bd1409403fc05209542a6c
+Vulcan Materials|Information Technology Intern|United States|7b7909dee88cd6eb16b0032a429e90e6
+Verizon Communications|Global Solutions Intern|<details><summary>**6 locations**</summary>Tampa, FL</br>Irvine, CA</br>Berkeley Heights, NJ</br>Ashburn, VA</br>Alpharetta, GA</br>Irving, TX</details>|80c1f6bb9a3c2f0b355b3b925e0af0ee
 Truveta|Software Engineering Intern 🛂|Seattle, WA|1c9252362913c43ae303a8c9ead4898f
 TransPerfect|Operations Intern, Data Analytics|NYC|a98bf1e3567f64bf071cd354c7bfa4a2
+State Street|Enterprise Reference Data Analyst Co-Op|Quincy, MA|18d029afe5da49050af3999a7d556e73
 Sift|Software Engineering Intern 🇺🇸|El Segundo, CA|83de74c3ddab213ff83cbca7556003ef
 ServiceNow|AI for Security Operations Engineering Intern|San Diego, CA|ec1bc2e2e64b273625b4fb5307b50db7
+RTX|Software Engineering Intern|Cedar Rapids, IA|eb6e94b0ddb0d91ffb783fc5dbfb87c8
 Robinhood|Offensive Security Intern|Toronto, Canada|72f31b67e8cd492211ef46b5f39dcd65
 Robinhood|Offensive Security Intern|Bellevue, WA</br>Menlo Park, CA</br>New York, NY|aaecabdc002a9327814083309c841ede
 Robinhood|Security Risk Management Intern|Menlo Park, CA|44064747620acbd4fc83691f989c4462
@@ -18,23 +22,36 @@ Robinhood|Crypto AML Intern|Menlo Park, CA</br>New York, NY|18eb6fcb1f65c3bf19bd
 Robinhood|Machine Learning Engineer Intern, Applied ML 🛂|Menlo Park, CA|232feff9afadeec321e80d7982e6b160
 Relativity Space|Data Science Intern|Long Beach, CA|ad4e173e5a70c457e2dc70b5b1779dfb
 Nordson Electronics Solutions|Software Intern|Minneapolis, MN|2462c40affe9aa5099009f2e9d954c87
+Muon Space|Data Science Intern|Mountain View, CA|751c956428dace5b71ce9562ed9cf995
 Micron Technology|SSD Firmware Intern|San Jose, CA|c279466a1c38c739471cb72fb0d396a8
 Marvell|Software Engineer Intern, Master's|Santa Clara, CA|1c73d2b6b41c18021c2d4e5fa648d3fa
 Marvell|IC Application Engineer Intern, Masters|Santa Clara, CA|d3660fa36a7ad7ec76a8f44fce382672
 Mackenzie Investments|Fixed Income Software Developer Platform Intern|Toronto, ON, CA|76aea4783d4c082b22952ba3caa609b2
+Kodiak Robotics|Perception Intern|Mountain View, CA|5e11093867449814b60430d9f0a6d5f4
+Klaviyo|Machine Learning Engineer Intern|Boston, MA|0b6bc683867824d20f0a474f7c6fa777
 Kinaxis|Software Developer Intern/Coop|Ottawa, Canada|94c23afe995dc428a4614dafb4a56abf
 Keysight Technologies|Application Development Intern|Santa Rosa, CA|f7446a8e1d702b01ca98a638ae51cffd
 Keysight Technologies|R&D Software Engineer Intern|Santa Rosa, CA|c16ef51e73d69a8cc9dca834e8719f4b
 Keysight Technologies|R&D Software Engineering Intern|Loveland, CO|f6bd7a64adb178c927e1d9ba398320d2
 Keysight Technologies|Engineering Intern|Santa Rosa, CA|4af0d59e9463088b7cdf649b32b0a16b
 Keysight Technologies|Software Developer Intern|Santa Rosa, CA|bb8e985f9c55d8484479acd5953d1f4f
-Johnson & Johnson|Software Test Engineering Co-Op|Peabody, MA|93cee81b744bf2d5e3eacc1baa53358c
+Johnson & Johnson|Business Intelligence Co-Op - Business Intelligence|Irving, TX|e897a278d00a6fe733f430ec77f0da2e
+Johnson|↳|Johnson|93cee81b744bf2d5e3eacc1baa53358c
+IXL Learning|Software Engineer Intern|Raleigh, NC|da0272884ca9c930c5e713c728778686
+IXL Learning|Software Engineer Intern|San Mateo, CA|1a7989ab4ee468ad3b445e435ddddbcc
 Inmar Intelligence|Backend Platform Intern, Digital Promotions Network Team 🛂|Winston Salem, NC|80919a30d0ea3ea96be0afef16d652fa
 Gusto|Software Engineering Intern 🛂|San Francisco, CA</br>New York, NY</br>Denver, CO|95f2313df0d6457182afff378753f569
+Gunvor|Trading Commodities Intern|Houston, TX|8d2507fce46dc4e32c3ed46d4ede875d
+GlobalFoundries|Software Engineering Intern|Burlington, VT|8588438af0731e7533c79c648a698981
 First Quality|Analytics Engineer Intern|Anderson, SC|c0bb9a42158d8b8c9b7e66bec03c8aff
+Ensign-Bickford Aerospace & Defense Company|Product Engineer Intern|Moorpark, CA|c3ea7911f79550a4b5062a7018bea79c
 Emerson|Software Engineering Intern 🛂|Austin, TX|09076963a8c67dae28e51abe7095309c
+Electronic Arts|Online Software Engineer Intern|Austin, TX|d56e5daf5e83e8882970861c753e9a90
+Electronic Arts|AI Ad Operations Intern, Data & Insights|Vancouver, BC, Canada|aa57c83ffe2960ab5108b2eb6a9e70ca
 Electronic Arts|Security Automation Engineer Intern|Austin, TX|77d4bbbba248d7cfe2edd867996196cb
+DL Trading|Quantitative Trader Intern|Chicago, IL|3924798597fb549e56d54bd320cc2e18
 Darkhiv|Software Engineer Intern 🇺🇸|San Antonio, TX|5c1721b6e5b0ff75f7f88ee2cc9604f2
+Crowdstrike|Falcon Complete Analyst Intern|San Antonio, TX</br>St. Louis, MO|173b59dc0b31a31e5293df400369eb51
 Confluent|Software Engineering Intern|Toronto, CAN|68a97758dab5726f44cc1df2af6c5aad
 CoBank|Software Engineer Intern 🛂|Denver, CO|31c449ef4d5109c644b4ce7aa6bc78a7
 CIBC|Data Scientist Co-op|Toronto, ON, Canada|dda437f941c5abe4f9931f446a528994
