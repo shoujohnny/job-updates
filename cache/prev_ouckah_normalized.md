@@ -3,6 +3,9 @@ SICK|Software Engineer Intern, AI/ML|Boston, MA</br>Canton, MA|2e2fb423ccb243da3
 Sanofi|Global MSAT Automation Engineer Intern 🛂|Framingham, MA|2cdd53104a73eac57684b8fce69d606c
 Rockwell Automation|Firmware Engineering Intern 🛂|Milwaukee, WI|a940eeb47b7a64db03e801bb6e349f1b
 Raine|Analyst Intern, Summer 2027|New York, NY|eaef2ec1be30af9bac52c4ddef8b8c26
+Pinterest|Software Engineer Intern|Remote</br>US|85127cff10bd9d4094910ecd84945391
+Pinterest|Software Engineer Intern|Toronto, Canada|137df3b12ece3aa255b12dabdd78b26b
+Pinterest|Software Engineer Intern|Seattle, WA|bc1803a1e9ae0eef13e879e0c1c6a863
 Pinterest|Software Engineer Intern|San Francisco, CA</br>Palo Alto, CA|751a80d6677b0b2b54703aa69d77aba0
 Persona|Software Engineer Intern|San Francisco, CA|b586f7ca667813807f9468f847a5f037
 PayPal|Machine Learning Intern 🛂|<details><summary>**4 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Austin, TX</details>|25291010a35c1d5fe83fea5b38ccdf73
