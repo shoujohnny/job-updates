@@ -8,7 +8,6 @@ Pinterest|Software Engineer Intern|Toronto, Canada|137df3b12ece3aa255b12dabdd78b
 Pinterest|Software Engineer Intern|Seattle, WA|bc1803a1e9ae0eef13e879e0c1c6a863
 Pinterest|Software Engineer Intern|San Francisco, CA</br>Palo Alto, CA|751a80d6677b0b2b54703aa69d77aba0
 Persona|Software Engineer Intern|San Francisco, CA|b586f7ca667813807f9468f847a5f037
-PayPal|Machine Learning Intern 🛂|<details><summary>**4 locations**</summary>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>Austin, TX</details>|25291010a35c1d5fe83fea5b38ccdf73
 PayPal|Data Science Intern 🛂|San Jose, CA|cc05d67d7ecd622c3b34db698188959c
 Oshkosh|Data Science Intern|Frederick, MD|10b9b3066e6428f19f77afd307f881e7
 Northrop Grumman|Software Engineering Intern|Huntsville, AL|2936c44ab984b0f458c10bad66c87b58
