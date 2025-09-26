@@ -1,18 +1,40 @@
+Veritiv Corporation|Business Analytics Intern|Sandy Springs, GA|464036b0faeaf60ebcd3d0143c47231f
 TikTok|Product Manager Intern|San Jose, CA|0eb7b9df8c8e9147fb09d0c750d15fcc
+RTX|Software Engineer Intern|Annapolis, MD|8bf6e8b37e27d4bab27ede4a2b5b526f
 Rockwell Automation|Software Engineer Intern|Phoenix, AZ|5d228ccf991912df5dbf6be935247b9b
+Rocket Lab USA|Security Analyst Intern|Essex, MD|241aa6f3315b092dd1ee40ba73f14da5
+Rocket Lab USA|Security Analyst Intern|Long Beach, CA|d86e49d50ed257bc9d467d37490b764d
+RESPEC|Software Engineering Intern|Richardson, TX|d5c624dfb27cd08a197e0ce532e16716
+Qualcomm|Intern - And Sensors Subsystem Engineering Internship|Markham, ON, Canada|5501e93f8d3f2293474c834f0f0d344a
+Pinterest|Data Science Intern|<details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>NYC</details>|8e02a0249814bccff2cdb082ac77f825
+Pendo|Software Engineer Intern|Raleigh, NC|0af6d160a9aaccc809f314e7f8263b9d
+Pendo|Security Engineer Intern|Raleigh, NC|ce8df8b3c6c2d7c4bc25664c626bb358
+Oshkosh|Machine Learning Intern|Oshkosh, WI|11fd62d0d0e6dffdd2676468b7202d8e
+ONE Finance|AI Research Intern|NYC|4128a3743435181dfb7c28258f16ae8e
+OCC|Security AI Summer Intern|Chicago, IL|6b85511b9d8937fd1e6f3fd90b60965b
 OATEY|Product Management Intern|Cleveland, OH|08cedd4c8886f8addd867c316e90ace9
 NuHarbor Security|Intern - Cybersecurity|Burlington, VT|92de19dac35d9d23ea8a112076d0b1af
+Nissan Global|Data Analytics Manufacturing Strategy Intern|La Vergne, TN|64f683d572f79bfc8d15c3b4a1e059e8
+MKS Instruments|Data Scientist Intern|Milpitas, CA|6d6edc44833ab1e8b8fde32202ef9164
 Microsoft|Research Intern - Robot Learning|Redmond, WA|9da350f70aa668eb5fc13501ada2f37f
 Marvell|Product Engineer Intern|Santa Clara, CA|5b71d5f846cb5bbed76306a36d468078
 Marvell|Physical Design Engineer Intern|Santa Clara, CA|729d394ca506cc8e35d24be3166f5992
 Keysight Technologies|R&D Software Engineer Intern|Loveland, CO|34e600a80f2f754511af1a8da228f49f
 IDeaS|Product Management Intern|Bloomington, MN|03d381745664cce36ac99864f9828a80
+Honeywell|IT Business Systems Analyst Intern|United States|a3c6bec30d1c149ff4b5a8bda6940ea3
+Honeywell|IT Business Systems Analyst Intern|United States|0f2e21c5df66564cc575cf1db6f30d69
 Hewlett Packard Enterprise|HPC/AI Software Engineering Intern|<details><summary>**4 locations**</summary>Eau Claire, WI</br>Andover, MA</br>San Jose, CA</br>Spring, TX</details>|bfab2d504eca7b4a1e7db5262e4c874d
 General Dynamics Mission Systems|Software Engineer Intern|Pittsfield, MA|cd3bf0d56a0b8c1a123437b37130200a
 Eaton Corporation|Application Engineer Intern, Marketing|Chesterfield, MO|4abf2eb3858826d8e835aafa3009164e
+Clarios|Risk Management Intern|Milwaukee, WI|3fc0a0d3ae7f840a11ec7a64305df5fb
 Cisco|Product Management Specialist 1 Intern|San Jose, CA|44fc6e6252f344cf75791326dd88f8c6
 CIBC|IT Project Coordinator Co-op - Technology, Infrastructure, and Innovation|Toronto, ON, Canada|571167b5ba949fd4c7d1fae04b113a79
+ByteDance|Cloud Acceleration Engineer Intern - DPU & AI Infra|San Jose, CA|a78f687df97b78cdd492669fb48f4b87
+ByteDance|Cloud Acceleration Engineer Intern|San Jose, CA|64a9197c0367ffbe33a9d58207937184
 Brown & Brown Insurance|Technology Solutions Intern|Daytona Beach, FL|1710b3b0b126a532d8044c87302fea63
+American Century Investments|IT Data Intern|Kansas City, MO|c88806bb82b52bb29c7a973fba4ca50e
+Adobe|Machine Learning Engineer Intern|Seattle, WA</br>San Francisco, CA</br>San Jose, CA|420fbeb3a0bbe906229ae6ae43d51981
+PrizePicks|Software Engineering Intern|Atlanta, GA|68b329da9893e34099c7d8ad5cb9c940
 Tanium|Cloud Cybersecurity Intern|Durham, NC|4dcb30a0577530c79781b805b8d41926
 SICK|Software Engineer Intern, AI/ML|Boston, MA</br>Canton, MA|2e2fb423ccb243da30d5b7a50535b2cd
 Sanofi|Global MSAT Automation Engineer Intern 🛂|Framingham, MA|2cdd53104a73eac57684b8fce69d606c
