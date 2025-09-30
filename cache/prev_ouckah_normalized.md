@@ -1,3 +1,4 @@
+Workday|Automation Engineer Intern 🛂|Pleasanton, CA|eaa17214d186f2a894428532936de7e2
 Workday|Cybersecurity Engineer Intern 🛂|Pleasanton, CA|647983ddf98acd436c2ae545820015a3
 Workday|Product Manager Intern 🛂|Pleasanton, CA|a3daec0f5626530d0254eafc81b426b4
 Workday|Software Application Development Engineer Intern 🛂|Pleasanton, CA|c154f1487e360ca7b15bffc93046dfdd
