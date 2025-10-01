@@ -40,6 +40,7 @@ Samsung|Intern - System Software Engineer - CXL|San Jose, CA|4496336b754d06c2368
 RTX|Software Engineer Intern - Missile Defense Sensors|Burlington, MA|b9867c470c2df640206443935492d917
 RTX|Software Engineering Intern, Avionics Test Engineering|Tualatin, OR|25a2d9ecedeafb6cfcfa52e847f46304
 RTX|Data Analytics Intern|Waterbury, CT|0444d89fa1ffa1bf209dc29f98152a23
+Riot Games|Software Engineering Intern|Los Angeles, USA|73570f6eb111e0d3b9d9e7a800624f3d
 Rambus|Intern CAD Engineering - CAD Engineering|San Jose, CA</br>Westlake Village, CA|404170ecf79c5a336311f2cd7ef97846
 Plexus|IT Data Science Intern|Neenah, WI|8cd7e6d2a7d3b68e285985cd8b22158f
 PayPal|Machine Learning Engineer Intern|San Jose, CA|97fbdbb371520fe17e35f3859ae72cc5
