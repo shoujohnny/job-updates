@@ -7,8 +7,6 @@ Workday|Software Development Engineer Intern 🛂|Pleasanton, CA|cb67ce8133cb326
 Uber|Software Engineer Intern|San Francisco, CA|17c7b7b34adf15f2468ee636ec8e1a2c
 Veritiv Corporation|Business Analytics Intern|Sandy Springs, GA|464036b0faeaf60ebcd3d0143c47231f
 TikTok|Product Manager Intern|San Jose, CA|0eb7b9df8c8e9147fb09d0c750d15fcc
-RTX|Embedded Software Engineering Intern|Cedar Rapids, IA|bfd2a11bcdfe00e44f87e2ddb6df0611
-RTX|Software Engineer Intern|Annapolis, MD|8bf6e8b37e27d4bab27ede4a2b5b526f
 Rockwell Automation|Software Engineer Intern|Phoenix, AZ|5d228ccf991912df5dbf6be935247b9b
 Rocket Lab USA|Security Analyst Intern|Essex, MD|241aa6f3315b092dd1ee40ba73f14da5
 Rocket Lab USA|Security Analyst Intern|Long Beach, CA|d86e49d50ed257bc9d467d37490b764d
@@ -37,8 +35,6 @@ Honeywell|IT Business Systems Analyst Intern|United States|a3c6bec30d1c149ff4b5a
 Honeywell|IT Business Systems Analyst Intern|United States|0f2e21c5df66564cc575cf1db6f30d69
 Hewlett Packard Enterprise|HPC/AI Software Engineering Intern|<details><summary>**4 locations**</summary>Eau Claire, WI</br>Andover, MA</br>San Jose, CA</br>Spring, TX</details>|bfab2d504eca7b4a1e7db5262e4c874d
 General Dynamics Mission Systems|Software Engineer Intern|Pittsfield, MA|cd3bf0d56a0b8c1a123437b37130200a
-GDIT|Software Development Internship 🛂|Falls Church, VA|311ac640eb5432107254b7125be2d15b
-GDIT|Software Developer Automation Intern 🛂|Windsor Mill, MD</br>Remote|762b91505d322279a1bf6e0cb025399f
 Fiber|Software Engineer Internship 🛂|Remote|037cb8166d0c542031e573756c43ec0e
 Eaton Corporation|Application Engineer Intern, Marketing|Chesterfield, MO|4abf2eb3858826d8e835aafa3009164e
 Clarios|Data Science Intern|Milwaukee, WI|902f36dae1c749adaed30f375f3cc423
@@ -127,7 +123,6 @@ Boston Scientific|AIS R&D Research Data Science Intern|Roseville, MN|8d67cd3b894
 Boston Scientific|AIS R&D Systems Engineer Intern|Roseville, MN|b60c6138ff2ab112aaa91bce4db362cd
 BorgWarner|Electronics Hardware Design Intern|Kokomo, IN|e62041c9ed5f71f37e08e1a2a9061e73
 BAE Systems|Software or Computer Engineering Co-op 🇺🇸|Sterling Heights, MI|29bbb2ccaa7072bdfae72189d803f942
-Allegion|Software Engineer Intern|Golden, CO|70ff3d0ec8fd2a3f08642b92809cfeb9
 Accenture|Technology Summer Analyst Intern|<details><summary>**14 locations**</summary>Chicago, IL</br>Arlington, VA</br>Atlanta, GA</br>Austin, TX</br>Boston, MA</br>Charlotte, NC</br>Houston, TX</br>Irving, TX</br>Los Angeles, CA</br>Morristown, NJ</br>New York City, NY</br>Philadelphia, PA</br>San Francisco, CA</br>Seattle, WA</details>|27e136d6f6ae432e306c475c99095cff
 NorthMark Strategies|Software Engineering Intern 🛂|Dallas, TX|59c3fa38d96a0fe2cbbb6552217e7cef
 Partcl (X25)|ML Systems Intern|San Francisco, CA|452e92e2ac5b0d2c3c97414956522432
@@ -152,8 +147,6 @@ Rippling|Software Engineer Intern, Backend Focused|New York, NY</br>San Francisc
 Ramp|AI Operations Intern|New York, NY|4772522b7c705024bf3ead70b5f21d23
 Quantum Signal AI (QSAI)|Applications Software Engineering Intern 🛂|Saline, MI|4fc37723f0a5a0d7bd72ef11d1b34fa3
 Quantum Signal AI|Real-Time Software Intern 🛂|Saline, MI|7e740dbd6d6305ed0f97448806080f90
-QuantCo|Software Engineering Intern|USA|a5ae2a8bc3093188d03fd88faa5f56f8
-Philips|System Test Automation Engineer Intern, San Diego 🛂|San Diego, CA|beb9138481ce7dbe13c2e19fee9859fd
 Micron Technology|Software Engineer Intern, HBM|Richardson, TX|bb526228ad05bbe7b2de0460f70d4c12
 Meta|Security Engineer Intern, Detection & Response|Menlo Park, CA</br>New York, NY|f8901aed54bc382cc07df9476c2fef6c
 Meta|Product Security Engineer Intern|Menlo Park, CA</br>New York, NY|4abf13e2242cad0313c7d542de6204b8
@@ -167,7 +160,6 @@ Home Depot|Software Engineer Intern|Atlanta, GA</br>Remote|49b521d19d3a67cc0e491
 Grammarly|Software Engineering Intern|San Francisco, CA|b71eb544dedfdd6d1a5e707c69954192
 GlossGenius|Engineering Intern 🛂|New York, NY|8eef60c3b31196e4e7f75d60bd51e402
 Exegy|Software Engineer Intern|St. Louis, MO|21fc150f7260d7c3009f07a8f87adaab
-enGen|ETDP Intern, Software Engineering 🛂|Pittsburgh, PA|d28d65df323c0dc8c7a3be7296627a62
 Electronic Arts|Software Engineer Intern 🛂|Redwood City, CA|63de191df4437254480d0575c85f861b
 Electronic Arts|Tools Software Engineer Intern 🛂|Orlando, FL|7005e93b744c6912e4314d0531a57c0a
 Electronic Arts|Software Engineer Intern, Modes 🛂|Orlando, FL|eacd6a50db7bab2cf089d8524f3933f8
@@ -185,7 +177,6 @@ Astronautics|Software Engineering Intern|Oak Creek, WI|b7f2582e06081d64222557b9d
 Arup|Software Development / Digital Delivery Intern 🛂|Los Angeles, CA|5e1bb6f11e37d18d0f210fc7cb547e7b
 Apex Fintech Solutions|Software Engineering Intern|Austin, TX|9b620e6fc0c63ecaed663d3c02b20b08
 AMD|Software Engineering Intern/Co-op|San Jose, CA</br>Santa Clara, CA|3d5d2637c24795a95ca5572d4ac6c264
-Allegion|Software Engineer Intern, Platform Software|Golden, CO|925ea9c98e1d70b17aecf84b0517fa2f
 Sigma Computing|Software Engineering Intern, Fleet Health Instrumentation 🛂|San Francisco, CA</br>New York, NY|0a6b622cc38c3129a9fc4efa88e1b94f
 OpenAI|Software Engineer Intern/Co-op|San Francisco, CA</br>Seattle, WA|156717049da712b164f5540a9a58d5d6
 Lockheed Martin|Software Engineering Internship 🇺🇸|Oklahoma City, OK|0b0e01fa948bda79c04cdb55bd73be94
@@ -219,11 +210,6 @@ Intuit|Software Engineer Intern, Mobile(iOS/Android)|<details><summary>**4 locat
 Intuit|Front End Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|206bce094b3c0e732049af572c281402
 Intuit|Cyber Security Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|5c41a101861c19006f87464f5a122039
 Allium Labs|Engineering Intern 🛂|New York, NY|4ebc7979aa500b8c653d231788638027
-Workiva|Machine Learning Engineer Intern 🛂|Remote|e55279a442346db24a3f363ca3b3c86d
-Workiva|Security Operations Intern 🛂|Remote|b8c1cfd4b9abe47589b72fff575014bc
-Workiva|Security Engineering Intern 🛂|Remote|3588b5792c44ecd1b145ae00f7b77658
-Workiva|Site Reliability Intern 🛂|Remote|80dc0fa4b327dbd590402cb555ea56a5
-Workiva|Software Engineer Intern 🛂|Remote|122f4f49bcce467ed51c3225a0fad49c
 Tyler Technologies|Software Development Intern|Lubbock, TX|7d5f313a4e4b992c31a59b909c805f28
 Trane Technologies|Software Test Engineer Intern|St Paul, MN|fad1104148dc58f4843dda1f5037e656
 Trane Technologies|Software Development Engineering Intern|St Paul, MN|5b0cea6654ab6a2a9f8900927ae96272
@@ -237,7 +223,6 @@ Schonfeld|Business Analytics Intern 🛂|New York, NY|f1e161f1dcb9bbd405f823612a
 Schonfeld|DMFI Summer Analyst Intern|New York, NY|18af339551ee8c5a94b9586115d83cac
 Schonfeld|Reference Data Operations Intern|Miami, FL</br>New York, NY|e2ccaf1ef97f590be6d021be433db02a
 Schonfeld|Market Risk Intern 🛂|New York, NY|f222acf055083304e8e863618d03ba55
-Schonfeld|Cybersecurity Operations Intern|New York, NY|4d9007c5a1c35e2b7148c096455e7662
 Schonfeld|Software Engineering Intern 🛂|New York, NY|3f3de2aa1953b6df098f954679afec53
 RoviSys|Software Engineer Co-op  🛂|Holly Springs, NC|f8632eee34b1684a6ae3e45401983693
 Rilla|Software Engineer Intern|New York, NY|96fd508b27c0b9021b465b8887bd8db4
@@ -260,7 +245,6 @@ Meta|Offensive Security Engineer Intern|Bellevue, WA|75458f752d755526d31237a3f45
 Medline|IT Software Engineering Intern, Sales Technology|Northbrook, IL|fcd8cc4750f9eae07e12d374a0b20834
 Lockheed Martin|Software Engineering Intern 🇺🇸|Dallas, TX|3221a54c88b6c0bf60d1a9af0b47dfbf
 Lennox|Embedded Software Intern|Carrollton, TX|f6afc90e14398b5560bfe5f9a62b9ed7
-Itron|Firmware / Hardware Security Engineer Intern|Raleigh, NC|c5a82810bb3c8d6d33c2a1144b4b56d4
 Hudl|Product Management Intern 🛂|Lincoln, NE|b11fd2b79edbc053e14ad18e841d5e31
 Hudl|Software Engineering Intern|Lincoln, NE|d7fece4d9f556816bc9cd0670f946965
 Garmin|Software Engineer Intern, Aviation Web Development|Middlebury, CT|0d1943e192dec56508d1e31bbfdec080
