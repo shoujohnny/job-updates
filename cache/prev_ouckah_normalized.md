@@ -47,6 +47,7 @@ Novanta|Engineering Intern - ATI Industrial Automation|Apex, NC|69bfebf0968efe3c
 NiSource|Intern Nipsco Ot - Network|Markham, IL|fc081c88bf235e4d5809b22ee0d61954
 Moog|Product Engineering Intern|Blacksburg, VA|39c9227e1b534b5fb23c480c199e8b7b
 Moog|Product Engineering Intern|Blacksburg, VA|1f50dd442e9f0e4b19108203c6a3dc35
+Microsoft|Software Engineer Intern, Fullstack|Cambridge, MA|c924ab3a04fcc99d73dfa12c19be83f9
 Microsoft|Explore Program Intern|Redmond, WA|c3ce8f6cf84706abe3eab4602d901bb1
 Microsoft|Explore Program Intern|Atlanta, GA|0dcd961b9041955bcbe245d2a77c523e
 Michaels Stores|Information Technology Intern - Data Engineering|Irving, TX|0ec14c92fdaeca6784cf1474daebebbe
@@ -68,6 +69,7 @@ KBR|Software Engineer Intern - National Security Solutions|Beavercreek, OH|9363e
 Johnson & Johnson|Technology Leadership Development Program|Bridgewater Township, NJ|10bca095177278ea8bf964b9cc03d01f
 Hive Financial Systems|Business Analyst Intern|Atlanta, GA|b5a9ceaecacd26b45d29f24e4a3fdb8c
 GuideWell Mutual|IT Summer Graduate Intern|Jacksonville, FL|68b329da9893e34099c7d8ad5cb9c940
+Google|Software Engineering Intern, Google Public Sector 🇺🇸|Reston, VA|684923bd0425993b0e5b19f69c7d238f
 GoFundMe|Data and Analytics Intern, Data and Decision Science|SF|c30ed0a78998877afdd0137a7e371d42
 GoFundMe|Product Management Intern|SF|7ccc019059189920f39669a0f5acd78d
 GM financial|Data Science Intern|Fort Worth, TX|640bcbe7560d3a4ef6966824933dcb2c
