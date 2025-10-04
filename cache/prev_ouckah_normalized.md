@@ -1,3 +1,17 @@
+Whatnot|Software Engineer Intern|<details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Seattle, WA</br>Los Angeles, CA</details>|a7cccdf765fff60dcf718c958672846d
+The Aerospace Corporation|Embedded Computing Engineer Intern 🇺🇸|El Segundo, CA</br>Chantilly, VA|5ac2e6e2ca453813bb43baa72582bf5d
+State Farm|Software Developer Intern, Claims BASD 🛂|Bloomington, IL</br>Dallas, TX</br>Phoenix, AZ|e0aa6020a3f44553ed21082185b571e5
+Skyworks|Timing Engineer Intern|Austin, TX|c46db0b4b97713dbf30e33af33ee66bf
+Seagate|Firmware Engineering Intern|Shakopee, MN</br>Longmont, CO|ba8c26260affc00d06e21e0f5eed8492
+Parsons|Software Engineering Intern 🇺🇸|Herndon, VA|a1d45b48fcc9839579bd6ad830784aa7
+Lucid|Embedded Software Intern, Summer 2026|Newark, CA|0ae88e9f71c3bf5ef4fe7a22e0945c49
+Innovative Defense Technologies (IDT)|Software Engineer Intern|Arlington, VA</br>Mount Laurel, NJ|f3ed0967cc884664b6003b11b5409a27
+Innovative Defense Technologies (IDT)|Software Test Engineer Intern 🇺🇸|Arlington, VA|4af5530d0c9c014ada8e1b56a793413d
+GM|Software Engineer Intern, Motorsports 🛂|Concord, NC|d630f4635689da8fc05ada88684f70af
+Central|Software Engineering Intern 🛂|Van Wert, OH</br>Dublin, OH|b180529dc6496f1e3bec072d9f2d9c67
+Allegion|Digital Manufacturing Intern|Princeton, IL|ad1b7aaf5bdcf03f8d762939e5f85457
+ADT|Software Development Intern 🛂|Boca Raton, FL|045e8d9c793c41f23042d69de0957637
+ADT|DevOps & Cloud Engineer Intern 🇺🇸|Boca Raton, FL|d1c6ec75fc76f83e64d514611f476af3
 Zebra Technologies|Software Engineering Intern|Vernon Hills, IL|e4bd065a66706474461b78b5938ecce9
 Zebra Technologies|Flutter Mobile App Development Intern|Vernon Hills, IL|5e9e6a96e657be1408a80e9e7cb4f303
 World Kinect|Technology Intern|Miami, FL|32089b64ae63e66480684f5441289bfd
