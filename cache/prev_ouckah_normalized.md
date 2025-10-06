@@ -17,6 +17,7 @@ Philips|Software Development Engineer Co-op, Automation|Cambridge, MA|4ae8962093
 Oshkosh|Software Development Intern|Oshkosh, WI|c271d8e494aef1788c5213f199793200
 Oracle|Data Science Intern, Industries 🛂|USA|0319853898edfb9ae709ed796b5cb9a8
 NVIDIA|Software Engineer Intern|Santa Clara, CA|18c4c5c756258a649003b48c842e322d
+Netflix|Software Engineer Intern|Los Gatos, CA|672bead6d34f6cee3845a51bd3b058ca
 Momentive|Software Developer Intern, 2026|Niskayuna, NY|776cdc90576a6cefe923c3ac8861d58a
 Merck|Global Statistics and Data Management Intern|Linden, NJ|ca09fae74d0a6f68b30b3b0c74525c8c
 Merck|Animal Health Clinical Data Management Intern|Linden, NJ|3d1b916e7bf96ef2153cb04a4cd9e508
