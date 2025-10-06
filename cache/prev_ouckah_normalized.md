@@ -1,3 +1,8 @@
+Skyworks|DSP Firmware Engineering Intern|Austin, TX|9b59a05093e7cd2cb9dd71c27e6279f1
+Sephora|Machine Learning Engineer Intern, Technology|Remote|61a4f4ad63a061ec7dfb677940ecf22a
+Sephora|Intern, Marketplace Engineering|Remote|77b0ebca50e6fca1c24d35702302b3e4
+NVIDIA|Software Engineer Intern|Santa Clara, CA|18c4c5c756258a649003b48c842e322d
+Momentive|Software Developer Intern, 2026|Niskayuna, NY|776cdc90576a6cefe923c3ac8861d58a
 Whatnot|Software Engineer Intern|<details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Seattle, WA</br>Los Angeles, CA</details>|a7cccdf765fff60dcf718c958672846d
 The Aerospace Corporation|Embedded Computing Engineer Intern 🇺🇸|El Segundo, CA</br>Chantilly, VA|5ac2e6e2ca453813bb43baa72582bf5d
 State Farm|Software Developer Intern, Claims BASD 🛂|Bloomington, IL</br>Dallas, TX</br>Phoenix, AZ|e0aa6020a3f44553ed21082185b571e5
@@ -5,6 +10,7 @@ Skyworks|Timing Engineer Intern|Austin, TX|c46db0b4b97713dbf30e33af33ee66bf
 Seagate|Firmware Engineering Intern|Shakopee, MN</br>Longmont, CO|ba8c26260affc00d06e21e0f5eed8492
 Parsons|Software Engineering Intern 🇺🇸|Herndon, VA|a1d45b48fcc9839579bd6ad830784aa7
 Lucid|Embedded Software Intern, Summer 2026|Newark, CA|0ae88e9f71c3bf5ef4fe7a22e0945c49
+Lockheed Martin|Cyber Software Engineering Intern 🇺🇸|Herndon, VA|4dcc91f4e3c4b5c05e8d145960a7f410
 Innovative Defense Technologies (IDT)|Software Engineer Intern|Arlington, VA</br>Mount Laurel, NJ|f3ed0967cc884664b6003b11b5409a27
 Innovative Defense Technologies (IDT)|Software Test Engineer Intern 🇺🇸|Arlington, VA|4af5530d0c9c014ada8e1b56a793413d
 GM|Software Engineer Intern, Motorsports 🛂|Concord, NC|d630f4635689da8fc05ada88684f70af
