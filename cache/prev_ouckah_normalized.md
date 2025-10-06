@@ -1,5 +1,6 @@
 Yondu|Robotics Intern 🇺🇸|Gardena, CA</br>Los Angeles, CA|99cbe345b338f008fabc0fdbf64eb585
 Waymo|Multimodal Large Language Models Intern|Mountain View, CA|2a6581fc7fab3c5e6d1723ef7c667169
+Twitch|Undergrad Software Engineering Intern|San Francisco, CA|066f5293f4b91342ed632e9f95462422
 TD Synnex|Internship Program|<details><summary>**4 locations**</summary>Greenville, SC</br>San Antonio, TX</br>Gilbert, AZ</br>Clearwater, FL</details>|d36488150d2d1861be1bcfaa8a5b84e6
 State Street|Desktop Engineering Associate, Co-Op|Quincy, MA|3801140dda22a909e8ef579f59916819
 State Street|IT Strategy and Change Analyst Co-Op|Quincy, MA|53903301edeaeec0d469df81b97de9fc
@@ -19,6 +20,7 @@ NVIDIA|Software Engineer Intern|Santa Clara, CA|18c4c5c756258a649003b48c842e322d
 Momentive|Software Developer Intern, 2026|Niskayuna, NY|776cdc90576a6cefe923c3ac8861d58a
 Merck|Global Statistics and Data Management Intern|Linden, NJ|ca09fae74d0a6f68b30b3b0c74525c8c
 Merck|Animal Health Clinical Data Management Intern|Linden, NJ|3d1b916e7bf96ef2153cb04a4cd9e508
+Linkedin|Software Engineering Intern|Bellevue, WA|9f2822f3d54835f1ff5ff78380da8179
 KCF Technologies|Engineering Intern|State College, PA|04ececf1653b02fc314b15a3aea2bf72
 John Deere|Data and Analytics Intern|Davenport, IA|5c31a6206590e04b6019dfff9885752b
 Innovative Defense Technologies|Software Engineer Intern 🇺🇸|Arlington, VA</br>Mount Laurel, NJ|f3950b2d7c06456b818b7d0213ddb4bc
