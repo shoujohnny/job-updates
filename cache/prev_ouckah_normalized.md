@@ -26,6 +26,7 @@ KCF Technologies|Engineering Intern|State College, PA|04ececf1653b02fc314b15a3ae
 John Deere|Data and Analytics Intern|Davenport, IA|5c31a6206590e04b6019dfff9885752b
 Innovative Defense Technologies|Software Engineer Intern 🇺🇸|Arlington, VA</br>Mount Laurel, NJ|f3950b2d7c06456b818b7d0213ddb4bc
 Electronic Arts|Online Software Engineer Co-op|Vancouver, BC, Canada|1b39d8219708603fd449cf9855ff3a3c
+DoorDash|Software Engineer Intern|<details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Los Angeles, CA</br>Seattle, WA</details>|39d4e6397c2109a591bc107bf7592586
 Daimler Truck|AI Documentation Integration Intern, Autonomous Cascadia|Portland, OR|6ec5cd9d9493030b3662b1e2d88729d5
 Daimler Truck|Data Science Intern, Daimler Truck Remarketing, Machine Learning|Fort Mill, SC|7e54049f73ceb95c5fc2ff11e81d2541
 Daimler Truck|IT Developer Analyst Intern|Gastonia, NC|6425cfff71f75370c6fb2d45dc07a8ba
