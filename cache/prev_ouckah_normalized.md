@@ -1,3 +1,16 @@
+SRC Inc.|Firmware Engineer Intern|Syracuse, NY|323bead7144bd706e26f90f274694478
+SRC Inc.|Firmware Engineer Intern|Syracuse, NY|323bead7144bd706e26f90f274694478
+Philips|Embedded Software Engineering Intern 🛂|Murrysville, PA|d0afb7c388e4c9ab4e0e067a4b81c13b
+Philips|Embedded Software Engineering Intern 🛂|Murrysville, PA|d0afb7c388e4c9ab4e0e067a4b81c13b
+Micron Technology|SSD Firmware Intern, Data Center|Longmont, CO|42360ee6814ce140d19060fb8e78b96a
+Micron Technology|SSD Firmware Intern, Data Center|Longmont, CO|42360ee6814ce140d19060fb8e78b96a
+Lockheed Martin|Cyber Software Engineer Intern 🇺🇸|Denver, CO|db67fbd58803930b072924c1ed5d959d
+Lockheed Martin|Cyber Software Engineer Intern 🇺🇸|Denver, CO|db67fbd58803930b072924c1ed5d959d
+KCF Technologies|Software Engineering Intern|State College, PA</br>Remote|85bbf5f2f0ee677fdc9025679676e955
+KCF Technologies|Software Engineering Intern|State College, PA</br>Remote|85bbf5f2f0ee677fdc9025679676e955
+Causeway|Software Engineer Intern|Dallas, TX|0825eeba0fe8410b944b245cc5b6fa51
+Analog Devices|Applications Engineer Intern|San Jose, CA|652c3ddbf8d6c2992005d06d1c3c73fd
+Analog Devices|Applications Engineer Intern|San Jose, CA|652c3ddbf8d6c2992005d06d1c3c73fd
 Yondu|Robotics Intern 🇺🇸|Gardena, CA</br>Los Angeles, CA|99cbe345b338f008fabc0fdbf64eb585
 Waymo|Multimodal Large Language Models Intern|Mountain View, CA|2a6581fc7fab3c5e6d1723ef7c667169
 Twitch|Undergrad Software Engineering Intern|San Francisco, CA|066f5293f4b91342ed632e9f95462422
