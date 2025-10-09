@@ -1,3 +1,5 @@
+Chess.com|Engineering Intern, Backend|Remote|7198c2832a72f3206a6ad5c5059f017a
+Chess.com|Engineering Intern, Frontend|Remote|4e19c78b6ac6d3c8555f56373d480ade
 Waymo|Generative Synthetic Data Intern|Mountain View, CA|51f059c74abcd75e4605455faf613fd0
 Activision Blizzard|Tech Art Intern|Woodland Hills, CA</br>Irvine, CA</br>Playa Vista, CA|0285df7a7c29fd4935804ca03bedf038
 SRC Inc.|Firmware Engineer Intern|Syracuse, NY|323bead7144bd706e26f90f274694478
@@ -8,8 +10,6 @@ Micron Technology|SSD Firmware Intern, Data Center|Longmont, CO|42360ee6814ce140
 Micron Technology|SSD Firmware Intern, Data Center|Longmont, CO|42360ee6814ce140d19060fb8e78b96a
 Lockheed Martin|Cyber Software Engineer Intern 🇺🇸|Denver, CO|db67fbd58803930b072924c1ed5d959d
 Lockheed Martin|Cyber Software Engineer Intern 🇺🇸|Denver, CO|db67fbd58803930b072924c1ed5d959d
-KCF Technologies|Software Engineering Intern|State College, PA</br>Remote|85bbf5f2f0ee677fdc9025679676e955
-KCF Technologies|Software Engineering Intern|State College, PA</br>Remote|85bbf5f2f0ee677fdc9025679676e955
 Causeway|Software Engineer Intern|Dallas, TX|0825eeba0fe8410b944b245cc5b6fa51
 Analog Devices|Applications Engineer Intern|San Jose, CA|652c3ddbf8d6c2992005d06d1c3c73fd
 Analog Devices|Applications Engineer Intern|San Jose, CA|652c3ddbf8d6c2992005d06d1c3c73fd
@@ -89,7 +89,6 @@ State Street|Software Engineer Co-Op, Global Technology Services|Quincy, MA|3a26
 SpaceX|Silicon Hardware Engineering Intern/Co-op, Silicon Engineering|<details><summary>**4 locations**</summary>Irvine, CA</br>Redmond, WA</br>West Athens, CA</br>Sunnyvale, CA</details>|a8c0b450d44d416b9709748410c7f67b
 Slack|Software Engineer Intern 🛂|San Francisco, CA</br>Seattle, WA</br>Bellevue, WA|0a87ca3ec842c6a2a7914fade289494f
 Schweitzer Engineering Laboratories|Software Engineering Intern, C#|Moscow, ID|62637811ee0b965d1f52b26ed8758cb7
-Schonfeld|Quantitative Research Intern|Austin, TX|49860b08de8c9027dd9b50e54ed52435
 Samsung|Intern - System Software Engineer - CXL|San Jose, CA|4496336b754d06c23689d04b64dee904
 Riot Games|Software Engineering Intern|Los Angeles, USA|73570f6eb111e0d3b9d9e7a800624f3d
 Rambus|Intern CAD Engineering - CAD Engineering|San Jose, CA</br>Westlake Village, CA|404170ecf79c5a336311f2cd7ef97846
@@ -350,11 +349,8 @@ Texas Instruments|Software Engineering Intern 🛂|Dallas, TX|770435157f7cafaec7
 Staples|Software Engineering Intern, SDS e-Commerce|Framingham, MA|de8ae8a9024430d8370dcf5169cd01b1
 Spectrum|Software Engineer Intern|Austin, TX|0149aecb782bf06583f8ca7f8dae073e
 Solarity|Software Engineer Intern|Sioux Falls, SD|37ad529b895c56517baa0cbbf18bc0c5
-Schonfeld|Business Analytics Intern 🛂|New York, NY|f1e161f1dcb9bbd405f823612a5e3520
-Schonfeld|DMFI Summer Analyst Intern|New York, NY|18af339551ee8c5a94b9586115d83cac
 Schonfeld|Reference Data Operations Intern|Miami, FL</br>New York, NY|e2ccaf1ef97f590be6d021be433db02a
 Schonfeld|Market Risk Intern 🛂|New York, NY|f222acf055083304e8e863618d03ba55
-Schonfeld|Software Engineering Intern 🛂|New York, NY|3f3de2aa1953b6df098f954679afec53
 RoviSys|Software Engineer Co-op  🛂|Holly Springs, NC|f8632eee34b1684a6ae3e45401983693
 Rilla|Software Engineer Intern|New York, NY|96fd508b27c0b9021b465b8887bd8db4
 Red Hat|Software Engineer Intern|Boston, MA</br>Lowell, MA|e43bf39102ed495ce18035b50d3ad085
@@ -892,7 +888,6 @@ Palantir|Software Engineer Intern|Palo Alto, CA|680e661319bf616d59890610d474abb2
 Palantir|Forward Deployed Software Engineer Intern, US Government 🇺🇸|New York, NY|79c91a5265cb4ddf4581d1ba230236a6
 Palantir|Software Engineer Intern|Denver, CO|76b3dcfb91b0a955c0b71f1b8d84d1ce
 Palantir|Forward Deployed Software Engineer Intern, US Government 🇺🇸|Washington, D.C.|e2633d6dd1d81ddcc872942ab1ac8dfc
-Palantir|Forward Deployed Software Engineer Intern, Commercial|New York, NY|64530f9617459e8fd74c1f81be7fcd56
 Palantir|Forward Deployed Software Engineer Intern, US Government 🇺🇸|Washington, DC|f29a089c8b37e46203b051dfe8b361c3
 Palantir|Software Engineer Intern|New York, NY|63b60dc0ad62a9a678d45b2d3649e57f
 Palantir|Software Engineer Intern|Seattle, WA|c0674fdd7e2076b55003f333368d9cee
