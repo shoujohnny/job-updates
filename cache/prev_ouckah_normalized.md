@@ -1,3 +1,22 @@
+Seaspan|Data Engineer Intern|Vancouver, BC, Canada|875bc06c65d4b4e1ad5acc44a90c2bc4
+Patreon|Software Engineering Intern|SF</br>NYC|a8c03bee05749edf393201ddeb7626c2
+Motorola|Software Engineering Intern|Allen, TX|58105de8bcffb77363499cd3a6ca1cb3
+Motorola|Edge AI Engineering Intern|Plantation, FL|db0fb4b7162e8baee94a32bc46c9d261
+Motorola|Software Engineering Intern|Allen, TX|2beba892ee1c29f3ff916dd2a307edf5
+Lumen Technologies|Strategic Fiber Planning Intern|Remote in USA|76abdbe08747728082e9943b148c2b8f
+Lumen Technologies|Senior Planning Engineer Intern|Remote in USA|5a69e00ea3772c3d024cce3d008dc0c0
+Lumen Technologies|Planning Engineer Intern|Remote in USA|965895c344988cede9cebd5da84acf42
+Lumen Technologies|Operations Engineer Intern|Remote in USA|af5d60e34519d23f4e29628da5b95003
+Highmark Health|Management (AI Products) Graduate Intern 🛂|Remote in USA|dd40b300dd5b01c1e7df52bbb87b5663
+Fresenius Medical Care|Reciprocity Embedded Software Engineer Co-op 🛂|Lawrence, MA|76277cf87ce4dc8916c2fa550075d033
+Expedia Group|Product Management Intern|Seattle, WA|b22c8867861ed86572c92d0bb7f6beb6
+Expedia Group|Mobile Engineering Intern|Austin, TX</br>San Jose, CA|0f6d1e801a9c089690bda2614ed3481b
+Expedia Group|Security Engineer Intern|Seattle, WA|49634896930dd58a8d9f1aad6d91c594
+Expedia Group|Cloud Engineering Intern|Austin, TX</br>San Jose, CA|bf5a3aec3ed9f4ca710d4cf19202bfb7
+Expedia Group|Machine Learning Science Intern, PhD|Austin, TX</br>San Jose, CA|a0637295a10971d9482d2838446546de
+Expedia Group|Machine Learning Science Intern, Masters|Austin, TX</br>San Jose, CA|5374fd485a2076f7bba39300f6326675
+Expedia Group|Software Development Engineer Intern|Austin, TX</br>San Jose, CA</br>Seattle, WA|15c2550099c61d15f992f2302006c98c
+Eight Sleep|AI/ML Research Intern|San Francisco, CA|8e400883bf608983a9cd4601e9bdfe52
 Chess.com|Engineering Intern, Backend|Remote|7198c2832a72f3206a6ad5c5059f017a
 Chess.com|Engineering Intern, Frontend|Remote|4e19c78b6ac6d3c8555f56373d480ade
 Waymo|Generative Synthetic Data Intern|Mountain View, CA|51f059c74abcd75e4605455faf613fd0
