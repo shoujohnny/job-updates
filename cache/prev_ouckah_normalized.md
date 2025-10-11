@@ -1,3 +1,4 @@
+Sephora|IT Warehouse & Distribution Automation Intern|Remote|88fe79943c8e4665e2914478863e6fc8
 Seaspan|Data Engineer Intern|Vancouver, BC, Canada|875bc06c65d4b4e1ad5acc44a90c2bc4
 Patreon|Software Engineering Intern|SF</br>NYC|a8c03bee05749edf393201ddeb7626c2
 Motorola|Software Engineering Intern|Allen, TX|58105de8bcffb77363499cd3a6ca1cb3
