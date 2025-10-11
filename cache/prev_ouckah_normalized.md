@@ -1,4 +1,60 @@
+Workday|Software Application Development Engineer Intern - Software Application Engineering|Pleasanton, CA|d4ff8c6eed16abbff24dfc54fe2afae9
+Wing|Hardware Engineer Intern - Electrical Engineering|Palo Alto, CA|515b7455c8cd92459cd99724b816fe21
+Waymo|Intern - Fullstack Software Engineer - Data Tooling|Mountain View, CA|133140abe63f5050f23641f8aeb224b9
+Vertex|Emerging Technology Developer Intern|Pennsylvania|6bebd9b85095e182cd2ccc9fbaf7059c
+The Boeing Company|Data Engineering Intern|Richmond, BC, Canada|756ec21bfc6aa83c739a9dc596a98127
+The Boeing Company|Data Science Business Operations Intern - Data Science and Analytics|Richmond, BC, Canada|3f1643fc30d202e3f0acf1c5eaaa8c4a
+Tanium|Product Management Intern|Oakland, CA</br>Durham, NC|5521ba3aac86032f37a6e00dc697434c
+skillz|Co-op – Product Management|Las Vegas, NV|68b329da9893e34099c7d8ad5cb9c940
+Sigma Computing|AI/ML Graduate Engineering Intern|SF|71fc483d73197b9f26653795fb9a81a8
 Sephora|IT Warehouse & Distribution Automation Intern|Remote|88fe79943c8e4665e2914478863e6fc8
+Seagate Technology|Wafer Manufacturing Intern|Bloomington, MN|66fcfd743c0a2846f1a6b81076ec3bd0
+Seagate Technology|Wafer Metrology Intern|Bloomington, MN|9f0abfa8ef1905710032e503b182ce48
+Samsung|Intern – Architecture Research Engineer|San Jose, CA|a0bb6f8c1196beebb8f809d1bf9505f7
+Samsung|Intern - Compiler Engineer|San Jose, CA|1cd6ff6840782e4fba4904a34ea531e5
+Rhombus|Engineering Intern|Sacramento, CA|9f63d26bffa7447202861b0235228fbf
+RaceTrac|Asset Protection Intern|Atlanta, GA|a9bda689e169d19291ead93bea95e4b9
+Qorvo|Data Engineering Intern|Richardson, TX|bc4152a3f61c481bd2d4efa1395afcc5
+Paccar|Intern - IT Applications|Tukwila, WA|2e04b81695c1eb22adbd347dfc13871c
+Otis Worldwide|Digital Technology Data Product Analyst Intern - Data Product Analyst|Farmington, CT|6ee92a4d721b44cf3b67d840ac1a9dd6
+Northrop Grumman|Data Analytics Intern - Strategic Space Systems Division|El Segundo, CA|55245964c86474f6a0410a300d9b0b90
+Nextiva|AI Engineer Intern|Scottsdale, AZ|15c178cacea583bcda87d0b3c390742e
+NextEra Energy|Software Engineering Intern - Measurement and Control|Palm Beach Gardens, FL|709e39b02cbcc3d6c80a03c555ee2cb5
+Microsoft|Research Intern - Networking Research Group|Redmond, WA|09ebeb9727623af67773afc4ead71e54
+Microsoft|Research Intern - Future Agent Systems|Vancouver, BC, Canada|a5c76e7e5115184922d31296ef8db59a
+Microsoft|Research Intern - Artificial Intelligence|Vancouver, BC, Canada|c30a011b03a30033086d43e77bcfae6f
+Microsoft|Research Intern - Gray Systems Lab|Madison, WI</br>Redmond, WA</br>Mountain View, CA|12182ecde51143b8b14dd843e7642cd3
+Microsoft|Research Intern - Artificial Intelligence|Redmond, WA|7c5684b45d811dffb3b4dab605210f20
+Micron Technology|Intern - Manufacturing Development Engineering - Process|Boise, ID|fb3fe2ace3ee2bb39bbda7fc3cf9410f
+Lumen Technologies|Intern – Software Developer - Summer 2026|Remote in USA|b473aa99079c2b7de279108f3b706123
+Lumen Technologies|Intern – AI Governance|NYC|6a5a090177264f06097689aa55e03d3d
+Leidos|Technical Intern|Remote in USA|a68f8912818a6672242bc12e6b9b3a2f
+GoDaddy|Tech Internship 2026 - General Referral|Remote in USA</br>Tempe, AZ|8645558bddf0b950a876e9ea3e43cd69
+GM financial|Intern – Software Development Engineer|Arlington, TX|2d4b087cdfc42fa534fa73ce1764a3dd
+General Dynamics Mission Systems|Software Intern Engineer|Dedham, MA|175c1e8f022d752a7ac9a6f7d8906446
+GE Vernova|GE Vernova Energy Optimization Software Intern|Bellevue, WA|f74efb0d58a532d274aaec7abcbdd486
+GCM Grosvenor|Software Engineering Intern - Technology|Chicago, IL|33569dcf7275b02cf876280feb565e5d
+Garner Health|Full Stack Engineering Intern|NYC|3b9745efbd026884df7bc1b667f7ad8d
+Fresenius Medical Care|Machine Learning Analytics Intern/Co-op - Home Therapy Product Management|Andover, MA|6c59150d1c865368d0d0ec077c07f794
+Exact Sciences|Systems Development Intern - Summer 2026|Madison, WI|83b089e5c3c2d5e0870f68472f887b1e
+Eversource Energy|Software Engineering Intern - Software Engineering|<details><summary>**4 locations**</summary>Manchester, NH</br>New Britain, CT</br>Hartford, CT</br>Norwood, MA</details>|fd28a9059ef6d52adbc5f653c8abbebb
+Eight Sleep|AI/ML Research Intern|SF|8e400883bf608983a9cd4601e9bdfe52
+Eaton Corporation|Application Engineer Intern|Chesterfield, MO|3abeaef26b1f4d28ccc4323f9a368a96
+Diversified Automation|Software Engineering Co-op|Louisville, KY|88613928dcb9770556fd4955af24f4b4
+Crowdstrike|Sales Excellence Data Analytics Intern|Remote in USA|5674d4df0410b891b2eae34d15ffaa3d
+Copart|Technology Product Analyst Intern|Dallas, TX|5a0088a6a29efc998540da33bf9321ac
+Chess|Engineering Internship, Backend|Remote in USA|99e5efd944ee0edf9e3dbfd601512310
+CenturyLink|Intern - Software Developer|Remote in USA|b4f66a957c54ade7c7244e6d5f9250db
+Businessolver|Software Engineer Intern - Java - SQL|Remote in USA|ba3b6310e7b01aaafb53e88af9047df0
+Boston Scientific|Data Engineering Intern - Development|Maple Grove, MN|5500135a856f6bb90a35e6876ab9e6c6
+Booz Allen|Digital Transformation Analyst Intern|McLean, VA|07d43b9ca56a1b321ed832b36f70b2cd
+Biogen|Machine Learning Co-op 🛂|Cambridge, MA|53e4730e603e203554286b600874c3c1
+Berkshire Hathaway Energy|Performance Engineer Intern|Des Moines, IA|cc049b0a2dfc68709dfcb66850214369
+Arrive Logistics|Data Science Intern|Chicago, IL|5e88fc4f34d40375134761dce5bed0a5
+Arrive Logistics|Data Science Intern|Austin, TX|8d2fa3621ed2342b05d5f69bd153cc9a
+Anduril|Mission Operations Engineer Intern|Washington, DC|11e1f6f9e64c5dd7520320b712de2fd6
+Altice USA|Network Planning & Engineering Intern|<details><summary>**5 locations**</summary>Plainview, NY</br>Golden, CO</br>Wakefield, MA</br>New York, NY</br>White Plains, NY</details>|0ebca650fb66f5a9f7a3c8c200e92e62
+Altice USA|Product Manager Intern|Plainview, NY|2af114b5722b89873d86b21b2723c849
 Seaspan|Data Engineer Intern|Vancouver, BC, Canada|875bc06c65d4b4e1ad5acc44a90c2bc4
 Patreon|Software Engineering Intern|SF</br>NYC|a8c03bee05749edf393201ddeb7626c2
 Motorola|Software Engineering Intern|Allen, TX|58105de8bcffb77363499cd3a6ca1cb3
