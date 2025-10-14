@@ -1,8 +1,11 @@
+Wells Fargo|Software Engineer Intern|San Francisco, CA</br>San Leandro, CA</br>Concord, CA|a6ae1b8ab4bc874b3bb73c034e4111ae
+Visa|Software Engineer Intern 🛂|Bellevue, WA|62a07bc5b9a3c057644f04cc86cfc338
 Visa|AI and Data Insights Intern, Corporate Services 🛂|Austin, TX|6d20f34573c711842a59844b34ccce23
 Visa|Machine Learning Engineer Intern, Global Data Office 🛂|Foster City, CA|a8f43547434af4bd2583385dc63f9ee9
 Visa|Machine Learning Engineer Intern, Global Data Office 🛂|Foster City, CA|ce53cac8d0d215615d1fa662e055efd9
 Visa|Data Science Intern, Global Data Office 🛂|Foster City, CA|68c918a8822aad9239afad942d529ed5
 Visa|Data Science Intern, Global Data Office 🛂|Foster City, CA|c886951a6347f1487e31899a65763dae
+Rockwell Automation|Firmware Development Intern 🛂|Mequon, WI|6ac9b9efc270a486e3548f4465d787f9
 Wealth.com|Software Engineer Intern 🛂|Remote|6286e46b075f3c661339f2d051231a67
 SeatGeek|Software Engineer Intern|New York, NY|25df34046140d64b3b69ffdb40cc4882
 Northrop Grumman|Software Engineering Intern 🇺🇸|Roy, UT|7925022bd8157720496886ac52df8cf8
