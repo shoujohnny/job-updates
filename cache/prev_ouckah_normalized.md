@@ -5,7 +5,6 @@ Hone|Software Development Intern|Remote|1a75a2aa7fee7f02aec76ded27b6ec50
 Herdora|Member Of Technical Staff Intern|San Francisco, CA|bcd576d219355891c9798617af8cafa2
 Garage|Software Engineer Co-op|New York, NY|b345d0be41066c80dd467ba1f3c0ced0
 Coinbase|Software Engineer Intern|New York, NY</br>San Francisco, CA|00774634b1084ee19f3337135e2dbf90
-Coinbase|Product Manager Intern, HR Technology|New York, NY|94a4fbc5086bbfb6ba30b436f7656325
 Coinbase|Product Manager Intern|New York, NY</br>San Francisco, CA|819a7e565f5daca2b0fbf0a6bf1f7df6
 Coinbase|Machine Learning Engineer Intern|San Francisco, CA|1ff3e5077c573e702f63f09797512d92
 Coinbase|Data Science Intern|New York, NY|4d9a826393f7fe4c9c7a8bd196b52c8b
