@@ -2,6 +2,7 @@ Wealth.com|Software Engineer Intern 🛂|Remote|6286e46b075f3c661339f2d051231a67
 SeatGeek|Software Engineer Intern|New York, NY|25df34046140d64b3b69ffdb40cc4882
 Northrop Grumman|Software Engineering Intern 🇺🇸|Roy, UT|7925022bd8157720496886ac52df8cf8
 Hone|Software Development Intern|Remote|1a75a2aa7fee7f02aec76ded27b6ec50
+Herdora|Member Of Technical Staff Intern|San Francisco, CA|bcd576d219355891c9798617af8cafa2
 Garage|Software Engineer Co-op|New York, NY|b345d0be41066c80dd467ba1f3c0ced0
 Coinbase|Software Engineer Intern|New York, NY</br>San Francisco, CA|00774634b1084ee19f3337135e2dbf90
 Coinbase|Product Manager Intern, HR Technology|New York, NY|94a4fbc5086bbfb6ba30b436f7656325
@@ -10,6 +11,8 @@ Coinbase|Machine Learning Engineer Intern|San Francisco, CA|1ff3e5077c573e702f63
 Coinbase|Data Science Intern|New York, NY|4d9a826393f7fe4c9c7a8bd196b52c8b
 Coinbase|Data Engineer Intern|New York, NY|6d1165add40653a405de59b987816ff7
 Coinbase|Analytics Engineer Intern|New York, NY|f80846c3c7fd4fac08615907e4f1a772
+Clarity Partners|Software Development Intern|Chicago, IL|6fcba34da58348ba12ab19621f0d7dd2
+a0.dev|Software Engineering Intern 🇺🇸|San Francisco, CA|3891c3c383b44b4e91db32719c7c5a48
 Workday|Software Application Development Engineer Intern - Software Application Engineering|Pleasanton, CA|d4ff8c6eed16abbff24dfc54fe2afae9
 Wing|Hardware Engineer Intern - Electrical Engineering|Palo Alto, CA|515b7455c8cd92459cd99724b816fe21
 Waymo|Intern - Fullstack Software Engineer - Data Tooling|Mountain View, CA|133140abe63f5050f23641f8aeb224b9
