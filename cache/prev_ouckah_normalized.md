@@ -1,3 +1,27 @@
+Zus Health|Data Platform Software Engineering Co-op|<details><summary>**4 locations**</summary>Boston, MA</br>Dallas, TX</br>Philadelphia, PA</br>Portland, ME</details>|409c26381d94661bd5a0ef4341424093
+Zus|Software Engineering Co-op|New York, NY|602fe83fc357df2b49aabd3ffd490ac9
+Zus|Fullstack Software Engineering Co-op|Boston, MA|aa57fece6116f20146ca524bf24bda3b
+Zus|Data Platform Software Engineering Co-op|Philadelphia, PA|c98bfecf0ab84526371883259021c35a
+Zus|Data Platform Software Engineering Co-op|Dallas, TX|31f0151adec8dba747fb199542a439b6
+Visa|Site Reliability Engineering Intern 🛂|Austin, TX|d7f118948978fff8de9d81b4a6b96a38
+TheGuarantors|Software Engineering Intern|New York, NY|1de013dc8d6ea99f6ab9fef23a6947bf
+Skydio|Middleware Software Engineer Intern, Device Platform|San Mateo, CA|19c76bc17ff11363b81f8b1950e2ccfb
+Skydio|Embedded Software Engineer Intern|San Mateo, CA|7b65dbd181ee3b1f5bf1043b2c37fcf5
+Skydio|Autonomy Engineer Intern, Computer Vision/Deep Learning|San Mateo, CA|8af37884397426a43a6ad4c401290a57
+Skydio|Autonomy Engineer Intern, Summer 2026|San Mateo, CA|d99ca64d0533471cf4ae44fc8777d27b
+Samsung Semiconductor|Test AI Engineer Intern|San Jose, CA|f7d7a910ac5087e0c3f24c678f0b1f44
+Samsung Semiconductor|Multimedia Software Engineer Intern|San Diego, CA|d8bcd3397c51184fc871a6e6d350c4fe
+PTC|Software Development Intern|Boston, MA|c0c4e6dda8046da2310eb3ec85d551d7
+PTC|Software Development Intern|Boston, MA|83d6244226f29f87b322f5e32343c66e
+Philips|Software System Integration Co-op 🛂|Cambridge, MA|5db978ef0bbea5392a2c4547d201f750
+Northrop Grumman|Software Quality Engineer Intern 🇺🇸|Oklahoma City, OK|809a90e50b0fb347ef462a8112dda04b
+Nordstrom|Software Engineer Intern, Corporate|Seattle, WA|994d21773a17b80ac09e3c1e857be19f
+Netflix|Machine Learning Engineer Intern, (MS/PhD)|Los Gatos, CA</br>Los Angeles, CA|a7fa0e42cd7f72da8b634b4b6278f496
+Leidos|Software Engineer Intern 🇺🇸|Remote|b25ecfd79983b192106e942e9313d4c3
+Garmin|Software Engineer Intern|Brea, CA|e763aceae2a519c4fffaf7d7f5e8f9fe
+Exact Sciences|Software Test/Quality Engineering Intern|San Diego, CA|5ae022af73e75070072f155292659735
+Delta Dental of Michigan, Ohio, and Indiana|Application Development Intern|Okemos, MI|0fe668b0a64ad29265e8f982b2d4c1c3
+Allegion|Software Engineering Intern, Platform Software|Golden, CO|70ff3d0ec8fd2a3f08642b92809cfeb9
 XPENG Motors|Computer Vision Intern|Santa Clara, CA|1b7fbc46cce40056fbbf0fa1f36df498
 Visa|Software Engineer Intern|Austin, TX|e7fcfecc77cef80641c671d2978ca071
 Visa|Data Engineering Intern|San Mateo, CA|83a062640e08754b6bfc49a45725db04
@@ -61,7 +85,6 @@ Rockwell Automation|Firmware Development Intern 🛂|Mequon, WI|6ac9b9efc270a486
 Wealth.com|Software Engineer Intern 🛂|Remote|6286e46b075f3c661339f2d051231a67
 SeatGeek|Software Engineer Intern|New York, NY|25df34046140d64b3b69ffdb40cc4882
 Northrop Grumman|Software Engineering Intern 🇺🇸|Roy, UT|7925022bd8157720496886ac52df8cf8
-Hone|Software Development Intern|Remote|1a75a2aa7fee7f02aec76ded27b6ec50
 Herdora|Member Of Technical Staff Intern|San Francisco, CA|bcd576d219355891c9798617af8cafa2
 Garage|Software Engineer Co-op|New York, NY|b345d0be41066c80dd467ba1f3c0ced0
 Coinbase|Software Engineer Intern|New York, NY</br>San Francisco, CA|00774634b1084ee19f3337135e2dbf90
@@ -1048,7 +1071,6 @@ IMC|Quantitative Research Intern, Trading|Chicago, IL|f72b0f6e57b4f4e33dbd2f8457
 IMC|Software Engineer Intern|Chicago, IL|fe1186f8cbb59bc4e5ae038d1fa27f62
 Epic|Software Development Intern 🇺🇸|Madison, WI|b11278d05925a1c8460c8e24a7bf7df3
 Caterpillar|Engineering Intern|<details><summary>**12 locations**</summary>Tucson, AZ</br>Griffin, GA</br>Decatur</br>Mossville</br>Mossville</br>Washington</br>Pontiac, IL</br>Lafayette, IN</br>Brooklyn Park, MN</br>Clayton, NC</br>Fort Worth</br>Houston, TX</details>|017f6a5bdadbcc47bc2bdd3b30f6bdcc
-Walleye Capital|Quantitative Researcher Intern|Boston, MA|5d4838f388c11ed2fed75203319eed73
 Radix Trading|Quantitative Technologist Intern|Chicago, IL|d3ff424cc7874e0fa9a1e3f386ef7f14
 Morgan Stanley|SWE Intern, Data Analyst Intern|New York, NY|3966aa34127bfb2d6b44c2433c7dc441
 D. E. Shaw|Software Developer Intern|New York, NY|57cce75c5e4eace7a9ccb60468bc156c
