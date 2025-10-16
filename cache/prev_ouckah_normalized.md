@@ -1,3 +1,55 @@
+XPENG Motors|Computer Vision Intern|Santa Clara, CA|1b7fbc46cce40056fbbf0fa1f36df498
+Visa|Software Engineer Intern|Austin, TX|e7fcfecc77cef80641c671d2978ca071
+Visa|Data Engineering Intern|San Mateo, CA|83a062640e08754b6bfc49a45725db04
+Visa|Data Science Intern|San Mateo, CA|4df3d142f7caa61f23c59890b918891d
+Visa|AI and Data Insights Intern|Austin, TX|04ad1917170d839e7885211e6875daaa
+Visa|Software Engineer Intern|Bellevue, WA|f4c5b25ff0429c1db3dcb4685404916c
+Visa|Software Engineer Intern|San Mateo, CA|ea64333468441c3a0629479fb9ffdaf4
+Uline|Product Marketing Intern|<details><summary>**5 locations**</summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details>|ce09057f8b89d73d29091c237a06ef34
+Uline|Financial Data Analyst Intern|Pleasant Prairie, WI|f6d9bbdfa4fc515b166385d28ce9a8a2
+Skydio|Embedded Software Engineer Intern|San Mateo, CA|7b65dbd181ee3b1f5bf1043b2c37fcf5
+Sherwin-Williams|R&D Product Engineering Co-Op|Cleveland, OH|3d8b909474a5a4d9d5214e4751ec6735
+Samsung Research America|ML/NLP Research Intern|Mountain View, CA|acd275cdf48cd53dfcc2d155d7a480c9
+Samsung|Test AI Engineer Intern|San Jose, CA|f7d7a910ac5087e0c3f24c678f0b1f44
+RTX|Mission Sensor SEPP Software Engineer Intern|Cedar Rapids, IA|959e5c99717d35e3c41774a0cfb5379b
+Roblox|Applied Scientist Intern|San Mateo, CA|f0990ba5aaa1fcc9f48f990c2791fd69
+Philips|Data Engineer Intern|State College, PA|64af027b2a72424e5094fbe9fc56250d
+Northrop Grumman|Systems/Software Intern|Boulder, CO|a3c8f58da2d298dfe7c9904ea4e7a75d
+Nelnet|IT Software Engineer Intern|Lincoln, NE|15a5c67fbb5a956f09b146e6e37f4f9a
+Nelnet|IT Software Engineer Intern|Lincoln, NE|7ef5a2c1620858f7a5ba8c47964849ec
+MongoDB|Software Engineering Intern|Toronto, Canada|e81632b3899d7bbfde614ec4b1a88eaf
+MillerKnoll|Software Developer Intern|Holland, MI|c7a34a3f72b4796a41b426bd1a1137b6
+Microsoft|Research Intern - Audio and Acoustics|Redmond, WA|282f7c8faa3ffbf12682e8c7b3cdacc7
+Microsoft|Research Intern - Brain-Computer Interfaces|Redmond, WA|d5bff32d1549315da91bd609037c6917
+Mach9|Perception Intern|San Francisco, CA|175553e3719c688f49e20323d8451312
+Leidos|Software Engineer Intern|Odenton, MD|832f9b61d13b1f73cfcf2db6146c41d7
+Leidos|Software Engineer Intern|O'Fallon, IL|5b4046f40370fbadbc9c4e574e1224a6
+Lazard|Quantitative Researcher Intern|Boston, MA</br>New York, NY|d0e764980caf794b813e23316a7d812f
+Johnson & Johnson|Product Management Organization Intern|Jacksonville, FL|7626fa255e26d89b0750c8a8c47e4209
+Illumio|Technical Program Management Intern|Sunnyvale, CA|54a9df5072584cb16610b4e5bceb966c
+General Dynamics Information Technology|Artificial Intelligence/Machine Learning Associate Intern|Arlington, VA|156b1752a3ff11f25961fd952ba8179d
+GE Vernova|GE Vernova Quality Digitalization Internship|Schenectady, NY|fb48fdc8d291299c8d26f6769cf2fdb8
+Garda Capital Partners|Trading Assistant Intern|Wayzata, MN|66c5295b49751bd6372c99cca7e5d45c
+Cook Group|Statistics & Data Science Intern|Bloomington, IN|f6fd73005595baa3042389e788f8c6dd
+ConnectPrep|Data Analyst Intern|Boston, MA|bdd2f1ba30453ef5e3b002fed86651ae
+Cohesity|Software Engineering Intern|Santa Clara, CA|815ce418a3840a03e7061b31463b264b
+Cohesity|Software Engineering Intern|Santa Clara, CA|a584ffbfcb530aa39825b52d27c7e15f
+Cirrus Logic|Hardware Platform Development Engineer Intern|Austin, TX|7a4153ca9ec3963d21a84061a37c856b
+Cirrus Logic|Validation Software Engineer Intern|Austin, TX|36093342e0204f01cd8572f643b922c5
+Chick-fil-A|Digital Transformation and Technology Software Engineer Intern|Atlanta, GA|c08d6087ae85dde8f72bf4c51a11910f
+CesiumAstro|Embedded Software Engineering Intern|Westminster, CO|1e0d66a96655d80e3373c1e01bdba478
+CACI|Software Engineering Intern|Dulles, VA|f442a29aa8513720e9248a1e9167cf58
+Bose|Embedded Firmware Intern|Framingham, MA|7eb4290679a05cfb31866191e576606b
+Bose|Competitive Intelligence Technical Engineer Co-op|Framingham, MA|012df4ff03ce84f71b2f14b655494b66
+Bloom Energy|Systems Engineering Intern|San Jose, CA|2027b34641d90b22f0282cb99174eaa5
+Bloom Energy|IT Software Developer Intern|San Jose, CA|1f7592af2ee01b63b8a0747fe33c41af
+Arc|Electrical Hardware Engineering Intern|Carson, CA|2b0b23d04262ab50c7fb187d8906a571
+Appian|Associate Consultant Intern|McLean, VA|d1165d5b9a57a8cbf4fa5e2dae83a00c
+Al Warren Oil Company|Software Developer Intern|Elk Grove Village, IL|d1f9420f893a027e43d3ba258b321a4e
+Adobe|Data Scientist Intern|Lehi, UT|221ee343ac1f8c82ed6f6e9b4f67a196
+AbbVie|AI Agent Engineer Co-Op|Waukegan, IL|53c7f9e5b4f25c7e546a87aead97441f
+7-Eleven|Software Engineer Intern|Irving, TX|e7aab74e43c6a3c996e328ed1584be69
+RGA Reinsurance Company|Operations Intern|Chesterfield, MO|0b4f832ad18e06017ed650be6d3672ac
 Wells Fargo|Software Engineer Intern|San Francisco, CA</br>San Leandro, CA</br>Concord, CA|a6ae1b8ab4bc874b3bb73c034e4111ae
 Visa|Software Engineer Intern 🛂|Bellevue, WA|62a07bc5b9a3c057644f04cc86cfc338
 Visa|AI and Data Insights Intern, Corporate Services 🛂|Austin, TX|6d20f34573c711842a59844b34ccce23
@@ -192,7 +244,6 @@ Plexus|IT Data Science Intern|Neenah, WI|8cd7e6d2a7d3b68e285985cd8b22158f
 PayPal|Machine Learning Engineer Intern|San Jose, CA|97fbdbb371520fe17e35f3859ae72cc5
 Moog|Product Engineering Intern|Blacksburg, VA|39c9227e1b534b5fb23c480c199e8b7b
 Moog|Product Engineering Intern|Blacksburg, VA|1f50dd442e9f0e4b19108203c6a3dc35
-Microsoft|Software Engineer Intern, Fullstack|Cambridge, MA|c924ab3a04fcc99d73dfa12c19be83f9
 Microsoft|Explore Program Intern|Redmond, WA|c3ce8f6cf84706abe3eab4602d901bb1
 Microsoft|Explore Program Intern|Atlanta, GA|0dcd961b9041955bcbe245d2a77c523e
 Michaels Stores|Information Technology Intern - Data Engineering|Irving, TX|0ec14c92fdaeca6784cf1474daebebbe
