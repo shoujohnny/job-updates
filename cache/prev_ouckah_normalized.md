@@ -1,9 +1,13 @@
 Waymo|Software Engineer Intern, SQR|San Francisco, CA|10204d24556a8c09708d257bfad3d8aa
 TikTok|Software Engineer Intern, Monetization Technology|San Jose, CA|99eb4c844f738b75232409565b79dda5
+Stratus Aviation|Embedded Software Engineer Intern 🇺🇸|San Francisco, CA|978606f1e0c29ab1bbae7bc990f19aec
 Sigma Computing|Software Engineering Intern 🛂|San Francisco, CA</br>New York, NY|91d8987ec0c06c9590e6d8d67a97cca0
 Pega|Software Engineer Intern 🛂|Waltham, MA|ce787f583f05be0844bc2a93928966d0
 Microsoft|Software Engineer Intern, Azure Data|Austin, TX|0cd1eabe3c8bf8e8a2181e27f2d0fd26
+Meta|Production Engineer Intern|Menlo Park, CA|3decad563ba0da8390431bde0fc62888
 Federal Express Corporation|Software Engineer Intern|Memphis, TN|3f9ccc170a9f8a1c22f7e66b1ffdcdd5
+Electronic Arts|Narrative Design Intern, Star Wars Jedi 🛂|Los Angeles, CA|2e09f12ce9cccda2860913677506fc10
+Electronic Arts|Technical Game Design Intern, Jedi Team 🛂|Los Angeles, CA|679a4833cae6df17ef7fabc52ae244e8
 Cognex|Software Engineering Intern|Wauwatosa, WI|80071638bead2858652bcf6532716a09
 Arthrex|SAP Global Release Management Intern|Naples, FL</br>Fort Myers, FL|936bd139426b0608eedeace14515b56f
 Arthrex|Custom Dev .NET Intern|Naples, FL|5265c8a3799ad54fe3d4a7fe5d07834a
