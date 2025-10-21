@@ -479,12 +479,12 @@ CDK Global|Software Engineering Intern|Austin, TX</br>Portland, OR</br>Hoffman E
 CDK Global|Product Management Intern|Austin, TX</br>Portland, OR</br>Hoffman Estates, IL|d1dc0b4105d5eed24808090cebb2c64d
 BAE Systems|Software or Computer Engineering Intern 🇺🇸|Sterling Heights, MI|51d0f9db2edeafcf5c0aaea074c884d6
 Microsoft|Undergraduate Research Intern, Computing|Redmond, WA</br>New York City, NY|58dcc4dcf27c0269508e063ca903d1ff
-Intuit|Backend Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|3abf357bc6903576fe53eeaca99da2be
-Intuit|AI Science Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|343a1eccb012480f0577ef8251693b38
-Intuit|Full Stack Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|87a71ad2a519e602c692f6bcd2c2095e
-Intuit|Software Engineer Intern, Mobile(iOS/Android)|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|7257b044cd7169852d956c99e487b177
-Intuit|Front End Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|206bce094b3c0e732049af572c281402
-Intuit|Cyber Security Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|5c41a101861c19006f87464f5a122039
+Intuit|Backend Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|abae59f74301e8e9a60e38c94516f579
+Intuit|AI Science Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|674a8ca978c8955a651d3fe39159e51c
+Intuit|Full Stack Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|6de2a18253eae04c6f350f23c120e532
+Intuit|Software Engineer Intern, Mobile(iOS/Android)|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|068f541a5a1cbbf7bd2f13bec165ffb7
+Intuit|Front End Engineering Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|a1a686315109f3d1657ac580e20e59f2
+Intuit|Cyber Security Intern|<details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>New York, NY</br>Atlanta, GA</details>|96d6f073e00d1e949560d24bdd20d525
 Allium Labs|Engineering Intern 🛂|New York, NY|4ebc7979aa500b8c653d231788638027
 Tyler Technologies|Software Development Intern|Lubbock, TX|7d5f313a4e4b992c31a59b909c805f28
 Trane Technologies|Software Test Engineer Intern|St Paul, MN|fad1104148dc58f4843dda1f5037e656
