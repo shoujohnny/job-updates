@@ -1,3 +1,8 @@
+Microsoft|Research Intern, Machine Learning and Statistics|Cambridge, MA|c6257afe0e06c6aa809273dd5508ccd1
+Microsoft|Research Intern, AI Hardware|Redmond, WA|559ba7c646ebaf77c0e8622cd4d7fcfe
+KLA|Applications Engineering Intern|Milpitas, CA|dc1d706f0120e7bbffbb50a37351db89
+Autodesk|Robotics Integration Applications Intern|San Francisco, CA|47333ac247defab3e4fbdc5aed3be659
+Autodesk|Ecommerce Machine Learning Intern|<details><summary>**4 locations**</summary>Remote</br>San Francisco, CA</br>Toronto, Canada</br>New York, NY</details>|634362e73513855bbaa7cad6fdc8c5c2
 Skyryse|Electrical Engineering Intern, El Segundo|Los Angeles, CA|8932e4a4c065e2609b78759105cff38e
 Skyryse|Flight Performance Engineering Intern, AI|Los Angeles, CA|ccad666764b42ead6bcac15334f207b7
 Skyryse|Flight Test Engineering Intern|Los Angeles, CA|4a0da4c0b7b09f5bb5dd87bee2aaf929
