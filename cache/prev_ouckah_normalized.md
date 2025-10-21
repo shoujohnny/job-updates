@@ -1,3 +1,18 @@
+Skyryse|Electrical Engineering Intern, El Segundo|Los Angeles, CA|8932e4a4c065e2609b78759105cff38e
+Skyryse|Flight Performance Engineering Intern, AI|Los Angeles, CA|ccad666764b42ead6bcac15334f207b7
+Skyryse|Flight Test Engineering Intern|Los Angeles, CA|4a0da4c0b7b09f5bb5dd87bee2aaf929
+Skyryse|Flight Test Instrumentation Intern|Los Angeles, CA|42002bb8b4afdad09b11bc3c3a9e73c3
+Skyryse|Guidance, Navigation, and Control Engineering Intern|Los Angeles, CA|65d37a796bf56dd63ec5cd9ec08e4161
+Skyryse|Visualization Design Intern|Los Angeles, CA|64064d3066dcf078de76943891db7c89
+Skyryse|Vehicle Design Intern|Los Angeles, CA|e4c175d04e34a1aeff9a684551bd86fe
+Skyryse|Systems Test Engineering Intern|Los Angeles, CA|30d2ff3f4aa9705a8ba6996892f5f747
+Skyryse|Systems Engineering Intern, El Segundo|Los Angeles, CA|d87f49c72be229452e6ff0a837f0542e
+Skyryse|Software Verification & Validation Engineering Intern|Los Angeles, CA|b0e1a8952616078af90320f8744287e0
+Skyryse|Software Engineering Intern, AI|Los Angeles, CA|211b7114586e03aec3706f0b32dd3db1
+Skyryse|Software Engineer Intern, Tools|Los Angeles, CA|53dbf6437e134310074af25442e83c53
+Sartorius|Software Engineer Intern|Fremont, CA|004584ce548d09d8daf35a21cdc81e51
+Chick-Fil-A|Digital Transformation and Technology Software Engineer Intern|Atlanta, GA|c08d6087ae85dde8f72bf4c51a11910f
+Allegion|IT Software Engineering Intern 🛂|Carmel, IN|3df6f4fc8914768531e5e2c2855e256d
 HNTB|Technology Intern 🛂|Austin, TX</br>Chicago, IL</br>Kansas City, MO|45dd3749e8512c6ccf653b3d229b14fe
 Waymo|Software Engineer Intern, SQR|San Francisco, CA|10204d24556a8c09708d257bfad3d8aa
 TikTok|Software Engineer Intern, Monetization Technology|San Jose, CA|99eb4c844f738b75232409565b79dda5
