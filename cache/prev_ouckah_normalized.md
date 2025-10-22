@@ -1,3 +1,6 @@
+Celestial AI|Reliability Engineering Intern, Silicon Photonics|Santa Clara, CA|ea37538ed0bc9d7b440037cf731c42ef
+Celestial AI|Reliability Engineering Intern, Datacenter RAS|Santa Clara, CA|9516696cd94ab03c90cab469b3938495
+Celestial AI|Reliability Engineering Intern, Database Development|Santa Clara, CA|eb2f77110bb2150612d105b19055cd6d
 Microsoft|Research Intern, Machine Learning and Statistics|Cambridge, MA|c6257afe0e06c6aa809273dd5508ccd1
 Microsoft|Research Intern, AI Hardware|Redmond, WA|559ba7c646ebaf77c0e8622cd4d7fcfe
 KLA|Applications Engineering Intern|Milpitas, CA|dc1d706f0120e7bbffbb50a37351db89
