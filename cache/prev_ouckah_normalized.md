@@ -16,6 +16,8 @@ Microsoft|Research Intern, Data Systems|Redmond, WA|9ab9b6cbc320d7c478e6d4a6d1fc
 Microsoft|Research Intern, Systems For Efficient AI|Redmond, WA|329d68515b3d5ac60411b55bab25a6e1
 Microsoft|Research Intern, Computer Vision and Deep Learning|Redmond, WA|829c5537dc263631482ef9902ee45365
 Marvell|Web Production Intern|Santa Clara, CA|ab8163894d973be912fe6777b8815d0c
+Lyft|Software Engineer Intern (Backend)|San Francisco, CA|bca0354f50cde9f18f52d53f3a5619e6
+Lyft|Data Analyst Intern|New York, NY|2c7c58e555eee56917132df111a832e7
 Lyft|Data Engineer Intern|San Francisco, CA|2a48e7280d940f8f1b784d204f5ad1e3
 LexisNexis Risk Solutions|AI Engineering Analyst Intern|Alpharetta, GA|33b98176cf723c954e8dbcbae58c4166
 LabCorp|Software Engineer Intern|Durham, NC|59bfb9cd1f517091c235ada7dbbcea94
