@@ -1,6 +1,46 @@
+Waymo|Software Engineering Intern|San Francisco, CA</br>Mountain View, CA|1501c9f45e4fa288213a3fb41b196c87
+Vizient|Data Digital Managed Services Intern|Chicago, IL|d499ab29009907eca98a9a7f041ab990
+Vertex|Marketplace Data and Operations Intern|Remote|8bb906fc163976cbef5f7cec4b4a6ed0
+Stifel|Technology Product Development Analyst Intern|St. Louis, MO|a85f058034d27c8af88cd38587e797f5
+Stifel|Technology Product Development Developer Intern|St. Louis, MO|7da4726d296f4af14ea9e85e40e75904
+Silicon Laboratories|Design Engineering Intern|Austin, TX|346e8ba9f1656af18e426bf6b9cefd73
+Shield AI|Hardware Test Engineering Intern|Dallas, TX|5d42b06c6fc443249c01b2b2ce9bc86a
+Second Dinner|Product Manager Intern|Irvine, CA</br>Remote|e8d0c4c4dd5a29b4eb40e2d3b848f7c6
+Seagate Technology|Wafer Photo Process Engineering Intern|Bloomington, MN|61cce5f2fe48ba5fae92404a2c92cc7a
+Schweitzer Engineering Laboratories|Software Engineer Intern|Charlotte, NC|6857fd5d5cece38d920808d7d825999a
+Robert Bosch Venture Capital|Software Engineering Intern|Simpsonville, SC|54b69e8b9ed53f1a0263e237d8d6c691
+Robert Bosch Venture Capital|Computer Science Intern|Simpsonville, SC|fa0b32436f0f0dccc3aa5631b0531a10
+Relay|Product Engineering Intern|Raleigh, NC|ebef7a599e1fe819b7089563bfa6cbc9
+Qualcomm|GPU Compiler Development Intern|Markham, Canada|258a054ecbf21dfd406a821a7874bc89
+Microsoft|Research Intern, Data Systems|Redmond, WA|9ab9b6cbc320d7c478e6d4a6d1fcaec3
+Microsoft|Research Intern, Systems For Efficient AI|Redmond, WA|329d68515b3d5ac60411b55bab25a6e1
+Microsoft|Research Intern, Computer Vision and Deep Learning|Redmond, WA|829c5537dc263631482ef9902ee45365
+Marvell|Web Production Intern|Santa Clara, CA|ab8163894d973be912fe6777b8815d0c
+Lyft|Data Engineer Intern|San Francisco, CA|2a48e7280d940f8f1b784d204f5ad1e3
+LexisNexis Risk Solutions|AI Engineering Analyst Intern|Alpharetta, GA|33b98176cf723c954e8dbcbae58c4166
+LabCorp|Software Engineer Intern|Durham, NC|59bfb9cd1f517091c235ada7dbbcea94
+Inflection|Technical Intern|Palo Alto, CA|8804b3ced42dc803df1eaef126846231
+Home Chef|Operations Intern|Chicago, IL|a06c5c4c2dbf285a8361d3c1d7bad90c
+HF Sinclair|IT Data Analytics Intern|Dallas, TX|a3b7972bcce8576c3c58e485c6ec9a6c
+Hewlett Packard Enterprise|Industrial Design Intern|Spring, TX|2273f50a9b24fb722ffed02b642d70a9
+Hewlett Packard Enterprise|Hardware Design Engineering Intern|Spring, TX|3f0e32a0c883fbfe8d5d97537792dda9
+GE Vernova|Applied AI & Controls Transformation Intern 🇺🇸|Greenville, SC|652b6865e3d5ad3e31f96fb85c529fb7
+Experian|Data Analyst Intern|Remote in USA|95006d985aa91b6e7bc475d1bffda129
+Experian|Data Engineering Intern|Newport Beach, CA|a86c7fcb4758a66494268c0ed8521b3f
+Experian|Full Stack SWE Intern|Remote in USA|2e8280e19f11265f20b8e8888a6d3c93
+Experian|ML Engineer Intern|Remote in USA|2b7ddba82cff96dd5f34f35c3e5c3799
+Experian|Risk Analyst Intern|Remote in USA|c2f7edf3679d30a4c569b39356e939fa
+Cox|Enterprise Architect Intern|Atlanta, GA|86ca5f349b9184148e201b12b94d1461
+Clever|Software Engineer Intern|San Francisco, CA|6a17e5a2d7e895e149b5831c371bf299
+Clerkie|Software Engineer Intern 🛂|Remote in USA|2baebac81304e2e820da51151ce1e785
 Celestial AI|Reliability Engineering Intern, Silicon Photonics|Santa Clara, CA|ea37538ed0bc9d7b440037cf731c42ef
 Celestial AI|Reliability Engineering Intern, Datacenter RAS|Santa Clara, CA|9516696cd94ab03c90cab469b3938495
 Celestial AI|Reliability Engineering Intern, Database Development|Santa Clara, CA|eb2f77110bb2150612d105b19055cd6d
+Badger Meter|Firmware QA Intern|Milwaukee, WI|d7217a8a4697700b2a516c83569e8b1b
+Autodesk|Software Developer Intern|Toronto, Canada|037a99cca1f6bbb79fd6f24cbdbccd2e
+AECOM|Data Management Intern|Salt Lake City, UT|d0d41c9f4a96c5a5d2c560bcc21ab1d4
+Adobe|People Data Scientist Intern|San Francisco, CA</br>San Jose, CA|48a372be28288c1e6eca62dde28b8678
+7-Eleven|Supply Chain Data Scientist Intern|Irving, TX|238e6c2ea4c3722d6396b5a0466b32f1
 Microsoft|Research Intern, Machine Learning and Statistics|Cambridge, MA|c6257afe0e06c6aa809273dd5508ccd1
 Microsoft|Research Intern, AI Hardware|Redmond, WA|559ba7c646ebaf77c0e8622cd4d7fcfe
 KLA|Applications Engineering Intern|Milpitas, CA|dc1d706f0120e7bbffbb50a37351db89
