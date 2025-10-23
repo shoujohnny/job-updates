@@ -59,7 +59,6 @@ Skyryse|Systems Test Engineering Intern|Los Angeles, CA|30d2ff3f4aa9705a8ba69968
 Skyryse|Systems Engineering Intern, El Segundo|Los Angeles, CA|d87f49c72be229452e6ff0a837f0542e
 Skyryse|Software Verification & Validation Engineering Intern|Los Angeles, CA|b0e1a8952616078af90320f8744287e0
 Skyryse|Software Engineering Intern, AI|Los Angeles, CA|211b7114586e03aec3706f0b32dd3db1
-Skyryse|Software Engineer Intern, Tools|Los Angeles, CA|53dbf6437e134310074af25442e83c53
 Sartorius|Software Engineer Intern|Fremont, CA|004584ce548d09d8daf35a21cdc81e51
 Chick-Fil-A|Digital Transformation and Technology Software Engineer Intern|Atlanta, GA|c08d6087ae85dde8f72bf4c51a11910f
 Allegion|IT Software Engineering Intern 🛂|Carmel, IN|3df6f4fc8914768531e5e2c2855e256d
@@ -300,7 +299,6 @@ Verizon Communications|Security Engineering Intern|Southlake, TX|caa95a9eaa05515
 Verizon Communications|Network Performance Intern|Irving, TX|55dc1bc5193b3d9a19e9b7a0f38b8bda
 TikTok|Global Product Strategist Intern|NYC|10996e011a863f77f6167ef476dae00d
 TikTok|Product Strategist Intern - Global Monetization Product and Technology|San Jose, CA|01c0ae77c4fea035ace60218f6e36e7f
-The Tudor Group|Quantitative Developer Intern (Pipeline Team) 🛂|New York, NY|5bc1c549681a48f639d5ed327ea18bab
 Susquehanna International Group (SIG)|Linux Engineer Intern|Ardmore, PA|c346690f63dda4944aa823b56424405e
 StoneX Group|Market Data Engineer Intern|Chicago, IL|d596ca8f5f728305a179a8f8fd821dcc
 State Street|Emerging Technology Governance, Co-Op|Boston, MA</br>Quincy, MA|e54ccf53dbb8e8febccf30891e95e4ac
