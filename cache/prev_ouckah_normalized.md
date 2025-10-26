@@ -1,12 +1,22 @@
+Viasat|Software Engineer Intern|Germantown, MD|a7590e49848e53d1ce35ae388373587a
 Uber Freight|Software Engineering Intern|San Francisco, CA</br>Chicago, IL</br>Frisco, TX|60c288ada9d11cae6087975d06a6b77b
 Tasker AI|Hardware Engineering Intern|San Francisco, CA|18bcce5c047cb587d230fb8edd7eb2e9
+Skyworks|Audio AI Engineering Intern|Hillsboro, OR|a2bb814683b82bfd96b7ffa7be8e49ed
 Silimate|EDA QA/Testing Intern 🇺🇸|Mountain View, CA|3fba122614e4e5cea3aa3c317fcf6336
-S&P Global|Data Engineer Intern 🛂|New York, NY|3e37b242945d1f081695e172acf588de
+S&P Global|Data Engineer Intern 🛂|New York, NY|6c8810d1cc79652c645031a539a5aa9f
 S|↳|P Global|ced642e0d9794abdd6391a9451cb9932
-S|↳|P Global|bc8a399271d385e210cc772b602560de
+S|↳|P Global|e3bc0d101786d717b87c810b44fce686
+PACCAR|Application Developer Intern|Kirkland, WA|e21e33f6c1e567e0be1e3db69869ffed
+OTTO Engineering|Firmware/Embedded Engineer Intern, Communications|Carpentersville, IL|ee5a3fd7b0198991f2d56f77bc621350
+Nintendo of America|IT Software Engineer Intern|Redmond, WA|844b2a14d7756218f08b07ab8ed0c055
+Nintendo|Software Engineer Intern, CPU Profiling Tool’s Team 🛂|Redmond, WA|bfcca8923000ae2e076fb70322b6267b
+Lumafield|Engineering Intern, Embedded Software|Boston, MA|dca09ca6f271b72930fb50ad9b5304d5
+Lumafield|Engineering Intern, Process|Boston, MA|69f6d78f85a9571ce5b43ab16683d820
 General Motors Financial|Software Development Engineer Intern 🛂|Arlington, TX|1e3d19db676f5791223d062da66c1d9c
 General Motors Financial|Enterprise Architecture Intern 🛂|Arlington, TX|4cc5c57c092523581f8c4c0fb8cacd49
+Ericsson|AI Software Development Intern 🛂|Austin, TX|309afd2c3a8b1cb558b9093358009a98
 Credit Karma|Software Engineering intern 🛂|Charlotte, NC|0a7e562fbdb92e6f3183cf33a125069a
+Cox Enterprises|Software Engineering Intern, Burlington, VT|Burlington, VT|5f0f74e048ee489d8920809a745dfdb4
 Waymo|Software Engineering Intern|San Francisco, CA</br>Mountain View, CA|1501c9f45e4fa288213a3fb41b196c87
 Vizient|Data Digital Managed Services Intern|Chicago, IL|d499ab29009907eca98a9a7f041ab990
 Vertex|Marketplace Data and Operations Intern|Remote|8bb906fc163976cbef5f7cec4b4a6ed0
