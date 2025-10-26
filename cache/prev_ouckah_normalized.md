@@ -1,3 +1,6 @@
+Uber Freight|Software Engineering Intern|San Francisco, CA</br>Chicago, IL</br>Frisco, TX|60c288ada9d11cae6087975d06a6b77b
+S&P Global|Software Engineering Intern 🛂|Princeton, NJ|bc8a399271d385e210cc772b602560de
+Credit Karma|Software Engineering intern 🛂|Charlotte, NC|0a7e562fbdb92e6f3183cf33a125069a
 Waymo|Software Engineering Intern|San Francisco, CA</br>Mountain View, CA|1501c9f45e4fa288213a3fb41b196c87
 Vizient|Data Digital Managed Services Intern|Chicago, IL|d499ab29009907eca98a9a7f041ab990
 Vertex|Marketplace Data and Operations Intern|Remote|8bb906fc163976cbef5f7cec4b4a6ed0
