@@ -1,4 +1,7 @@
+Two Six Technologies|Research Intern|Arlington, VA|c3679e425ebfb6d1a294af76029eabc1
 The Walt Disney Studios|Software Engineering Intern|Glendale, CA|1ff61bfcef22e59ad75439ab035cfe09
+Northrop Grumman|Software Engineering Intern 🇺🇸|Roy, UT|80e7ebd7a800ae858e4163958c56af67
+Ascend Learning|Software Engineer Intern, Enterprise Architecture|Leawood, KS|d22ed754c5bd12691ec3e5c639117277
 Viasat|Software Engineer Intern|Germantown, MD|a7590e49848e53d1ce35ae388373587a
 Tasker AI|Hardware Engineering Intern|San Francisco, CA|18bcce5c047cb587d230fb8edd7eb2e9
 Skyworks|Audio AI Engineering Intern|Hillsboro, OR|a2bb814683b82bfd96b7ffa7be8e49ed
