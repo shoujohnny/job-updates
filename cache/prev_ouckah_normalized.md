@@ -1,5 +1,5 @@
+The Walt Disney Studios|Software Engineering Intern|Glendale, CA|1ff61bfcef22e59ad75439ab035cfe09
 Viasat|Software Engineer Intern|Germantown, MD|a7590e49848e53d1ce35ae388373587a
-Uber Freight|Software Engineering Intern|San Francisco, CA</br>Chicago, IL</br>Frisco, TX|60c288ada9d11cae6087975d06a6b77b
 Tasker AI|Hardware Engineering Intern|San Francisco, CA|18bcce5c047cb587d230fb8edd7eb2e9
 Skyworks|Audio AI Engineering Intern|Hillsboro, OR|a2bb814683b82bfd96b7ffa7be8e49ed
 Silimate|EDA QA/Testing Intern 🇺🇸|Mountain View, CA|3fba122614e4e5cea3aa3c317fcf6336
