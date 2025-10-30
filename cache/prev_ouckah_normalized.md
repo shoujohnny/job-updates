@@ -1,16 +1,40 @@
+VSP Vision|Internship - AI-Machine Learning Development Engineer|Remote in USA|456ec251e7e39a654d9397518f2d9900
+Vermeer|Data Engineer Intern|Pella, IA|e7a5c8f9b8e092d86ab4e4bb4cf3761c
 Toyota Research Institute|Human Interactive Driving Intern, Uncertainty-Aware Control|Los Altos, CA|b937760de8fbbb09a61ec437728def06
+Thermo Fisher Scientific|Data Science Intern|Remote in USA|7e3bd3b410ae3c3b43c02576d52a4099
+The Walt Disney Company|Software Engineering Intern 🛂|Burbank, CA|fcf043201c001c201ce69c0f8c08f5c1
+The Walt Disney Company|Software Engineering Intern 🛂|Burbank, CA|0e6e94dffdea0c8d7e04eaf273fa40f8
+The Walt Disney Company|Product Management Intern|Seattle, WA</br>New York, NY|28a98294af93698cdeb987c40bbec447
+The Walt Disney Company|Product Management Intern|Santa Monica, CA</br>Glendale, CA|f26416a9dd42299b6f7e66cd9738ab26
+The Walt Disney Company|Software Engineering Intern|New York, NY|98a69cccf161f47c9ac998d1694c0e62
+The Travelers Companies|Fire Investigative Intern -|Hartford, CT|7e5ff3bce24ffd4a8d33c50223271e44
+The New York Times|Backend Engineering Intern|New York, NY|ac9882096b2e44f11e32dfcd7ac12982
+TEL|Software Engineer Intern 🛂|San Jose, CA|5adb57f53d672e8a70f6786bd6c6565b
 Staples Inc.|Software Engineer Intern|Framingham, MA|fb70feb44ff4c38c7ebdd812f023d47f
+Skydio|Software Engineer Intern|San Mateo, CA|388cc3ea8aece2ff12fbfe7dd07cfce2
+Samsung|Intern, Machine Learning|San Jose, CA|50f4cc651f84b50cf27401441c1a4052
+Ryan|Intern, Data Science 🛂|Plano, TX|b28c58347aef3436af78151ecf3191e9
+RSM|Advanced Analytics and Artificial Intelligence Intern 🛂|San Diego, CA</br>Irvine, CA|a6e55a76309dc7f92c71d539a249a4d5
+Relativity Space|Flight Software Engineer Intern|Long Beach, CA|306630a429bde480ac9ce36d90129def
 PTC|Software Development Intern|Boston, MA|f060453da4b6c7cfb8b48db993a29516
 PTC|Software Engineering Intern|Boston, MA|b43159c7a396ec701998c44b22936ca7
 Novaflow|Software Engineer Intern|San Francisco, CA|bcbe359ee327c0e6b6fad3802b573acc
 Northwestern Mutual|Software Engineering Intern 🛂|Milwaukee, WI|12e219aeb967e859ab3ad0710cdf1a0b
 Moog|Software Engineering Intern 🇺🇸|Buffalo, NY|7187bb21ee3682042744c338747b4512
+Leidos|Data Science Intern 🇺🇸|Valparaiso, FL|451e17ab76b428683e4eeae7794c9f53
 KPMG|Software Engineer Intern 🛂|Denver, CO</br>Montvale, NJ|21c5454daaaf21e2083baaedf44c4e08
+JM Family|AI COE/DevSevOps Intern|Deerfield Beach, FL|47bdcb91416e596fdecbab991b5c5f8b
+JM Family|Business Data Engineer Intern|Deerfield Beach, FL|526be512061659dcc351149ea2e0bc75
 Jack Henry|Software Engineer Intern 🇺🇸|Allen, TX|af0d176fc208fe7d0d321cb90df44854
+Jabil|Cloud Engineering Intern|Tampa, FL|3239d1ee8943cc64c43a6f5533eea4c4
+Hewlett Packard Enterprise|AI Efficiency Intern|Spring, TX|25a22836304aa783834e4dfccad72e52
 Gulfstream Aerospace Corporation|Application Developer College Intern 🛂|Savannah, GA|9fb4296bb0850699ed97751632562955
 Gulfstream Aerospace Corporation|Software Engineering College Intern 🛂|Savannah, GA|727f33a2fca3a80b919d307d859dd333
+Credit Karma|Data Science Intern|Charlotte, NC|45cf5c521762e745a2e6263dee9ad366
 Bloom Energy|Software Engineering Intern, Automation 🛂|San Jose, CA|2477852a2628ddb1ae2e47e2e0d26b97
 AnySignal|Embedded Software Intern|Los Angeles, CA|f0938edf960f58c7bb2758d0598e1360
+Al Warren Oil Company|Software Developer - Summer Internship 2026|Bensenville, IL|375e58a2959bc121171286e2b7bf2637
+ABB|Software Engineering Intern 🛂|Bartlesville, OK|bd6325b78caf51ee821eb0489cea8ee6
 GitHub|Software Engineering Intern|Remote|422556c533067b3ce8531ceb67bc4d3a
 Two Six Technologies|Research Intern|Arlington, VA|c3679e425ebfb6d1a294af76029eabc1
 The Walt Disney Studios|Software Engineering Intern|Glendale, CA|1ff61bfcef22e59ad75439ab035cfe09
