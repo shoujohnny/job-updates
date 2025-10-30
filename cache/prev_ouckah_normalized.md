@@ -1,8 +1,15 @@
 Toyota Research Institute|Human Interactive Driving Intern, Uncertainty-Aware Control|Los Altos, CA|b937760de8fbbb09a61ec437728def06
+Staples Inc.|Software Engineer Intern|Framingham, MA|fb70feb44ff4c38c7ebdd812f023d47f
 PTC|Software Development Intern|Boston, MA|f060453da4b6c7cfb8b48db993a29516
 PTC|Software Engineering Intern|Boston, MA|b43159c7a396ec701998c44b22936ca7
+Novaflow|Software Engineer Intern|San Francisco, CA|bcbe359ee327c0e6b6fad3802b573acc
 Northwestern Mutual|Software Engineering Intern 🛂|Milwaukee, WI|12e219aeb967e859ab3ad0710cdf1a0b
 Moog|Software Engineering Intern 🇺🇸|Buffalo, NY|7187bb21ee3682042744c338747b4512
+KPMG|Software Engineer Intern 🛂|Denver, CO</br>Montvale, NJ|21c5454daaaf21e2083baaedf44c4e08
+Jack Henry|Software Engineer Intern 🇺🇸|Allen, TX|af0d176fc208fe7d0d321cb90df44854
+Gulfstream Aerospace Corporation|Application Developer College Intern 🛂|Savannah, GA|9fb4296bb0850699ed97751632562955
+Gulfstream Aerospace Corporation|Software Engineering College Intern 🛂|Savannah, GA|727f33a2fca3a80b919d307d859dd333
+Bloom Energy|Software Engineering Intern, Automation 🛂|San Jose, CA|2477852a2628ddb1ae2e47e2e0d26b97
 AnySignal|Embedded Software Intern|Los Angeles, CA|f0938edf960f58c7bb2758d0598e1360
 GitHub|Software Engineering Intern|Remote|422556c533067b3ce8531ceb67bc4d3a
 Two Six Technologies|Research Intern|Arlington, VA|c3679e425ebfb6d1a294af76029eabc1
