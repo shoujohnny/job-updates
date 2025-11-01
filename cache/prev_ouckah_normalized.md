@@ -1,3 +1,4 @@
+Nixo|AI Engineering Intern|San Francisco, CA</br>Remote|6033aada0c019b74f989353e725ff4ae
 State Street|Software Engineer Intern, ML/Data Engineer|Quincy, MA</br>Boston, MA|5774a2de327494a03366046fb0d000a6
 Salesforce|Software Engineer Intern, Security/Government 🇺🇸|Bellevue, WA</br>Seattle, WA</br>San Francisco, CA|74f35ea748e83e16f6c3c6c2f2187991
 VSP Vision|Internship - AI-Machine Learning Development Engineer|Remote in USA|456ec251e7e39a654d9397518f2d9900
