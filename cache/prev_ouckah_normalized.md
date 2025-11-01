@@ -1,4 +1,27 @@
+Zip|Software Engineer Intern|San Francisco, CA|9ca0408518dbbc9c1c8111850876e7dd
+Vertiv|Hardware Design Intern|New Albany, OH|5fb161da93a0e4ebc70d15dfb2c6e9d1
+Thermo Fisher Scientific|AI & Automation Intern|Pittsburgh, PA|2088d0634ef0b1f95f49360129d4367d
+The New York Times|Frontend Engineering Intern|New York, NY|2ef63b1ef2999f76d0b5b4c2a836d8cb
+Tencent|Research Internship, Reinforcement Learning for Large Foundation Models|Bellevue, WA|8bd3e80329e2db0d872316e3f9ab123f
+SAS|AI & IoT Solution Advisor Intern 🛂|Cary, NC|85f19f5cddf14da880040c31abbdba73
+Samsung|Intern, AI/ML Compiler Research Engineer|San Jose, CA|cd4a6bd35ad49b1cb693e5ac70af295f
+Prologis|AI Intern|San Francisco, CA, CA|dcf431dc228f02a3beaa13052b5c6986
+Northrop Grumman|Software Engineer Intern 🇺🇸|Buffalo, NY|c217260d501970fce00c774e5ce1d5b4
 Nixo|AI Engineering Intern|San Francisco, CA</br>Remote|6033aada0c019b74f989353e725ff4ae
+KSM|AI & Automation Intern 🛂|Indianapolis, IN|423c9e10fe271f5646b598a53885bc4d
+KLA|Software Engineering Intern|Milpitas, CA|548fb98587b072caab9376736e9b2cae
+KLA|Software Engineering Intern|Milpitas, CA|b6d566c7606a5c5a7ecc2a7ef7071fc0
+KLA|Software Engineer (AI/ML) Intern|Austin, TX</br>Milpitas, CA|46c73afa8c6de75617b976404b3c6703
+Inspire Medical Systems|Firmware Engineering Intern 🛂|Minneapolis, MN|2fd7c1ecbdb3abd9594a70462d3d72b4
+Inspire Medical Systems|Firmware Engineering Intern 🛂|Minneapolis, MN|2c9696e5e12d08c0b0c1cf3be414fb8c
+Honeywell|Systems Engineering Intern|United States|29c68ee40f9f786cc695e2fc59d5247d
+Hewlett Packard Enterprise|AI Research Lab Research Associate Intern|Milpitas, CA</br>Fort Collins, CO|1ffafab0b37109841d1dca2179dd0569
+Hewlett Packard Enterprise|AI/ML Intern 🛂|San Jose, CA|ab3aa42d001ed4793a820e020d186be4
+EQT Corporation|AI Intern 🛂|Remote in USA|854fd764ed498a17dd50308727f7c78e
+Domino Data Lab|Forward Deployed Engineer Intern|New York, NY|0635fe7af7f1270c20110cef99c33600
+Credit Karma|Machine Learning Intern 🛂|Charlotte, NC|bfd0495cbc7b85094698f97c7864a56d
+ByteDance|Software Engineer Intern, Masters|San Jose, CA|fa42dbef1ac6f7a53ad3bce5e66330d4
+Arcesium|Software Engineer Intern|New York, NY|67eb85ea9d52e9dd130c7270abe6a4d4
 State Street|Software Engineer Intern, ML/Data Engineer|Quincy, MA</br>Boston, MA|5774a2de327494a03366046fb0d000a6
 Salesforce|Software Engineer Intern, Security/Government 🇺🇸|Bellevue, WA</br>Seattle, WA</br>San Francisco, CA|74f35ea748e83e16f6c3c6c2f2187991
 VSP Vision|Internship - AI-Machine Learning Development Engineer|Remote in USA|456ec251e7e39a654d9397518f2d9900
