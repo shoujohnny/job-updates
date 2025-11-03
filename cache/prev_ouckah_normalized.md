@@ -1,4 +1,20 @@
+Takeda|AI Solution Developer Intern 🛂|Cambridge, MA|875ffc0d08d3d0abd38ac8040ef0ebc9
+Takeda|Quantitative Clinical Pharmacology (QCP) AI/RAG Intern 🛂|Cambridge, MA|e40c2e88fbca1ee1e5c0cc7d7cec9f49
+Takeda|Cell Line Development Data Science Intern 🛂|Cambridge, MA|c1bcdd9fc6bcbd980cc7c3b322522dde
+SAS|Trustworthy AI Intern 🛂|Cary, NC|5fdbd290e12f687dced96890a327809b
+Salesforce|Product Management Intern|New York, NY</br>San Fransisco, CA|26080b0319d5908206f881a6fbaccc65
+Oshkosh|Data Analyst Intern|Oshkosh, WI|b47cc7d653a776961bb76b2ea48f583d
+Marvell|AI Infrastructure Engineering Intern|Santa Clara, CA|a81171473bb5e47ba23c582e2db9a490
+Little Caesars Enterprises|AI Intern|Detroit, MI|118e727aebec6fc0cda8958a99464df5
 Lambda|Machine Learning Research Intern|San Francisco, CA|ac6fd2bd28176cdb89eb9c39c75491ea
+L.L.Bean|Software Developer Intern|Freeport, ME|3c2b9b41fddb6122bf030236684bed7d
+KLA|Applications Development Intern|Milpitas, CA|cc76e0afc176c5b243f3be959d2453cf
+KLA|Applications Development Intern|Milpitas, CA|d11c81bdcdca3225d6e82a9bf05cdfc6
+Highmark Health|Reimbursement Data Engineer Intern|Pittsburgh PA|7aa64988e20f9b7636c3a896c92ea1df
+BAE Systems|Technical Intern, Embedded Software Engineer 🇺🇸|Boulder, CO</br>Broomfield, CO</br>Westminister, CO|d768d8dedc01bc1cbac78667f3d89444
+BAE Systems|Software Systems Engineer Intern 🇺🇸|Broomfield, CO</br>Boulder, CO</br>Westminister, CO|e83658a0d28dfdc4e1c750e798e415da
+Aurora Innovation|Software Engineering Intern 🛂|Mountain View, CA|285059f5eda9a12b8d64d1e9d40b00bb
+American Century Investments|IT Data Intern 🛂|Kansas City, MO|a8cf76f2a670d7ff1cb97bc5d633c612
 Zip|Software Engineer Intern|San Francisco, CA|9ca0408518dbbc9c1c8111850876e7dd
 Vertiv|Hardware Design Intern|New Albany, OH|5fb161da93a0e4ebc70d15dfb2c6e9d1
 Thermo Fisher Scientific|AI & Automation Intern|Pittsburgh, PA|2088d0634ef0b1f95f49360129d4367d
