@@ -1,3 +1,7 @@
+Trimble|Software Engineering Intern|Portsmouth, NH|8a35fae72c0301480e54322fdc5f8b76
+Meta|Embedded Software Engineering Intern|Austin, TX|c1dc5dd5b0f88465c2e4fe421ec68af8
+Keysight|R&D Software Engineering Intern 🛂|Calabasas, CA|cbbc26ad4f6007415fb8678acc40afb5
+Jack Henry|DevOps Engineer Intern 🇺🇸|Springfield, MO</br>Monett, MO|7452c5e3781bb853b2e1bfbd4930aeb0
 Schweitzer Engineering Laboratories|Software Engineer Intern|Liberty Lake, WA|4effa2156e44e874795dc5b9ce882626
 Fortive|Hardware Engineering Intern|Everett, WA|177879b1bf01c36fc77462f29ca05b18
 Centene|Business Intelligence Analyst Intern|Remote in USA|99c869deac913c27086c7f9dd441531b
@@ -549,7 +553,6 @@ NorthMark Strategies|Software Engineering Intern 🛂|Dallas, TX|59c3fa38d96a0fe
 Partcl (X25)|ML Systems Intern|San Francisco, CA|452e92e2ac5b0d2c3c97414956522432
 Elayne|Software Engineer Intern|New York, NY|fc2ef42ca52b23d918cf5cde4f50b860
 Channel3|Software Engineering Intern 🛂|New York, NY|cd9785ab0c0c7d5fe351db6c6f8940ba
-Zurn Elkay Water Solutions Corporation|Embedded Firmware Intern, Milwaukee Headquarters|Milwaukee, WI|81949473654c9a249c37aa894a1553e1
 Zurn Elkay Water Solutions Corporation|Embedded Firmware Intern,|Milwaukee, WI|a1012b558b6bcbb479dfaac61ba52a22
 Waymo|Systems Engineering Intern, Behaviors|San Francisco, CA|f3d0cc4b1c1c5ae36bf170eaf35f513d
 Voloridge Health|Health DevOps Engineer Intern|Jupiter, FL|5b03c55f876dd8bfd76ebae0f1ddbb29
