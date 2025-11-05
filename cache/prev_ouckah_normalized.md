@@ -1,7 +1,24 @@
+Zoox|Systems Engineering Intern|Foster City, CA|cb3c606e9598b8ccb42fba4f2f9465c9
 Trimble|Software Engineering Intern|Portsmouth, NH|8a35fae72c0301480e54322fdc5f8b76
+The Aerospace Corporation|Cloud Native Developer Intern 🇺🇸|Colorado Springs, CO|8b40deffdcd300629048d5e8f8bbc1df
+Saviynt LABS|Software Engineering Intern, R&D|El Segundo, CA|75bcae975a544a8af40b145258855a55
+Raytheon|Software Engineering Intern, MI 🇺🇸|Richardson, TX|5d56f24ab73a1be1a5efc6c29acd361f
+Nimble|Software Engineer Intern|Redwood City, CA|b3096c0696ea2f147392c738cc03419a
 Meta|Embedded Software Engineering Intern|Austin, TX|c1dc5dd5b0f88465c2e4fe421ec68af8
+Lumen Technologies|Engineer Intern|Remote, US|0931d778edc25d54aa30445b8db26bd7
+Lumen|Software Engineer Intern|Remote|b41fe8a4fd8da13a06f6a3dc28a19480
+Levi Strauss & Co.|Web Engineer Intern, F.I.T. 🛂|San Francisco, CA|18104c710bf359149b342d793bca84e6
+Keysight Technologies|Application Engineer Intern, Signal Processing 🛂|Santa Rosa, CA|88bac2829d8ebdce510c019a265b3e0e
 Keysight|R&D Software Engineering Intern 🛂|Calabasas, CA|cbbc26ad4f6007415fb8678acc40afb5
 Jack Henry|DevOps Engineer Intern 🇺🇸|Springfield, MO</br>Monett, MO|7452c5e3781bb853b2e1bfbd4930aeb0
+General Dynamics Mission Systems, Inc.|Software Engineering Intern|Dedham, MA|8903d8119072b9867753a459729cf595
+General Dynamics Mission Systems, Inc.|Software Engineering Intern|Dedham, MA|217455c2a4ec9cbb9b437af50d1cb493
+General Dynamics Mission Systems, Inc.|Software Engineering Intern, C++ Development 🇺🇸|San Antonio, TX|ea2bdd62ffbad03b37b1a739556aa78f
+CIBC|Software Engineer Intern 🛂|Chicago, IL|f159752fbc3de4f3b25a3c80f085fe85
+CIBC|Software Engineer Intern 🛂|Chicago, IL|c3a11bb181af44ac25559382ff6b645f
+Brilliant|Software Engineering Intern|New York, NY|9264b9b2a1efefc22f0d013ccb5c387d
+Anduril Industries|Software Engineer Intern|Washington, DC|1fa6a18b11e06ff972996475af489264
+Anduril Industries|Software Engineer Intern|Reston, VA|5683112ca8805599f6b6d2d220672d4f
 Schweitzer Engineering Laboratories|Software Engineer Intern|Liberty Lake, WA|4effa2156e44e874795dc5b9ce882626
 Fortive|Hardware Engineering Intern|Everett, WA|177879b1bf01c36fc77462f29ca05b18
 Centene|Business Intelligence Analyst Intern|Remote in USA|99c869deac913c27086c7f9dd441531b
@@ -38,12 +55,9 @@ KSM|AI & Automation Intern 🛂|Indianapolis, IN|423c9e10fe271f5646b598a53885bc4
 KLA|Software Engineering Intern|Milpitas, CA|548fb98587b072caab9376736e9b2cae
 KLA|Software Engineering Intern|Milpitas, CA|b6d566c7606a5c5a7ecc2a7ef7071fc0
 KLA|Software Engineer (AI/ML) Intern|Austin, TX</br>Milpitas, CA|46c73afa8c6de75617b976404b3c6703
-Inspire Medical Systems|Firmware Engineering Intern 🛂|Minneapolis, MN|2fd7c1ecbdb3abd9594a70462d3d72b4
-Inspire Medical Systems|Firmware Engineering Intern 🛂|Minneapolis, MN|2c9696e5e12d08c0b0c1cf3be414fb8c
 Honeywell|Systems Engineering Intern|United States|29c68ee40f9f786cc695e2fc59d5247d
 Hewlett Packard Enterprise|AI Research Lab Research Associate Intern|Milpitas, CA</br>Fort Collins, CO|1ffafab0b37109841d1dca2179dd0569
 Hewlett Packard Enterprise|AI/ML Intern 🛂|San Jose, CA|ab3aa42d001ed4793a820e020d186be4
-EQT Corporation|AI Intern 🛂|Remote in USA|854fd764ed498a17dd50308727f7c78e
 Domino Data Lab|Forward Deployed Engineer Intern|New York, NY|0635fe7af7f1270c20110cef99c33600
 Credit Karma|Machine Learning Intern 🛂|Charlotte, NC|bfd0495cbc7b85094698f97c7864a56d
 ByteDance|Software Engineer Intern, Masters|San Jose, CA|fa42dbef1ac6f7a53ad3bce5e66330d4
