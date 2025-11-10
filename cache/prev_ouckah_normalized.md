@@ -1,3 +1,24 @@
+Zoox|Data Scientist Intern|San Mateo, CA|7a489894fe888bf7d417794cc01c3a1f
+Tenstorrent|Platform Software Intern|Austin, TX</br>Santa Clara, CA|4e1b89ff03fc7bea1b59df2d1ba6d19e
+Sigma Computing|AI/ML Graduate Engineering Intern|San Francisco, CA|77ef3488a05cb83d41b1b65edb647f9d
+RTX|Systems Engineering Intern|Huntsville, AL|0807116104f6eb58ad55bfb614addee9
+Reingold|AI Solutions Intern|Alexandria, VA|9b7777c2bc1d62bde8aa211c1ec43177
+Ramp|Software Engineer Intern, Forward Deployed|New York, NY|9a2bfe33b81b5d0f65bb37e1a96e572b
+Motorola|Central Services GIS Intern|<details><summary>**9 locations**</summary>Kansas</br>Montana</br>Georgia</br>Virginia</br>Utah</br>Wisconsin</br>Michigan</br>Illinois</br>Idaho</details>|040a103d05ffb5f01ffa33a624d343fa
+ICF International|Data Science Intern|Reston, VA|bb0bc37ad9ce010f468ca8830f3707bd
+Honeywell|Product Management Intern, Master's|Houston, TX</br>Des Plaines, IL|d4ab6b6b45fdf302dcb87c9d52050f08
+Hitachi Energy|Signal Engineering Software Intern|Pittsburgh, PA|4ae2300f490c9c24ea6a8884b3bbb8f7
+HCSC|Data Science Intern|Chicago, IL|c9952f7e1788f437e3056759737699e7
+General Dynamics Mission Systems|Software Engineer Intern, Software Engineering|Canonsburg, PA|0c326d41e4b656e8b396ce57ad067725
+Formlabs|Print Optimization Intern|Cambridge, MA|c94a2b918d57fdd05480305eaacec372
+Flowserve|Application Engineer Co-op/Intern|Beaumont, TX|66b1f3b90102c4c9415da087afb7cdcb
+Braze|Software Engineer Intern|New York, NY|b93bbfc200f398b4da400337916872b3
+Bandwidth|Software Development Intern, Voice|Raleigh, NC|6939560ca85878a83622a4ee0d1d5ecb
+Bandwidth|Software Development Intern, Messaging|Raleigh, NC|739dec674d0668b86e45f47bcdf078c0
+Bandwidth|Software Development Intern, Numbers|Raleigh, NC|3ae8de654542d8a2ea888ee467a0c780
+Bandwidth|Software Development Intern, Billing|Raleigh, NC|f5df5c2397a3b8449e74db30e03df712
+Bandwidth|Software Development Intern, Emergency Services|Raleigh, NC|40082a121831b12064eb5851f5593f33
+ASML|Software Engineer Intern|Wilton, CT|f3a0e8229569336b8991d94cec9294c4
 Zoox|Test Automation & QA Systems Intern|Foster City, CA|cdfdaeff7db625e0f82cca09ff7b5a36
 Zoox|Systems Engineering Intern|Foster City, CA|cb3c606e9598b8ccb42fba4f2f9465c9
 Zoox|Mapping Software Intern|Foster City, CA</br>Boston, MA|775ac5527fa5492d0ade4dc7d3b8fb88
