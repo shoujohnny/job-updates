@@ -1,6 +1,8 @@
 Zoox|Full Stack Engineer Intern|Foster City, CA|58b58ff1cdd426e11b6fecca35fb5702
 Solidigm|AI/Software Engineering Intern|Rancho Cordova, CA|eafabc71f3c97c6e3c4f1220f4a5571b
 Sandisk|GenAI & AI/ML Engineering Intern|Milpitas, CA|31b19f28e398aabb7ccd113d17971c74
+Optiver|FutureFocus Tech, Fasttrack for Software Engineering Intern 2027|Chicago, IL|f01520f12ec11c3082e38562811f95ca
+Optiver|FutureFocus Quants, Fasttrack for Trading & Research Intern 2027|Chicago, IL|b0153c735aa34258c6a31bd40432781f
 NBCUniversal|Software Engineer Intern 🛂|New York, NY|3f30fa01e75618f06068a152bcb6a6c8
 NBCUniversal|Technology Intern 🛂|New York, NY|869c56953710d2c8ba66bf59db6b9b73
 NBCUniversal|Software Engineer Intern 🛂|New York, NY|d506b9f43f5df9355d7aa677558cc6b8
