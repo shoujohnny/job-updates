@@ -1,3 +1,15 @@
+Zoox|Full Stack Engineer Intern|Foster City, CA|58b58ff1cdd426e11b6fecca35fb5702
+Solidigm|AI/Software Engineering Intern|Rancho Cordova, CA|eafabc71f3c97c6e3c4f1220f4a5571b
+Sandisk|GenAI & AI/ML Engineering Intern|Milpitas, CA|31b19f28e398aabb7ccd113d17971c74
+NBCUniversal|Software Engineer Intern 🛂|New York, NY|3f30fa01e75618f06068a152bcb6a6c8
+NBCUniversal|Technology Intern 🛂|New York, NY|869c56953710d2c8ba66bf59db6b9b73
+NBCUniversal|Software Engineer Intern 🛂|New York, NY|d506b9f43f5df9355d7aa677558cc6b8
+NBCUniversal|Software Engineer Intern 🛂|New York, NY|3da0902ca0741ed33835cabb1fdb0ca2
+NBCUniversal|Software Engineering Intern 🛂|New York, NY|c89d3e63d53bf5980a6cb2b1262f5113
+MongoDB|Software Engineer Intern, Internal Engineering|New York, NY|ecec27e53a714a40658b0275cbe143bc
+iCapital|Platform Engineering Intern 🛂|New York, NY|1470725c39cfb1d8a339ea6ef85280fb
+Datadog|Software Engineering Intern, SRE|New York, NY|f742d8f05c3f1997c4715c88e58b71de
+Cognex|Software Engineering Intern|Wauwatosa, WI|4fac45c64d8c105ef2b129c01db19c25
 Zoox|Data Scientist Intern|San Mateo, CA|7a489894fe888bf7d417794cc01c3a1f
 Tenstorrent|Platform Software Intern|Austin, TX</br>Santa Clara, CA|4e1b89ff03fc7bea1b59df2d1ba6d19e
 Sigma Computing|AI/ML Graduate Engineering Intern|San Francisco, CA|77ef3488a05cb83d41b1b65edb647f9d
@@ -457,7 +469,6 @@ Workday|Software Development Engineer Intern 🛂|Pleasanton, CA|cb67ce8133cb326
 Uber|Software Engineer Intern|San Francisco, CA|17c7b7b34adf15f2468ee636ec8e1a2c
 Veritiv Corporation|Business Analytics Intern|Sandy Springs, GA|464036b0faeaf60ebcd3d0143c47231f
 TikTok|Product Manager Intern|San Jose, CA|0eb7b9df8c8e9147fb09d0c750d15fcc
-Rocket Lab USA|Security Analyst Intern|Essex, MD|241aa6f3315b092dd1ee40ba73f14da5
 Rocket Lab USA|Security Analyst Intern|Long Beach, CA|d86e49d50ed257bc9d467d37490b764d
 RESPEC|Software Engineering Intern|Richardson, TX|d5c624dfb27cd08a197e0ce532e16716
 Qualcomm|Intern - And Sensors Subsystem Engineering Internship|Markham, ON, Canada|5501e93f8d3f2293474c834f0f0d344a
@@ -552,7 +563,6 @@ Waymo|Systems Engineering Intern, Behaviors|San Francisco, CA|f3d0cc4b1c1c5ae36b
 Voloridge Health|Health DevOps Engineer Intern|Jupiter, FL|5b03c55f876dd8bfd76ebae0f1ddbb29
 Voloridge Health|Health Software Engineer Intern|Jupiter, FL|8c6c90b334dc6a2737158395d26a44a9
 Universal Orlando Resort|Software Development Intern, Resort Accessibility And Compliance|Orlando, FL|5c5578ea288b5baddf03e54544b1ad1e
-Toyota Research Institute|Robotics Intern, Mobile Manipulation, Perception|Los Altos, CA|1eddc5c489b1e2d0136114e12fda3a6c
 ThermoAnalytics, Inc.|Software Development Intern 🛂|Calumet, MI</br>Novi, MI|78785606d9a39b9d87d3ae837da5fe14
 Skyworks|IC Development (Software) Intern|Austin, TX|dac930958967892db18ecb6bdea98713
 SharkNinja|Mobile App Developer Intern|Needham, MA|9a4be7ab1546b0326f3bd66bd84e553b
