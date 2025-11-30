@@ -1,5 +1,8 @@
+TraceRoot.AI|Software Engineering Intern|San Francisco, CA</br>Remote|6f42f9c3bbf6d6cbaa618b9e054c78ff
+attimet|Software Engineer Intern, Backend 🇺🇸|San Francisco, CA</br>Remote|6807986666b14ef941f5bbdce1bd1fda
 ZEISS|Software Engineering Intern|Dublin, CA|871df6030cb49b15ed04f1293dd675b7
 The Aerospace Corporation|Software Process and Architecture Intern 🇺🇸|El Segundo, CA|2d1e46777baa48db77e43ecfee00c357
+Tenstorrent|Software Engineering Intern, Scaleout Software (Distributed Systems & Infrastructure) 🇺🇸|Santa Clara, CA|9bd90e6851b11bb833188fbf46a7ff3e
 Skyworks|IC Development (Software) Intern|Austin, TX|7162d73065a1b905e40e136b93baaab1
 Rockwell Automation|Software Engineer Co-op 🛂|Milwaukee, WI|1cb08e234c03b709282276c83f7a0ccd
 PulteGroup|Software/AI Engineer Intern|Atlanta, GA|683799807c6a70e910e3a616d81665e0
