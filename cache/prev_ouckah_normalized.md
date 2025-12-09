@@ -1,3 +1,14 @@
+Westinghouse Electric Co|Software Engineering Intern|Shoreview, US|fe337a56b0aeb386e6ac84bb03c47453
+Viasat|Software Engineer Intern, Product Development|Carlsbad, CA|2449f79a45d1249688597779f7612527
+The Walt Disney Company|Software Engineering Intern, B2B Products|Orlando, FL|cf93f01414780bc95e2e8aff65d237f0
+Tesla|Embedded Software Engineer Intern, Firmware Platforms|Palo Alto, CA|a19833713fe9fa1b09565c698f6ad9d2
+Tesla|Fullstack Software Engineer Intern, Fleetnet|Palo Alto, CA|bf259996cc55cf62fe3af5794d5a09e1
+Teradyne|Software Engineering Intern 🛂|North Reading, MA|ce6fb773cbed8bf511805ec212935852
+Seagate|Firmware Development Engineering Intern|Longmont, CO|80a1c2ea65be1831fb32b6d9412ed9f4
+OTTO Engineering|Firmware/Embedded Engineer Intern, Communications|Carpentersville, IL|1402081535c1e08ddaf4cb9efc460e0a
+ETCHED|Software Intern|San Jose, CA|fde5fd6b0696e5b8889be1deaac7c177
+CommScope|IMS Software Engineering Intern 🛂|Catawba, NC|ae02c6e4e5639c96379568eadbb4b6f2
+Airbnb|Software Engineering Intern 🛂|Remote|f8e2547d198e65ec697941a5707b20f9
 TraceRoot.AI|Software Engineering Intern|San Francisco, CA</br>Remote|6f42f9c3bbf6d6cbaa618b9e054c78ff
 attimet|Software Engineer Intern, Backend 🇺🇸|San Francisco, CA</br>Remote|6807986666b14ef941f5bbdce1bd1fda
 ZEISS|Software Engineering Intern|Dublin, CA|871df6030cb49b15ed04f1293dd675b7
