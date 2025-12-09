@@ -5,8 +5,11 @@ Tesla|Embedded Software Engineer Intern, Firmware Platforms|Palo Alto, CA|a19833
 Tesla|Fullstack Software Engineer Intern, Fleetnet|Palo Alto, CA|bf259996cc55cf62fe3af5794d5a09e1
 Teradyne|Software Engineering Intern 🛂|North Reading, MA|ce6fb773cbed8bf511805ec212935852
 Seagate|Firmware Development Engineering Intern|Longmont, CO|80a1c2ea65be1831fb32b6d9412ed9f4
+PlayStation|Graphics Programming Intern 🇺🇸|San Diego, CA|65dcee45d3dd4dfa9e187d777beb1fe6
 OTTO Engineering|Firmware/Embedded Engineer Intern, Communications|Carpentersville, IL|1402081535c1e08ddaf4cb9efc460e0a
+NVIDIA|Software Engineering Intern, Omniverse Replicator|Toronto, Canada|b43b12db2d922491ac8455ba3c67b1f9
 ETCHED|Software Intern|San Jose, CA|fde5fd6b0696e5b8889be1deaac7c177
+Electronic Arts|Security Automation Engineer Intern 🇺🇸|Austin, TX|330d8e0c2927053cb97a3ff8e3b8d513
 CommScope|IMS Software Engineering Intern 🛂|Catawba, NC|ae02c6e4e5639c96379568eadbb4b6f2
 Airbnb|Software Engineering Intern 🛂|Remote|f8e2547d198e65ec697941a5707b20f9
 TraceRoot.AI|Software Engineering Intern|San Francisco, CA</br>Remote|6f42f9c3bbf6d6cbaa618b9e054c78ff
