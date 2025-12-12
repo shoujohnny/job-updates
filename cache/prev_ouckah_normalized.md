@@ -1,3 +1,7 @@
+Teradata|Software Engineering Intern 🇺🇸|El Segundo, CA|c223c02e76c85ca032519d285bc3f9c5
+GM Financial|Software Development Engineer Intern 🛂|Irving, TX|941ea55447e2e08304e2907c19662cd5
+Docusign|Software Engineer Intern 🛂|Seattle, WA|56d699310191a3b0ccfd4bae8bf41131
+Axiom Space|EVA Software Engineering Intern 🇺🇸|Houston, TX|55174f124c48aef306e2f33c1e739dbd
 Westinghouse Electric Co|Software Engineering Intern|Shoreview, US|fe337a56b0aeb386e6ac84bb03c47453
 Viasat|Software Engineer Intern, Product Development|Carlsbad, CA|2449f79a45d1249688597779f7612527
 The Walt Disney Company|Software Engineering Intern, B2B Products|Orlando, FL|cf93f01414780bc95e2e8aff65d237f0
@@ -520,7 +524,6 @@ Sift|Software Engineering Intern 🇺🇸|El Segundo, CA|83de74c3ddab213ff83cbca
 ServiceNow|AI for Security Operations Engineering Intern|San Diego, CA|ec1bc2e2e64b273625b4fb5307b50db7
 Robinhood|Software Engineering Intern, Web 🛂|Menlo Park, CA|d1d130a180dc08271016aad9d2e8d12c
 Robinhood|Software Engineering Intern, iOS 🛂|Menlo Park, CA|8850142db721581a44c315ba95c312c2
-Robinhood|Software Engineering Intern, Backend 🛂|Menlo Park, CA|672786a1673444a91d464c081bfaf8c5
 Robinhood|Software Engineering Intern, Android|Menlo Park, CA|b5a3a265bf1bb11e45638be16e35ab08
 Robinhood|Software Developer Intern, Web|Toronto, Canada|0cbbeaa7d7d89921c72f04f0ba32cc6a
 Robinhood|Software Developer Intern, Backend|Toronto, Canada|6377aaae33918c17e36b5784fec0cb0a
