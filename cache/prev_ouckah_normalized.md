@@ -1,3 +1,4 @@
+Microsoft AI|Software Engineer: AI/ML Intern|Mountain View CA</br>Redmond WA|7c06c938dd7c283dade800e07bb2cdd7
 Teradata|Software Engineering Intern 🇺🇸|El Segundo, CA|c223c02e76c85ca032519d285bc3f9c5
 GM Financial|Software Development Engineer Intern 🛂|Irving, TX|941ea55447e2e08304e2907c19662cd5
 Docusign|Software Engineer Intern 🛂|Seattle, WA|56d699310191a3b0ccfd4bae8bf41131
