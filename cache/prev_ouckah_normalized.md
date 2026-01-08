@@ -1,3 +1,4 @@
+SoFi|Software Engineer Intern|San Francisco, CA|e3651d9255f6daf6b39a01989718fc70
 Voltair|Software Engineering Intern 🛂|San Francisco, CA|2ec39cf25f39043d23d037ef5aaaa072
 Under Armour|Engineering Intern|Remote, US|6135a838b00ffbbc7b502601961a496c
 TTM Technologies|Software Engineer Intern 🇺🇸|Farmingdale, NY|430178608cc77fa8b854920392e6b6a7
