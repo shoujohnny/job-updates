@@ -3,6 +3,11 @@ Together AI|Research Intern, Inference|San Francisco|9147b03ea13153f86b2ca5a5c63
 Together AI|Software Engineer Intern|San Francisco, CA|bec5bd1459e0e57b48b626c3697f8712
 Together AI|Security Engineer Intern|San Francisco, CA|900ca053f51c3090f5665337e233465f
 Together AI|Systems Research Engineer Intern, GPU Programming|San Francisco, CA|f77e23032b4d8abfdb5ec5d81e9c730f
+TikTok|Campaign Operations Project Intern|Los Angeles, CA|e3ed73f75daa901d94547da68a0da229
+TikTok|Platform Campaign Project Intern|Seattle, WA|2b86a872d485a19c3af40429a4460243
+TikTok|Product Strategy Project Intern, TikTok-Product-Business Analytics|Los Angeles, CA|5a99b49d441c66048d3da84ae3d10c58
+TikTok|Product Strategy Project Intern, TikTok-Product-Business Analytics|San Jose, CA|ca4f90ddd7eb874d67b54ab5ed3c843b
+Tesla|Intern, Vehicle Parts Project Manager, Vehicle Firmware|Palo Alto, CA|79a44cb134a713aa938d7523d69adb17
 Tesla|Engineering Automation Software Engineer Intern, Vehicle Engineering|Palo Alto, CA</br>Fremont, CA|2e45921f7300c8ff1ab40cf23273afb1
 Tesla|Network Engineer Intern, Infrastructure Engineering|Fremont, CA|138ecfe9c5778111320e53169aae8dd5
 Tesla|Software Engineer Intern, Foundation Inference Infrastructure|Palo Alto, CA|e4036d075c3bb8602e4f531478d85804
@@ -18,6 +23,8 @@ Tesla|Software QA Engineer Intern, Vehicle Software|Palo Alto, CA|0e3c63be63f009
 Tesla|Android Engineer Intern, Mobile Software|Palo Alto, CA|9ca2246925a4af7dca32f694c59018c8
 Tesla|Quality Assurance Analyst Intern, Robotaxi|Palo Alto, CA|bc422feb125f9e9c12b8510285299917
 Radiance Technologies|Software Engineer Intern 🇺🇸|All Remote Locations|7db81af99afa0f812f1d7ebd7537301d
+Netflix|Security Technical Program Manager Intern|Los Gatos, CA|9ad57b2b9b30f4811dad84addafe0222
+Microsoft|Technical Program Manager Intern|United States, Multiple Locations|22f61e4775f960daee6a4e10c55e3be4
 Microsoft|Penetration Tester Intern|United States|f196efd6189945e94d0878c1600da722
 Microsoft|Research Intern|Remote|c0711a67d55ac802c4ed996e7dcd0cd6
 Microsoft|Silicon Engineering Intern|United States, Multiple Locations|0b1e1e58aaf2c2ad12ccf2793f403b3a
