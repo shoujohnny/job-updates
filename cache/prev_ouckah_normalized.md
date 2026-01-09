@@ -1,4 +1,10 @@
+Tesla|Quality Assurance Analyst Intern, Robotaxi|Palo Alto, CA|bc422feb125f9e9c12b8510285299917
 SoFi|Software Engineer Intern|San Francisco, CA|e3651d9255f6daf6b39a01989718fc70
+GIGA|Software Engineer Intern|San Francisco, CA|a54d95a58227920afbb84d9761349153
+Docusign|Software Engineer Intern 🛂|Seattle, Washington|1334a6170c5fe385dabc1ad920a34852
+AMD|Software Engineering Intern/Co-op 🛂|<details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details>|ec286d106237d3fb61b87790071af379
+AMD|Software Engineering Intern/Co-op 🛂|San Jose, CA</br>Santa Clara, CA|11ad2c2b3955ea5effbeaf3472289b3c
+AMD|Hardware Engineering Intern 🛂|San Jose, CA</br>Santa Clara, CA|0aab26c55f0e1d2cb6daa62389eed188
 Voltair|Software Engineering Intern 🛂|San Francisco, CA|2ec39cf25f39043d23d037ef5aaaa072
 Under Armour|Engineering Intern|Remote, US|6135a838b00ffbbc7b502601961a496c
 TTM Technologies|Software Engineer Intern 🇺🇸|Farmingdale, NY|430178608cc77fa8b854920392e6b6a7
