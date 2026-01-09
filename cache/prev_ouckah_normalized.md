@@ -1,3 +1,9 @@
+Together AI|Research Intern, Model Shaping|San Francisco, Amsterdam|fa39c4eb1903eaf1565aa283b81277f5
+Together AI|Research Intern, Inference|San Francisco|9147b03ea13153f86b2ca5a5c6323350
+Together AI|Software Engineer Intern|San Francisco, CA|bec5bd1459e0e57b48b626c3697f8712
+Together AI|Security Engineer Intern|San Francisco, CA|900ca053f51c3090f5665337e233465f
+Together AI|Systems Research Engineer Intern, GPU Programming|San Francisco, CA|f77e23032b4d8abfdb5ec5d81e9c730f
+Tesla|Engineering Automation Software Engineer Intern, Vehicle Engineering|Palo Alto, CA</br>Fremont, CA|2e45921f7300c8ff1ab40cf23273afb1
 Tesla|Network Engineer Intern, Infrastructure Engineering|Fremont, CA|138ecfe9c5778111320e53169aae8dd5
 Tesla|Software Engineer Intern, Foundation Inference Infrastructure|Palo Alto, CA|e4036d075c3bb8602e4f531478d85804
 Tesla|Software Engineering Intern, Recruiting|Palo Alto, CA|f782ba80d55d1ac7ef4333e1da6b720a
@@ -11,7 +17,12 @@ Tesla|System Software Engineer Intern, Graphics|Palo Alto, CA|bcb4700308542019e5
 Tesla|Software QA Engineer Intern, Vehicle Software|Palo Alto, CA|0e3c63be63f0092f6a3a790424764ccf
 Tesla|Android Engineer Intern, Mobile Software|Palo Alto, CA|9ca2246925a4af7dca32f694c59018c8
 Tesla|Quality Assurance Analyst Intern, Robotaxi|Palo Alto, CA|bc422feb125f9e9c12b8510285299917
+Radiance Technologies|Software Engineer Intern 🇺🇸|All Remote Locations|7db81af99afa0f812f1d7ebd7537301d
+Microsoft|Penetration Tester Intern|United States|f196efd6189945e94d0878c1600da722
+Microsoft|Research Intern|Remote|c0711a67d55ac802c4ed996e7dcd0cd6
+Microsoft|Silicon Engineering Intern|United States, Multiple Locations|0b1e1e58aaf2c2ad12ccf2793f403b3a
 Lucid|Test Engineer, Model Based Design, Controls Software Engineer Intern|Newark, CA|c745a1f63c80e4ace523a744b56abed3
+Keysight|Software Development Intern|Atlanta, GA|456712a0dc2bf8ec77571ab92b87aa2f
 Garmin International|Aircraft Systems Engineer Intern, Electrical/Systems|Chandler, AZ|19e443850b289aec6cf86b810b1b76c1
 AMD|Hardware Engineering Intern/Co-op 🛂|<details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details>|e82d71f77978b37216f32293c44fda9d
 AMD|Firmware Engineering Intern/Co-op 🛂|<details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details>|03d509c5fcc01d85f8dc2b351d20a362
