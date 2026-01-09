@@ -1,4 +1,20 @@
+Tesla|Network Engineer Intern, Infrastructure Engineering|Fremont, CA|138ecfe9c5778111320e53169aae8dd5
+Tesla|Software Engineer Intern, Foundation Inference Infrastructure|Palo Alto, CA|e4036d075c3bb8602e4f531478d85804
+Tesla|Software Engineering Intern, Recruiting|Palo Alto, CA|f782ba80d55d1ac7ef4333e1da6b720a
+Tesla|Fullstack Engineer Intern, Infrastructure Engineering|Fremont, CA|3ef5d1c66b9958a7e1b3e62c9264b897
+Tesla|Frontend Engineer Intern, Applications Engineering|Fremont, CA|43c805e45efc187543052636787686e0
+Tesla|Site Reliability Engineer Intern, Applications Engineering|Fremont, CA</br>Palo Alto, CA|c193cb303491dc6aa4a5c38a5578a75f
+Tesla|Software Engineer Intern, Maps & Self-Driving Navigation|Palo Alto, CA|237fef48376f2ba90e40ed67b74a641f
+Tesla|Fullstack Engineer Intern, Build Infrastructure|Palo Alto, CA|a23f8670fea7e8a78bb2022647b21ec2
+Tesla|Software Engineer Intern, Linux Update Systems|PALO ALTO, California|5b278fa7c58de45f5ecd41801b4e48b8
+Tesla|System Software Engineer Intern, Graphics|Palo Alto, CA|bcb4700308542019e5a584c3fe20ac32
+Tesla|Software QA Engineer Intern, Vehicle Software|Palo Alto, CA|0e3c63be63f0092f6a3a790424764ccf
+Tesla|Android Engineer Intern, Mobile Software|Palo Alto, CA|9ca2246925a4af7dca32f694c59018c8
 Tesla|Quality Assurance Analyst Intern, Robotaxi|Palo Alto, CA|bc422feb125f9e9c12b8510285299917
+Lucid|Test Engineer, Model Based Design, Controls Software Engineer Intern|Newark, CA|c745a1f63c80e4ace523a744b56abed3
+Garmin International|Aircraft Systems Engineer Intern, Electrical/Systems|Chandler, AZ|19e443850b289aec6cf86b810b1b76c1
+AMD|Hardware Engineering Intern/Co-op 🛂|<details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details>|e82d71f77978b37216f32293c44fda9d
+AMD|Firmware Engineering Intern/Co-op 🛂|<details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details>|03d509c5fcc01d85f8dc2b351d20a362
 SoFi|Software Engineer Intern|San Francisco, CA|e3651d9255f6daf6b39a01989718fc70
 GIGA|Software Engineer Intern|San Francisco, CA|a54d95a58227920afbb84d9761349153
 Docusign|Software Engineer Intern 🛂|Seattle, Washington|1334a6170c5fe385dabc1ad920a34852
