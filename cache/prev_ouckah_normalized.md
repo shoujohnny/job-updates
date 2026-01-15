@@ -1,8 +1,18 @@
+TikTok|Frontend Software Engineer Intern, Ads Measurement Signal and Privacy|San Jose, CA|b909d6487edeab34886a8af146ce32e7
 Streamable|Software Engineer Intern|San Francisco, CA</br>Remote|f9e69bc81fb366cc6b493aa317a1ccdc
+Stanley Black & Decker|Embedded Software Engineering Intern|Towson, MD|f34579c61dfd41bcf4e5c6e4298ba089
 Speak|Full-stack Engineer Intern|San Francisco, CA|8dde6744a698efdefdd459aae1a72e58
 Speak|iOS Engineering Intern|San Francisco, CA|f37c14d70ab6440712f672582f952aa7
+Siemens|Associate Software Engineering Intern, Business Operations|Charlotte, NC|fd8f3cd5d3f808b9a82980b7784f7256
+Red Aspen|Software Development Intern|Meridian, ID|a756f5316ee42e9a8990b9cec13c9345
 Merz|Salesforce Developer Intern|Raleigh, NC|4cde3a38748e091f239dcb683cec1d72
+Jolera|Software Engineer Intern|Buffalo, NY|5e9cffac4444bcb96642a8656428f42f
+Johnson Controls|Software Engineering Intern|Milwaukee, WI|a85834f5089f2db002afab01cef58e6d
 Guardian RF|Front End and UI Software Engineering Intern 🛂|Remote|751dcd36354c6e423cd678525401b9f9
+Docusign|Software Engineer Intern, Developer Experiences and Extensibility Platform 🛂|San Francisco, CA|96eb69641d2ce000ddfa1f402601b6d1
+Crystal Dynamics|Gameplay Engineer Intern|San Carlos, CA|847930a9bfed0e0c939165365f434e73
+Cox Enterprises|Software Engineering Intern 🛂|Draper, UT|daeee9d6b4a117793762ed81dd099ea4
+Adobe|2026 Intern - Machine Learning Engineer|San Francisco, CA|0818c3ce348abc8184cbfcdef994f85a
 Capital One|Technology Internship Program|Richmond, VA</br>Plano, TX|367a811b6ae98904e0c31ca21aab5710
 Tesla|Technical Program Manager Intern, Cell Manufacturing|<details><summary>**5 locations**</summary>Palo Alto, CA</br>Fremont, CA</br>Austin, TX</br>Robstown, TX</br>Reno, NV</details>|36e6739dcb8fc9a5d2ef7ced60462aa5
 Exiger|Software Engineering Intern|Mclean, VA|f658df3228ec7cf4059a5a773fd19059
