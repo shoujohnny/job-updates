@@ -1,3 +1,17 @@
+Tesla|Software Engineer Intern, Applications Engineering|Austin, TX|795de76f7862a0e1ae825b0ae183af68
+Premier, Inc.|Software Engineer Intern|Charlotte, NC|74ab479b545565d356019bce32cb320e
+Platform Aerospace|Software Engineering Intern|Hollywood, MD|b56bfd7bcb78031e319af090d397a66c
+Micron Technology|AI Agent Development Intern|San Jose, CA</br>Boise, ID|fbfdf5b4c85e94c5b440ee7696f7c758
+Lenovo|Windows Software Engineer Intern|Morrisville, NC|5429c2c032f4f60df0a171257e03fbad
+Labcorp|Intern, Test Automation Engineer 🛂|Remote|9bc4bbff8f249e4f4dd1a3c1cf931ab9
+Intuitive|Camera Image Processing Algorithm Intern|Sunnyvale, CA|b9c8f7c64bfcb366ce15f5e9a595b580
+HP, Inc|Software Developer Intern 🛂|Spring, TX</br>Corvallis, OR</br>Vancouver, WA|479e0143133d7eb94881d81e49fd7942
+Flock Safety|Device Software Intern|Atlanta, GA|2d33fe661b9f8fbfbe8531df950ef5bf
+CrowdStrike|Software Engineer Intern|Redmond, WA</br>Sunnyvale, CA|0ad3a2350f6200bb2d220d5023141dcf
+Ciena|Software Developer Intern, Waveserver|Atlanta|2ccc8f9e05c184a535ecebb7dbfd22f2
+Bread Financial|Platform Automation Engineering Intern|Plano, TX|1b2fc4c65a61406e139a9c19ab5e7de6
+Bread Financial|Intelligent Automation Intern|Columbus, OH|e181712a691a45a096aade36f5836d8f
+Alcon|Embedded Software Engineering Intern|Lake Forest, CA|46b29e68db3b0b6ac53a179367ca5946
 TikTok|Frontend Software Engineer Intern, Ads Measurement Signal and Privacy|San Jose, CA|b909d6487edeab34886a8af146ce32e7
 Streamable|Software Engineer Intern|San Francisco, CA</br>Remote|f9e69bc81fb366cc6b493aa317a1ccdc
 Stanley Black & Decker|Embedded Software Engineering Intern|Towson, MD|f34579c61dfd41bcf4e5c6e4298ba089
