@@ -20,8 +20,6 @@ Exiger|Cybersecurity Intern|New York, NY|051b5a8fb6933ba5b57fbd8eeb5f6487
 Crusoe|Product Security Applied AI Intern|San Francisco, CA|a1722bd191349bf1f99a9d98b5e4b19b
 Together AI|Research Intern, Model Shaping|San Francisco, Amsterdam|fa39c4eb1903eaf1565aa283b81277f5
 Together AI|Research Intern, Inference|San Francisco|9147b03ea13153f86b2ca5a5c6323350
-Together AI|Software Engineer Intern|San Francisco, CA|bec5bd1459e0e57b48b626c3697f8712
-Together AI|Security Engineer Intern|San Francisco, CA|900ca053f51c3090f5665337e233465f
 Together AI|Systems Research Engineer Intern, GPU Programming|San Francisco, CA|f77e23032b4d8abfdb5ec5d81e9c730f
 TikTok|Campaign Operations Project Intern|Los Angeles, CA|e3ed73f75daa901d94547da68a0da229
 TikTok|Platform Campaign Project Intern|Seattle, WA|2b86a872d485a19c3af40429a4460243
@@ -85,7 +83,6 @@ CommScope|IMS Software Engineering Intern 🛂|Catawba, NC|ae02c6e4e5639c9637956
 Airbnb|Software Engineering Intern 🛂|Remote|f8e2547d198e65ec697941a5707b20f9
 TraceRoot.AI|Software Engineering Intern|San Francisco, CA</br>Remote|6f42f9c3bbf6d6cbaa618b9e054c78ff
 attimet|Software Engineer Intern, Backend 🇺🇸|San Francisco, CA</br>Remote|6807986666b14ef941f5bbdce1bd1fda
-Tenstorrent|Software Engineering Intern, Scaleout Software (Distributed Systems & Infrastructure) 🇺🇸|Santa Clara, CA|9bd90e6851b11bb833188fbf46a7ff3e
 Skyworks|IC Development (Software) Intern|Austin, TX|7162d73065a1b905e40e136b93baaab1
 Proception AI|Firmware Engineering Intern|Palo Alto, CA|5f7aec5aaa9baa508cefbaea4d20b8ac
 Docusign|Software Engineer Intern|Seattle, WA|6e27abfe3c3d773579761f7439cc3cd1
@@ -112,9 +109,6 @@ Ramp|Software Engineer Intern, Forward Deployed|New York, NY|9a2bfe33b81b5d0f65b
 Honeywell|Product Management Intern, Master's|Houston, TX</br>Des Plaines, IL|d4ab6b6b45fdf302dcb87c9d52050f08
 General Dynamics Mission Systems|Software Engineer Intern, Software Engineering|Canonsburg, PA|0c326d41e4b656e8b396ce57ad067725
 Formlabs|Print Optimization Intern|Cambridge, MA|c94a2b918d57fdd05480305eaacec372
-Braze|Software Engineer Intern|New York, NY|b93bbfc200f398b4da400337916872b3
-Bandwidth|Software Development Intern, Voice|Raleigh, NC|6939560ca85878a83622a4ee0d1d5ecb
-Bandwidth|Software Development Intern, Messaging|Raleigh, NC|739dec674d0668b86e45f47bcdf078c0
 Bandwidth|Software Development Intern, Numbers|Raleigh, NC|3ae8de654542d8a2ea888ee467a0c780
 Bandwidth|Software Development Intern, Billing|Raleigh, NC|f5df5c2397a3b8449e74db30e03df712
 Bandwidth|Software Development Intern, Emergency Services|Raleigh, NC|40082a121831b12064eb5851f5593f33
@@ -124,7 +118,6 @@ Zoox|HIL & System Validation Intern|Foster City, CA|eda3be482ac7ad7ce31ea8f02c4c
 Zoox|Automation & DevOps Tooling Intern|Foster City, CA</br>San Diego, CA|97e662945562172a2712bd9cbb50f4fe
 Zoox|Firmware and C++ Development Intern|San Diego, CA</br>Foster City, CA|06464ef3486f8237d093391a658293da
 Zoox|Data Engineer Intern|Foster City, CA|fe9e7465b41fbcfa1f092e543f534be3
-SingleStore|Software Engineer Intern|United States|cfad38117bf7720648a66361343cf095
 Seagate|FPGA System Developer Intern|Shakopee, MN|2075e1af5831038a7bb3e2e7aa19ae6f
 MongoDB|UI Engineering Intern|New York, NY|f50f579a541bd5658ec790453a50e2c7
 Bandwidth|Software Development Intern, Identity|Raleigh, NC|f8616cccbf89a02cd768777e52c239b5
@@ -134,7 +127,6 @@ Awardco|Back-End Software Engineer Intern 🛂|Lindon, UT|131064d99c5a5bde889c1d
 Awardco|Product Manager Intern 🛂|Lindon, Utah|314a6ec1a1015ba9967a6b13762659a0
 Trimble|Software Engineering Intern|Portsmouth, NH|8a35fae72c0301480e54322fdc5f8b76
 Saviynt LABS|Software Engineering Intern, R&D|El Segundo, CA|75bcae975a544a8af40b145258855a55
-Nimble|Software Engineer Intern|Redwood City, CA|b3096c0696ea2f147392c738cc03419a
 Meta|Embedded Software Engineering Intern|Austin, TX|c1dc5dd5b0f88465c2e4fe421ec68af8
 Lumen Technologies|Engineer Intern|Remote, US|0931d778edc25d54aa30445b8db26bd7
 Lumen|Software Engineer Intern|Remote|b41fe8a4fd8da13a06f6a3dc28a19480
@@ -386,7 +378,6 @@ Lazard|Data Engineer Intern, Data Analytics Group|NYC|c1775b7487a0c16f4e0c5efb4d
 Lazard|AI Engineer Intern, Data Analytics Group|NYC|39b16b89884adc08412e26d667253690
 GuideWell Mutual|IT Summer Graduate Intern|Jacksonville, FL|68b329da9893e34099c7d8ad5cb9c940
 Google|Software Engineering Intern, Google Public Sector 🇺🇸|Reston, VA|684923bd0425993b0e5b19f69c7d238f
-GoFundMe|Data and Analytics Intern, Data and Decision Science|SF|c30ed0a78998877afdd0137a7e371d42
 GoFundMe|Product Management Intern|SF|7ccc019059189920f39669a0f5acd78d
 GM financial|Data Science Intern|Fort Worth, TX|640bcbe7560d3a4ef6966824933dcb2c
 General Dynamics Mission Systems|Network Operations Intern|Scottsdale, AZ|b392414b33df598815180432f81d4207
@@ -761,7 +752,6 @@ Bild AI|AI/SWE Intern 🇺🇸|San Francisco, CA|a624f6050f713b823d032b137c2487c
 Athelas|Software Engineering Intern|San Francisco, CA</br>Mountain View, CA|5235febee87ca3a3d9d40be86793f789
 Aluminum Dynamics|Software Engineer Intern|Columbus, MS|c41428d8f45995daa6df6ca4dd9e0899
 14.ai|Full Stack Engineering Intern 🇺🇸|San Francisco, CA|6b205670b20186a52b465901b2db5e3a
-Verkada|Backend Software Engineering Intern|San Mateo, CA|136e3aeb547e057fb0942756e38fcfa2
 Qorvo|Software Developer Intern 🛂|Greensboro, NC|d44559c428c73c497bce3fc4f4540ec3
 Oracle|Advanced Degree Software Engineer Intern, Database Technologies|Redwood Shores, CA|ccd99581277c4a2eaa0c1d2218a73795
 Oracle|Advanced Degree Software Engineer Intern, Fusion|Redwood City, CA</br>Pleasanton, CA</br>Santa Clara, CA|c7f760c1d9fa1268d35b340bca7616ae
@@ -1001,7 +991,6 @@ Jane Street|Machine Learning Researcher Intern|New York, NY|d0c3c7b1683c34990ffe
 Jane Street|Machine Learning Engineer Intern|New York, NY|8ec731fc90c33b026a3cbdae7ae1a53c
 Jane Street|Quantitative Researcher Intern|New York, NY|4b86cefc5e1cb8132937e1ebd160d74d
 Jane Street|Quantitative Trader Intern|New York, NY|1db9198e6dbb335c82d33e69c45c826b
-DRW|Software Developer Intern 🛂|Chicago, IL|9fbf2cc899868720459e66b06f9fd553
 TSMC|Computer Integrated Manufacturing (CIM) Engineer Intern|Phoenix, AZ|af709cc971de7ac77279755117e7d31f
 Susquehanna|Quantitative Strategy Developer Intern|Bala Cynwyd, PA|87b8a6c62e9552dd54d021fb2e20ba92
 Optiver|Quantitative Research Intern|Austin, TX|4f0a8697459a65c5df061b870d70e5cb
