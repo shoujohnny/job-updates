@@ -1,3 +1,16 @@
+vRad|Software Engineer Intern|Edina, MN|ccf45e70ca88a48ab2807505e834860b
+T-Mobile USA, Inc.|Software Engineer Intern 🛂|Frisco, TX|1504efc50eba0e4355d99ba6665ec4c7
+T-Mobile USA, Inc.|Software Engineer Intern, Device Insurance Technology 🛂|Overland Park, KS</br>Frisco, TX|b3181d467b523c726ff0c2e824fb9c5f
+Simple AI|Software Engineering Intern|San Francisco, CA|c50e58e7232a8f2758e6c5b12cddf8bf
+Publix|Intern - Software Engineer 🛂|Lakeland, FL|a4f6213308d536d83659f43b0f7f01b1
+Motorola Solutions|DevOps Software Intern 🛂|<details><summary>**6 locations**</summary>Culver City, CA</br>Los Angeles, CA</br>Norcross, GA</br>Morrisville, NC</br>Newington, VA</br>Remote</details>|0161952b75845075526ef84ff929b8f1
+Motorola Solutions|Software Engineering Intern|West Valley City, UT</br>Remote|bbe7a4fdfc7d3b807d4bca5cbf7d6bcc
+Microchip Technology Inc|Intern - Engineering (Applications)|Roseville, CA|219091846ef3f0e9539802ddfd13f27e
+Kaiser Permanente|Application Engineer Intern|Pleasanton, CA|59c8453645b9b8bfa1f836a9e858bbb5
+Ericsson|Baseband Software Developer Intern 🛂|Austin, TX|a5ded201aaa191f5558e75f84b623c7f
+Empower|Software Engineer Intern, Technology Modernization 🛂|Greenwood Village, CO|5118113c6890f75f4a3e6abca15f8e2d
+d-Matrix|Software Engineering Intern, Developer and Qualification Tools|Santa Clara, CA|4d2f76d1e536007bb50de35be88f0fdb
+Calix|Software Engineering Intern, PON|Minneapolis, MN|0306cac2f9f18978170a0c4c8b260b8a
 Tesla|Software Engineer Intern, Applications Engineering|Austin, TX|795de76f7862a0e1ae825b0ae183af68
 Premier, Inc.|Software Engineer Intern|Charlotte, NC|74ab479b545565d356019bce32cb320e
 Platform Aerospace|Software Engineering Intern|Hollywood, MD|b56bfd7bcb78031e319af090d397a66c
@@ -1067,5 +1080,4 @@ D.E Shaw|Fundamental Research Analyst Intern|New York, NY|80f3b93774ef398a73612b
 D.E Shaw|Proprietary Trading Intern|New York, NY|9a8342d9bd80ca3c91a58ecc4557573f
 Citi|Quantitative Analyst Intern|New York, NY|42aab924e45260c28ee1322b645a9169
 BNP Paribas|Summer Analyst Intern|Jersey City, NJ|4565c9a8b12da7d8d6f88256e3856bb6
-Aquatic Capital Management|Quantitative Researcher Intern|Chicago, IL|559821c85cd7f7a928752676ca411527
 Blackrock|2026 Summer Intern|<details><summary>**16 locations**</summary>Atlanta, GA</br>Boston, MA</br>Chicago, IL</br>Mexico City, MX</br>Miami, FL</br>Montreal, QC</br>New York, NY</br>Newport Beach, CA</br>Princeton, NJ</br>San Francisco, CA</br>Santa Monica, CA</br>Sausalito, CA</br>Seattle, WA</br>Toronto, Canada</br>Washington, DC</br>Wilmington, DE</details>|c8ddfb3ddfef1503e238d967e6d6bf44
