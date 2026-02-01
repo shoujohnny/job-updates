@@ -1,4 +1,5 @@
 Ironclad|Software Engineer Intern|San Francisco, CA|99deec019108c80321f11d568d844ed4
+Box|Software Engineering Intern|Redwood City, CA|ad41c0b4ef130ce3182129330e702f82
 Rocket|Software Engineering Intern|Detroit, MI|72f81a31db24e64f4f63414fbcf583cc
 Renesas Electronics|Software Engineering Intern|Austin, TX|e4d569bb4c78a468c6a40c4aa9e172b5
 Parspec|Applied AI Engineer Intern|San Mateo, CA|d38cabb6e4be839f488f68b029df4e91
