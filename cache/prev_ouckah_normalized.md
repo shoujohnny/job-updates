@@ -1,3 +1,14 @@
+Thrivent|Associate Software Engineer Intern|Remote|3318242c6a6249a15a50483f1a56c4d6
+ThredUp|Machine Learning Engineer Intern|Scottsdale, AZ|cc9a79fa5511101d35c2c1a5bf05b675
+The Clorox Company|Machine Learning Engineer Intern|Durham, NC|49d2752a61e0cc0672edc4138bd3e743
+Smith+Nephew|Software/Electrical R&D Intern|Andover, MA|31512ad3a9bf17b6f3c94c2a8a9ba0ee
+Quad|Software Development Intern|Sussex, WI|0de5b70e4b6d8fcf64185ae4ef586675
+Pluralsight|Software Engineer Intern|Westlake, TX|cc935e62bab870654833b922f13ccf7e
+Nelnet|AI Developer Intern|Lincoln, NE</br>Remote|c41649d451ca5971ddb6fe8e6ab51497
+Lenovo|Server Hardware Development Intern|Morrisville, NC|926e51e99ccf20f064b7d1d3a7d7372f
+Impinj|DevOps Engineering Intern|Seattle, WA|5a353140f5a5c44352fbd7d4ad17b4f7
+Impinj|Software Engineering Intern|Seattle, WA|43bc9222dddd2304169b12216cc42fb4
+Etched|Core SWE Intern|San Jose, CA|5ae41de280480cb03dedfc2b16911be4
 Zocdoc|Software Engineer Intern|New York, NY|9f88d3f3bc1c6942942859095cb3c189
 Molex|Machine Learning Engineer Intern|Fremont, CA|1eba4297e8fc3de24f3f7d52647986fd
 Ironclad|Software Engineer Intern|San Francisco, CA|99deec019108c80321f11d568d844ed4
