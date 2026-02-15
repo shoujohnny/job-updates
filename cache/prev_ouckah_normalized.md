@@ -6,10 +6,7 @@ Quad|Software Development Intern|Sussex, WI|0de5b70e4b6d8fcf64185ae4ef586675
 Pluralsight|Software Engineer Intern|Westlake, TX|cc935e62bab870654833b922f13ccf7e
 Nelnet|AI Developer Intern|Lincoln, NE</br>Remote|c41649d451ca5971ddb6fe8e6ab51497
 Lenovo|Server Hardware Development Intern|Morrisville, NC|926e51e99ccf20f064b7d1d3a7d7372f
-Impinj|DevOps Engineering Intern|Seattle, WA|5a353140f5a5c44352fbd7d4ad17b4f7
-Impinj|Software Engineering Intern|Seattle, WA|43bc9222dddd2304169b12216cc42fb4
 Etched|Core SWE Intern|San Jose, CA|5ae41de280480cb03dedfc2b16911be4
-Zocdoc|Software Engineer Intern|New York, NY|9f88d3f3bc1c6942942859095cb3c189
 Molex|Machine Learning Engineer Intern|Fremont, CA|1eba4297e8fc3de24f3f7d52647986fd
 Ironclad|Software Engineer Intern|San Francisco, CA|99deec019108c80321f11d568d844ed4
 Box|Software Engineering Intern|Redwood City, CA|ad41c0b4ef130ce3182129330e702f82
@@ -155,14 +152,12 @@ Ramp|Software Engineer Intern, Forward Deployed|New York, NY|9a2bfe33b81b5d0f65b
 Honeywell|Product Management Intern, Master's|Houston, TX</br>Des Plaines, IL|d4ab6b6b45fdf302dcb87c9d52050f08
 General Dynamics Mission Systems|Software Engineer Intern, Software Engineering|Canonsburg, PA|0c326d41e4b656e8b396ce57ad067725
 Formlabs|Print Optimization Intern|Cambridge, MA|c94a2b918d57fdd05480305eaacec372
-Bandwidth|Software Development Intern, Numbers|Raleigh, NC|3ae8de654542d8a2ea888ee467a0c780
 Bandwidth|Software Development Intern, Billing|Raleigh, NC|f5df5c2397a3b8449e74db30e03df712
 Bandwidth|Software Development Intern, Emergency Services|Raleigh, NC|40082a121831b12064eb5851f5593f33
 Zoox|Test Automation & QA Systems Intern|Foster City, CA|cdfdaeff7db625e0f82cca09ff7b5a36
 Zoox|Mapping Software Intern|Foster City, CA</br>Boston, MA|775ac5527fa5492d0ade4dc7d3b8fb88
 Zoox|HIL & System Validation Intern|Foster City, CA|eda3be482ac7ad7ce31ea8f02c4c2192
 Zoox|Automation & DevOps Tooling Intern|Foster City, CA</br>San Diego, CA|97e662945562172a2712bd9cbb50f4fe
-Zoox|Firmware and C++ Development Intern|San Diego, CA</br>Foster City, CA|06464ef3486f8237d093391a658293da
 Zoox|Data Engineer Intern|Foster City, CA|fe9e7465b41fbcfa1f092e543f534be3
 Seagate|FPGA System Developer Intern|Shakopee, MN|2075e1af5831038a7bb3e2e7aa19ae6f
 MongoDB|UI Engineering Intern|New York, NY|f50f579a541bd5658ec790453a50e2c7
@@ -947,13 +942,11 @@ Talos|Software Engineer Intern, Backend, Dealer|New York, NY|98bdf0f000c3c52c229
 Talos|Software Engineer Intern, Backend, PMS|New York, NY|55afb8155d0de417fa0e603569239aba
 Talos|Software Engineer Intern, Front-End, PMS|New York, NY|7b9b394575dfbcc44bb6483250e69848
 IMC|Hardware Engineer Intern|Chicago, IL|851d12e95d212c6ad68c5989162448b0
-DV Group|Software Development Intern, DV Commodities|New York, NY|d77f9f001a73eceedb61e5b9b18ddacc
 Capital One|UMD-College Park & UIUC Incubator Labs Intern 🛂|College Park, MD</br>Urbana Champaign, IL|2d66cb14f1abb9b59359a3e0db6fa91b
 Amazon|Program Manager Intern 🛂|Seattle, WA|5864acd9b1b616d37172b9226189c5d6
 TikTok|Software Engineer Intern, Data Ecosystem|San Jose, CA|01608efe89404df1e5cfed56878461c0
 Ramp|Software Engineer Intern, Backend|New York, NY|7476440c5d80e56869bd10b105dc141d
 Ramp|Software Engineer Intern, Frontend|New York, NY|7b1481a0e3b7ec73e907e028ff0c8395
-DV Commodities|Software Development Intern|New York|05fd7e5d1eaf37f3eaf42d8cad939b9a
 Altruist|Software Engineering Intern|San Francisco, CA|68b329da9893e34099c7d8ad5cb9c940
 Sentry|Software Engineering Intern 🛂|San Francisco, California|c673e24962ebf86a2219679843983d58
 JPMorgan Chase|Software Engineer Intern 🛂|<details><summary>**9 locations**</summary>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY, United States  Palo Alto, CA</br>Plano, TX</br>Tampa, FL</br>Wilmington, DE</details>|fd57fcf9c8610aa70143aac9c8fa540e
