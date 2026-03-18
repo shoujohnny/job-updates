@@ -1,3 +1,4 @@
+Palantir|Year at Palantir, Intern|New York, NY|a384d4b9c1166ff14d192435479a2e47
 Thrivent|Associate Software Engineer Intern|Remote|3318242c6a6249a15a50483f1a56c4d6
 ThredUp|Machine Learning Engineer Intern|Scottsdale, AZ|cc9a79fa5511101d35c2c1a5bf05b675
 The Clorox Company|Machine Learning Engineer Intern|Durham, NC|49d2752a61e0cc0672edc4138bd3e743
