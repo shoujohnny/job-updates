@@ -1,6 +1,9 @@
+Poshmark|Cloud Platform Engineer Intern, Growth 🛂|Redwood City, CA|8c4f92b79c7fb8b51510b14503ba4a85
 Point72|Investment Analyst Intern, Point72 Academy|<details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Chicago, IL</br>West Palm Beach, FL</br>Miami, FL</details>|90f13776c53b1500107e80683fc4258a
 Point72|Quantitative Researcher Intern|New York, NY|cffabff87c0247e50df26c54a6dabd78
 Point72|Quantitative Developer Intern|New York, NY|04f1ab1a0273586eb0d5983eef5ec3d4
+Northspyre|AI Engineer Intern|Atlanta, GA|a94bd9759815f0727f5276afb0e21ffa
+ABC Fitness|Software Engineer Intern 🛂|Frisco, TX|984c8473fbac18989cce880c5e1fc3b3
 Palantir|Year at Palantir, Intern|New York, NY|a384d4b9c1166ff14d192435479a2e47
 Thrivent|Associate Software Engineer Intern|Remote|3318242c6a6249a15a50483f1a56c4d6
 ThredUp|Machine Learning Engineer Intern|Scottsdale, AZ|cc9a79fa5511101d35c2c1a5bf05b675
