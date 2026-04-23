@@ -1,3 +1,5 @@
+H&CO|Software Development Intern|Coral Gables, FL|cb08093a24450b66abfccf2d8c43a8d3
+Ether.fi|GTM Engineer Intern|Cayman</br>Denver</br>New York|b4b6ecf12639e77c7679f53e22e7ce76
 TETRAMEM|Software Engineer Intern, Embedded|San Jose, CA|c63f24d8d882f7c4db5064046c45c2bf
 Skyworks|Analog IC Design Co-op|Irvine, CA|f6e45fc03d95e28e9270d2137ccbff6d
 Poshmark|Cloud Platform Engineer Intern, Growth 🛂|Redwood City, CA|8c4f92b79c7fb8b51510b14503ba4a85
