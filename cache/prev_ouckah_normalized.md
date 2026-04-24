@@ -1,3 +1,8 @@
+Thales|Software Engineer Intern|Cincinnati, OH|b89436dd444e2cc5cae4cb855f3a9eb4
+Cadence|Software Engineer Intern, Circuit Simulation Infrastructure|San Jose, CA|9a9ba061a09522cec9de863e07b125c4
+Cadence|Software Engineering Intern|San Jose, CA|5d45fc468bb68cf75b8d35eb5c62b01d
+AssetMark|Software Engineering Intern 🛂|Austin, TX|e5a6cb7c8919186032df0be6eadc1089
+Al Warren Oil Company|Software Developer Intern|Bensenville, IL|c44d3056682f76d6c569d83572d24f7a
 H&CO|Software Development Intern|Coral Gables, FL|cb08093a24450b66abfccf2d8c43a8d3
 Ether.fi|GTM Engineer Intern|Cayman</br>Denver</br>New York|b4b6ecf12639e77c7679f53e22e7ce76
 TETRAMEM|Software Engineer Intern, Embedded|San Jose, CA|c63f24d8d882f7c4db5064046c45c2bf
