@@ -1,3 +1,8 @@
+KBR|Reverse Engineer Intern 🇺🇸|Beavercreek Township, OH|ef4dc3c0302e865a11703e580b8187a5
+Horace Mann|Software Engineer Intern|Springfield, IL|a59eed075c9a33ac097646f4ff0f6573
+Horace Mann|Cybersecurity SOC Analyst Intern|Springfield, IL|387be827d549811751118560a654c478
+Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX</br>San Francisco, CA|b4a38df250a185819857ddc86aca520a
+AssetMark|QA Engineering Intern 🛂|Charlotte, NC|7a53cee785db31f00e168aeaef76b40a
 Twilio|Software Engineer Intern|Remote</br>United States|e0ae447209848760314babbc5bdc9e28
 TikTok|LLM Post-training Engineer Intern, Research & Product|San Jose, CA|8a591bb64bd313803a3a908752133e02
 Thales|Software Engineer Intern|Cincinnati, OH|b89436dd444e2cc5cae4cb855f3a9eb4
