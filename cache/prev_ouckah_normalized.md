@@ -1,6 +1,10 @@
 Veeam Software|Software Engineering Intern, Policy Engineering|San Jose, CA|ed0b8ab44e8f502f6bd12129a07775c7
 Veeam Software|Software Engineering Intern, Platform, Security & AI|San Jose, CA|4575d5686b17bf02d6b134417712223a
 Salesforce|Software Engineer Intern(Futureforce Summer 2027)|<details><summary>**5 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>New York, NY</br>Seattle, WA</br>Burlington, MA</details>|38e764912474720731301e662e545a80
+Paragon|Forward Deployed Engineer (FDE) Intern 🇺🇸|San Francisco, CA|787480e48dcd62e8ff848a68bf9b9295
+General Astronautics|Engineering Intern 🇺🇸|San Francisco, CA|43ebb3990d9cc2bd6fd819d96d256dd1
+DimeHealth AI|Forward Deployed Engineering Intern|New York, NY|617e4f5d5297d10a476c7716a59d1aaf
+Dedalus Labs|Forward Deployed Engineer Intern 🇺🇸|San Francisco, CA|6a0e7cfb371454d816934ba9a95ec457
 Amazon|Software Development Engineer Intern, Amazon Leo 🇺🇸|Sunnyvale, CA</br>Redmond, WA</br>Northridge, CA|22d9bea53aad9ab839c0fd82759c1c7d
 Amazon|Robotics - Software Development Engineer Intern/Co-op|<details><summary>**8 locations**</summary>Sunnyvale, CA</br>North Reading, MA</br>Westboro, MA</br>Nashville, TN</br>Austin, TX</br>Arlington, VA</br>Bellevue, WA</br>Seattle, WA</details>|3234250fa37cc416f835a43c2c4ba5aa
 Fiserv|Application Development Intern 🛂|Alpharetta, GA|f2fe8676e46fd69ea04a8d20c7ffa11d
