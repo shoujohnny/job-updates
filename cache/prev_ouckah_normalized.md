@@ -1,3 +1,8 @@
+Veeam Software|Software Engineering Intern, Policy Engineering|San Jose, CA|ed0b8ab44e8f502f6bd12129a07775c7
+Veeam Software|Software Engineering Intern, Platform, Security & AI|San Jose, CA|4575d5686b17bf02d6b134417712223a
+Salesforce|Software Engineer Intern(Futureforce Summer 2027)|<details><summary>**5 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>New York, NY</br>Seattle, WA</br>Burlington, MA</details>|38e764912474720731301e662e545a80
+Amazon|Software Development Engineer Intern, Amazon Leo 🇺🇸|Sunnyvale, CA</br>Redmond, WA</br>Northridge, CA|22d9bea53aad9ab839c0fd82759c1c7d
+Amazon|Robotics - Software Development Engineer Intern/Co-op|<details><summary>**8 locations**</summary>Sunnyvale, CA</br>North Reading, MA</br>Westboro, MA</br>Nashville, TN</br>Austin, TX</br>Arlington, VA</br>Bellevue, WA</br>Seattle, WA</details>|3234250fa37cc416f835a43c2c4ba5aa
 Fiserv|Application Development Intern 🛂|Alpharetta, GA|f2fe8676e46fd69ea04a8d20c7ffa11d
 Fiserv|Data Engineer Intern|Alpharetta, GA|0bd55b1874844d090fe6d0a9482aaa95
 KBR|Reverse Engineer Intern 🇺🇸|Beavercreek Township, OH|ef4dc3c0302e865a11703e580b8187a5
