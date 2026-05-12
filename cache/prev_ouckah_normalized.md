@@ -1,3 +1,5 @@
+Zoox|Platform Intelligence Intern|Foster City, CA|26a90013b4a32892ac313e25874eab0d
+Apptronik|Software Engineer Intern, ML Ops|Austin, TX|0a58377f3ddba07b7b11259b1fe9949c
 Apex Technology, Inc.|Software Engineering Intern, Embedded Systems|Los Angeles|804cebf0051326fff0d1b001da188923
 Veeam Software|Software Engineering Intern, Policy Engineering|San Jose, CA|ed0b8ab44e8f502f6bd12129a07775c7
 Veeam Software|Software Engineering Intern, Platform, Security & AI|San Jose, CA|4575d5686b17bf02d6b134417712223a
