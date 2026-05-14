@@ -1,4 +1,11 @@
+Trata|Research Scientist Intern 🇺🇸|San Francisco, CA</br>New York, NY|377fa5be41bb1775c9dbddb15e03ed36
+Terranox AI|Summer Intern - AI/ML Engineering 🇺🇸|San Francisco, CA|adbe65da6c1d96c5e6a6649e0865275d
+Naïve|Software Engineer Intern 🇺🇸|San Francisco, CA</br>Remote|21bc0ec3927649cfd849a05a8f6df80f
+Granite Construction|Summer 2026 Engineer Intern|Nampa, ID|c7df00f9cb8e67eb4f55680e47947343
+Abundant|Software Engineering Intern, Research Focused 🇺🇸|San Francisco, CA|23e7989e79257637d8a8ccdca23b31dc
 Zoox|Platform Intelligence Intern|Foster City, CA|26a90013b4a32892ac313e25874eab0d
+WSP|Software Developer Intern|Dallas, TX|25a3d047bc545c1718f86b84be67863b
+Member Solutions|Software Engineering Intern|Remote|457d955e094bc8bf62c4edcd3dca2835
 Apptronik|Software Engineer Intern, ML Ops|Austin, TX|0a58377f3ddba07b7b11259b1fe9949c
 Apex Technology, Inc.|Software Engineering Intern, Embedded Systems|Los Angeles|804cebf0051326fff0d1b001da188923
 Veeam Software|Software Engineering Intern, Policy Engineering|San Jose, CA|ed0b8ab44e8f502f6bd12129a07775c7
