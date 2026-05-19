@@ -1,3 +1,6 @@
+StarSling|Software Engineer Intern 🇺🇸|San Mateo, CA|fd34f0f3f02a10eac4df1ac0838fb86e
+Podium|Software Engineering Intern|Lehi, UT|e19c10085cd8cdc910d310632b0006a5
+Nash|Full Stack Engineering Intern 🇺🇸|San Francisco, CA|8782c4c85dd49975b4571e4610169297
 Trata|Research Scientist Intern 🇺🇸|San Francisco, CA</br>New York, NY|377fa5be41bb1775c9dbddb15e03ed36
 Terranox AI|Summer Intern - AI/ML Engineering 🇺🇸|San Francisco, CA|adbe65da6c1d96c5e6a6649e0865275d
 Naïve|Software Engineer Intern 🇺🇸|San Francisco, CA</br>Remote|21bc0ec3927649cfd849a05a8f6df80f
