@@ -1,3 +1,14 @@
+Tower Research|Quantitative Developer Intern|Chicago, IL</br>New York, NY|40ed88f14bfa23d9a45532bc68fd1990
+Susquehanna Investment Group|Quantitative Strategy Developer Intern|Bala Cynwyd, PA|5e851b1f375742e38f523360c3dc71a5
+Optiver|Software Engineer Intern|Chicago, IL|1676c7289e64100bf2c8af4fbcb61ca0
+Optiver|Software Engineer Intern|Austin, TX|65992f92120ad623b21d61b0b51b4808
+IMC|Software Engineer Intern|Chicago, IL|fd0d368533b00ae32d5007dde69a5e80
+DE Shaw|Software Developer Intern|New York, NY|d84d3e9cde7d88f8ddb94eec1a5c7a07
+Citadel|Software Engineer Intern|<details><summary>**4 locations**</summary>New York, NY</br>Greenwich, CT</br>Miami, FL</br>Houston, TX</details>|3fc0808cd30a04d4c69381218c186326
+Capital One|Data Analyst Intern|Mclean, VA|0fa68dd557753dde3a6be5793cef0a07
+Capital One|Product Development Internship Program|Mclean, VA</br>Plano, TX|64bcdad290fab7b6cdd894c5d6934f9f
+Aquatic|Software Engineer Intern|Chicago, IL|c46511335ca3e7b5d5044e184ac907f5
+Anduril|Software Engineer Intern|<details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details>|1895882fec93d47a5a4802dba98d04db
 Voloridge Investment Management|Quantitative Developer Intern|Jupiter, FL|16403fa88fadb6bf9084096eff481a5e
 Susquehanna|Trading System Engineering Intern|Bala Cynwyd, PA|847681b3d229301e2a3b3b6a110acb61
 Stoke Space|Software Engineer Intern|Kent, WA|30be30667b56df103c9de157d6b3f216
