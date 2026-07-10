@@ -1,3 +1,6 @@
+Rakuten International|Software Engineer Intern|San Mateo, California|838167decfe7029f62ad446a9d24309b
+Jump Trading|Software Engineer Intern|Chicago, IL|f144ac5b0aaf68021e79c1bba8f0772b
+Jump Trading|Quantitative Trader Intern|Chicago, IL</br>New York, NY|36c22664b8a86e7bb9b2de7adc78f8e9
 Tower Research|Quantitative Developer Intern|Chicago, IL</br>New York, NY|40ed88f14bfa23d9a45532bc68fd1990
 Susquehanna Investment Group|Quantitative Strategy Developer Intern|Bala Cynwyd, PA|5e851b1f375742e38f523360c3dc71a5
 Optiver|Software Engineer Intern|Chicago, IL|1676c7289e64100bf2c8af4fbcb61ca0
@@ -41,7 +44,6 @@ Paragon|Forward Deployed Engineer (FDE) Intern 🇺🇸|San Francisco, CA|787480
 General Astronautics|Engineering Intern 🇺🇸|San Francisco, CA|43ebb3990d9cc2bd6fd819d96d256dd1
 DimeHealth AI|Forward Deployed Engineering Intern|New York, NY|617e4f5d5297d10a476c7716a59d1aaf
 Dedalus Labs|Forward Deployed Engineer Intern 🇺🇸|San Francisco, CA|6a0e7cfb371454d816934ba9a95ec457
-Amazon|Software Development Engineer Intern, Amazon Leo 🇺🇸|Sunnyvale, CA</br>Redmond, WA</br>Northridge, CA|22d9bea53aad9ab839c0fd82759c1c7d
 Amazon|Robotics - Software Development Engineer Intern/Co-op|<details><summary>**8 locations**</summary>Sunnyvale, CA</br>North Reading, MA</br>Westboro, MA</br>Nashville, TN</br>Austin, TX</br>Arlington, VA</br>Bellevue, WA</br>Seattle, WA</details>|3234250fa37cc416f835a43c2c4ba5aa
 Homebase|Forward Deployed Engineering Intern, AI-Native|Houston, TX</br>San Francisco, CA|b4a38df250a185819857ddc86aca520a
 TikTok|LLM Post-training Engineer Intern, Research & Product|San Jose, CA|8a591bb64bd313803a3a908752133e02
