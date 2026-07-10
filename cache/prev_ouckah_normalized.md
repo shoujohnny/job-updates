@@ -1,4 +1,6 @@
 Rakuten International|Software Engineer Intern|San Mateo, California|838167decfe7029f62ad446a9d24309b
+Jump Trading Group|Campus UI Software Engineer Intern|Chicago, IL|5d5672f22986ee543cfa330920c22e03
+Jump Trading|Campus Systems Engineer Intern|Chicago, IL|326f8f488039702ad61d343c74ec4295
 Jump Trading|Software Engineer Intern|Chicago, IL|f144ac5b0aaf68021e79c1bba8f0772b
 Jump Trading|Quantitative Trader Intern|Chicago, IL</br>New York, NY|36c22664b8a86e7bb9b2de7adc78f8e9
 Tower Research|Quantitative Developer Intern|Chicago, IL</br>New York, NY|40ed88f14bfa23d9a45532bc68fd1990
@@ -34,7 +36,6 @@ Trata|Research Scientist Intern 🇺🇸|San Francisco, CA</br>New York, NY|377f
 Terranox AI|Summer Intern - AI/ML Engineering 🇺🇸|San Francisco, CA|adbe65da6c1d96c5e6a6649e0865275d
 Naïve|Software Engineer Intern 🇺🇸|San Francisco, CA</br>Remote|21bc0ec3927649cfd849a05a8f6df80f
 Abundant|Software Engineering Intern, Research Focused 🇺🇸|San Francisco, CA|23e7989e79257637d8a8ccdca23b31dc
-Zoox|Platform Intelligence Intern|Foster City, CA|26a90013b4a32892ac313e25874eab0d
 WSP|Software Developer Intern|Dallas, TX|25a3d047bc545c1718f86b84be67863b
 Apex Technology, Inc.|Software Engineering Intern, Embedded Systems|Los Angeles|804cebf0051326fff0d1b001da188923
 Veeam Software|Software Engineering Intern, Policy Engineering|San Jose, CA|ed0b8ab44e8f502f6bd12129a07775c7
