@@ -1,3 +1,7 @@
+Walleye Capital|Investment Data Science Intern|New York, NY|d1a5fe7ca7af4ff7bda3aa220f3333e0
+Walleye Capital|Equity Volatility Quant Researcher Intern|Miami, FL|bef25aa46ebd979595d22cbc8588a68e
+Walleye Capital|Technology Intern|New York, NY|f0aa38428d7a213d58d47888b7b6fdb4
+Walleye Capital|Risk Technology Analyst Intern|New York, NY|81dfcdd184a74513761e272937330fdb
 Schweitzer Engineering Laboratories|Software Engineer Intern|Boise, ID|d4c59cee81588d330c9a3ee5ac623576
 Radix Trading|Quantitative Technologist Intern, C++|Chicago, IL|d1d70196da64014c8a4507f63b17c351
 Palantir Technologies|Software Engineer Intern, Production Infrastructure|Seattle, WA|ebff06509c853b87d157778fff79bfe5
@@ -5,6 +9,7 @@ Palantir Technologies|Software Engineer Intern, Infrastructure|New York, NY|fd27
 Palantir Technologies|Software Engineer Intern|New York, NY|63b60dc0ad62a9a678d45b2d3649e57f
 Palantir Technologies|Software Engineer Intern|Washington, D.C.|06d9cc1271cdd505083cd7a6842b5bd4
 Palantir Technologies|Software Engineer Intern|Palo Alto, CA|680e661319bf616d59890610d474abb2
+Old Mission|Software Engineer Intern|Chicago, IL|21e4d55eecea77038d92840c7d461d87
 Jane Street|Software Engineer Intern|New York, NY|3c919ea33c25f6735fbaff51fbb1e63d
 Jane Street|Windows Engineer Intern|New York, NY|8b7edc56a2998a05f911d80408592fab
 Jane Street|Trading Desk Operations Engineer Intern|New York, NY|1123cb5d176ecc6d9584bf60fa3053cf
@@ -20,12 +25,17 @@ Jane Street|Machine Learning Researcher Intern|New York, NY|a636b0b335436fbfddf5
 Jane Street|Machine Learning Engineer Intern|New York, NY|c1fa3a6ac1062fc5dd513724c6ffaafc
 Jane Street|Quantitative Researcher Intern|New York, NY|4c43b5e75af621778b7690cc9b3b9021
 Jane Street|Quantitative Trader Intern|New York, NY|d93df2678d400476b4d0e5a79d6cb6ad
+IMC|Hardware Engineer Intern|Chicago, IL|0c2807d66031d11dfe6b04c24279437f
+IMC|Quantitative Research Intern|Chicago, IL|37078d94cad33b1bbf4dcae422cbc47e
+IMC|Quantitative Research Intern (PHD)|Chicago|468da8a041f8de8d625ec98c3513c557
 Hudson River Trading|Intern|New York, NY|20edd192f544d47d5b949938e0c470d5
 Hudson River Trading|Software Engineer Intern|Austin, TX</br>Chicago, IL</br>New York, NY|4e0cebc27ea5a4ff9aff17cbc0ba2ead
 Google|Software Engineering Intern|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</details>|cba774bb564e4e3a5804a5eb6cb84ea0
 Five Rings|Software Developer Intern 🇺🇸|New York, NY|f0db1767b4cc12fc6af9cbca747c9c29
 Deepgram|Software Engineering Intern|Remote</br>US|95a4dbd2f97098b8bc660f5a19a8280a
 Copart|Software Engineering Intern|Dallas, TX|769adc58f7f08a45f89c24e8f88ec87a
+Akuna Capital|Quantitative Research Intern 🇺🇸|Chicago|286128d3ab4ce743f069fbfccddd96c5
+Akuna Capital|Quantitative Development & Strategy Intern 🇺🇸|Chicago|b490e4dee4c59b6083490746760fb230
 Akuna Capital|Software Engineer Intern, C# .NET Desktop|Chicago, IL|74be8a7b9d5b12bc1ee2447af442c971
 Akuna Capital|Software Engineer Intern, Full Stack Web 🇺🇸|Chicago, IL|6dc06a629fa34942144f19deddd74b39
 Akuna Capital|Python Software Engineer Intern 🇺🇸|Chicago, IL|c9f692418da844bab124ae7906994b00
