@@ -1,3 +1,9 @@
+Virtu Financial|Software Engineer Intern|Austin, TX</br>New York|033bc89cdffcafa1660993f89c9cea1a
+Virtu|Quantitative Trading Intern|Austin, TX</br>Chicago, IL</br>New York, NY|dee6c8263d00c33ac46816d4e77c7a85
+Quadrillion Labs|Software Engineering Intern|New York, NY|5a227d6ba5e2f34b64f33576aaa81732
+PDT Partners|Software Engineering Intern|New York, NY|b244abc8866ab55c943b9730f813a4b2
+HyperLight|Software Engineer Intern|Cambridge, MA|64487c34fb0469ac907d65502fdbb3bb
+Appian|Software Engineering Intern 🛂|McLean, VA|c9ecaf2daeeaa57523526822a9647eb3
 Northrop Grumman|Software Engineer Intern|Melbourne, FL|5ed7264348431418205857a94f7fde06
 Walleye Capital|Investment Data Science Intern|New York, NY|d1a5fe7ca7af4ff7bda3aa220f3333e0
 Walleye Capital|Equity Volatility Quant Researcher Intern|Miami, FL|bef25aa46ebd979595d22cbc8588a68e
