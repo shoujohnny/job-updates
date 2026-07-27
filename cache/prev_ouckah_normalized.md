@@ -1,3 +1,5 @@
+Intel Corporation|AI Software Engineering PhD Intern|Hillsboro, OR|b3c2e920f5920a26c67b79409eb3dcbd
+Appian|Information Security Engineer Intern 🛂|McLean, VA|eda9ee90232bd7205db7880ad0e05bc7
 Virtu Financial|Software Engineer Intern|Austin, TX</br>New York|033bc89cdffcafa1660993f89c9cea1a
 Virtu|Quantitative Trading Intern|Austin, TX</br>Chicago, IL</br>New York, NY|dee6c8263d00c33ac46816d4e77c7a85
 Stevens Capital Management|Quantitative Research Analyst Internship|Radnor, PA|526dd339aca7cb0fe96b66fd7b94f78e
