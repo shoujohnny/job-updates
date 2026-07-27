@@ -1,5 +1,6 @@
 Virtu Financial|Software Engineer Intern|Austin, TX</br>New York|033bc89cdffcafa1660993f89c9cea1a
 Virtu|Quantitative Trading Intern|Austin, TX</br>Chicago, IL</br>New York, NY|dee6c8263d00c33ac46816d4e77c7a85
+Stevens Capital Management|Quantitative Research Analyst Internship|Radnor, PA|526dd339aca7cb0fe96b66fd7b94f78e
 Quadrillion Labs|Software Engineering Intern|New York, NY|5a227d6ba5e2f34b64f33576aaa81732
 PDT Partners|Software Engineering Intern|New York, NY|b244abc8866ab55c943b9730f813a4b2
 HyperLight|Software Engineer Intern|Cambridge, MA|64487c34fb0469ac907d65502fdbb3bb
