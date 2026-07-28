@@ -1,4 +1,5 @@
-Intel Corporation|AI Software Engineering PhD Intern|Hillsboro, OR|b3c2e920f5920a26c67b79409eb3dcbd
+Chicago Trading Company|Software Engineer Intern|Chicago, IL|979765f731fdf1a0e524f4c2a6f97f7e
+Chicago Trading Company|Quant Trading Intern|Chicago, IL|4e6b6ada66e0b6d37c8d74288311185e
 Appian|Information Security Engineer Intern 🛂|McLean, VA|eda9ee90232bd7205db7880ad0e05bc7
 Virtu Financial|Software Engineer Intern|Austin, TX</br>New York|033bc89cdffcafa1660993f89c9cea1a
 Virtu|Quantitative Trading Intern|Austin, TX</br>Chicago, IL</br>New York, NY|dee6c8263d00c33ac46816d4e77c7a85
@@ -7,7 +8,6 @@ Quadrillion Labs|Software Engineering Intern|New York, NY|5a227d6ba5e2f34b64f335
 PDT Partners|Software Engineering Intern|New York, NY|b244abc8866ab55c943b9730f813a4b2
 HyperLight|Software Engineer Intern|Cambridge, MA|64487c34fb0469ac907d65502fdbb3bb
 Appian|Software Engineering Intern 🛂|McLean, VA|c9ecaf2daeeaa57523526822a9647eb3
-Northrop Grumman|Software Engineer Intern|Melbourne, FL|5ed7264348431418205857a94f7fde06
 Walleye Capital|Investment Data Science Intern|New York, NY|d1a5fe7ca7af4ff7bda3aa220f3333e0
 Walleye Capital|Equity Volatility Quant Researcher Intern|Miami, FL|bef25aa46ebd979595d22cbc8588a68e
 Walleye Capital|Technology Intern|New York, NY|f0aa38428d7a213d58d47888b7b6fdb4
