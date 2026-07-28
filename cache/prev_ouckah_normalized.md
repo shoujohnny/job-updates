@@ -1,3 +1,4 @@
+Nightwing|Software / Hardware Engineering Intern 🇺🇸|Annapolis Junction, MD|ca59c88d3534c4f74826841758acdab7
 Chicago Trading Company|Software Engineer Intern|Chicago, IL|979765f731fdf1a0e524f4c2a6f97f7e
 Chicago Trading Company|Quant Trading Intern|Chicago, IL|4e6b6ada66e0b6d37c8d74288311185e
 Appian|Information Security Engineer Intern 🛂|McLean, VA|eda9ee90232bd7205db7880ad0e05bc7
