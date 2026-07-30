@@ -107,7 +107,6 @@ Intercontinental Exchange, Inc.|Artificial Intelligence, Data & Machine Learning
 Fiserv|Application Development Intern 🛂|Alpharetta, GA|c91899187033aea68d565811b27dbe65
 Fiserv|Technology Intern 🛂|Columbus, OH|43ce8f5552e84ccc93a6f31fe3718785
 Avanade|Software Engineering Intern|Los Angeles, CA</br>Seattle, WA|1676622676b0fe1fd4d0ed09be4b55e7
-ABC News|Product Management and Engineering Intern|New York, NY|583c4ebefa2fbf2906b62f507528e9e4
 Point72|Investment Analyst Intern, Point72 Academy|<details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Chicago, IL</br>West Palm Beach, FL</br>Miami, FL</details>|90f13776c53b1500107e80683fc4258a
 Point72|Quantitative Researcher Intern|New York, NY|cffabff87c0247e50df26c54a6dabd78
 Point72|Quantitative Developer Intern|New York, NY|04f1ab1a0273586eb0d5983eef5ec3d4
