@@ -1,3 +1,5 @@
+Virtu Financial|Frontend & User Experience Intern|New York, NY|fd7f4d09707c4cd3194d3539f235445c
+General Dynamics Information Technology|Systems Engineer Intern|Albany, NY|6f88f6c9640fb138fe65c001f730e279
 Nightwing|Software / Hardware Engineering Intern 🇺🇸|Annapolis Junction, MD|ca59c88d3534c4f74826841758acdab7
 Chicago Trading Company|Software Engineer Intern|Chicago, IL|979765f731fdf1a0e524f4c2a6f97f7e
 Chicago Trading Company|Quant Trading Intern|Chicago, IL|4e6b6ada66e0b6d37c8d74288311185e
