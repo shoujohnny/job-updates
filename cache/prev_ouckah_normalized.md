@@ -13,7 +13,6 @@ Walleye Capital|Investment Data Science Intern|New York, NY|d1a5fe7ca7af4ff7bda3
 Walleye Capital|Equity Volatility Quant Researcher Intern|Miami, FL|bef25aa46ebd979595d22cbc8588a68e
 Walleye Capital|Technology Intern|New York, NY|f0aa38428d7a213d58d47888b7b6fdb4
 Walleye Capital|Risk Technology Analyst Intern|New York, NY|81dfcdd184a74513761e272937330fdb
-Schweitzer Engineering Laboratories|Software Engineer Intern|Boise, ID|d4c59cee81588d330c9a3ee5ac623576
 Radix Trading|Quantitative Technologist Intern, C++|Chicago, IL|d1d70196da64014c8a4507f63b17c351
 Palantir Technologies|Software Engineer Intern, Production Infrastructure|Seattle, WA|ebff06509c853b87d157778fff79bfe5
 Palantir Technologies|Software Engineer Intern, Infrastructure|New York, NY|fd27aaedc93914355a4904eca42da97e
@@ -44,7 +43,6 @@ Hudson River Trading|Software Engineer Intern|Austin, TX</br>Chicago, IL</br>New
 Google|Software Engineering Intern|<details><summary>**30 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Bellevue, WA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Portland, OR</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>Redmond, WA</br>Redwood City, CA</br>San Diego, CA</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Santa Cruz, CA</br>South San Francisco, CA</br>Sunnyvale, CA</details>|cba774bb564e4e3a5804a5eb6cb84ea0
 Five Rings|Software Developer Intern 🇺🇸|New York, NY|f0db1767b4cc12fc6af9cbca747c9c29
 Deepgram|Software Engineering Intern|Remote</br>US|95a4dbd2f97098b8bc660f5a19a8280a
-Copart|Software Engineering Intern|Dallas, TX|769adc58f7f08a45f89c24e8f88ec87a
 Appian|Software Engineering Intern 🛂|McLean, VA|14478d223c0005dded4b03edcfb0d627
 Appian|Product Manager Intern 🛂|McLean, VA|0db3d67cc1f4ead09d17be7ca350b379
 Akuna Capital|Quantitative Research Intern 🇺🇸|Chicago|286128d3ab4ce743f069fbfccddd96c5
