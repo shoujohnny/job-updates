@@ -1,4 +1,4 @@
-Old Mission|Software Engineer Intern|Chicago, IL|21e4d55eecea77038d92840c7d461d87
+SK Hynix Memory Solution|Software Engineer Intern|San Jose, CA|c160da7937065b3b11a08e5cdc86561b
 FTI Consulting|Technology Intern|<details><summary>**12 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Houston, TX</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</br>Chicago, IL</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details>|ac4e9efad7f0a5a333853ee3632db8a5
 DRW|Software Developer Intern|Chicago, IL|4344222df018dd825c0f57ac5a258afa
 DRW|Software Developer Intern|Montréal|424e335c033d862c4dab9f52c3928738
