@@ -1,3 +1,4 @@
+Microsoft|Software Engineer Intern, CoreAI|Multiple Locations, United States|ddc6cc5060ce4ed38cc0848106064731
 Medtronic|Software Engineering Intern 🛂|<details><summary>**5 locations**</summary>Fridley, MN</br>Tempe, AZ</br>Eatontown, NJ</br>Santa Rosa, CA</br>Lafayette, CO</details>|a29cbd75dd8701204dd2283e140fa67c
 HPR|Software Engineering Intern 🛂|Needham, MA|7097023078be7cd5cc1069a2ea706a28
 Heliux|Software Engineer Intern 🇺🇸|San Francisco, CA|0ed7da536f91883bb6204e97770aa4a6
