@@ -1,3 +1,6 @@
+Medtronic|Software Engineering Intern 🛂|<details><summary>**5 locations**</summary>Fridley, MN</br>Tempe, AZ</br>Eatontown, NJ</br>Santa Rosa, CA</br>Lafayette, CO</details>|a29cbd75dd8701204dd2283e140fa67c
+HPR|Software Engineering Intern 🛂|Needham, MA|7097023078be7cd5cc1069a2ea706a28
+Heliux|Software Engineer Intern 🇺🇸|San Francisco, CA|0ed7da536f91883bb6204e97770aa4a6
 SK Hynix Memory Solution|Software Engineer Intern|San Jose, CA|c160da7937065b3b11a08e5cdc86561b
 FTI Consulting|Technology Intern|<details><summary>**12 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Houston, TX</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</br>Chicago, IL</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details>|ac4e9efad7f0a5a333853ee3632db8a5
 DRW|Software Developer Intern|Chicago, IL|4344222df018dd825c0f57ac5a258afa
