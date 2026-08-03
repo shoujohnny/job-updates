@@ -1,7 +1,8 @@
 Medtronic|Software Engineering Intern 🛂|<details><summary>**5 locations**</summary>Fridley, MN</br>Tempe, AZ</br>Eatontown, NJ</br>Santa Rosa, CA</br>Lafayette, CO</details>|a29cbd75dd8701204dd2283e140fa67c
 HPR|Software Engineering Intern 🛂|Needham, MA|7097023078be7cd5cc1069a2ea706a28
 Heliux|Software Engineer Intern 🇺🇸|San Francisco, CA|0ed7da536f91883bb6204e97770aa4a6
-SK Hynix Memory Solution|Software Engineer Intern|San Jose, CA|c160da7937065b3b11a08e5cdc86561b
+Capital One|Cyber Security Intern 🛂|McLean, VA</br>Plano, TX|d4ec83295c211a785e56c901902567e8
+Capital One|Software Engineer Intern 🛂|McLean, VA</br>Plano, TX</br>Richmond, VA|3157c3e5ba5f57ddf8876940f4963e2c
 FTI Consulting|Technology Intern|<details><summary>**12 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Houston, TX</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</br>Chicago, IL</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details>|ac4e9efad7f0a5a333853ee3632db8a5
 DRW|Software Developer Intern|Chicago, IL|4344222df018dd825c0f57ac5a258afa
 DRW|Software Developer Intern|Montréal|424e335c033d862c4dab9f52c3928738
@@ -26,10 +27,7 @@ Quadrillion Labs|Software Engineering Intern|New York, NY|5a227d6ba5e2f34b64f335
 PDT Partners|Software Engineering Intern|New York, NY|b244abc8866ab55c943b9730f813a4b2
 HyperLight|Software Engineer Intern|Cambridge, MA|64487c34fb0469ac907d65502fdbb3bb
 Appian|Software Engineering Intern 🛂|McLean, VA|c9ecaf2daeeaa57523526822a9647eb3
-Walleye Capital|Investment Data Science Intern|New York, NY|d1a5fe7ca7af4ff7bda3aa220f3333e0
 Walleye Capital|Equity Volatility Quant Researcher Intern|Miami, FL|bef25aa46ebd979595d22cbc8588a68e
-Walleye Capital|Technology Intern|New York, NY|f0aa38428d7a213d58d47888b7b6fdb4
-Walleye Capital|Risk Technology Analyst Intern|New York, NY|81dfcdd184a74513761e272937330fdb
 Radix Trading|Quantitative Technologist Intern, C++|Chicago, IL|d1d70196da64014c8a4507f63b17c351
 Palantir Technologies|Software Engineer Intern, Production Infrastructure|Seattle, WA|ebff06509c853b87d157778fff79bfe5
 Palantir Technologies|Software Engineer Intern, Infrastructure|New York, NY|fd27aaedc93914355a4904eca42da97e
