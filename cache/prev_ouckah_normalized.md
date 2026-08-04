@@ -1,3 +1,52 @@
+TikTok|Software Engineer Intern, TikTok-Agentic Creation-AIGC|San Jose, CA|f13f45715c6186f0313c8d184779a18d
+TikTok|Frontend Software Engineer Intern, Ads Measurement Signal and Privacy|San Jose, CA|8215d58c6d40816df7f6310e220106b7
+TikTok|Software Engineer Intern, Data Arch - E-commerce|Seattle, WA|3c022d70170d2089dd9bcae974d59c43
+TikTok|Software Engineer Intern, Ads Measurement Signal and Privacy|San Jose, CA|23ede7308d3eee232e37eb5a3ec8b58c
+TikTok|Software Engineer Intern, Creative Intelligence and Brand Innovation|San Jose, CA|71c2492e334d877484d70a1511bebfe1
+TikTok|Software Engineer Intern, Business Integrity|San Jose, CA|301c78dd2d9d9b0c99ef5aa2f82ddc35
+TikTok|Software Engineer Intern, Agentic Creation-Effect Platform|San Jose, CA|b315292b9bedc4401eb78a1e90e319c0
+TikTok|Software Engineer Intern, Data Arch - E-commerce|Seattle, WA|3eb24ee93ad0917b728548ec30af2b58
+TikTok|Software Engineer Intern, Code Graph and Quality Validation 🛂|San Jose, CA|47bea7fe697f755dbdb642de6d5a3411
+TikTok|Software Engineer Intern, Privacy and Security|San Jose, CA|c06396c5e3b288e4557e260a7c8846eb
+TikTok|Frontend Engineer Intern, TikTok-Open Platform|San Jose, CA|900ffd6ca984119398955fbf8e16ea5f
+TikTok|Software Engineer Intern, PGC Creator Strategy 🛂|San Jose|9cb7ca566054797600b37a50c584424e
+TikTok|Backend Software Engineer Intern, Social Friending|San Jose, CA|29ec73fbee3cbac0a94804a343f0e72a
+TikTok|Backend Software Engineer Intern, Search 🛂|San Jose, CA|8975b4e97285c7f3183764fc9532a034
+TikTok|Software Engineer Intern, TikTok-Social-Friending|San Jose, CA|004d4ba3eb95a3b2440848fe37fb56e9
+TikTok|Backend Software Engineer Intern, PGC-Digital Content Center 🛂|San Jose, CA|96e4db05e57db8196169137e1aaf5cf4
+TikTok|Software Engineer Intern, Growth Innovation|San Jose, CA|2ad63dd840d4778fd1fff61fff08fd39
+TikTok|Backend Software Engineer Intern, Social Foundation|San Jose, CA|2fd59bd3e4c4e04503ea1b2a9b23642a
+TikTok|Software Engineer Intern, Trust and Safety-Engineering 🛂|Seattle, WA|b8a13cc4f98abe47ae8f57684e245cba
+TikTok|Software Engineer Intern, Trust and Safety-Engineering 🛂|San Jose, CA|e8e475b365212678c07ad97eb9d216e9
+TikTok|Software Engineer Intern, Global CRM|San Jose, CA|b98161b81f9ff19a8c88df6189218e86
+TikTok|Software Engineer Intern, Shoot Experience Optimization|San Jose, CA|c2c47824f87bc8379507ae6b1ddd3b49
+TikTok|Software Engineer Intern, Ads Interface|San Jose, CA|4a0236a2d6814155a1973bd52d99851a
+TikTok|Backend Software Engineer Intern, Global E-Commerce|Seattle, WA|5e5710ede62cee950fd3c5b191a95703
+TikTok|Backend Software Engineer Intern, Global E-Commerce|San Jose, CA|3f446b177362305cc4f2628e3c34d1f8
+TikTok|Software Engineer Intern|San Jose, CA|7c7afad20095405ef71c643a73e91a66
+TikTok|Backend Software Engineer Intern, Product Infrastructure|San Jose, CA|d516705ee1d66d104f8b6a1fef8bcb83
+TikTok|Software Engineer Intern, Transaction Platform|San Jose, CA|37187c1c364037d962d010ba3f9063fb
+TikTok|Software Engineer Intern, Intelligent Creation-Camera|San Jose, CA|9c4a3a260643a4b25e883cc675b719f8
+TikTok|Software Engineer Intern, AI Agent & Global Revenue Platform|San Jose, CA|7622663c99a66fa15087c86ccf16eaa7
+TikTok|Frontend Engineer Intern, Global CRM|San Jose, CA|af8db1485406a2fc6665d0d8bde0dba6
+TikTok|Software Engineer Intern, Global Live-Foundation 🛂|San Jose, CA|75a8ad6d56cdc5b19a2b181efc928f70
+Samsara|Software Engineering Intern|San Francisco, CA|31b890b0ebded0ada27f5fb98222c8f4
+RTX|Software Engineer Intern, Fleet Health Instrumentation 🇺🇸|McKinney, TX|961f0e86ad2ef65b9004080274e5f75c
+RTX|Software Engineer Intern, Fleet Health Instrumentation 🇺🇸|Fullerton, CA|9fd6f8b5ce2af149ef9a973676a68dea
+RenderATL|Software Engineer Intern|Seattle, WA|b89a4c726738ad966939023362575c0b
+Netsmart|Software Engineer Intern 🛂|Overland Park, KS|555d0634eadfc3bbfbfc65648f418402
+Modal|ML Research Intern|New York, NY</br>San Francisco, CA|fcf6056de698ccac3cd98ea9b353251a
+Microsoft|Product Manager Intern|Remote|4869c3f1027c9f5eb7391f432cc8d2d5
+Microsoft|Software Engineer Intern, Fullstack Product (Web + Services)|Multiple Locations, United States|7a0375a299f4e82c39391f931564805a
+Microsoft|Software Engineer Intern, Cloud & Distributed Backend|Redmond, WA|9f06d4c53b0ec8bc0a0e032d6695d625
+Microsoft|Software Engineer Intern, AI/ML & LLM|Redmond, WA|50d34b5b7befb8c497bc3762a6eaaad0
+Microsoft|Software Engineer Intern, Security & Identity|Redmond, WA|f02ac846596d9e89fa4dcafcd69267bb
+Microsoft|Software Engineer Intern, Data Platform/Analytics|Redmond, WA|bd75e76541910cae95f4c2ab807631ba
+GoDaddy|Software Development Engineer Intern 🛂|Tempe, AZ|2f3e36083aa2f0cf28bc82f7fa4f6493
+ByteDance|Software Engineer Intern, Distributed NoSQL Database Systems|San Jose, CA|306d10ff1b81259fc4aa2b19a0ae497a
+ByteDance|Software Engineer Intern, Distributed NoSQL Database Systems|Seattle, WA|16c20a671e69c6c87bec5b48fcfdb20a
+ByteDance|Software Engineer Intern, AI Platform 🛂|San Jose, CA|096c1cecc03930757c45809eb95d66d1
+American Express|Product Management Intern 🛂|New York, NY|36671b0974e70c94421b5b1ee806426b
 Microsoft|Software Engineer Intern, CoreAI|Multiple Locations, United States|ddc6cc5060ce4ed38cc0848106064731
 Medtronic|Software Engineering Intern 🛂|<details><summary>**5 locations**</summary>Fridley, MN</br>Tempe, AZ</br>Eatontown, NJ</br>Santa Rosa, CA</br>Lafayette, CO</details>|a29cbd75dd8701204dd2283e140fa67c
 HPR|Software Engineering Intern 🛂|Needham, MA|7097023078be7cd5cc1069a2ea706a28
