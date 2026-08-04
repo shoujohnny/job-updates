@@ -42,6 +42,7 @@ Microsoft|Software Engineer Intern, Cloud & Distributed Backend|Redmond, WA|9f06
 Microsoft|Software Engineer Intern, AI/ML & LLM|Redmond, WA|50d34b5b7befb8c497bc3762a6eaaad0
 Microsoft|Software Engineer Intern, Security & Identity|Redmond, WA|f02ac846596d9e89fa4dcafcd69267bb
 Microsoft|Software Engineer Intern, Data Platform/Analytics|Redmond, WA|bd75e76541910cae95f4c2ab807631ba
+Melius|Software Engineering Intern|New York City, NY|6d5fd3b65f37ff0ebc50c63c5a6e3d26
 GoDaddy|Software Development Engineer Intern 🛂|Tempe, AZ|2f3e36083aa2f0cf28bc82f7fa4f6493
 ByteDance|Software Engineer Intern, Distributed NoSQL Database Systems|San Jose, CA|306d10ff1b81259fc4aa2b19a0ae497a
 ByteDance|Software Engineer Intern, Distributed NoSQL Database Systems|Seattle, WA|16c20a671e69c6c87bec5b48fcfdb20a
