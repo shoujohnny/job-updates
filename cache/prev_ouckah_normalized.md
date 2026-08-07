@@ -1,3 +1,9 @@
+DV Group|Quantitative Risk Intern|Chicago, IL|8ddb890199a53b2b2e89258759b7d3b0
+CNO Financial Group|Cyber Security IT Intern|Remote</br>Carmel, IN|00026c824bb30ed597c7f52d782969e6
+Chicago Trading Company|Quant Trading Intern|Chicago, IL|fd7803848c08295795babc7f58605001
+ByteDance|Applied Machine Learning Production Engineer Intern|San Jose, CA|d88b7609bd5fd640834133d8ace5ed03
+ByteDance|GPU/AI Application System Software Engineer Intern|San Jose, CA|f025ca7cf4ff784433cdba051c89dca9
+ByteDance|AI Network Automation Engineer Intern, Global Physical Network Infra|San Jose, CA|ce057b389ddc1080fd93f639f8aa8f23
 Roblox|Software Engineer Intern 🇺🇸|San Mateo, CA|6d77bf0482023e907ba89d29f4b73333
 Boeing|Data Analytics Intern 🛂|<details><summary>**31 locations**</summary>Everett, WA</br>Saint Charles, MO</br>Huntsville, AL</br>Charleston, SC</br>Oklahoma City, OK</br>Berkeley, MO</br>Huntington Beach, CA</br>Hazelwood, MO</br>El Segundo, CA</br>Herndon, VA</br>Plano, TX</br>Arlington, VA</br>Ridley Park, PA</br>Tukwila, WA</br>North Charleston, SC</br>Fairfax, VA</br>Colorado Springs, CO</br>Chicago, IL</br>Seal Beach, CA</br>Mukilteo, WA</br>Long Beach, CA</br>Atlanta, GA</br>Renton, WA</br>Dallas, TX</br>Seattle, WA</br>Auburn, WA</br>Bellevue, WA</br>San Antonio, TX</br>Kent, WA</br>Mesa, AZ</br>Tukwila, WA</details>|29cb4ebd5f357e4c47ffae9d553e43b7
 TikTok|Software Engineer Intern, TikTok-Agentic Creation-AIGC|San Jose, CA|f13f45715c6186f0313c8d184779a18d
